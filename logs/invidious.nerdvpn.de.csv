@@ -4,3 +4,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-03-26 06:08,Channel,Failed,1.304,"HTTPSConnectionPool(host='invidious.nerdvpn.de', p"
 2026-03-26 06:08,Comments,Error(403),0.622,Invalid Status
 2026-03-26 06:08,Playlist,Error(403),0.646,Invalid Status
+2026-03-26 16:01,Video,Failed,0.591,Timeout or Error
+2026-03-26 16:01,Search,Failed,1.395,Timeout or Error
+2026-03-26 16:01,Channel,Failed,1.387,Timeout or Error
+2026-03-26 16:01,Comments,Failed,0.807,Timeout or Error
+2026-03-26 16:01,Playlist,Failed,0.796,Timeout or Error
