@@ -109,3 +109,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-03-27 07:23,Channel,Failed,0.71,Timeout or Error
 2026-03-27 07:23,Comments,Failed,0.562,Timeout or Error
 2026-03-27 07:23,Playlist,Failed,0.61,Timeout or Error
+2026-03-27 08:26,Video,Failed,0.688,Timeout or Error
+2026-03-27 08:26,Search,OK,0.867,"[{""type"":""video"" ""title"":""2-week MacBook Neo test: don't buy this $#%!"" ""videoId"":""TjqceAbbB_4"" ""aut"
+2026-03-27 08:26,Channel,Failed,0.674,Timeout or Error
+2026-03-27 08:26,Comments,Failed,0.903,Timeout or Error
+2026-03-27 08:26,Playlist,Failed,0.509,Timeout or Error
