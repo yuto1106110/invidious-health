@@ -1,0 +1,6 @@
+Timestamp,Category,Status,ResponseTime,RawData
+2026-03-26 05:19,Video,Error(500),0.307,Invalid Status
+2026-03-26 05:19,Search,OK,0.841,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-03-26 05:19,Channel,Error(404),0.415,Invalid Status
+2026-03-26 05:19,Comments,OK,0.51,"{""commentCount"":10476021 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-03-26 05:19,Playlist,Error(404),0.377,Invalid Status

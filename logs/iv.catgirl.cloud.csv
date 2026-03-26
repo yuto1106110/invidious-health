@@ -1,0 +1,6 @@
+Timestamp,Category,Status,ResponseTime,RawData
+2026-03-26 05:19,Video,OK,0.89,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-03-26 05:19,Search,OK,1.078,"[{""type"":""video"" ""title"":""Hedge trimmer torture: Dead after 22 hours 😱 (Test hedge trimmers Stiftung"
+2026-03-26 05:19,Channel,Error(404),0.423,Invalid Status
+2026-03-26 05:19,Comments,Failed,1.24,"HTTPSConnectionPool(host='iv.catgirl.cloud', port="
+2026-03-26 05:19,Playlist,Error(404),0.373,Invalid Status

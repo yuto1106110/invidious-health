@@ -1,0 +1,6 @@
+Timestamp,Category,Status,ResponseTime,RawData
+2026-03-26 05:19,Video,Error(403),0.123,Invalid Status
+2026-03-26 05:19,Search,Error(403),0.044,Invalid Status
+2026-03-26 05:19,Channel,Error(403),0.038,Invalid Status
+2026-03-26 05:19,Comments,Error(403),0.037,Invalid Status
+2026-03-26 05:19,Playlist,Error(403),0.037,Invalid Status
