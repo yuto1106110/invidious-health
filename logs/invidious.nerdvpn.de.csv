@@ -44,3 +44,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-03-26 18:56,Channel,Failed,1.258,Timeout or Error
 2026-03-26 18:56,Comments,Failed,0.532,Timeout or Error
 2026-03-26 18:56,Playlist,Failed,0.536,Timeout or Error
+2026-03-26 19:51,Video,Failed,0.554,Timeout or Error
+2026-03-26 19:51,Search,Failed,1.396,Timeout or Error
+2026-03-26 19:51,Channel,Failed,1.395,Timeout or Error
+2026-03-26 19:51,Comments,Failed,0.774,Timeout or Error
+2026-03-26 19:51,Playlist,Failed,0.773,Timeout or Error
