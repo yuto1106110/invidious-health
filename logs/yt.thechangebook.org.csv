@@ -69,3 +69,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-03-26 22:01,Channel,Failed,0.58,Timeout or Error
 2026-03-26 22:01,Comments,Failed,0.595,Timeout or Error
 2026-03-26 22:01,Playlist,Failed,0.324,Timeout or Error
+2026-03-26 23:43,Video,Failed,0.603,Timeout or Error
+2026-03-26 23:43,Search,OK,0.987,"[{""type"":""video"" ""title"":""Blind Test Tout Genre⎮100 extraits"" ""videoId"":""wRyD81oBUSM"" ""author"":""Bob "
+2026-03-26 23:43,Channel,Failed,1.41,Timeout or Error
+2026-03-26 23:43,Comments,Failed,1.125,Timeout or Error
+2026-03-26 23:43,Playlist,Failed,0.578,Timeout or Error
