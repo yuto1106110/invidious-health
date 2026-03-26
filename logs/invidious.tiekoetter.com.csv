@@ -1,0 +1,6 @@
+Timestamp,Category,Status,ResponseTime,RawData
+2026-03-26 06:08,Video,Error(403),0.842,Invalid Status
+2026-03-26 06:08,Search,Error(403),0.361,Invalid Status
+2026-03-26 06:08,Channel,Error(403),0.36,Invalid Status
+2026-03-26 06:08,Comments,OK,0.646,"{""commentCount"":10476020 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-03-26 06:08,Playlist,Error(404),0.405,Invalid Status

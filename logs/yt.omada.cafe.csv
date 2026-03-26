@@ -4,3 +4,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-03-26 05:25,Channel,Error(404),0.677,Invalid Status
 2026-03-26 05:25,Comments,OK,0.833,"{""commentCount"":10476025 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-03-26 05:25,Playlist,Error(404),0.673,Invalid Status
+2026-03-26 06:08,Video,Failed,1.382,"HTTPSConnectionPool(host='yt.omada.cafe', port=443"
+2026-03-26 06:08,Search,OK,0.977,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-03-26 06:08,Channel,Error(404),0.596,Invalid Status
+2026-03-26 06:08,Comments,OK,0.686,"{""commentCount"":10476020 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-03-26 06:08,Playlist,Error(404),0.418,Invalid Status

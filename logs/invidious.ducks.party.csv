@@ -1,0 +1,6 @@
+Timestamp,Category,Status,ResponseTime,RawData
+2026-03-26 06:08,Video,Error(500),0.422,Invalid Status
+2026-03-26 06:08,Search,OK,0.847,"[{""type"":""video"" ""title"":""Hedge trimmer torture: Dead after 22 hours 😱 (Test hedge trimmers Stiftung"
+2026-03-26 06:08,Channel,Error(404),0.44,Invalid Status
+2026-03-26 06:08,Comments,OK,0.674,"{""commentCount"":10476020 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-03-26 06:08,Playlist,Error(404),0.431,Invalid Status

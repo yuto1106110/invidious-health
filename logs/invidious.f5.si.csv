@@ -4,3 +4,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-03-26 05:25,Channel,OK,0.494,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
 2026-03-26 05:25,Comments,OK,0.531,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
 2026-03-26 05:25,Playlist,OK,0.198,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
+2026-03-26 06:08,Video,OK,0.578,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
+2026-03-26 06:08,Search,Failed,1.035,"HTTPSConnectionPool(host='invidious.f5.si', port=4"
+2026-03-26 06:08,Channel,OK,0.991,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
+2026-03-26 06:08,Comments,OK,0.511,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
+2026-03-26 06:08,Playlist,OK,0.232,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
