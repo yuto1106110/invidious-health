@@ -2,18 +2,22 @@ name: Hourly Invidious Monitor
 
 on:
   schedule:
-    - cron: '0 * * * *'  # 毎時0分に実行
-  workflow_dispatch:      # 手動実行ボタンも追加
+    - cron: '0 * * * *'
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    env:
+      TZ: 'Asia/Tokyo'
+    permissions:
+      contents: write
     steps:
       - name: Checkout code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.9'
 
@@ -28,5 +32,4 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add logs/*.csv
-          git commit -m "Update health logs [skip ci]" || exit 0
-          git push
+          git diff --cached --quiet || (git commit -m "Update health logs (JST) [skip ci]" && git push)
