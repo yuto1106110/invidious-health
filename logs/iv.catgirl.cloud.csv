@@ -4,3 +4,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-03-26 05:19,Channel,Error(404),0.423,Invalid Status
 2026-03-26 05:19,Comments,Failed,1.24,"HTTPSConnectionPool(host='iv.catgirl.cloud', port="
 2026-03-26 05:19,Playlist,Error(404),0.373,Invalid Status
+2026-03-26 05:25,Video,OK,0.827,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-03-26 05:25,Search,OK,0.385,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-03-26 05:25,Channel,Error(404),0.442,Invalid Status
+2026-03-26 05:25,Comments,OK,0.383,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-03-26 05:25,Playlist,OK,0.381,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"

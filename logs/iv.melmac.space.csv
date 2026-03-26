@@ -4,3 +4,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-03-26 05:19,Channel,Error(404),0.38,Invalid Status
 2026-03-26 05:19,Comments,OK,0.59,"{""commentCount"":10476021 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-03-26 05:19,Playlist,Error(404),0.462,Invalid Status
+2026-03-26 05:25,Video,Error(500),0.813,Invalid Status
+2026-03-26 05:25,Search,Failed,1.26,"HTTPSConnectionPool(host='iv.melmac.space', port=4"
+2026-03-26 05:25,Channel,Error(404),0.438,Invalid Status
+2026-03-26 05:25,Comments,OK,0.634,"{""commentCount"":10476025 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-03-26 05:25,Playlist,Error(404),0.461,Invalid Status

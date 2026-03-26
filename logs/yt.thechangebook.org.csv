@@ -4,3 +4,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-03-26 05:19,Channel,Error(404),0.322,Invalid Status
 2026-03-26 05:19,Comments,Error(500),0.762,Invalid Status
 2026-03-26 05:19,Playlist,Error(404),0.578,Invalid Status
+2026-03-26 05:25,Video,Error(500),0.745,Invalid Status
+2026-03-26 05:25,Search,OK,0.867,"[{""type"":""video"" ""title"":""QUIZ Culture Générale 🧠 : 100 Questions pour tester votre niveau"" ""videoId"
+2026-03-26 05:25,Channel,Error(404),0.474,Invalid Status
+2026-03-26 05:25,Comments,Error(500),0.682,Invalid Status
+2026-03-26 05:25,Playlist,Error(404),0.486,Invalid Status
