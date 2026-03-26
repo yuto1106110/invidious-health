@@ -1,4 +1,4 @@
-name: Hourly Invidious Monitor
+name: Plus-invidious-health
 
 on:
   schedule:
