@@ -1,80 +1,71 @@
 import requests
 import time
-import csv
 import os
-from datetime import datetime, timedelta
+import random
+import csv
+from datetime import datetime
 
-INSTANCE_FILE = "instances.txt"
-LOG_DIR = "logs"
-RETENTION_DAYS = 30  # 保存期間（日）
+# main.pyから引用したUser-Agent
+user_agents = [
+    'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Safari/605.1.15',
+    'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36',
+    'Mozilla/5.0 (iPhone; CPU iPhone OS 12_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0 Mobile/15E148 Safari/604.1'
+]
 
-# 検証するエンドポイント（動画IDは共通のものを利用）
-VIDEO_ID = "jNQXAC9IVRw"
-TEST_PATHS = {
-    "VideoInfo": f"/api/v1/videos/{VIDEO_ID}",
-    "Stream": f"/api/v1/videos/{VIDEO_ID}",
-    "Comments": f"/api/v1/comments/{VIDEO_ID}",  # コメント取得を追加
-    "Search": "/api/v1/search?q=open_source",
-    "Playlist": "/api/v1/playlists/PLBCF2DAC6FFB574DE"
-}
+TIMEOUT = (1.5, 1.0) 
 
-def run_monitor():
-    if not os.path.exists(INSTANCE_FILE):
-        print("Error: instances.txt がありません")
+def get_headers():
+    return {'User-Agent': random.choice(user_agents)}
+
+def test_endpoint(base_url, path):
+    start_time = time.time()
+    try:
+        url = f"{base_url.rstrip('/')}/api/v1{path}"
+        res = requests.get(url, headers=get_headers(), timeout=TIMEOUT)
+        duration = time.time() - start_time
+        
+        if res.status_code == 200:
+            # プレイリスト等の中身が空でないか簡易チェック
+            info = res.text[:100].replace('\n', ' ').replace(',', ' ')
+            return "OK", duration, info
+        else:
+            return f"Error({res.status_code})", duration, "Invalid Status"
+    except Exception as e:
+        return "Failed", time.time() - start_time, str(e)[:50]
+
+def monitor():
+    if not os.path.exists('instances.txt'):
         return
 
-    if not os.path.exists(LOG_DIR):
-        os.makedirs(LOG_DIR)
+    with open('instances.txt', 'r') as f:
+        domains = [line.strip() for line in f if line.strip() and not line.startswith('#')]
 
-    with open(INSTANCE_FILE, 'r', encoding='utf-8') as f:
-        domains = [line.strip() for line in f if line.strip() and not line.startswith("#")]
+    os.makedirs('logs', exist_ok=True)
+    
+    # テスト項目（Playlistを追加）
+    test_paths = {
+        "Video": "/videos/jNQXAC9IVRw",
+        "Search": "/search?q=test",
+        "Channel": "/channels/UC1cfCbochfBCAuEES8asvJA",
+        "Comments": "/comments/jNQXAC9IVRw",
+        "Playlist": "/playlists/PLe9uW8S9YfE_9ZlToxI-X_38L3r4Fh_pX" # 公開プレイリストの例
+    }
 
-    now = datetime.now()
-    headers = {'User-Agent': 'Invidious-Monitor/1.0'}
+    now_str = datetime.now().strftime('%Y-%m-%d %H:%M')
 
     for domain in domains:
-        # ドメイン名からファイル名を作成 (例: inv.tux.im.csv)
-        file_safe_name = domain.replace("https://", "").replace("http://", "").replace("/", "_")
-        log_file = os.path.join(LOG_DIR, f"{file_safe_name}.csv")
+        file_name = domain.replace("https://", "").replace("http://", "").replace("/", "_")
+        csv_path = f"logs/{file_name}.csv"
         
-        # 新規ファイルならヘッダー作成
-        file_exists = os.path.isfile(log_file)
-        
-        current_results = []
-        for label, path in TEST_PATHS.items():
-            full_url = domain.rstrip('/') + path
-            start_time = time.time()
-            try:
-                res = requests.get(full_url, headers=headers, timeout=10)
-                duration = round(time.time() - start_time, 3)
-                status = "OK" if res.status_code == 200 else f"HTTP_{res.status_code}"
-            except Exception:
-                duration = round(time.time() - start_time, 3)
-                status = "Timeout/Error"
-            
-            current_results.append([now.strftime("%Y-%m-%d %H:%M"), label, status, duration])
-
-        # --- データの読み込みと30日間のフィルタリング ---
-        all_logs = []
-        if file_exists:
-            with open(log_file, 'r', encoding='utf-8') as f:
-                reader = csv.reader(f)
-                header = next(reader)
-                threshold = now - timedelta(days=RETENTION_DAYS)
-                for row in reader:
-                    # 日時をパースして保存期間内かチェック
-                    log_date = datetime.strptime(row[0], "%Y-%m-%d %H:%M")
-                    if log_date > threshold:
-                        all_logs.append(row)
-
-        # --- 新しい結果を追加して保存 ---
-        with open(log_file, 'w', newline='', encoding='utf-8') as f:
+        file_exists = os.path.exists(csv_path)
+        with open(csv_path, 'a', newline='', encoding='utf-8') as f:
             writer = csv.writer(f)
-            writer.writerow(["日時", "検証項目", "ステータス", "応答速度(s)"])
-            writer.writerows(all_logs)      # 過去30日分のデータ
-            writer.writerows(current_results) # 今回の結果
-            
-        print(f"Finished: {domain} -> {log_file}")
+            if not file_exists:
+                writer.writerow(["Timestamp", "Category", "Status", "ResponseTime", "RawData"])
+
+            for cat, path in test_paths.items():
+                status, duration, info = test_endpoint(domain, path)
+                writer.writerow([now_str, cat, status, round(duration, 3), info])
 
 if __name__ == "__main__":
-    run_monitor()
+    monitor()
