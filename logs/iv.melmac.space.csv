@@ -189,3 +189,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-03-28 04:38,Channel,Failed,0.364,Timeout or Error
 2026-03-28 04:38,Comments,OK,0.663,"{""commentCount"":10477070 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-03-28 04:38,Playlist,Failed,0.368,Timeout or Error
+2026-03-28 05:32,Video,Failed,0.434,Timeout or Error
+2026-03-28 05:32,Search,OK,0.975,"[{""type"":""video"" ""title"":""Kawasaki Z650 S | Test (deutsch)"" ""videoId"":""Xz_5jQtB9jQ"" ""author"":""Motorr"
+2026-03-28 05:32,Channel,Failed,0.488,Timeout or Error
+2026-03-28 05:32,Comments,OK,0.761,"{""commentCount"":10477116 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-03-28 05:32,Playlist,Failed,0.476,Timeout or Error

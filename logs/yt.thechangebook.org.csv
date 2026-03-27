@@ -189,3 +189,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-03-28 04:38,Channel,Failed,0.467,Timeout or Error
 2026-03-28 04:38,Comments,Failed,0.913,Timeout or Error
 2026-03-28 04:38,Playlist,Failed,0.446,Timeout or Error
+2026-03-28 05:32,Video,Failed,0.517,Timeout or Error
+2026-03-28 05:32,Search,OK,0.876,"[{""type"":""video"" ""title"":""Resident Evil Requiem - TEST EN CARTON"" ""videoId"":""UZF_4DRRCM8"" ""author"":"""
+2026-03-28 05:32,Channel,Failed,0.737,Timeout or Error
+2026-03-28 05:32,Comments,Failed,0.879,Timeout or Error
+2026-03-28 05:32,Playlist,Failed,0.487,Timeout or Error
