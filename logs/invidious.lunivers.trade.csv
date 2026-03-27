@@ -159,3 +159,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-03-27 23:09,Channel,Failed,0.555,Timeout or Error
 2026-03-27 23:09,Comments,OK,1.006,"{""commentCount"":10476811 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-03-27 23:09,Playlist,Failed,0.558,Timeout or Error
+2026-03-28 00:47,Video,Failed,0.577,Timeout or Error
+2026-03-28 00:47,Search,OK,0.882,"[{""type"":""video"" ""title"":""Are you rich? This test lets you know where you stand | TF1 INFO"" ""videoId"
+2026-03-28 00:47,Channel,Failed,0.534,Timeout or Error
+2026-03-28 00:47,Comments,OK,1.049,"{""commentCount"":10476893 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-03-28 00:47,Playlist,Failed,0.382,Timeout or Error
