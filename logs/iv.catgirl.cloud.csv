@@ -249,3 +249,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-03-28 19:26,Channel,OK,0.37,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-03-28 19:26,Comments,OK,0.835,"{""commentCount"":10477349 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-03-28 19:26,Playlist,OK,0.377,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-03-28 20:24,Video,OK,0.743,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-03-28 20:24,Search,OK,1.026,"[{""type"":""video"" ""title"":""Dolby Atmos 5.1 Surround Sound Test"" ""videoId"":""iTHtXgnhqfM"" ""author"":""JD "
+2026-03-28 20:24,Channel,Failed,0.381,Timeout or Error
+2026-03-28 20:24,Comments,OK,0.957,"{""commentCount"":10477351 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-03-28 20:24,Playlist,OK,0.321,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
