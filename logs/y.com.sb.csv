@@ -249,3 +249,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-03-28 21:41,Channel,Failed,0.418,Timeout or Error
 2026-03-28 21:41,Comments,OK,0.676,"{""commentCount"":10477382 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-03-28 21:41,Playlist,Failed,0.405,Timeout or Error
+2026-03-28 22:47,Video,Failed,0.688,Timeout or Error
+2026-03-28 22:47,Search,OK,1.335,"[{""type"":""video"" ""title"":""Warum kaufen alle diesen Mähroboter?"" ""videoId"":""-tG_GE5KwMw"" ""author"":""Sp"
+2026-03-28 22:47,Channel,Failed,0.499,Timeout or Error
+2026-03-28 22:47,Comments,OK,0.728,"{""commentCount"":10477424 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-03-28 22:47,Playlist,Failed,0.494,Timeout or Error
