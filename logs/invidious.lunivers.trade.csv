@@ -219,3 +219,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-03-28 14:53,Channel,Failed,0.574,Timeout or Error
 2026-03-28 14:53,Comments,OK,0.701,"{""commentCount"":10477231 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-03-28 14:53,Playlist,Failed,0.538,Timeout or Error
+2026-03-28 15:52,Video,OK,0.489,
+2026-03-28 15:52,Search,OK,1.27,"[{""type"":""video"" ""title"":""QUIZ Culture Générale VRAI ou FAUX ? #4 - 30 Questions"" ""videoId"":""bZN3C9i"
+2026-03-28 15:52,Channel,Failed,0.852,Timeout or Error
+2026-03-28 15:52,Comments,OK,0.924,"{""commentCount"":10477250 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-03-28 15:52,Playlist,Failed,1.012,Timeout or Error
