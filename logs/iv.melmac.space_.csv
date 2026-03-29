@@ -59,3 +59,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-03-30 01:28,Channel,Failed,0.564,Timeout or Error
 2026-03-30 01:28,Comments,OK,1.157,"{""commentCount"":10478379 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-03-30 01:28,Playlist,Failed,0.597,Timeout or Error
+2026-03-30 02:25,Video,Failed,0.413,Timeout or Error
+2026-03-30 02:25,Search,OK,1.152,"[{""type"":""video"" ""title"":""Yamaha NMax 155 Tech Max YECVT | Test 2026"" ""videoId"":""Vej9Fo6uIlA"" ""autho"
+2026-03-30 02:25,Channel,Failed,0.713,Timeout or Error
+2026-03-30 02:25,Comments,OK,0.795,"{""commentCount"":10478446 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-03-30 02:25,Playlist,Failed,0.486,Timeout or Error

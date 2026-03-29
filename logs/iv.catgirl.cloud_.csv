@@ -59,3 +59,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-03-30 01:28,Channel,OK,0.528,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-03-30 01:28,Comments,OK,0.514,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-03-30 01:28,Playlist,OK,0.487,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-03-30 02:25,Video,Failed,1.295,Timeout or Error
+2026-03-30 02:25,Search,OK,0.89,"[{""type"":""video"" ""title"":""Yamaha NMax 155 Tech Max YECVT | Test 2026"" ""videoId"":""Vej9Fo6uIlA"" ""autho"
+2026-03-30 02:25,Channel,OK,0.432,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-03-30 02:25,Comments,Failed,1.284,Timeout or Error
+2026-03-30 02:25,Playlist,OK,0.416,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
