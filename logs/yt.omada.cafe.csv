@@ -309,3 +309,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-03-29 08:25,Channel,Failed,10.02,Timeout or Error
 2026-03-29 08:25,Comments,OK,0.752,"{""commentCount"":10477826 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-03-29 08:25,Playlist,Failed,10.02,Timeout or Error
+2026-03-29 10:56,Video,OK,1.162,
+2026-03-29 10:56,Search,OK,1.226,"[{""type"":""video"" ""title"":""You Cheated... Now Test All 3 Kids! | KARAMO"" ""videoId"":""9QCESDnHKS0"" ""aut"
+2026-03-29 10:56,Channel,Failed,0.789,Timeout or Error
+2026-03-29 10:56,Comments,OK,0.879,"{""commentCount"":10477893 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-03-29 10:56,Playlist,Failed,0.629,Timeout or Error
