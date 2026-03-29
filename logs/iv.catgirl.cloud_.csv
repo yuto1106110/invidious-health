@@ -44,3 +44,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-03-29 22:49,Channel,OK,0.329,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-03-29 22:49,Comments,OK,0.325,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-03-29 22:49,Playlist,Failed,0.365,Timeout or Error
+2026-03-29 23:29,Video,Failed,1.284,Timeout or Error
+2026-03-29 23:29,Search,OK,0.409,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-03-29 23:29,Channel,Failed,1.289,Timeout or Error
+2026-03-29 23:29,Comments,OK,0.389,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-03-29 23:29,Playlist,Failed,0.462,Timeout or Error
