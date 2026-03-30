@@ -159,3 +159,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-03-31 05:39,Channel,Failed,1.241,Timeout or Error
 2026-03-31 05:39,Comments,Failed,1.236,Timeout or Error
 2026-03-31 05:39,Playlist,Failed,1.225,Timeout or Error
+2026-03-31 06:36,Video,OK,1.652,
+2026-03-31 06:36,Search,OK,1.057,"[{""type"":""video"" ""title"":""Le TEST ULTIME !"" ""videoId"":""AkJRUede1m8"" ""author"":""Le Vendeur Automobiles"
+2026-03-31 06:36,Channel,Failed,0.57,Timeout or Error
+2026-03-31 06:36,Comments,OK,0.81,"{""commentCount"":10477889 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-03-31 06:36,Playlist,Failed,0.57,Timeout or Error
