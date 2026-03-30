@@ -164,3 +164,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-03-31 06:36,Channel,Failed,0.603,Timeout or Error
 2026-03-31 06:36,Comments,OK,0.899,"{""commentCount"":10477890 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-03-31 06:36,Playlist,Failed,0.604,Timeout or Error
+2026-03-31 07:30,Video,Failed,0.399,Timeout or Error
+2026-03-31 07:30,Search,OK,0.804,"[{""type"":""video"" ""title"":""Kia EV2 (42 kWh) im Test – Die bessere ID. Polo Alternative? #ev "" ""videoI"
+2026-03-31 07:30,Channel,Failed,0.362,Timeout or Error
+2026-03-31 07:30,Comments,OK,0.604,"{""commentCount"":10477907 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-03-31 07:30,Playlist,Failed,0.335,Timeout or Error
