@@ -179,3 +179,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-03-31 10:54,Channel,Failed,0.335,Timeout or Error
 2026-03-31 10:54,Comments,OK,0.511,"{""commentCount"":10477957 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-03-31 10:54,Playlist,Failed,0.347,Timeout or Error
+2026-03-31 13:32,Video,Failed,0.374,Timeout or Error
+2026-03-31 13:32,Search,OK,0.834,"[{""type"":""video"" ""title"":""Apple iPhone 17e Real-World Test"" ""videoId"":""h0h8iT2wTvo"" ""author"":""TheUnl"
+2026-03-31 13:32,Channel,Failed,0.421,Timeout or Error
+2026-03-31 13:32,Comments,OK,0.589,"{""commentCount"":10477997 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-03-31 13:32,Playlist,Failed,0.44,Timeout or Error
