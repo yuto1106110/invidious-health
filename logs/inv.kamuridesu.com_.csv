@@ -439,3 +439,13 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-01 01:05,Channel,Failed,0.471,Timeout or Error
 2026-04-01 01:05,Comments,OK,0.828,"{""commentCount"":10478441 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-04-01 01:05,Playlist,Failed,0.516,Timeout or Error
+2026-04-01 02:52,Video,Failed,0.297,Timeout or Error
+2026-04-01 02:52,Search,OK,1.031,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-04-01 02:52,Channel,Failed,0.39,Timeout or Error
+2026-04-01 02:52,Comments,OK,0.555,"{""commentCount"":10478543 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-04-01 02:52,Playlist,Failed,0.375,Timeout or Error
+2026-04-01 02:52,Video,Failed,0.313,Timeout or Error
+2026-04-01 02:52,Search,OK,0.997,"[{""type"":""video"" ""title"":""Grading Dave’s test #asmr #school #teacher #test #quiz #emojichallenge"" ""v"
+2026-04-01 02:52,Channel,Failed,0.383,Timeout or Error
+2026-04-01 02:52,Comments,OK,0.653,"{""commentCount"":10478543 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-04-01 02:52,Playlist,Failed,0.417,Timeout or Error
