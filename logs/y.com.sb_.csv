@@ -189,3 +189,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-03-31 15:13,Channel,Failed,0.5,Timeout or Error
 2026-03-31 15:13,Comments,OK,0.706,"{""commentCount"":10478209 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-03-31 15:13,Playlist,Failed,0.5,Timeout or Error
+2026-03-31 17:05,Video,Failed,0.638,Timeout or Error
+2026-03-31 17:05,Search,OK,1.105,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
+2026-03-31 17:05,Channel,Failed,0.587,Timeout or Error
+2026-03-31 17:05,Comments,OK,0.886,"{""commentCount"":10478227 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-03-31 17:05,Playlist,Failed,1.054,Timeout or Error
