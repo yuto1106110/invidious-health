@@ -184,3 +184,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-03-31 13:32,Channel,Failed,4.749,Timeout or Error
 2026-03-31 13:32,Comments,OK,4.526,"{""commentCount"":10477995 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-03-31 13:32,Playlist,Failed,10.02,Timeout or Error
+2026-03-31 15:13,Video,Failed,3.19,Timeout or Error
+2026-03-31 15:13,Search,OK,6.345,"[{""type"":""video"" ""title"":""Will She Cheat With His Friend's Roommate?! | UDY Loyalty Test"" ""videoId"":"
+2026-03-31 15:13,Channel,Failed,10.018,Timeout or Error
+2026-03-31 15:13,Comments,OK,0.766,"{""commentCount"":10478210 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-03-31 15:13,Playlist,Failed,3.662,Timeout or Error
