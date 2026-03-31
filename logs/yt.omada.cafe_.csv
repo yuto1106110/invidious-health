@@ -209,3 +209,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-03-31 22:04,Channel,Failed,10.337,Timeout or Error
 2026-03-31 22:04,Comments,OK,5.845,"{""commentCount"":10478332 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-03-31 22:04,Playlist,Failed,10.025,Timeout or Error
+2026-03-31 23:57,Video,Failed,1.73,Timeout or Error
+2026-03-31 23:57,Search,OK,8.613,"[{""type"":""video"" ""title"":""Idiot Test - 90% fail"" ""videoId"":""2a4Uxdy9TQY"" ""author"":""BrainLift"" ""autho"
+2026-03-31 23:57,Channel,Failed,5.422,Timeout or Error
+2026-03-31 23:57,Comments,OK,5.916,"{""commentCount"":10478396 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-03-31 23:57,Playlist,Failed,1.109,Timeout or Error
