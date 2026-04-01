@@ -314,3 +314,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-02 04:55,Channel,Failed,0.439,Timeout or Error
 2026-04-02 04:55,Comments,OK,1.111,"{""commentCount"":10479253 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-04-02 04:55,Playlist,Failed,0.461,Timeout or Error
+2026-04-02 05:39,Video,OK,0.526,
+2026-04-02 05:39,Search,OK,1.267,"[{""type"":""video"" ""title"":""50 QUESTIONS pour TESTER TON SAVOIR 🧠🤯 | Quiz Culture Générale"" ""videoId"":"
+2026-04-02 05:39,Channel,Failed,0.59,Timeout or Error
+2026-04-02 05:39,Comments,OK,1.136,"{""commentCount"":10479300 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-04-02 05:39,Playlist,Failed,0.533,Timeout or Error
