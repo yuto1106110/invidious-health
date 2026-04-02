@@ -384,3 +384,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-03 00:55,Channel,Failed,0.47,Timeout or Error
 2026-04-03 00:55,Comments,OK,0.71,"{""commentCount"":10479637 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-04-03 00:55,Playlist,Failed,0.465,Timeout or Error
+2026-04-03 01:53,Video,OK,0.339,
+2026-04-03 01:53,Search,OK,1.333,"[{""type"":""video"" ""title"":""OLED TEST HDR 4K 120FPS DOLBY VISION 🏞 4K / 8K Monitor Test Video #BGM"" ""v"
+2026-04-03 01:53,Channel,Failed,0.914,Timeout or Error
+2026-04-03 01:53,Comments,OK,0.742,"{""commentCount"":10479684 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-04-03 01:53,Playlist,Failed,0.631,Timeout or Error
