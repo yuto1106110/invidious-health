@@ -479,3 +479,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-04 00:35,Channel,Failed,0.563,Timeout or Error
 2026-04-04 00:35,Comments,OK,0.816,"{""commentCount"":10479629 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-04-04 00:35,Playlist,Failed,0.44,Timeout or Error
+2026-04-04 01:34,Video,Failed,0.876,Timeout or Error
+2026-04-04 01:34,Search,OK,1.294,"[{""type"":""video"" ""title"":""Ducati Monster 2026 | Test (deutsch)"" ""videoId"":""Aq7gNDfo9bk"" ""author"":""Mo"
+2026-04-04 01:34,Channel,Failed,0.905,Timeout or Error
+2026-04-04 01:34,Comments,OK,0.812,"{""commentCount"":10479733 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-04-04 01:34,Playlist,Failed,0.498,Timeout or Error
