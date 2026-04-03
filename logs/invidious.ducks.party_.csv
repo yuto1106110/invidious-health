@@ -499,3 +499,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-04 04:34,Channel,Failed,0.557,Timeout or Error
 2026-04-04 04:34,Comments,OK,0.961,"{""commentCount"":10479973 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-04-04 04:34,Playlist,Failed,0.532,Timeout or Error
+2026-04-04 05:30,Video,Failed,0.578,Timeout or Error
+2026-04-04 05:30,Search,OK,0.957,"[{""type"":""video"" ""title"":""XPeng P7+ im ersten Test - Premium Elektroauto OHNE AUFPREIS - So gut ist "
+2026-04-04 05:30,Channel,Failed,0.59,Timeout or Error
+2026-04-04 05:30,Comments,OK,0.835,"{""commentCount"":10480031 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-04-04 05:30,Playlist,Failed,0.542,Timeout or Error
