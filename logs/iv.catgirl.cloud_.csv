@@ -679,3 +679,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-05 23:31,Channel,Failed,0.561,Timeout or Error
 2026-04-05 23:31,Comments,OK,1.029,"{""commentCount"":10481947 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-04-05 23:31,Playlist,Failed,0.559,Timeout or Error
+2026-04-06 00:26,Video,Failed,0.445,Timeout or Error
+2026-04-06 00:26,Search,OK,0.978,"[{""type"":""video"" ""title"":""NAVEE UT5 Max im Test: Ist der 999€ E-Scooter wirklich sein Geld wert? 🔥 #"
+2026-04-06 00:26,Channel,OK,0.313,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-04-06 00:26,Comments,OK,0.31,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-04-06 00:26,Playlist,Failed,1.229,Timeout or Error
