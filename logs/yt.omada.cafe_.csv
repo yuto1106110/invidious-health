@@ -724,3 +724,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-06 08:28,Channel,Failed,0.422,Timeout or Error
 2026-04-06 08:28,Comments,OK,0.758,"{""commentCount"":10482610 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-04-06 08:28,Playlist,Failed,0.551,Timeout or Error
+2026-04-06 10:59,Video,Failed,0.781,Timeout or Error
+2026-04-06 10:59,Search,OK,1.551,"[{""type"":""video"" ""title"":""Seekae - Test & Recognise (Flume Re-Work)"" ""videoId"":""wMzIHuWh_I0"" ""author"
+2026-04-06 10:59,Channel,Failed,0.789,Timeout or Error
+2026-04-06 10:59,Comments,OK,1.125,"{""commentCount"":10482957 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-04-06 10:59,Playlist,Failed,0.608,Timeout or Error
