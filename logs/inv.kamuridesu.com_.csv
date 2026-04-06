@@ -1469,3 +1469,13 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-06 13:48,Channel,Failed,0.462,Timeout or Error
 2026-04-06 13:48,Comments,OK,0.64,"{""commentCount"":10483066 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-04-06 13:48,Playlist,Failed,0.468,Timeout or Error
+2026-04-06 15:28,Video,Failed,0.288,Timeout or Error
+2026-04-06 15:28,Search,OK,0.802,"[{""type"":""video"" ""title"":""5.1 Surround Sound Test PCM | Dolby Digital 5.1 Test | 4K"" ""videoId"":""4FEz"
+2026-04-06 15:28,Channel,Failed,0.356,Timeout or Error
+2026-04-06 15:28,Comments,OK,0.593,"{""commentCount"":10483111 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-04-06 15:28,Playlist,Failed,0.343,Timeout or Error
+2026-04-06 15:28,Video,Failed,0.272,Timeout or Error
+2026-04-06 15:28,Search,OK,0.787,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-04-06 15:28,Channel,Failed,0.339,Timeout or Error
+2026-04-06 15:28,Comments,OK,0.514,"{""commentCount"":10483111 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-04-06 15:28,Playlist,Failed,0.348,Timeout or Error
