@@ -729,3 +729,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-06 10:59,Channel,Failed,0.789,Timeout or Error
 2026-04-06 10:59,Comments,OK,1.125,"{""commentCount"":10482957 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-04-06 10:59,Playlist,Failed,0.608,Timeout or Error
+2026-04-06 13:48,Video,OK,2.145,
+2026-04-06 13:48,Search,OK,1.43,"[{""type"":""video"" ""title"":""Grading Ray’s test… #asmr #school #teacher #test #quiz #emojichallenge"" ""v"
+2026-04-06 13:48,Channel,Failed,0.889,Timeout or Error
+2026-04-06 13:48,Comments,OK,0.876,"{""commentCount"":10483066 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-04-06 13:48,Playlist,Failed,1.404,Timeout or Error
