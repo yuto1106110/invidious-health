@@ -854,3 +854,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-08 01:51,Channel,OK,0.556,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-04-08 01:51,Comments,OK,0.547,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-04-08 01:51,Playlist,OK,0.521,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-04-08 02:54,Video,Failed,0.455,Timeout or Error
+2026-04-08 02:54,Search,Failed,1.231,Timeout or Error
+2026-04-08 02:54,Channel,OK,0.329,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-04-08 02:54,Comments,OK,0.655,"{""commentCount"":10485159 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-04-08 02:54,Playlist,OK,0.328,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
