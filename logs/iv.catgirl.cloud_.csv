@@ -884,3 +884,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-08 07:33,Channel,OK,0.331,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-04-08 07:33,Comments,Failed,1.235,Timeout or Error
 2026-04-08 07:33,Playlist,Failed,1.235,Timeout or Error
+2026-04-08 08:32,Video,Failed,0.545,Timeout or Error
+2026-04-08 08:32,Search,OK,1.096,"[{""type"":""video"" ""title"":""How to Answer Any Question on a Test"" ""videoId"":""imJFJTXJX48"" ""author"":""Go"
+2026-04-08 08:32,Channel,OK,0.425,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-04-08 08:32,Comments,OK,0.402,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-04-08 08:32,Playlist,OK,0.405,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
