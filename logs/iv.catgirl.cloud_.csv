@@ -979,3 +979,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-09 15:18,Channel,Failed,0.36,Timeout or Error
 2026-04-09 15:18,Comments,OK,0.668,"{""commentCount"":10485528 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-04-09 15:18,Playlist,Failed,0.362,Timeout or Error
+2026-04-09 17:16,Video,OK,0.46,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-04-09 17:16,Search,OK,1.217,"[{""type"":""video"" ""title"":""Bestes Auto im Test jetzt mit Kombi-Heck: Setzt der Mercedes CLA als Shoot"
+2026-04-09 17:16,Channel,OK,0.449,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-04-09 17:16,Comments,OK,0.447,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-04-09 17:16,Playlist,Failed,0.477,Timeout or Error
