@@ -984,3 +984,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-09 17:16,Channel,OK,0.449,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-04-09 17:16,Comments,OK,0.447,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-04-09 17:16,Playlist,Failed,0.477,Timeout or Error
+2026-04-09 19:08,Video,OK,0.765,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-04-09 19:08,Search,OK,0.432,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-04-09 19:08,Channel,Failed,0.508,Timeout or Error
+2026-04-09 19:08,Comments,OK,0.436,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-04-09 19:08,Playlist,OK,0.438,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"

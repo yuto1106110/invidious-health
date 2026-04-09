@@ -984,3 +984,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-09 17:16,Channel,Failed,0.497,Timeout or Error
 2026-04-09 17:16,Comments,OK,0.74,"{""commentCount"":10485558 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-04-09 17:16,Playlist,Failed,0.519,Timeout or Error
+2026-04-09 19:08,Video,Failed,0.51,Timeout or Error
+2026-04-09 19:08,Search,OK,0.959,"[{""type"":""video"" ""title"":""Können Bayern überhaupt Deutsch? Lutz van der Horst macht den Test | heute"
+2026-04-09 19:08,Channel,Failed,0.488,Timeout or Error
+2026-04-09 19:08,Comments,OK,0.785,"{""commentCount"":10485586 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-04-09 19:08,Playlist,Failed,0.497,Timeout or Error
