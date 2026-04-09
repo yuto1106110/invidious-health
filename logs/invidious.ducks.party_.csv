@@ -964,3 +964,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-09 08:33,Channel,Failed,0.361,Timeout or Error
 2026-04-09 08:33,Comments,OK,0.544,"{""commentCount"":10485395 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-04-09 08:33,Playlist,Failed,0.375,Timeout or Error
+2026-04-09 10:48,Video,Failed,0.565,Timeout or Error
+2026-04-09 10:48,Search,OK,0.891,"[{""type"":""video"" ""title"":""How to Answer Any Question on a Test"" ""videoId"":""imJFJTXJX48"" ""author"":""Go"
+2026-04-09 10:48,Channel,Failed,0.583,Timeout or Error
+2026-04-09 10:48,Comments,OK,0.763,"{""commentCount"":10485491 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-04-09 10:48,Playlist,Failed,0.533,Timeout or Error
