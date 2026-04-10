@@ -1099,3 +1099,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-11 04:39,Channel,Failed,0.562,Timeout or Error
 2026-04-11 04:39,Comments,OK,1.021,"{""commentCount"":10486773 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-04-11 04:39,Playlist,Failed,0.522,Timeout or Error
+2026-04-11 05:29,Video,Failed,0.466,Timeout or Error
+2026-04-11 05:29,Search,OK,1.135,"[{""type"":""video"" ""title"":""Welches Schloss hält Dieben stand? Der große Test | CHIP"" ""videoId"":""j0mOg"
+2026-04-11 05:29,Channel,Failed,0.582,Timeout or Error
+2026-04-11 05:29,Comments,OK,0.849,"{""commentCount"":10486756 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-04-11 05:29,Playlist,Failed,0.524,Timeout or Error
