@@ -1114,3 +1114,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-11 07:31,Channel,Failed,0.694,Timeout or Error
 2026-04-11 07:31,Comments,Failed,0.936,Timeout or Error
 2026-04-11 07:31,Playlist,Failed,0.555,Timeout or Error
+2026-04-11 08:29,Video,Failed,0.811,Timeout or Error
+2026-04-11 08:29,Search,OK,1.103,"[{""type"":""video"" ""title"":""TEST LG G6 : l’un des meilleurs téléviseurs de 2026 ?"" ""videoId"":""zv96K_iU"
+2026-04-11 08:29,Channel,Failed,0.545,Timeout or Error
+2026-04-11 08:29,Comments,Failed,1.117,Timeout or Error
+2026-04-11 08:29,Playlist,Failed,1.013,Timeout or Error
