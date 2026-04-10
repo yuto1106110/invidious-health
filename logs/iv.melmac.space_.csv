@@ -1079,3 +1079,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-11 00:44,Channel,Failed,0.507,Timeout or Error
 2026-04-11 00:44,Comments,OK,1.03,"{""commentCount"":10486586 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-04-11 00:44,Playlist,Failed,0.408,Timeout or Error
+2026-04-11 01:43,Video,Failed,0.465,Timeout or Error
+2026-04-11 01:43,Search,OK,1.269,"[{""type"":""video"" ""title"":""Battery Test: Galaxy S26 Ultra vs. S26+  iPhone 17 Pro Max  Pixel  vivo  X"
+2026-04-11 01:43,Channel,Failed,0.532,Timeout or Error
+2026-04-11 01:43,Comments,OK,0.952,"{""commentCount"":10486612 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-04-11 01:43,Playlist,Failed,0.577,Timeout or Error
