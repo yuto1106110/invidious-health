@@ -1044,3 +1044,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-10 14:20,Channel,Failed,0.35,Timeout or Error
 2026-04-10 14:20,Comments,OK,0.31,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-04-10 14:20,Playlist,Failed,0.37,Timeout or Error
+2026-04-10 16:19,Video,Failed,1.371,Timeout or Error
+2026-04-10 16:19,Search,OK,1.171,"[{""type"":""video"" ""title"":""Hedge trimmer torture: Dead after 22 hours 😱 (Test hedge trimmers Stiftung"
+2026-04-10 16:19,Channel,OK,0.509,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-04-10 16:19,Comments,OK,0.804,"{""commentCount"":10486432 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-04-10 16:19,Playlist,OK,0.503,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
