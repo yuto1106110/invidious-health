@@ -1049,3 +1049,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-10 16:19,Channel,Failed,0.579,Timeout or Error
 2026-04-10 16:19,Comments,OK,0.846,"{""commentCount"":10486432 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-04-10 16:19,Playlist,Failed,0.527,Timeout or Error
+2026-04-10 18:02,Video,Failed,0.509,Timeout or Error
+2026-04-10 18:02,Search,OK,0.894,"[{""type"":""video"" ""title"":""VW Golf vs Kia K4 Vergleich & Test - Das Ende einer Legende?"" ""videoId"":""6"
+2026-04-10 18:02,Channel,Failed,0.509,Timeout or Error
+2026-04-10 18:02,Comments,OK,0.752,"{""commentCount"":10486479 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-04-10 18:02,Playlist,Failed,0.561,Timeout or Error
