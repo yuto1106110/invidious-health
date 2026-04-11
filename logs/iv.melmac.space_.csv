@@ -1129,3 +1129,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-11 13:17,Channel,Failed,0.366,Timeout or Error
 2026-04-11 13:17,Comments,OK,0.556,"{""commentCount"":10486964 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-04-11 13:17,Playlist,Failed,0.356,Timeout or Error
+2026-04-11 14:56,Video,Failed,0.397,Timeout or Error
+2026-04-11 14:56,Search,OK,0.856,"[{""type"":""video"" ""title"":""Triumph Scrambler 1200 XE  Test – Schönstes Poser-Bike der Motorradwelt?"" "
+2026-04-11 14:56,Channel,Failed,0.439,Timeout or Error
+2026-04-11 14:56,Comments,OK,0.748,"{""commentCount"":10487029 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-04-11 14:56,Playlist,Failed,0.526,Timeout or Error
