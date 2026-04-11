@@ -1159,3 +1159,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-11 19:29,Channel,Failed,0.69,Timeout or Error
 2026-04-11 19:29,Comments,Failed,0.746,Timeout or Error
 2026-04-11 19:29,Playlist,Failed,0.681,Timeout or Error
+2026-04-11 20:25,Video,Failed,0.391,Timeout or Error
+2026-04-11 20:25,Search,OK,0.868,"[{""type"":""video"" ""title"":""test de maturité"" ""videoId"":""NCwKe6rHpMc"" ""author"":""MatureCOW fv!"" ""author"
+2026-04-11 20:25,Channel,Failed,0.475,Timeout or Error
+2026-04-11 20:25,Comments,Failed,0.69,Timeout or Error
+2026-04-11 20:25,Playlist,Failed,0.64,Timeout or Error
