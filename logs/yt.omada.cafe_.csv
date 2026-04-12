@@ -1239,3 +1239,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-12 16:07,Channel,Failed,0.546,Timeout or Error
 2026-04-12 16:07,Comments,OK,0.751,"{""commentCount"":10488344 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-04-12 16:07,Playlist,Failed,0.543,Timeout or Error
+2026-04-12 17:40,Video,OK,1.241,
+2026-04-12 17:40,Search,OK,0.836,"[{""type"":""video"" ""title"":""Historic Artemis II Moon Flight + New Glenn Test Explosion Explained"" ""vid"
+2026-04-12 17:40,Channel,Failed,0.822,Timeout or Error
+2026-04-12 17:40,Comments,OK,0.749,"{""commentCount"":10488393 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-04-12 17:40,Playlist,Failed,0.414,Timeout or Error
