@@ -1224,3 +1224,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-12 08:28,Channel,Failed,0.366,Timeout or Error
 2026-04-12 08:28,Comments,OK,0.546,"{""commentCount"":10488038 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-04-12 08:28,Playlist,Failed,0.378,Timeout or Error
+2026-04-12 11:02,Video,Failed,0.36,Timeout or Error
+2026-04-12 11:02,Search,OK,0.81,"[{""type"":""video"" ""title"":""Indestructible military folding knife?! Cold Steel Engage put to the test "
+2026-04-12 11:02,Channel,Failed,0.36,Timeout or Error
+2026-04-12 11:02,Comments,OK,0.592,"{""commentCount"":10488155 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-04-12 11:02,Playlist,Failed,0.364,Timeout or Error
