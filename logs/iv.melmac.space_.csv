@@ -1284,3 +1284,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-13 01:31,Channel,Failed,0.439,Timeout or Error
 2026-04-13 01:31,Comments,OK,0.71,"{""commentCount"":10488862 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-04-13 01:31,Playlist,Failed,0.504,Timeout or Error
+2026-04-13 02:29,Video,Failed,0.315,Timeout or Error
+2026-04-13 02:29,Search,OK,1.115,"[{""type"":""video"" ""title"":""Nerva EXE 2 Test: 130 km/h  BYD Akku und viel Komfort? 🔋 Nerva Exe 2 Test!"
+2026-04-13 02:29,Channel,Failed,0.365,Timeout or Error
+2026-04-13 02:29,Comments,OK,0.783,"{""commentCount"":10488905 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-04-13 02:29,Playlist,Failed,0.351,Timeout or Error
