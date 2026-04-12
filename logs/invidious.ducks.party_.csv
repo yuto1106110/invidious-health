@@ -1289,3 +1289,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-13 02:29,Channel,Failed,0.402,Timeout or Error
 2026-04-13 02:29,Comments,OK,0.66,"{""commentCount"":10488906 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-04-13 02:29,Playlist,Failed,0.424,Timeout or Error
+2026-04-13 03:39,Video,Failed,0.437,Timeout or Error
+2026-04-13 03:39,Search,OK,0.977,"[{""type"":""video"" ""title"":""Ein herzzerreißender Test #lustig #Bearbeitung"" ""videoId"":""QPX9OPDjQ4w"" ""a"
+2026-04-13 03:39,Channel,Failed,0.482,Timeout or Error
+2026-04-13 03:39,Comments,OK,0.762,"{""commentCount"":10488982 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-04-13 03:39,Playlist,Failed,0.462,Timeout or Error
