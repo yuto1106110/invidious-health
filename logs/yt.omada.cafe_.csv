@@ -1319,3 +1319,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-13 08:29,Channel,Failed,0.431,Timeout or Error
 2026-04-13 08:29,Comments,OK,0.494,"{""commentCount"":10489236 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-04-13 08:29,Playlist,Failed,1.409,Timeout or Error
+2026-04-13 11:07,Video,Failed,1.809,Timeout or Error
+2026-04-13 11:07,Search,Failed,1.672,Timeout or Error
+2026-04-13 11:07,Channel,Failed,1.714,Timeout or Error
+2026-04-13 11:07,Comments,Failed,2.112,Timeout or Error
+2026-04-13 11:07,Playlist,Failed,1.561,Timeout or Error
