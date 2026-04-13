@@ -1379,3 +1379,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-14 07:38,Channel,Failed,1.289,Timeout or Error
 2026-04-14 07:38,Comments,OK,0.412,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-04-14 07:38,Playlist,Failed,0.457,Timeout or Error
+2026-04-14 08:38,Video,Failed,0.636,Timeout or Error
+2026-04-14 08:38,Search,OK,0.975,"[{""type"":""video"" ""title"":""Google Pixel 10a | Test des neuesten und handlichsten Smartphones von Goog"
+2026-04-14 08:38,Channel,OK,0.511,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-04-14 08:38,Comments,OK,0.722,"{""commentCount"":10489187 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-04-14 08:38,Playlist,OK,0.515,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
