@@ -1359,3 +1359,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-14 01:58,Channel,Failed,0.579,Timeout or Error
 2026-04-14 01:58,Comments,OK,0.823,"{""commentCount"":10488834 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-04-14 01:58,Playlist,Failed,0.462,Timeout or Error
+2026-04-14 03:06,Video,Failed,0.665,Timeout or Error
+2026-04-14 03:06,Search,OK,1.243,"[{""type"":""video"" ""title"":""Pragmata im Test: Herzliches Action-Feuerwerk (4K  PS5 PRO  REVIEW  GERMAN"
+2026-04-14 03:06,Channel,Failed,0.62,Timeout or Error
+2026-04-14 03:06,Comments,OK,1.016,"{""commentCount"":10488902 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-04-14 03:06,Playlist,Failed,0.763,Timeout or Error
