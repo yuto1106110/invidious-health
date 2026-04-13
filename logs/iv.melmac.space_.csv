@@ -1349,3 +1349,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-13 22:13,Channel,Failed,1.27,Timeout or Error
 2026-04-13 22:13,Comments,Failed,1.268,Timeout or Error
 2026-04-13 22:13,Playlist,Failed,1.258,Timeout or Error
+2026-04-14 00:12,Video,Failed,0.483,Timeout or Error
+2026-04-14 00:12,Search,OK,1.224,"[{""type"":""video"" ""title"":""Ich teste Fitness Gadgets - heute eine Fettverbrennungcreme #gym #fitness "
+2026-04-14 00:12,Channel,Failed,0.557,Timeout or Error
+2026-04-14 00:12,Comments,OK,0.882,"{""commentCount"":10488721 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-04-14 00:12,Playlist,Failed,0.599,Timeout or Error
