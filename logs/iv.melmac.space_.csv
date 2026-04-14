@@ -1409,3 +1409,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-14 19:58,Channel,Failed,0.524,Timeout or Error
 2026-04-14 19:58,Comments,OK,0.838,"{""commentCount"":10489502 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-04-14 19:58,Playlist,Failed,0.529,Timeout or Error
+2026-04-14 20:58,Video,Failed,0.373,Timeout or Error
+2026-04-14 20:58,Search,OK,0.851,"[{""type"":""video"" ""title"":""4K Test Monitor Color / Monitor-Farbtest (RGB and CMYK)"" ""videoId"":""IVdyt2"
+2026-04-14 20:58,Channel,Failed,0.49,Timeout or Error
+2026-04-14 20:58,Comments,OK,0.757,"{""commentCount"":10489531 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-04-14 20:58,Playlist,Failed,0.409,Timeout or Error
