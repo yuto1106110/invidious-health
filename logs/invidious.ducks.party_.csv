@@ -1429,3 +1429,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-15 02:00,Channel,Failed,0.555,Timeout or Error
 2026-04-15 02:00,Comments,OK,0.939,"{""commentCount"":10489764 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-04-15 02:00,Playlist,Failed,0.586,Timeout or Error
+2026-04-15 03:12,Video,Failed,0.318,Timeout or Error
+2026-04-15 03:12,Search,OK,1.127,"[{""type"":""video"" ""title"":""TIKTOK-TREND: Harzer Käse soll Kartoffelchips ersetzen! Gesunder Protein-S"
+2026-04-15 03:12,Channel,Failed,0.386,Timeout or Error
+2026-04-15 03:12,Comments,OK,0.697,"{""commentCount"":10489840 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-04-15 03:12,Playlist,Failed,1.22,Timeout or Error
