@@ -1414,3 +1414,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-14 20:58,Channel,Failed,0.532,Timeout or Error
 2026-04-14 20:58,Comments,Failed,0.651,Timeout or Error
 2026-04-14 20:58,Playlist,Failed,0.557,Timeout or Error
+2026-04-14 22:48,Video,Failed,0.876,Timeout or Error
+2026-04-14 22:48,Search,OK,1.294,"[{""type"":""video"" ""title"":""Pourquoi Android vous laisse recevoir autant d'appels malveillants"" ""video"
+2026-04-14 22:48,Channel,Failed,0.905,Timeout or Error
+2026-04-14 22:48,Comments,Failed,0.798,Timeout or Error
+2026-04-14 22:48,Playlist,Failed,0.613,Timeout or Error

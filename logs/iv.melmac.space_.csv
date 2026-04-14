@@ -1414,3 +1414,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-14 20:58,Channel,Failed,0.49,Timeout or Error
 2026-04-14 20:58,Comments,OK,0.757,"{""commentCount"":10489531 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-04-14 20:58,Playlist,Failed,0.409,Timeout or Error
+2026-04-14 22:48,Video,Failed,0.52,Timeout or Error
+2026-04-14 22:48,Search,OK,1.16,"[{""type"":""video"" ""title"":""This space shooter hits you right in the heart! | Pragmata Review"" ""videoI"
+2026-04-14 22:48,Channel,Failed,0.801,Timeout or Error
+2026-04-14 22:48,Comments,OK,0.902,"{""commentCount"":10489608 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-04-14 22:48,Playlist,Failed,0.592,Timeout or Error
