@@ -1419,3 +1419,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-14 22:48,Channel,Failed,0.579,Timeout or Error
 2026-04-14 22:48,Comments,OK,0.905,"{""commentCount"":10489609 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-04-14 22:48,Playlist,Failed,0.563,Timeout or Error
+2026-04-15 00:09,Video,Failed,1.271,Timeout or Error
+2026-04-15 00:09,Search,OK,1.012,"[{""type"":""video"" ""title"":""Harzer Käse-Chips im Test: Ist der Protein-Snack aus dem Ofen wirklich so "
+2026-04-15 00:09,Channel,Failed,0.46,Timeout or Error
+2026-04-15 00:09,Comments,OK,0.796,"{""commentCount"":10489669 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-04-15 00:09,Playlist,Failed,0.459,Timeout or Error
