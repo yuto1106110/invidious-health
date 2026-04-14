@@ -1424,3 +1424,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-15 00:09,Channel,Failed,0.513,Timeout or Error
 2026-04-15 00:09,Comments,Failed,0.765,Timeout or Error
 2026-04-15 00:09,Playlist,Failed,0.521,Timeout or Error
+2026-04-15 02:00,Video,Failed,0.749,Timeout or Error
+2026-04-15 02:00,Search,OK,1.073,"[{""type"":""video"" ""title"":""REPLACED : La baffe Cyberpunk 2026 🔴 TEST / Review"" ""videoId"":""lYdys494J5s"
+2026-04-15 02:00,Channel,Failed,0.773,Timeout or Error
+2026-04-15 02:00,Comments,Failed,1.194,Timeout or Error
+2026-04-15 02:00,Playlist,Failed,0.874,Timeout or Error
