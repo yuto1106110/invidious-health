@@ -1384,3 +1384,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-14 08:38,Channel,OK,0.511,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-04-14 08:38,Comments,OK,0.722,"{""commentCount"":10489187 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-04-14 08:38,Playlist,OK,0.515,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-04-14 11:01,Video,OK,0.742,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-04-14 11:01,Search,OK,0.777,"[{""type"":""video"" ""title"":""Pragmata im Test: Herzliches Action-Feuerwerk (4K  PS5 PRO  REVIEW  GERMAN"
+2026-04-14 11:01,Channel,Failed,0.341,Timeout or Error
+2026-04-14 11:01,Comments,OK,0.55,"{""commentCount"":10489243 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-04-14 11:01,Playlist,OK,0.319,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"

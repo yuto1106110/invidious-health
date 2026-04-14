@@ -2769,3 +2769,13 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-14 08:38,Channel,Failed,0.486,Timeout or Error
 2026-04-14 08:38,Comments,OK,0.783,"{""commentCount"":10489188 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-04-14 08:38,Playlist,Failed,0.528,Timeout or Error
+2026-04-14 11:01,Video,Failed,0.307,Timeout or Error
+2026-04-14 11:01,Search,OK,0.971,"[{""type"":""video"" ""title"":""12K HDR 240fps DOLBY VISION OLED Test Video (2024)"" ""videoId"":""6FsYk9GIv2Y"
+2026-04-14 11:01,Channel,Failed,0.37,Timeout or Error
+2026-04-14 11:01,Comments,OK,0.564,"{""commentCount"":10489243 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-04-14 11:01,Playlist,Failed,0.375,Timeout or Error
+2026-04-14 11:01,Video,Failed,0.305,Timeout or Error
+2026-04-14 11:01,Search,OK,0.994,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-04-14 11:01,Channel,Failed,0.382,Timeout or Error
+2026-04-14 11:01,Comments,OK,0.618,"{""commentCount"":10489243 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-04-14 11:01,Playlist,Failed,0.376,Timeout or Error

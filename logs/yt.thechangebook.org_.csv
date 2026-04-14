@@ -1384,3 +1384,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-14 08:38,Channel,Failed,0.504,Timeout or Error
 2026-04-14 08:38,Comments,Failed,0.89,Timeout or Error
 2026-04-14 08:38,Playlist,Failed,0.552,Timeout or Error
+2026-04-14 11:01,Video,Failed,0.581,Timeout or Error
+2026-04-14 11:01,Search,OK,0.773,"[{""type"":""video"" ""title"":""Test | Pragmata : une prise de risque payante"" ""videoId"":""yqxAHayzqkA"" ""au"
+2026-04-14 11:01,Channel,Failed,0.575,Timeout or Error
+2026-04-14 11:01,Comments,Failed,0.715,Timeout or Error
+2026-04-14 11:01,Playlist,Failed,0.543,Timeout or Error
