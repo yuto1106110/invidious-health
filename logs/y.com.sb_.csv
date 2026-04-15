@@ -1494,3 +1494,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-16 00:02,Channel,Failed,0.415,Timeout or Error
 2026-04-16 00:02,Comments,OK,0.731,"{""commentCount"":10490206 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-04-16 00:02,Playlist,Failed,0.471,Timeout or Error
+2026-04-16 01:57,Video,Failed,0.588,Timeout or Error
+2026-04-16 01:57,Search,OK,1.089,"[{""type"":""video"" ""title"":""CFMOTO 1000 MT-X | Test (deutsch) der neuen  günstigen Reise-Enduro"" ""vide"
+2026-04-16 01:57,Channel,Failed,0.567,Timeout or Error
+2026-04-16 01:57,Comments,OK,0.765,"{""commentCount"":10490258 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-04-16 01:57,Playlist,Failed,0.577,Timeout or Error
