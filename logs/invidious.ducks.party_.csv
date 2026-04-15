@@ -1519,3 +1519,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-16 07:37,Channel,Failed,0.541,Timeout or Error
 2026-04-16 07:37,Comments,OK,0.86,"{""commentCount"":10490353 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-04-16 07:37,Playlist,Failed,0.553,Timeout or Error
+2026-04-16 08:37,Video,Failed,0.41,Timeout or Error
+2026-04-16 08:37,Search,OK,0.825,"[{""type"":""video"" ""title"":""Incredible 8K HDR 120FPS | Dolby Vision OLED Test (4K/8K TV Video)"" ""video"
+2026-04-16 08:37,Channel,Failed,0.443,Timeout or Error
+2026-04-16 08:37,Comments,OK,0.659,"{""commentCount"":10490368 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-04-16 08:37,Playlist,Failed,0.444,Timeout or Error
