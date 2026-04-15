@@ -1459,3 +1459,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-15 10:58,Channel,Failed,0.861,Timeout or Error
 2026-04-15 10:58,Comments,Failed,0.84,Timeout or Error
 2026-04-15 10:58,Playlist,Failed,0.825,Timeout or Error
+2026-04-15 13:48,Video,Failed,0.651,Timeout or Error
+2026-04-15 13:48,Search,OK,0.855,"[{""type"":""video"" ""title"":""Déjà le GOTY 2026 ? 🧀 MOUSE: P.I. FOR HIRE (Test / Review PS5)"" ""videoId"":"
+2026-04-15 13:48,Channel,Failed,0.521,Timeout or Error
+2026-04-15 13:48,Comments,Failed,0.73,Timeout or Error
+2026-04-15 13:48,Playlist,Failed,0.411,Timeout or Error
