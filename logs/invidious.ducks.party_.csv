@@ -1524,3 +1524,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-16 08:37,Channel,Failed,0.443,Timeout or Error
 2026-04-16 08:37,Comments,OK,0.659,"{""commentCount"":10490368 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-04-16 08:37,Playlist,Failed,0.444,Timeout or Error
+2026-04-16 11:06,Video,Failed,0.503,Timeout or Error
+2026-04-16 11:06,Search,OK,0.938,"[{""type"":""video"" ""title"":""CHINASCHROTT oder LASER Revolution für Zuhause? xTool F2 Ultra UV Test | W"
+2026-04-16 11:06,Channel,Failed,0.581,Timeout or Error
+2026-04-16 11:06,Comments,OK,0.75,"{""commentCount"":10490405 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-04-16 11:06,Playlist,Failed,0.597,Timeout or Error
