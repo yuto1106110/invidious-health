@@ -1549,3 +1549,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-16 19:57,Channel,Failed,0.567,Timeout or Error
 2026-04-16 19:57,Comments,OK,0.88,"{""commentCount"":10490535 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-04-16 19:57,Playlist,Failed,0.584,Timeout or Error
+2026-04-16 20:59,Video,Failed,0.527,Timeout or Error
+2026-04-16 20:59,Search,OK,1.141,"[{""type"":""video"" ""title"":""Kann Zero-Trust-Sicherheit uns retten? ThreatLocker-Test"" ""videoId"":""onLx6"
+2026-04-16 20:59,Channel,Failed,0.584,Timeout or Error
+2026-04-16 20:59,Comments,OK,0.854,"{""commentCount"":10490529 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-04-16 20:59,Playlist,Failed,0.573,Timeout or Error
