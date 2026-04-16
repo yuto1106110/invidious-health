@@ -1554,3 +1554,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-16 20:59,Channel,Failed,0.681,Timeout or Error
 2026-04-16 20:59,Comments,Failed,0.911,Timeout or Error
 2026-04-16 20:59,Playlist,Failed,0.512,Timeout or Error
+2026-04-16 22:58,Video,Failed,0.329,Timeout or Error
+2026-04-16 22:58,Search,OK,1.088,"[{""type"":""video"" ""title"":""OLED TEST HDR 4K 120FPS DOLBY VISION 🏞 4K / 8K Monitor Test Video #BGM"" ""v"
+2026-04-16 22:58,Channel,Failed,0.335,Timeout or Error
+2026-04-16 22:58,Comments,Failed,0.923,Timeout or Error
+2026-04-16 22:58,Playlist,Failed,0.316,Timeout or Error
