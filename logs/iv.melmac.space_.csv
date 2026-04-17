@@ -1634,3 +1634,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-17 23:51,Channel,Failed,0.497,Timeout or Error
 2026-04-17 23:51,Comments,OK,0.825,"{""commentCount"":10491407 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-04-17 23:51,Playlist,Failed,0.498,Timeout or Error
+2026-04-18 00:55,Video,Failed,0.463,Timeout or Error
+2026-04-18 00:55,Search,OK,1.134,"[{""type"":""video"" ""title"":""Jägermeister: Das ganze Sortiment im Test!"" ""videoId"":""D4jNL0zO8dI"" ""autho"
+2026-04-18 00:55,Channel,Failed,0.538,Timeout or Error
+2026-04-18 00:55,Comments,OK,0.783,"{""commentCount"":10491446 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-04-18 00:55,Playlist,Failed,0.528,Timeout or Error
