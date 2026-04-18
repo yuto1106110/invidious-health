@@ -1724,3 +1724,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-18 21:51,Channel,OK,0.371,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-04-18 21:51,Comments,OK,0.377,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-04-18 21:51,Playlist,OK,0.385,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-04-18 22:58,Video,OK,0.558,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-04-18 22:58,Search,OK,0.317,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-04-18 22:58,Channel,Failed,0.37,Timeout or Error
+2026-04-18 22:58,Comments,OK,0.311,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-04-18 22:58,Playlist,Failed,1.221,Timeout or Error
