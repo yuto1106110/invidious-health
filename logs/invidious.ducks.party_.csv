@@ -1699,3 +1699,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-18 16:56,Channel,Failed,0.433,Timeout or Error
 2026-04-18 16:56,Comments,OK,0.626,"{""commentCount"":10491664 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-04-18 16:56,Playlist,Failed,0.448,Timeout or Error
+2026-04-18 17:50,Video,Failed,0.445,Timeout or Error
+2026-04-18 17:50,Search,OK,0.914,"[{""type"":""video"" ""title"":""Amazon's 5 most popular fly traps put to the test – which one really kills"
+2026-04-18 17:50,Channel,Failed,0.524,Timeout or Error
+2026-04-18 17:50,Comments,OK,0.858,"{""commentCount"":10491680 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-04-18 17:50,Playlist,Failed,0.657,Timeout or Error
