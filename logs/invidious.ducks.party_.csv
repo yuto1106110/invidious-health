@@ -1759,3 +1759,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-19 04:37,Channel,Failed,0.54,Timeout or Error
 2026-04-19 04:37,Comments,OK,0.788,"{""commentCount"":10491931 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-04-19 04:37,Playlist,Failed,0.504,Timeout or Error
+2026-04-19 05:30,Video,Failed,0.313,Timeout or Error
+2026-04-19 05:30,Search,OK,0.993,"[{""type"":""video"" ""title"":""Mastered Ultra Details 16K HDR 240FPS | Dolby Vision OLED HDR TEST (8K/4K "
+2026-04-19 05:30,Channel,Failed,0.39,Timeout or Error
+2026-04-19 05:30,Comments,OK,0.636,"{""commentCount"":10491967 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-04-19 05:30,Playlist,Failed,0.368,Timeout or Error
