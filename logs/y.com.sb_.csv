@@ -1864,3 +1864,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-20 06:30,Channel,Failed,0.344,Timeout or Error
 2026-04-20 06:30,Comments,OK,0.561,"{""commentCount"":10492607 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-04-20 06:30,Playlist,Failed,0.322,Timeout or Error
+2026-04-20 07:29,Video,Failed,0.567,Timeout or Error
+2026-04-20 07:29,Search,OK,0.855,"[{""type"":""video"" ""title"":""FIBO GRIFFKRAFT TEST 2026 💪🏼🏋🏻"" ""videoId"":""Vz3XRk0JWhA"" ""author"":""Yussef J"
+2026-04-20 07:29,Channel,Failed,0.401,Timeout or Error
+2026-04-20 07:29,Comments,OK,0.606,"{""commentCount"":10492591 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-04-20 07:29,Playlist,Failed,0.392,Timeout or Error
