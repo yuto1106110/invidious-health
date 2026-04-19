@@ -1804,3 +1804,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-19 18:41,Channel,Failed,0.539,Timeout or Error
 2026-04-19 18:41,Comments,OK,0.84,"{""commentCount"":10492199 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-04-19 18:41,Playlist,Failed,0.808,Timeout or Error
+2026-04-19 19:34,Video,Failed,0.425,Timeout or Error
+2026-04-19 19:34,Search,OK,0.949,"[{""type"":""video"" ""title"":""Kawasaki Z900 RS | Test (deutsch) 2026"" ""videoId"":""H57SbgMv7n4"" ""author"":"""
+2026-04-19 19:34,Channel,Failed,0.371,Timeout or Error
+2026-04-19 19:34,Comments,OK,1.124,"{""commentCount"":10492216 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-04-19 19:34,Playlist,Failed,0.37,Timeout or Error
