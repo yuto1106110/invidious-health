@@ -1904,3 +1904,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-20 22:18,Channel,Failed,0.603,Timeout or Error
 2026-04-20 22:18,Comments,OK,0.808,"{""commentCount"":10492373 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-04-20 22:18,Playlist,Failed,0.572,Timeout or Error
+2026-04-21 00:13,Video,Failed,0.312,Timeout or Error
+2026-04-21 00:13,Search,OK,1.101,"[{""type"":""video"" ""title"":""Unfassbar günstig? Tesla Model Y Standard im Pendler Test!"" ""videoId"":""mTE"
+2026-04-21 00:13,Channel,Failed,0.407,Timeout or Error
+2026-04-21 00:13,Comments,OK,0.667,"{""commentCount"":10492341 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-04-21 00:13,Playlist,Failed,0.408,Timeout or Error
