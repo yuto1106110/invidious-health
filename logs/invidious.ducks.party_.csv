@@ -1909,3 +1909,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-21 00:13,Channel,Failed,0.407,Timeout or Error
 2026-04-21 00:13,Comments,OK,0.667,"{""commentCount"":10492341 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-04-21 00:13,Playlist,Failed,0.408,Timeout or Error
+2026-04-21 01:59,Video,Failed,0.315,Timeout or Error
+2026-04-21 01:59,Search,OK,0.886,"[{""type"":""video"" ""title"":""Pragmata zeigt ENDLICH wieder  was AAA sein sollte! - Test / Review"" ""vide"
+2026-04-21 01:59,Channel,Failed,0.381,Timeout or Error
+2026-04-21 01:59,Comments,OK,0.764,"{""commentCount"":10492361 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-04-21 01:59,Playlist,Failed,0.395,Timeout or Error
