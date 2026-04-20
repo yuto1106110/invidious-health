@@ -1879,3 +1879,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-20 11:07,Channel,Failed,0.502,Timeout or Error
 2026-04-20 11:07,Comments,OK,0.702,"{""commentCount"":10492231 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-04-20 11:07,Playlist,Failed,0.489,Timeout or Error
+2026-04-20 14:35,Video,Failed,0.662,Timeout or Error
+2026-04-20 14:35,Search,OK,0.771,"[{""type"":""video"" ""title"":""DO NOT BUY THIS MATTER! 😳 Real review"" ""videoId"":""fGfva52fBDY"" ""author"":""O"
+2026-04-20 14:35,Channel,Failed,0.33,Timeout or Error
+2026-04-20 14:35,Comments,OK,0.51,"{""commentCount"":10492249 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-04-20 14:35,Playlist,Failed,0.336,Timeout or Error

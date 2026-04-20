@@ -1879,3 +1879,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-20 11:07,Channel,OK,0.483,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-04-20 11:07,Comments,OK,0.844,"{""commentCount"":10492231 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-04-20 11:07,Playlist,OK,0.466,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-04-20 14:35,Video,Failed,1.235,Timeout or Error
+2026-04-20 14:35,Search,OK,0.79,"[{""type"":""video"" ""title"":""DO NOT BUY THIS MATTER! 😳 Real review"" ""videoId"":""fGfva52fBDY"" ""author"":""O"
+2026-04-20 14:35,Channel,Failed,0.376,Timeout or Error
+2026-04-20 14:35,Comments,OK,0.326,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-04-20 14:35,Playlist,OK,0.323,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
