@@ -1969,3 +1969,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-21 20:01,Channel,Failed,0.366,Timeout or Error
 2026-04-21 20:01,Comments,OK,0.578,"{""commentCount"":10492745 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-04-21 20:01,Playlist,Failed,1.211,Timeout or Error
+2026-04-21 22:12,Video,Failed,0.975,Timeout or Error
+2026-04-21 22:12,Search,OK,0.859,"[{""type"":""video"" ""title"":""Ice cube test reveals the true character of dogs"" ""videoId"":""NkwOx-LeuLc"" "
+2026-04-21 22:12,Channel,Failed,0.378,Timeout or Error
+2026-04-21 22:12,Comments,OK,0.638,"{""commentCount"":10492841 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-04-21 22:12,Playlist,Failed,0.386,Timeout or Error
