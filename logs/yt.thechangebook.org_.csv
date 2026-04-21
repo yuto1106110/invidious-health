@@ -1984,3 +1984,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-22 01:54,Channel,Failed,0.607,Timeout or Error
 2026-04-22 01:54,Comments,Failed,1.014,Timeout or Error
 2026-04-22 01:54,Playlist,Failed,0.62,Timeout or Error
+2026-04-22 02:56,Video,Failed,0.735,Timeout or Error
+2026-04-22 02:56,Search,Failed,1.144,Timeout or Error
+2026-04-22 02:56,Channel,Failed,0.737,Timeout or Error
+2026-04-22 02:56,Comments,Failed,0.75,Timeout or Error
+2026-04-22 02:56,Playlist,Failed,0.504,Timeout or Error

@@ -1984,3 +1984,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-22 01:54,Channel,Failed,0.642,Timeout or Error
 2026-04-22 01:54,Comments,OK,0.762,"{""commentCount"":10493023 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-04-22 01:54,Playlist,Failed,0.592,Timeout or Error
+2026-04-22 02:56,Video,Failed,0.429,Timeout or Error
+2026-04-22 02:56,Search,OK,1.222,"[{""type"":""video"" ""title"":""Ein starkes Comeback  auch bei den Schwächen! - Diablo 4: Lord of Hatred i"
+2026-04-22 02:56,Channel,Failed,0.501,Timeout or Error
+2026-04-22 02:56,Comments,OK,0.79,"{""commentCount"":10493082 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-04-22 02:56,Playlist,Failed,0.491,Timeout or Error
