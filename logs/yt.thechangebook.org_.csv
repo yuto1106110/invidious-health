@@ -1949,3 +1949,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-21 11:03,Channel,Failed,0.321,Timeout or Error
 2026-04-21 11:03,Comments,Failed,0.743,Timeout or Error
 2026-04-21 11:03,Playlist,Failed,0.403,Timeout or Error
+2026-04-21 14:22,Video,Failed,0.75,Timeout or Error
+2026-04-21 14:22,Search,OK,1.128,"[{""type"":""video"" ""title"":""Test TV OLED LG C6 : meilleur rapport qualité/prix de 2026 ?"" ""videoId"":""i"
+2026-04-21 14:22,Channel,Failed,0.46,Timeout or Error
+2026-04-21 14:22,Comments,Failed,0.719,Timeout or Error
+2026-04-21 14:22,Playlist,Failed,0.641,Timeout or Error
