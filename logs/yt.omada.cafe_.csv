@@ -1989,3 +1989,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-22 02:56,Channel,Failed,0.715,Timeout or Error
 2026-04-22 02:56,Comments,OK,1.099,"{""commentCount"":10493081 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-04-22 02:56,Playlist,Failed,0.518,Timeout or Error
+2026-04-22 04:09,Video,OK,0.583,
+2026-04-22 04:09,Search,OK,0.992,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-04-22 04:09,Channel,Failed,0.547,Timeout or Error
+2026-04-22 04:09,Comments,OK,0.627,"{""commentCount"":10493129 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-04-22 04:09,Playlist,Failed,0.373,Timeout or Error
