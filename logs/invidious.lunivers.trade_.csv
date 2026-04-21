@@ -1979,3 +1979,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-22 00:08,Channel,Failed,0.747,Timeout or Error
 2026-04-22 00:08,Comments,Failed,0.333,Timeout or Error
 2026-04-22 00:08,Playlist,Failed,0.328,Timeout or Error
+2026-04-22 01:54,Video,Failed,0.729,Timeout or Error
+2026-04-22 01:54,Search,Failed,0.476,Timeout or Error
+2026-04-22 01:54,Channel,Failed,0.483,Timeout or Error
+2026-04-22 01:54,Comments,Failed,0.506,Timeout or Error
+2026-04-22 01:54,Playlist,Failed,0.523,Timeout or Error

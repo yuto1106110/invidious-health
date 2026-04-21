@@ -1979,3 +1979,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-22 00:08,Channel,Failed,0.307,Timeout or Error
 2026-04-22 00:08,Comments,OK,0.306,"{""commentCount"":10485257 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-04-22 00:08,Playlist,Failed,0.306,Timeout or Error
+2026-04-22 01:54,Video,Failed,0.49,Timeout or Error
+2026-04-22 01:54,Search,Failed,0.509,Timeout or Error
+2026-04-22 01:54,Channel,Failed,0.506,Timeout or Error
+2026-04-22 01:54,Comments,OK,0.51,"{""commentCount"":10485257 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-04-22 01:54,Playlist,Failed,0.509,Timeout or Error
