@@ -1994,3 +1994,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-22 04:09,Channel,OK,0.358,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-04-22 04:09,Comments,OK,1.126,"{""commentCount"":10493129 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-04-22 04:09,Playlist,OK,0.387,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-04-22 05:43,Video,Failed,1.271,Timeout or Error
+2026-04-22 05:43,Search,OK,0.373,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-04-22 05:43,Channel,OK,0.382,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-04-22 05:43,Comments,OK,0.365,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-04-22 05:43,Playlist,Failed,0.718,Timeout or Error

@@ -1994,3 +1994,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-22 04:09,Channel,Failed,0.525,Timeout or Error
 2026-04-22 04:09,Comments,OK,0.641,"{""commentCount"":10493131 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-04-22 04:09,Playlist,Failed,0.53,Timeout or Error
+2026-04-22 05:43,Video,Failed,0.351,Timeout or Error
+2026-04-22 05:43,Search,Failed,0.344,Timeout or Error
+2026-04-22 05:43,Channel,Failed,0.353,Timeout or Error
+2026-04-22 05:43,Comments,Failed,0.352,Timeout or Error
+2026-04-22 05:43,Playlist,Failed,0.339,Timeout or Error
