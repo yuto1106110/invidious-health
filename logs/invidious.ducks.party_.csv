@@ -2054,3 +2054,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-23 01:05,Channel,Failed,0.464,Timeout or Error
 2026-04-23 01:05,Comments,OK,0.792,"{""commentCount"":10493478 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-04-23 01:05,Playlist,Failed,0.547,Timeout or Error
+2026-04-23 02:56,Video,Failed,1.266,Timeout or Error
+2026-04-23 02:56,Search,OK,1.043,"[{""type"":""video"" ""title"":""Absolutely the Best OLED HDR Test Ever | Dolby Vision 16K HDR 240fps (8K/4"
+2026-04-23 02:56,Channel,Failed,0.478,Timeout or Error
+2026-04-23 02:56,Comments,OK,0.734,"{""commentCount"":10493579 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-04-23 02:56,Playlist,Failed,0.483,Timeout or Error
