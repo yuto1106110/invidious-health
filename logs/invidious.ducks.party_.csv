@@ -2064,3 +2064,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-23 04:09,Channel,Failed,0.382,Timeout or Error
 2026-04-23 04:09,Comments,OK,0.672,"{""commentCount"":10493363 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-04-23 04:09,Playlist,Failed,0.375,Timeout or Error
+2026-04-23 05:48,Video,Failed,0.55,Timeout or Error
+2026-04-23 05:48,Search,OK,1.021,"[{""type"":""video"" ""title"":""Xpeng G6: Das erste große Update im Test – Endlich besser?"" ""videoId"":""T7O"
+2026-04-23 05:48,Channel,Failed,0.558,Timeout or Error
+2026-04-23 05:48,Comments,OK,0.796,"{""commentCount"":10493412 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-04-23 05:48,Playlist,Failed,0.572,Timeout or Error

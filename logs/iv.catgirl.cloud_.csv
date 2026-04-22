@@ -2064,3 +2064,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-23 04:09,Channel,OK,0.324,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-04-23 04:09,Comments,OK,0.32,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-04-23 04:09,Playlist,OK,0.324,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-04-23 05:48,Video,Failed,0.643,Timeout or Error
+2026-04-23 05:48,Search,OK,1.225,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-04-23 05:48,Channel,Failed,0.521,Timeout or Error
+2026-04-23 05:48,Comments,OK,0.719,"{""commentCount"":10493412 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-04-23 05:48,Playlist,Failed,0.581,Timeout or Error
