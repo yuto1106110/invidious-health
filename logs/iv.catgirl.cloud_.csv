@@ -2184,3 +2184,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-25 00:03,Channel,Failed,0.68,Timeout or Error
 2026-04-25 00:03,Comments,OK,0.438,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-04-25 00:03,Playlist,Failed,0.507,Timeout or Error
+2026-04-25 01:49,Video,Failed,1.362,Timeout or Error
+2026-04-25 01:49,Search,OK,1.276,"[{""type"":""video"" ""title"":""Saros ist der beste Shooter des Jahres! | Test/Review"" ""videoId"":""byinWhSB"
+2026-04-25 01:49,Channel,OK,0.531,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-04-25 01:49,Comments,OK,0.532,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-04-25 01:49,Playlist,Failed,1.38,Timeout or Error
