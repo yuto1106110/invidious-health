@@ -2214,3 +2214,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-25 06:42,Channel,OK,0.389,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-04-25 06:42,Comments,OK,0.611,"{""commentCount"":10498562 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-04-25 06:42,Playlist,OK,0.381,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-04-25 07:34,Video,OK,0.481,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-04-25 07:34,Search,OK,0.902,"[{""type"":""video"" ""title"":""NIU NQiX 150 im Test: Dieser E-Roller ist 2026 ständig ausverkauft! 🛵 WARU"
+2026-04-25 07:34,Channel,Failed,0.463,Timeout or Error
+2026-04-25 07:34,Comments,OK,0.375,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-04-25 07:34,Playlist,Failed,1.259,Timeout or Error
