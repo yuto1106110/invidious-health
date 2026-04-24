@@ -2174,3 +2174,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-24 20:02,Channel,Failed,0.342,Timeout or Error
 2026-04-24 20:02,Comments,OK,0.643,"{""commentCount"":10496992 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-04-24 20:02,Playlist,Failed,0.38,Timeout or Error
+2026-04-24 22:10,Video,Failed,0.631,Timeout or Error
+2026-04-24 22:10,Search,OK,1.059,"[{""type"":""video"" ""title"":""Samsung Galaxy S26 Ultra review: Our conclusion after 2 months!"" ""videoId"""
+2026-04-24 22:10,Channel,Failed,0.551,Timeout or Error
+2026-04-24 22:10,Comments,OK,0.864,"{""commentCount"":10497405 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-04-24 22:10,Playlist,Failed,0.524,Timeout or Error
