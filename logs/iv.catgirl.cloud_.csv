@@ -2149,3 +2149,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-24 08:39,Channel,Failed,0.474,Timeout or Error
 2026-04-24 08:39,Comments,OK,0.855,"{""commentCount"":10495165 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-04-24 08:39,Playlist,OK,0.437,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-04-24 11:06,Video,OK,0.508,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-04-24 11:06,Search,OK,0.328,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-04-24 11:06,Channel,Failed,1.234,Timeout or Error
+2026-04-24 11:06,Comments,OK,0.708,"{""commentCount"":10495535 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-04-24 11:06,Playlist,OK,0.323,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
