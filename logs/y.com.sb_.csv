@@ -2239,3 +2239,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-25 15:18,Channel,Failed,0.54,Timeout or Error
 2026-04-25 15:18,Comments,OK,0.773,"{""commentCount"":10499044 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-04-25 15:18,Playlist,Failed,0.58,Timeout or Error
+2026-04-25 17:02,Video,Failed,0.381,Timeout or Error
+2026-04-25 17:02,Search,OK,1.02,"[{""type"":""video"" ""title"":""KTM 1390 Super Adventure S Evo | Test (deutsch)"" ""videoId"":""oM9G_k91Eb8"" """
+2026-04-25 17:02,Channel,Failed,0.774,Timeout or Error
+2026-04-25 17:02,Comments,OK,0.54,"{""commentCount"":10499054 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-04-25 17:02,Playlist,Failed,1.498,Timeout or Error
