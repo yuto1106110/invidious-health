@@ -2229,3 +2229,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-25 10:56,Channel,Failed,0.563,Timeout or Error
 2026-04-25 10:56,Comments,OK,0.752,"{""commentCount"":10498804 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-04-25 10:56,Playlist,Failed,0.576,Timeout or Error
+2026-04-25 13:34,Video,Failed,0.564,Timeout or Error
+2026-04-25 13:34,Search,OK,0.888,"[{""type"":""video"" ""title"":""2026 Opel Astra ST: Wir fahren das Facelift vom Astra! - Review  Test"" ""vi"
+2026-04-25 13:34,Channel,Failed,0.552,Timeout or Error
+2026-04-25 13:34,Comments,OK,0.786,"{""commentCount"":10498977 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-04-25 13:34,Playlist,Failed,0.549,Timeout or Error
