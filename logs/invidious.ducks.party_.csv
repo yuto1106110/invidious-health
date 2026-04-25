@@ -2294,3 +2294,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-26 04:40,Channel,Failed,0.402,Timeout or Error
 2026-04-26 04:40,Comments,OK,0.932,"{""commentCount"":10499808 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-04-26 04:40,Playlist,Failed,0.408,Timeout or Error
+2026-04-26 05:32,Video,Failed,1.225,Timeout or Error
+2026-04-26 05:32,Search,OK,0.914,"[{""type"":""video"" ""title"":""How strong are welds? Hydraulic Press Test"" ""videoId"":""XgPWsOwYRf4"" ""autho"
+2026-04-26 05:32,Channel,Failed,0.391,Timeout or Error
+2026-04-26 05:32,Comments,OK,0.748,"{""commentCount"":10499870 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-04-26 05:32,Playlist,Failed,0.404,Timeout or Error
