@@ -2369,3 +2369,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-27 01:36,Channel,Failed,0.532,Timeout or Error
 2026-04-27 01:36,Comments,OK,0.908,"{""commentCount"":10500809 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-04-27 01:36,Playlist,Failed,0.527,Timeout or Error
+2026-04-27 02:34,Video,Failed,0.508,Timeout or Error
+2026-04-27 02:34,Search,OK,0.932,"[{""type"":""video"" ""title"":""Wonderful OLED TEST 16K Video | Dolby Vision HDR 120FPS (8K/4K Video TV)"" "
+2026-04-27 02:34,Channel,Failed,0.505,Timeout or Error
+2026-04-27 02:34,Comments,OK,0.875,"{""commentCount"":10500820 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-04-27 02:34,Playlist,Failed,0.498,Timeout or Error
