@@ -2349,3 +2349,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-26 20:35,Channel,Failed,0.336,Timeout or Error
 2026-04-26 20:35,Comments,OK,0.521,"{""commentCount"":10500576 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-04-26 20:35,Playlist,Failed,0.368,Timeout or Error
+2026-04-26 21:54,Video,Failed,1.266,Timeout or Error
+2026-04-26 21:54,Search,OK,0.953,"[{""type"":""video"" ""title"":""NIU NQiX 150 im Test: Dieser E-Roller ist 2026 ständig ausverkauft! 🛵 WARU"
+2026-04-26 21:54,Channel,Failed,1.011,Timeout or Error
+2026-04-26 21:54,Comments,OK,0.651,"{""commentCount"":10500666 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-04-26 21:54,Playlist,Failed,0.466,Timeout or Error
