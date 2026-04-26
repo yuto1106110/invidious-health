@@ -2374,3 +2374,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-27 02:34,Channel,Failed,0.505,Timeout or Error
 2026-04-27 02:34,Comments,OK,0.875,"{""commentCount"":10500820 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-04-27 02:34,Playlist,Failed,0.498,Timeout or Error
+2026-04-27 03:42,Video,Failed,0.388,Timeout or Error
+2026-04-27 03:42,Search,OK,0.832,"[{""type"":""video"" ""title"":""The FAMAS under test: Theory & then the shock at the shooting range"" ""vide"
+2026-04-27 03:42,Channel,Failed,0.414,Timeout or Error
+2026-04-27 03:42,Comments,OK,0.749,"{""commentCount"":10500934 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-04-27 03:42,Playlist,Failed,0.367,Timeout or Error
