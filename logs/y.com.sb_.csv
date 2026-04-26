@@ -2324,3 +2324,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-26 14:34,Channel,Failed,0.47,Timeout or Error
 2026-04-26 14:34,Comments,OK,0.653,"{""commentCount"":10500310 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-04-26 14:34,Playlist,Failed,0.491,Timeout or Error
+2026-04-26 16:21,Video,Failed,0.532,Timeout or Error
+2026-04-26 16:21,Search,OK,0.909,"[{""type"":""video"" ""title"":""Personality TEST 👆"" ""videoId"":""HrjscnBVDV0"" ""author"":""Moore Wellness"" ""aut"
+2026-04-26 16:21,Channel,Failed,0.507,Timeout or Error
+2026-04-26 16:21,Comments,OK,0.753,"{""commentCount"":10500380 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-04-26 16:21,Playlist,Failed,0.469,Timeout or Error
