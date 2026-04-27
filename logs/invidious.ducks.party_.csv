@@ -2434,3 +2434,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-28 00:02,Channel,Failed,0.535,Timeout or Error
 2026-04-28 00:02,Comments,OK,0.884,"{""commentCount"":10502040 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-04-28 00:02,Playlist,Failed,0.567,Timeout or Error
+2026-04-28 02:16,Video,Failed,0.398,Timeout or Error
+2026-04-28 02:16,Search,OK,0.94,"[{""type"":""video"" ""title"":""Mikrofasertuch statt Schwammbrett? Fugen abwaschen im Test."" ""videoId"":""As"
+2026-04-28 02:16,Channel,Failed,0.386,Timeout or Error
+2026-04-28 02:16,Comments,OK,0.803,"{""commentCount"":10502370 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-04-28 02:16,Playlist,Failed,0.411,Timeout or Error
