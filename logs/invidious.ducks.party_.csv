@@ -2414,3 +2414,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-27 14:48,Channel,Failed,0.503,Timeout or Error
 2026-04-27 14:48,Comments,OK,0.785,"{""commentCount"":10501473 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-04-27 14:48,Playlist,Failed,0.503,Timeout or Error
+2026-04-27 17:12,Video,Failed,0.489,Timeout or Error
+2026-04-27 17:12,Search,OK,1.007,"[{""type"":""video"" ""title"":""Gregor testet SAROS ✰ Das PS5-Exclusive im ultimativen REVIEW (Test)"" ""vid"
+2026-04-27 17:12,Channel,Failed,0.538,Timeout or Error
+2026-04-27 17:12,Comments,OK,0.852,"{""commentCount"":10501588 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-04-27 17:12,Playlist,Failed,0.484,Timeout or Error
