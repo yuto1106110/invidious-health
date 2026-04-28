@@ -1,19 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-03-30 00:26,Video,Failed,0.374,Timeout or Error
-2026-03-30 00:26,Search,OK,1.082,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
-2026-03-30 00:26,Channel,Failed,0.398,Timeout or Error
-2026-03-30 00:26,Comments,OK,0.908,"{""commentCount"":10478335 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-03-30 00:26,Playlist,Failed,0.461,Timeout or Error
-2026-03-30 01:28,Video,Failed,0.536,Timeout or Error
-2026-03-30 01:28,Search,Failed,1.337,Timeout or Error
-2026-03-30 01:28,Channel,Failed,0.564,Timeout or Error
-2026-03-30 01:28,Comments,OK,1.157,"{""commentCount"":10478379 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-03-30 01:28,Playlist,Failed,0.597,Timeout or Error
-2026-03-30 02:25,Video,Failed,0.413,Timeout or Error
-2026-03-30 02:25,Search,OK,1.152,"[{""type"":""video"" ""title"":""Yamaha NMax 155 Tech Max YECVT | Test 2026"" ""videoId"":""Vej9Fo6uIlA"" ""autho"
-2026-03-30 02:25,Channel,Failed,0.713,Timeout or Error
-2026-03-30 02:25,Comments,OK,0.795,"{""commentCount"":10478446 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-03-30 02:25,Playlist,Failed,0.486,Timeout or Error
 2026-03-30 03:34,Video,Failed,0.315,Timeout or Error
 2026-03-30 03:34,Search,OK,1.031,"[{""type"":""video"" ""title"":""Yamaha NMax 155 Tech Max YECVT | Test 2026"" ""videoId"":""Vej9Fo6uIlA"" ""autho"
 2026-03-30 03:34,Channel,Failed,0.391,Timeout or Error
@@ -2444,3 +2429,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-29 00:23,Channel,Failed,0.257,Timeout or Error
 2026-04-29 00:23,Comments,Failed,0.25,Timeout or Error
 2026-04-29 00:23,Playlist,Failed,0.254,Timeout or Error
+2026-04-29 02:42,Video,Failed,0.247,Timeout or Error
+2026-04-29 02:42,Search,Failed,0.26,Timeout or Error
+2026-04-29 02:42,Channel,Failed,0.246,Timeout or Error
+2026-04-29 02:42,Comments,Failed,0.255,Timeout or Error
+2026-04-29 02:42,Playlist,Failed,0.26,Timeout or Error

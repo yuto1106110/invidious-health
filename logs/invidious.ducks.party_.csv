@@ -1,19 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-03-30 00:26,Video,Failed,0.373,Timeout or Error
-2026-03-30 00:26,Search,OK,0.904,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
-2026-03-30 00:26,Channel,Failed,0.426,Timeout or Error
-2026-03-30 00:26,Comments,OK,0.643,"{""commentCount"":10478335 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-03-30 00:26,Playlist,Failed,0.43,Timeout or Error
-2026-03-30 01:28,Video,Failed,0.484,Timeout or Error
-2026-03-30 01:28,Search,OK,1.268,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
-2026-03-30 01:28,Channel,Failed,0.606,Timeout or Error
-2026-03-30 01:28,Comments,OK,0.842,"{""commentCount"":10478379 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-03-30 01:28,Playlist,Failed,0.571,Timeout or Error
-2026-03-30 02:25,Video,Failed,0.399,Timeout or Error
-2026-03-30 02:25,Search,OK,1.061,"[{""type"":""video"" ""title"":""Yamaha NMax 155 Tech Max YECVT | Test 2026"" ""videoId"":""Vej9Fo6uIlA"" ""autho"
-2026-03-30 02:25,Channel,Failed,0.469,Timeout or Error
-2026-03-30 02:25,Comments,OK,0.865,"{""commentCount"":10478447 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-03-30 02:25,Playlist,Failed,0.468,Timeout or Error
 2026-03-30 03:34,Video,Failed,0.315,Timeout or Error
 2026-03-30 03:34,Search,OK,1.072,"[{""type"":""video"" ""title"":""Yamaha NMax 155 Tech Max YECVT | Test 2026"" ""videoId"":""Vej9Fo6uIlA"" ""autho"
 2026-03-30 03:34,Channel,Failed,0.384,Timeout or Error
@@ -2444,3 +2429,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-29 00:23,Channel,Failed,0.438,Timeout or Error
 2026-04-29 00:23,Comments,OK,0.696,"{""commentCount"":10502985 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-04-29 00:23,Playlist,Failed,0.431,Timeout or Error
+2026-04-29 02:42,Video,Failed,0.444,Timeout or Error
+2026-04-29 02:42,Search,OK,0.841,"[{""type"":""video"" ""title"":""Sudden Strike 5 bringt das Freitags-Gefühl zurück! - Test / Review zur Wel"
+2026-04-29 02:42,Channel,Failed,0.479,Timeout or Error
+2026-04-29 02:42,Comments,OK,0.81,"{""commentCount"":10503115 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-04-29 02:42,Playlist,Failed,0.435,Timeout or Error
