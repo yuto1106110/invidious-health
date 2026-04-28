@@ -1,19 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-03-29 17:34,Video,Failed,0.443,Timeout or Error
-2026-03-29 17:34,Search,OK,1.005,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
-2026-03-29 17:34,Channel,Failed,0.501,Timeout or Error
-2026-03-29 17:34,Comments,OK,0.733,"{""commentCount"":10478104 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-03-29 17:34,Playlist,Failed,0.503,Timeout or Error
-2026-03-29 18:31,Video,Failed,0.313,Timeout or Error
-2026-03-29 18:31,Search,OK,1.088,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
-2026-03-29 18:31,Channel,Failed,0.395,Timeout or Error
-2026-03-29 18:31,Comments,OK,0.623,"{""commentCount"":10478142 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-03-29 18:31,Playlist,Failed,0.376,Timeout or Error
-2026-03-29 19:27,Video,Failed,0.377,Timeout or Error
-2026-03-29 19:27,Search,OK,0.9,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
-2026-03-29 19:27,Channel,Failed,0.455,Timeout or Error
-2026-03-29 19:27,Comments,OK,0.948,"{""commentCount"":10478189 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-03-29 19:27,Playlist,Failed,0.489,Timeout or Error
 2026-03-29 20:24,Video,Failed,0.502,Timeout or Error
 2026-03-29 20:24,Search,OK,1.099,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
 2026-03-29 20:24,Channel,Failed,0.57,Timeout or Error
@@ -2464,3 +2449,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-28 17:14,Channel,Failed,0.564,Timeout or Error
 2026-04-28 17:14,Comments,OK,0.767,"{""commentCount"":10502753 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-04-28 17:14,Playlist,Failed,0.58,Timeout or Error
+2026-04-28 19:59,Video,Failed,0.564,Timeout or Error
+2026-04-28 19:59,Search,OK,1.201,"[{""type"":""video"" ""title"":""Finger weg vom Tesla Model Y! (Bis du das gesehen hast) | XPENG G9"" ""video"
+2026-04-28 19:59,Channel,Failed,0.549,Timeout or Error
+2026-04-28 19:59,Comments,OK,0.741,"{""commentCount"":10502818 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-04-28 19:59,Playlist,Failed,0.531,Timeout or Error
