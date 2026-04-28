@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-03-29 13:36,Video,Failed,0.4,Timeout or Error
-2026-03-29 13:36,Search,OK,0.945,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
-2026-03-29 13:36,Channel,Failed,0.401,Timeout or Error
-2026-03-29 13:36,Comments,OK,0.611,"{""commentCount"":10477974 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-03-29 13:36,Playlist,Failed,0.407,Timeout or Error
 2026-03-29 15:09,Video,Failed,0.5,Timeout or Error
 2026-03-29 15:09,Search,OK,0.844,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
 2026-03-29 15:09,Channel,Failed,0.471,Timeout or Error
@@ -2469,3 +2464,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-28 11:27,Channel,Failed,0.368,Timeout or Error
 2026-04-28 11:27,Comments,OK,0.524,"{""commentCount"":10502591 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-04-28 11:27,Playlist,Failed,0.376,Timeout or Error
+2026-04-28 14:53,Video,Failed,0.433,Timeout or Error
+2026-04-28 14:53,Search,OK,0.846,"[{""type"":""video"" ""title"":""It's 2026  Slide Hammers are Push Button Now! Let's Test 'em"" ""videoId"":""p"
+2026-04-28 14:53,Channel,Failed,0.382,Timeout or Error
+2026-04-28 14:53,Comments,OK,0.545,"{""commentCount"":10502679 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-04-28 14:53,Playlist,Failed,0.41,Timeout or Error
