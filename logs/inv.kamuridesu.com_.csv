@@ -1,34 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-03-29 21:41,Video,Failed,0.31,Timeout or Error
-2026-03-29 21:41,Search,OK,0.911,"[{""type"":""video"" ""title"":""FREE FIRE LIVE 😎 1v1 GUILD TEST | TEAM CODE GIVEAWAY | #freefirelive #gyan"
-2026-03-29 21:41,Channel,Failed,0.366,Timeout or Error
-2026-03-29 21:41,Comments,OK,0.55,"{""commentCount"":10478259 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-03-29 21:41,Playlist,Failed,0.391,Timeout or Error
-2026-03-29 21:41,Video,Failed,0.318,Timeout or Error
-2026-03-29 21:41,Search,OK,0.972,"[{""type"":""video"" ""title"":""FREE FIRE LIVE 😎 1v1 GUILD TEST | TEAM CODE GIVEAWAY | #freefirelive #gyan"
-2026-03-29 21:41,Channel,Failed,0.372,Timeout or Error
-2026-03-29 21:41,Comments,OK,0.612,"{""commentCount"":10478260 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-03-29 21:41,Playlist,Failed,0.385,Timeout or Error
-2026-03-29 22:49,Video,Failed,0.283,Timeout or Error
-2026-03-29 22:49,Search,OK,0.949,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-03-29 22:49,Channel,Failed,0.372,Timeout or Error
-2026-03-29 22:49,Comments,OK,0.687,"{""commentCount"":10478257 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-03-29 22:49,Playlist,Failed,0.371,Timeout or Error
-2026-03-29 22:49,Video,Failed,0.279,Timeout or Error
-2026-03-29 22:49,Search,OK,0.948,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-03-29 22:49,Channel,Failed,0.371,Timeout or Error
-2026-03-29 22:49,Comments,OK,0.626,"{""commentCount"":10478257 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-03-29 22:49,Playlist,Failed,0.379,Timeout or Error
-2026-03-29 23:29,Video,Failed,0.368,Timeout or Error
-2026-03-29 23:29,Search,Failed,1.059,Timeout or Error
-2026-03-29 23:29,Channel,Failed,0.464,Timeout or Error
-2026-03-29 23:29,Comments,OK,0.65,"{""commentCount"":10478279 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-03-29 23:29,Playlist,Failed,0.444,Timeout or Error
-2026-03-29 23:29,Video,Failed,0.357,Timeout or Error
-2026-03-29 23:29,Search,OK,1.057,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-03-29 23:29,Channel,Failed,0.434,Timeout or Error
-2026-03-29 23:29,Comments,OK,0.693,"{""commentCount"":10478279 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-03-29 23:29,Playlist,Failed,0.445,Timeout or Error
 2026-03-30 00:26,Video,Failed,0.324,Timeout or Error
 2026-03-30 00:26,Search,Failed,1.038,Timeout or Error
 2026-03-30 00:26,Channel,Failed,0.405,Timeout or Error
@@ -4909,3 +4879,13 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-28 21:26,Channel,Failed,0.385,Timeout or Error
 2026-04-28 21:26,Comments,OK,0.677,"{""commentCount"":10502857 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-04-28 21:26,Playlist,Failed,0.358,Timeout or Error
+2026-04-29 00:23,Video,Failed,0.36,Timeout or Error
+2026-04-29 00:23,Search,OK,0.959,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-04-29 00:23,Channel,Failed,0.396,Timeout or Error
+2026-04-29 00:23,Comments,OK,0.668,"{""commentCount"":10502985 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-04-29 00:23,Playlist,Failed,0.42,Timeout or Error
+2026-04-29 00:23,Video,Failed,0.336,Timeout or Error
+2026-04-29 00:23,Search,OK,0.943,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-04-29 00:23,Channel,Failed,0.377,Timeout or Error
+2026-04-29 00:23,Comments,OK,0.661,"{""commentCount"":10502985 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-04-29 00:23,Playlist,Failed,0.422,Timeout or Error
