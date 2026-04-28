@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-03-30 08:27,Video,Failed,0.311,Timeout or Error
-2026-03-30 08:27,Search,OK,0.711,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
-2026-03-30 08:27,Channel,Failed,0.375,Timeout or Error
-2026-03-30 08:27,Comments,OK,0.571,"{""commentCount"":10478738 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-03-30 08:27,Playlist,Failed,0.375,Timeout or Error
 2026-03-30 10:58,Video,Failed,0.311,Timeout or Error
 2026-03-30 10:58,Search,OK,0.777,"[{""type"":""video"" ""title"":""Galaxy S26 vs iPhone 17 Speed Test"" ""videoId"":""PF_egsGGqo4"" ""author"":""Nick"
 2026-03-30 10:58,Channel,Failed,0.379,Timeout or Error
@@ -2424,3 +2419,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-29 07:51,Channel,Failed,0.365,Timeout or Error
 2026-04-29 07:51,Comments,OK,0.62,"{""commentCount"":10503391 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-04-29 07:51,Playlist,Failed,0.363,Timeout or Error
+2026-04-29 08:50,Video,Failed,0.534,Timeout or Error
+2026-04-29 08:50,Search,OK,0.895,"[{""type"":""video"" ""title"":""Test Toyota Rally1 WRC 2027 | Juho Hänninen [Song Passats]"" ""videoId"":""YMy"
+2026-04-29 08:50,Channel,Failed,0.521,Timeout or Error
+2026-04-29 08:50,Comments,OK,0.701,"{""commentCount"":10503364 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-04-29 08:50,Playlist,Failed,0.512,Timeout or Error
