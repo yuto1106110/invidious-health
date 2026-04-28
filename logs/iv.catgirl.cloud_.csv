@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-03-30 04:28,Video,OK,0.525,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-03-30 04:28,Search,OK,0.366,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-03-30 04:28,Channel,Failed,0.425,Timeout or Error
-2026-03-30 04:28,Comments,OK,0.363,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-03-30 04:28,Playlist,Failed,1.267,Timeout or Error
-2026-03-30 05:25,Video,Failed,0.451,Timeout or Error
-2026-03-30 05:25,Search,OK,0.322,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-03-30 05:25,Channel,OK,0.321,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-03-30 05:25,Comments,OK,0.315,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-03-30 05:25,Playlist,Failed,0.558,Timeout or Error
 2026-03-30 06:26,Video,OK,0.425,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-03-30 06:26,Search,OK,0.945,"[{""type"":""video"" ""title"":""Dolby Atmos 5.1 Surround Sound Test"" ""videoId"":""iTHtXgnhqfM"" ""author"":""JD "
 2026-03-30 06:26,Channel,Failed,0.372,Timeout or Error
@@ -2434,3 +2424,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-29 04:25,Channel,OK,0.519,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-04-29 04:25,Comments,OK,0.521,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-04-29 04:25,Playlist,OK,0.534,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-04-29 06:02,Video,OK,0.84,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-04-29 06:02,Search,OK,0.416,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-04-29 06:02,Channel,OK,0.423,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-04-29 06:02,Comments,OK,0.405,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-04-29 06:02,Playlist,OK,0.42,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
