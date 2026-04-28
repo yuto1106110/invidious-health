@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-03-29 20:24,Video,Failed,0.679,Timeout or Error
-2026-03-29 20:24,Search,Failed,1.331,Timeout or Error
-2026-03-29 20:24,Channel,Failed,0.532,Timeout or Error
-2026-03-29 20:24,Comments,OK,0.936,"{""commentCount"":10478210 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-03-29 20:24,Playlist,Failed,0.806,Timeout or Error
 2026-03-29 21:41,Video,Failed,0.314,Timeout or Error
 2026-03-29 21:41,Search,OK,1.043,"[{""type"":""video"" ""title"":""Dolby Atmos 5.1 Surround Sound Test"" ""videoId"":""iTHtXgnhqfM"" ""author"":""JD "
 2026-03-29 21:41,Channel,Failed,0.382,Timeout or Error
@@ -2454,3 +2449,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-28 19:59,Channel,Failed,0.355,Timeout or Error
 2026-04-28 19:59,Comments,Failed,0.35,Timeout or Error
 2026-04-28 19:59,Playlist,Failed,0.353,Timeout or Error
+2026-04-28 21:26,Video,Failed,0.209,Timeout or Error
+2026-04-28 21:26,Search,Failed,0.22,Timeout or Error
+2026-04-28 21:26,Channel,Failed,0.219,Timeout or Error
+2026-04-28 21:26,Comments,Failed,0.219,Timeout or Error
+2026-04-28 21:26,Playlist,Failed,0.208,Timeout or Error
