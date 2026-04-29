@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-03-31 04:52,Video,Failed,0.362,Timeout or Error
-2026-03-31 04:52,Search,OK,0.958,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
-2026-03-31 04:52,Channel,Failed,0.437,Timeout or Error
-2026-03-31 04:52,Comments,OK,0.682,"{""commentCount"":10477866 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-03-31 04:52,Playlist,Failed,0.482,Timeout or Error
-2026-03-31 05:39,Video,Failed,0.313,Timeout or Error
-2026-03-31 05:39,Search,OK,0.971,"[{""type"":""video"" ""title"":""Kia EV2 (42 kWh) im Test – Die bessere ID. Polo Alternative? #ev "" ""videoI"
-2026-03-31 05:39,Channel,Failed,0.392,Timeout or Error
-2026-03-31 05:39,Comments,OK,0.651,"{""commentCount"":10477878 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-03-31 05:39,Playlist,Failed,0.374,Timeout or Error
 2026-03-31 06:36,Video,Failed,0.788,Timeout or Error
 2026-03-31 06:36,Search,OK,1.063,"[{""type"":""video"" ""title"":""Kia EV2 (42 kWh) im Test – Die bessere ID. Polo Alternative? #ev "" ""videoI"
 2026-03-31 06:36,Channel,Failed,0.57,Timeout or Error
@@ -2409,3 +2399,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-30 04:16,Channel,Failed,0.446,Timeout or Error
 2026-04-30 04:16,Comments,OK,0.763,"{""commentCount"":10503690 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-04-30 04:16,Playlist,Failed,0.449,Timeout or Error
+2026-04-30 05:57,Video,Failed,0.349,Timeout or Error
+2026-04-30 05:57,Search,OK,0.811,"[{""type"":""video"" ""title"":""MotoGP 26 - Test: Mikrotransaktionen?"" ""videoId"":""W5vN3vmuFek"" ""author"":""G"
+2026-04-30 05:57,Channel,Failed,0.411,Timeout or Error
+2026-04-30 05:57,Comments,OK,0.707,"{""commentCount"":10503743 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-04-30 05:57,Playlist,Failed,0.422,Timeout or Error

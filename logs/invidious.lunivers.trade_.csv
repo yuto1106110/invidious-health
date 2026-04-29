@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-03-31 04:52,Video,OK,0.473,
-2026-03-31 04:52,Search,OK,0.897,"[{""type"":""video"" ""title"":""50 QUESTIONS pour TESTER TON SAVOIR 🧠🤯 | Quiz Culture Générale"" ""videoId"":"
-2026-03-31 04:52,Channel,Failed,0.411,Timeout or Error
-2026-03-31 04:52,Comments,OK,0.687,"{""commentCount"":10477865 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-03-31 04:52,Playlist,Failed,0.401,Timeout or Error
-2026-03-31 05:39,Video,Failed,1.241,Timeout or Error
-2026-03-31 05:39,Search,Failed,1.221,Timeout or Error
-2026-03-31 05:39,Channel,Failed,1.241,Timeout or Error
-2026-03-31 05:39,Comments,Failed,1.236,Timeout or Error
-2026-03-31 05:39,Playlist,Failed,1.225,Timeout or Error
 2026-03-31 06:36,Video,OK,1.652,
 2026-03-31 06:36,Search,OK,1.057,"[{""type"":""video"" ""title"":""Le TEST ULTIME !"" ""videoId"":""AkJRUede1m8"" ""author"":""Le Vendeur Automobiles"
 2026-03-31 06:36,Channel,Failed,0.57,Timeout or Error
@@ -2409,3 +2399,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-30 04:16,Channel,Failed,0.377,Timeout or Error
 2026-04-30 04:16,Comments,Failed,0.371,Timeout or Error
 2026-04-30 04:16,Playlist,Failed,0.353,Timeout or Error
+2026-04-30 05:57,Video,Failed,0.623,Timeout or Error
+2026-04-30 05:57,Search,Failed,0.604,Timeout or Error
+2026-04-30 05:57,Channel,Failed,0.377,Timeout or Error
+2026-04-30 05:57,Comments,Failed,0.625,Timeout or Error
+2026-04-30 05:57,Playlist,Failed,0.365,Timeout or Error
