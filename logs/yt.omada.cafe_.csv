@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-03-30 17:19,Video,OK,1.344,
-2026-03-30 17:19,Search,OK,1.153,"[{""type"":""video"" ""title"":""Kim Jong-un maniacally watches North Korean missile tests as tyrant looks "
-2026-03-30 17:19,Channel,Failed,0.467,Timeout or Error
-2026-03-30 17:19,Comments,OK,0.488,"{""commentCount"":10478907 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-03-30 17:19,Playlist,Failed,0.289,Timeout or Error
-2026-03-30 19:12,Video,Failed,1.353,Timeout or Error
-2026-03-30 19:12,Search,OK,1.48,"[{""type"":""video"" ""title"":""Idiot Test - 90% fail"" ""videoId"":""2a4Uxdy9TQY"" ""author"":""BrainLift"" ""autho"
-2026-03-30 19:12,Channel,Failed,0.323,Timeout or Error
-2026-03-30 19:12,Comments,OK,0.904,"{""commentCount"":10478930 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-03-30 19:12,Playlist,Failed,0.311,Timeout or Error
 2026-03-30 20:52,Video,OK,0.605,
 2026-03-30 20:52,Search,OK,0.885,"[{""type"":""video"" ""title"":""Idiot Test - 90% fail"" ""videoId"":""2a4Uxdy9TQY"" ""author"":""BrainLift"" ""autho"
 2026-03-30 20:52,Channel,Failed,0.612,Timeout or Error
@@ -2424,3 +2414,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-29 17:07,Channel,Failed,0.629,Timeout or Error
 2026-04-29 17:07,Comments,OK,0.535,"{""commentCount"":10503375 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-04-29 17:07,Playlist,Failed,0.767,Timeout or Error
+2026-04-29 19:50,Video,OK,1.091,
+2026-04-29 19:50,Search,OK,0.902,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-04-29 19:50,Channel,Failed,0.463,Timeout or Error
+2026-04-29 19:50,Comments,OK,0.764,"{""commentCount"":10503456 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-04-29 19:50,Playlist,Failed,0.398,Timeout or Error

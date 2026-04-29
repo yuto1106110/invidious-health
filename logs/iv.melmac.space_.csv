@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-03-30 17:19,Video,Failed,0.487,Timeout or Error
-2026-03-30 17:19,Search,OK,1.025,"[{""type"":""video"" ""title"":""Kim Jong-un maniacally watches North Korean missile tests as tyrant looks "
-2026-03-30 17:19,Channel,Failed,0.355,Timeout or Error
-2026-03-30 17:19,Comments,OK,0.719,"{""commentCount"":10478907 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-03-30 17:19,Playlist,Failed,0.36,Timeout or Error
-2026-03-30 19:12,Video,Failed,0.842,Timeout or Error
-2026-03-30 19:12,Search,OK,1.048,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
-2026-03-30 19:12,Channel,Failed,0.57,Timeout or Error
-2026-03-30 19:12,Comments,OK,0.852,"{""commentCount"":10478931 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-03-30 19:12,Playlist,Failed,0.459,Timeout or Error
 2026-03-30 20:52,Video,Failed,0.323,Timeout or Error
 2026-03-30 20:52,Search,OK,1.125,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
 2026-03-30 20:52,Channel,Failed,0.819,Timeout or Error
@@ -2424,3 +2414,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-29 17:07,Channel,Failed,0.251,Timeout or Error
 2026-04-29 17:07,Comments,Failed,0.242,Timeout or Error
 2026-04-29 17:07,Playlist,Failed,0.264,Timeout or Error
+2026-04-29 19:50,Video,Failed,0.248,Timeout or Error
+2026-04-29 19:50,Search,Failed,0.251,Timeout or Error
+2026-04-29 19:50,Channel,Failed,0.244,Timeout or Error
+2026-04-29 19:50,Comments,Failed,0.25,Timeout or Error
+2026-04-29 19:50,Playlist,Failed,0.252,Timeout or Error
