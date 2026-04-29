@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-03-30 22:06,Video,OK,0.373,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-03-30 22:06,Search,OK,0.906,"[{""type"":""video"" ""title"":""Können Bayern überhaupt Deutsch? Lutz van der Horst macht den Test | heute"
-2026-03-30 22:06,Channel,OK,0.393,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-03-30 22:06,Comments,OK,0.381,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-03-30 22:06,Playlist,OK,0.384,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-03-30 23:59,Video,OK,0.368,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-03-30 23:59,Search,OK,0.382,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-03-30 23:59,Channel,Failed,0.421,Timeout or Error
-2026-03-30 23:59,Comments,OK,0.387,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-03-30 23:59,Playlist,OK,0.378,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-03-31 01:09,Video,Failed,0.588,Timeout or Error
 2026-03-31 01:09,Search,OK,1.118,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
 2026-03-31 01:09,Channel,Failed,0.507,Timeout or Error
@@ -2419,3 +2409,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-29 21:13,Channel,OK,0.317,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-04-29 21:13,Comments,OK,0.311,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-04-29 21:13,Playlist,OK,0.329,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-04-30 00:07,Video,OK,0.425,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-04-30 00:07,Search,OK,0.327,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-04-30 00:07,Channel,OK,0.327,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-04-30 00:07,Comments,OK,0.319,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-04-30 00:07,Playlist,OK,0.319,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
