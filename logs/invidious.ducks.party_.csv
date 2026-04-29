@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-03-30 13:48,Video,Failed,0.312,Timeout or Error
-2026-03-30 13:48,Search,OK,0.873,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
-2026-03-30 13:48,Channel,Failed,0.371,Timeout or Error
-2026-03-30 13:48,Comments,OK,0.587,"{""commentCount"":10478832 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-03-30 13:48,Playlist,Failed,0.379,Timeout or Error
 2026-03-30 15:27,Video,Failed,0.312,Timeout or Error
 2026-03-30 15:27,Search,OK,0.746,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
 2026-03-30 15:27,Channel,Failed,0.375,Timeout or Error
@@ -2424,3 +2419,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-29 11:27,Channel,Failed,0.424,Timeout or Error
 2026-04-29 11:27,Comments,OK,0.587,"{""commentCount"":10503380 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-04-29 11:27,Playlist,Failed,0.43,Timeout or Error
+2026-04-29 14:49,Video,Failed,0.527,Timeout or Error
+2026-04-29 14:49,Search,OK,0.99,"[{""type"":""video"" ""title"":""Test Toyota Rally1 WRC 2027 | Juho Hänninen [Song Passats]"" ""videoId"":""YMy"
+2026-04-29 14:49,Channel,Failed,0.575,Timeout or Error
+2026-04-29 14:49,Comments,OK,0.823,"{""commentCount"":10503463 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-04-29 14:49,Playlist,Failed,0.551,Timeout or Error
