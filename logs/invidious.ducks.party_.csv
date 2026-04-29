@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-03-30 20:52,Video,Failed,0.315,Timeout or Error
-2026-03-30 20:52,Search,OK,0.74,"[{""type"":""video"" ""title"":""Hedge trimmer torture: Dead after 22 hours 😱 (Test hedge trimmers Stiftung"
-2026-03-30 20:52,Channel,Failed,0.35,Timeout or Error
-2026-03-30 20:52,Comments,OK,0.744,"{""commentCount"":10478982 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-03-30 20:52,Playlist,Failed,0.344,Timeout or Error
 2026-03-30 22:06,Video,Failed,0.367,Timeout or Error
 2026-03-30 22:06,Search,OK,1.022,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
 2026-03-30 22:06,Channel,Failed,0.435,Timeout or Error
@@ -2419,3 +2414,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-29 19:50,Channel,Failed,0.44,Timeout or Error
 2026-04-29 19:50,Comments,OK,0.7,"{""commentCount"":10503456 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-04-29 19:50,Playlist,Failed,0.421,Timeout or Error
+2026-04-29 21:13,Video,Failed,0.331,Timeout or Error
+2026-04-29 21:13,Search,OK,1.025,"[{""type"":""video"" ""title"":""Sudden Strike 5 bringt das Freitags-Gefühl zurück! - Test / Review zur Wel"
+2026-04-29 21:13,Channel,Failed,0.372,Timeout or Error
+2026-04-29 21:13,Comments,OK,0.828,"{""commentCount"":10503480 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-04-29 21:13,Playlist,Failed,0.44,Timeout or Error
