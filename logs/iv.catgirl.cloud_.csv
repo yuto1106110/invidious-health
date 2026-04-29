@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-03-31 06:36,Video,OK,0.743,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-03-31 06:36,Search,OK,0.507,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-03-31 06:36,Channel,Failed,0.564,Timeout or Error
-2026-03-31 06:36,Comments,OK,0.976,"{""commentCount"":10477889 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-03-31 06:36,Playlist,OK,0.516,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-03-31 07:30,Video,OK,0.848,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-03-31 07:30,Search,OK,1.171,"[{""type"":""video"" ""title"":""Kia EV2 (42 kWh) im Test – Die bessere ID. Polo Alternative? #ev "" ""videoI"
 2026-03-31 07:30,Channel,OK,0.317,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
@@ -2404,3 +2399,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-30 05:57,Channel,OK,0.366,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-04-30 05:57,Comments,OK,0.383,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-04-30 05:57,Playlist,OK,0.374,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-04-30 06:59,Video,OK,0.648,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-04-30 06:59,Search,OK,0.514,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-04-30 06:59,Channel,OK,0.541,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-04-30 06:59,Comments,OK,0.534,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-04-30 06:59,Playlist,OK,0.521,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"

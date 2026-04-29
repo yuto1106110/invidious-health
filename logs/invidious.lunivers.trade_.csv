@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-03-31 06:36,Video,OK,1.652,
-2026-03-31 06:36,Search,OK,1.057,"[{""type"":""video"" ""title"":""Le TEST ULTIME !"" ""videoId"":""AkJRUede1m8"" ""author"":""Le Vendeur Automobiles"
-2026-03-31 06:36,Channel,Failed,0.57,Timeout or Error
-2026-03-31 06:36,Comments,OK,0.81,"{""commentCount"":10477889 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-03-31 06:36,Playlist,Failed,0.57,Timeout or Error
 2026-03-31 07:30,Video,OK,1.11,
 2026-03-31 07:30,Search,OK,0.828,"[{""type"":""video"" ""title"":""OLED TEST HDR 4K 120FPS DOLBY VISION 🏞 4K / 8K Monitor Test Video #BGM"" ""v"
 2026-03-31 07:30,Channel,Failed,0.561,Timeout or Error
@@ -2404,3 +2399,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-30 05:57,Channel,Failed,0.377,Timeout or Error
 2026-04-30 05:57,Comments,Failed,0.625,Timeout or Error
 2026-04-30 05:57,Playlist,Failed,0.365,Timeout or Error
+2026-04-30 06:59,Video,Failed,0.518,Timeout or Error
+2026-04-30 06:59,Search,Failed,0.502,Timeout or Error
+2026-04-30 06:59,Channel,Failed,0.511,Timeout or Error
+2026-04-30 06:59,Comments,Failed,0.823,Timeout or Error
+2026-04-30 06:59,Playlist,Failed,0.512,Timeout or Error
