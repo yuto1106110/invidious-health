@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-03-31 08:30,Video,Failed,0.633,Timeout or Error
-2026-03-31 08:30,Search,OK,1.16,"[{""type"":""video"" ""title"":""50 QUESTIONS pour TESTER TON SAVOIR 🧠🤯 | Quiz Culture Générale"" ""videoId"":"
-2026-03-31 08:30,Channel,Failed,0.499,Timeout or Error
-2026-03-31 08:30,Comments,Failed,0.802,Timeout or Error
-2026-03-31 08:30,Playlist,Failed,0.45,Timeout or Error
-2026-03-31 10:54,Video,Failed,0.639,Timeout or Error
-2026-03-31 10:54,Search,OK,1.018,"[{""type"":""video"" ""title"":""OLED TEST HDR 4K 120FPS DOLBY VISION 🏞 4K / 8K Monitor Test Video #BGM"" ""v"
-2026-03-31 10:54,Channel,Failed,0.635,Timeout or Error
-2026-03-31 10:54,Comments,Failed,0.615,Timeout or Error
-2026-03-31 10:54,Playlist,Failed,0.352,Timeout or Error
 2026-03-31 13:32,Video,Failed,0.548,Timeout or Error
 2026-03-31 13:32,Search,OK,0.868,"[{""type"":""video"" ""title"":""OLED TEST HDR 4K 120FPS DOLBY VISION 🏞 4K / 8K Monitor Test Video #BGM"" ""v"
 2026-03-31 13:32,Channel,Failed,0.53,Timeout or Error
@@ -2404,3 +2394,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-30 08:01,Channel,Failed,0.64,Timeout or Error
 2026-04-30 08:01,Comments,Failed,0.758,Timeout or Error
 2026-04-30 08:01,Playlist,Failed,0.558,Timeout or Error
+2026-04-30 11:28,Video,Failed,0.49,Timeout or Error
+2026-04-30 11:28,Search,Failed,0.718,Timeout or Error
+2026-04-30 11:28,Channel,Failed,0.471,Timeout or Error
+2026-04-30 11:28,Comments,Failed,0.676,Timeout or Error
+2026-04-30 11:28,Playlist,Failed,0.357,Timeout or Error

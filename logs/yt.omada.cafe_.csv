@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-03-31 08:30,Video,Failed,11.182,Timeout or Error
-2026-03-31 08:30,Search,OK,2.035,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-03-31 08:30,Channel,Failed,5.296,Timeout or Error
-2026-03-31 08:30,Comments,OK,8.122,"{""commentCount"":10477916 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-03-31 08:30,Playlist,Failed,3.807,Timeout or Error
-2026-03-31 10:54,Video,Failed,11.903,Timeout or Error
-2026-03-31 10:54,Search,OK,4.237,"[{""type"":""video"" ""title"":""Will She Cheat With His Friend's Roommate?! | UDY Loyalty Test"" ""videoId"":"
-2026-03-31 10:54,Channel,Failed,5.816,Timeout or Error
-2026-03-31 10:54,Comments,OK,6.893,"{""commentCount"":10477956 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-03-31 10:54,Playlist,Failed,3.471,Timeout or Error
 2026-03-31 13:32,Video,Failed,10.017,Timeout or Error
 2026-03-31 13:32,Search,OK,8.929,"[{""type"":""video"" ""title"":""Will She Cheat With His Friend's Roommate?! | UDY Loyalty Test"" ""videoId"":"
 2026-03-31 13:32,Channel,Failed,4.749,Timeout or Error
@@ -2404,3 +2394,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-30 08:01,Channel,Failed,0.277,Timeout or Error
 2026-04-30 08:01,Comments,OK,0.71,"{""commentCount"":10503770 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-04-30 08:01,Playlist,Failed,0.298,Timeout or Error
+2026-04-30 11:28,Video,OK,0.45,
+2026-04-30 11:28,Search,OK,1.149,"[{""type"":""video"" ""title"":""Day 2 Highlights | 2026 Indianapolis 500 Open Test"" ""videoId"":""T_IwJooX7qQ"
+2026-04-30 11:28,Channel,Failed,0.343,Timeout or Error
+2026-04-30 11:28,Comments,OK,0.695,"{""commentCount"":10503799 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-04-30 11:28,Playlist,Failed,0.518,Timeout or Error
