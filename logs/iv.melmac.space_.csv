@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-01 01:05,Video,Failed,0.523,Timeout or Error
-2026-04-01 01:05,Search,Failed,1.344,Timeout or Error
-2026-04-01 01:05,Channel,Failed,0.601,Timeout or Error
-2026-04-01 01:05,Comments,OK,0.925,"{""commentCount"":10478440 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-01 01:05,Playlist,Failed,0.585,Timeout or Error
 2026-04-01 02:52,Video,Failed,0.314,Timeout or Error
 2026-04-01 02:52,Search,OK,0.873,"[{""type"":""video"" ""title"":""Kia EV2 im Test (2026) DER Korea-Volkswagen ab 26.600€?! Fahrbericht | Rev"
 2026-04-01 02:52,Channel,Failed,0.362,Timeout or Error
@@ -2389,3 +2384,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-01 00:04,Channel,Failed,0.245,Timeout or Error
 2026-05-01 00:04,Comments,Failed,0.264,Timeout or Error
 2026-05-01 00:04,Playlist,Failed,0.257,Timeout or Error
+2026-05-01 02:14,Video,Failed,0.21,Timeout or Error
+2026-05-01 02:14,Search,Failed,0.218,Timeout or Error
+2026-05-01 02:14,Channel,Failed,0.209,Timeout or Error
+2026-05-01 02:14,Comments,Failed,0.203,Timeout or Error
+2026-05-01 02:14,Playlist,Failed,0.204,Timeout or Error
