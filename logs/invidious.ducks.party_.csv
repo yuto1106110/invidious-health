@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-01 02:52,Video,Failed,0.311,Timeout or Error
-2026-04-01 02:52,Search,OK,0.879,"[{""type"":""video"" ""title"":""Können Bayern überhaupt Deutsch? Lutz van der Horst macht den Test | heute"
-2026-04-01 02:52,Channel,Failed,0.392,Timeout or Error
-2026-04-01 02:52,Comments,OK,0.575,"{""commentCount"":10478544 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-01 02:52,Playlist,Failed,0.478,Timeout or Error
-2026-04-01 03:54,Video,Failed,0.374,Timeout or Error
-2026-04-01 03:54,Search,OK,0.9,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
-2026-04-01 03:54,Channel,Failed,0.467,Timeout or Error
-2026-04-01 03:54,Comments,OK,0.739,"{""commentCount"":10478551 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-01 03:54,Playlist,Failed,0.484,Timeout or Error
 2026-04-01 04:52,Video,Failed,0.309,Timeout or Error
 2026-04-01 04:52,Search,OK,0.916,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
 2026-04-01 04:52,Channel,Failed,0.403,Timeout or Error
@@ -2389,3 +2379,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-01 02:14,Channel,Failed,0.387,Timeout or Error
 2026-05-01 02:14,Comments,OK,0.634,"{""commentCount"":10503751 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-01 02:14,Playlist,Failed,0.359,Timeout or Error
+2026-05-01 04:11,Video,Failed,0.405,Timeout or Error
+2026-05-01 04:11,Search,OK,1.244,"[{""type"":""video"" ""title"":""CHINA-AUTO SCHOCKIERT IM TEST! Omid VERGLEICHT Xiaomi YU7 mit Ferrari Puro"
+2026-05-01 04:11,Channel,Failed,0.464,Timeout or Error
+2026-05-01 04:11,Comments,OK,0.718,"{""commentCount"":10503841 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-01 04:11,Playlist,Failed,0.45,Timeout or Error
