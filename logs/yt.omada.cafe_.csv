@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-03-31 22:04,Video,Failed,5.139,Timeout or Error
-2026-03-31 22:04,Search,OK,2.553,"[{""type"":""video"" ""title"":""Idiot Test - 90% fail"" ""videoId"":""2a4Uxdy9TQY"" ""author"":""BrainLift"" ""autho"
-2026-03-31 22:04,Channel,Failed,10.337,Timeout or Error
-2026-03-31 22:04,Comments,OK,5.845,"{""commentCount"":10478332 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-03-31 22:04,Playlist,Failed,10.025,Timeout or Error
-2026-03-31 23:57,Video,Failed,1.73,Timeout or Error
-2026-03-31 23:57,Search,OK,8.613,"[{""type"":""video"" ""title"":""Idiot Test - 90% fail"" ""videoId"":""2a4Uxdy9TQY"" ""author"":""BrainLift"" ""autho"
-2026-03-31 23:57,Channel,Failed,5.422,Timeout or Error
-2026-03-31 23:57,Comments,OK,5.916,"{""commentCount"":10478396 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-03-31 23:57,Playlist,Failed,1.109,Timeout or Error
 2026-04-01 01:05,Video,OK,13.441,
 2026-04-01 01:05,Search,OK,3.075,"[{""type"":""video"" ""title"":""Idiot Test - 90% fail"" ""videoId"":""2a4Uxdy9TQY"" ""author"":""BrainLift"" ""autho"
 2026-04-01 01:05,Channel,Failed,5.631,Timeout or Error
@@ -2394,3 +2384,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-30 21:11,Channel,Failed,0.89,Timeout or Error
 2026-04-30 21:11,Comments,OK,0.838,"{""commentCount"":10503955 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-04-30 21:11,Playlist,Failed,0.763,Timeout or Error
+2026-05-01 00:04,Video,OK,0.483,
+2026-05-01 00:04,Search,OK,1.343,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-05-01 00:04,Channel,Failed,0.443,Timeout or Error
+2026-05-01 00:04,Comments,OK,0.737,"{""commentCount"":10504034 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-01 00:04,Playlist,Failed,0.374,Timeout or Error
