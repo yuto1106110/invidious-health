@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-03-31 15:13,Video,Failed,3.19,Timeout or Error
-2026-03-31 15:13,Search,OK,6.345,"[{""type"":""video"" ""title"":""Will She Cheat With His Friend's Roommate?! | UDY Loyalty Test"" ""videoId"":"
-2026-03-31 15:13,Channel,Failed,10.018,Timeout or Error
-2026-03-31 15:13,Comments,OK,0.766,"{""commentCount"":10478210 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-03-31 15:13,Playlist,Failed,3.662,Timeout or Error
-2026-03-31 17:05,Video,Failed,10.016,Timeout or Error
-2026-03-31 17:05,Search,OK,5.03,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-03-31 17:05,Channel,Failed,10.409,Timeout or Error
-2026-03-31 17:05,Comments,OK,6.562,"{""commentCount"":10478228 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-03-31 17:05,Playlist,Failed,5.398,Timeout or Error
 2026-03-31 19:00,Video,Failed,20.031,Timeout or Error
 2026-03-31 19:00,Search,Failed,10.019,Timeout or Error
 2026-03-31 19:00,Channel,Failed,3.271,Timeout or Error
@@ -2399,3 +2389,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-04-30 14:53,Channel,Failed,0.615,Timeout or Error
 2026-04-30 14:53,Comments,OK,0.872,"{""commentCount"":10503744 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-04-30 14:53,Playlist,Failed,0.386,Timeout or Error
+2026-04-30 17:10,Video,OK,2.511,
+2026-04-30 17:10,Search,OK,1.37,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-04-30 17:10,Channel,Failed,0.986,Timeout or Error
+2026-04-30 17:10,Comments,OK,1.011,"{""commentCount"":10503824 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-04-30 17:10,Playlist,Failed,1.562,Timeout or Error
