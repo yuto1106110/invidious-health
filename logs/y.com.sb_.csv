@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-02 04:55,Video,Failed,0.503,Timeout or Error
-2026-04-02 04:55,Search,OK,1.028,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
-2026-04-02 04:55,Channel,Failed,0.499,Timeout or Error
-2026-04-02 04:55,Comments,OK,0.716,"{""commentCount"":10479254 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-02 04:55,Playlist,Failed,0.441,Timeout or Error
-2026-04-02 05:39,Video,Failed,0.699,Timeout or Error
-2026-04-02 05:39,Search,OK,1.12,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
-2026-04-02 05:39,Channel,Failed,0.579,Timeout or Error
-2026-04-02 05:39,Comments,OK,1.192,"{""commentCount"":10479300 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-02 05:39,Playlist,Failed,0.597,Timeout or Error
 2026-04-02 06:36,Video,Failed,0.4,Timeout or Error
 2026-04-02 06:36,Search,OK,0.84,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
 2026-04-02 06:36,Channel,Failed,1.22,Timeout or Error
@@ -2379,3 +2369,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-02 04:03,Channel,Failed,0.412,Timeout or Error
 2026-05-02 04:03,Comments,OK,0.644,"{""commentCount"":10504477 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-02 04:03,Playlist,Failed,0.407,Timeout or Error
+2026-05-02 05:43,Video,Failed,1.904,Timeout or Error
+2026-05-02 05:43,Search,Failed,1.341,Timeout or Error
+2026-05-02 05:43,Channel,Failed,0.701,Timeout or Error
+2026-05-02 05:43,Comments,OK,0.735,"{""commentCount"":10504548 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-02 05:43,Playlist,Failed,0.526,Timeout or Error
