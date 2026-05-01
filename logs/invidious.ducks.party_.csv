@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-01 16:13,Video,Failed,0.467,Timeout or Error
-2026-04-01 16:13,Search,OK,1.049,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
-2026-04-01 16:13,Channel,Failed,0.561,Timeout or Error
-2026-04-01 16:13,Comments,OK,0.737,"{""commentCount"":10478632 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-01 16:13,Playlist,Failed,0.517,Timeout or Error
 2026-04-01 17:57,Video,Failed,0.496,Timeout or Error
 2026-04-01 17:57,Search,OK,1.054,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
 2026-04-01 17:57,Channel,Failed,0.569,Timeout or Error
@@ -2379,3 +2374,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-01 15:10,Channel,Failed,0.411,Timeout or Error
 2026-05-01 15:10,Comments,OK,0.614,"{""commentCount"":10504000 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-01 15:10,Playlist,Failed,0.405,Timeout or Error
+2026-05-01 17:56,Video,Failed,0.308,Timeout or Error
+2026-05-01 17:56,Search,OK,0.931,"[{""type"":""video"" ""title"":""Honest TASTE TEST…👀☕️"" ""videoId"":""gDSy4oPfDUQ"" ""author"":""Chrissis.Chaoskit"
+2026-05-01 17:56,Channel,Failed,0.337,Timeout or Error
+2026-05-01 17:56,Comments,OK,0.632,"{""commentCount"":10504087 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-01 17:56,Playlist,Failed,0.342,Timeout or Error
