@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-01 17:57,Video,Failed,0.721,Timeout or Error
-2026-04-01 17:57,Search,OK,1.262,"[{""type"":""video"" ""title"":""50 QUESTIONS pour TESTER TON SAVOIR 🧠🤯 | Quiz Culture Générale"" ""videoId"":"
-2026-04-01 17:57,Channel,Failed,0.533,Timeout or Error
-2026-04-01 17:57,Comments,Failed,0.896,Timeout or Error
-2026-04-01 17:57,Playlist,Failed,0.711,Timeout or Error
-2026-04-01 19:07,Video,Failed,0.629,Timeout or Error
-2026-04-01 19:07,Search,OK,1.047,"[{""type"":""video"" ""title"":""OLED TEST HDR 4K 120FPS DOLBY VISION 🏞 4K / 8K Monitor Test Video #BGM"" ""v"
-2026-04-01 19:07,Channel,Failed,0.598,Timeout or Error
-2026-04-01 19:07,Comments,Failed,0.719,Timeout or Error
-2026-04-01 19:07,Playlist,Failed,0.639,Timeout or Error
 2026-04-01 20:47,Video,Failed,0.65,Timeout or Error
 2026-04-01 20:47,Search,OK,0.781,"[{""type"":""video"" ""title"":""Dolby Atmos 5.1 Surround Sound Test"" ""videoId"":""iTHtXgnhqfM"" ""author"":""JD "
 2026-04-01 20:47,Channel,Failed,0.482,Timeout or Error
@@ -2379,3 +2369,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-01 17:56,Channel,Failed,0.424,Timeout or Error
 2026-05-01 17:56,Comments,Failed,0.848,Timeout or Error
 2026-05-01 17:56,Playlist,Failed,0.41,Timeout or Error
+2026-05-01 19:21,Video,Failed,0.779,Timeout or Error
+2026-05-01 19:21,Search,Failed,1.365,Timeout or Error
+2026-05-01 19:21,Channel,Failed,0.432,Timeout or Error
+2026-05-01 19:21,Comments,Failed,0.953,Timeout or Error
+2026-05-01 19:21,Playlist,Failed,1.034,Timeout or Error

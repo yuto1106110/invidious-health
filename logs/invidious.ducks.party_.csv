@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-01 17:57,Video,Failed,0.496,Timeout or Error
-2026-04-01 17:57,Search,OK,1.054,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
-2026-04-01 17:57,Channel,Failed,0.569,Timeout or Error
-2026-04-01 17:57,Comments,OK,0.807,"{""commentCount"":10478685 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-01 17:57,Playlist,Failed,0.59,Timeout or Error
-2026-04-01 19:07,Video,Failed,0.312,Timeout or Error
-2026-04-01 19:07,Search,OK,0.776,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
-2026-04-01 19:07,Channel,Failed,0.395,Timeout or Error
-2026-04-01 19:07,Comments,OK,0.608,"{""commentCount"":10478670 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-01 19:07,Playlist,Failed,0.37,Timeout or Error
 2026-04-01 20:47,Video,Failed,0.373,Timeout or Error
 2026-04-01 20:47,Search,OK,0.923,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
 2026-04-01 20:47,Channel,Failed,0.466,Timeout or Error
@@ -2379,3 +2369,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-01 17:56,Channel,Failed,0.337,Timeout or Error
 2026-05-01 17:56,Comments,OK,0.632,"{""commentCount"":10504087 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-01 17:56,Playlist,Failed,0.342,Timeout or Error
+2026-05-01 19:21,Video,Failed,0.45,Timeout or Error
+2026-05-01 19:21,Search,OK,1.072,"[{""type"":""video"" ""title"":""Yamaha XSR900 Test 2026 - Retro Look  brutale Performance!"" ""videoId"":""93Y"
+2026-05-01 19:21,Channel,Failed,0.475,Timeout or Error
+2026-05-01 19:21,Comments,OK,0.72,"{""commentCount"":10504119 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-01 19:21,Playlist,Failed,0.486,Timeout or Error

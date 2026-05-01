@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-01 17:57,Video,OK,1.175,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-04-01 17:57,Search,OK,0.986,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
-2026-04-01 17:57,Channel,OK,0.502,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-04-01 17:57,Comments,OK,0.527,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-04-01 17:57,Playlist,Failed,0.556,Timeout or Error
-2026-04-01 19:07,Video,Failed,0.453,Timeout or Error
-2026-04-01 19:07,Search,OK,0.327,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-04-01 19:07,Channel,OK,0.326,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-04-01 19:07,Comments,OK,0.336,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-04-01 19:07,Playlist,OK,0.327,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-04-01 20:47,Video,Failed,0.515,Timeout or Error
 2026-04-01 20:47,Search,Failed,1.278,Timeout or Error
 2026-04-01 20:47,Channel,Failed,1.268,Timeout or Error
@@ -2379,3 +2369,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-01 17:56,Channel,OK,0.311,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-05-01 17:56,Comments,OK,0.314,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-05-01 17:56,Playlist,OK,0.311,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-01 19:21,Video,OK,0.709,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-01 19:21,Search,OK,0.449,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-01 19:21,Channel,OK,0.449,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-01 19:21,Comments,OK,0.448,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-01 19:21,Playlist,OK,0.445,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
