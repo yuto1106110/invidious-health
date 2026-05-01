@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-01 22:07,Video,Failed,0.364,Timeout or Error
-2026-04-01 22:07,Search,OK,0.855,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
-2026-04-01 22:07,Channel,Failed,0.403,Timeout or Error
-2026-04-01 22:07,Comments,OK,0.656,"{""commentCount"":10478850 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-01 22:07,Playlist,Failed,0.419,Timeout or Error
 2026-04-01 23:59,Video,Failed,0.506,Timeout or Error
 2026-04-01 23:59,Search,OK,1.201,"[{""type"":""video"" ""title"":""Hedge trimmer torture: Dead after 22 hours 😱 (Test hedge trimmers Stiftung"
 2026-04-01 23:59,Channel,Failed,0.588,Timeout or Error
@@ -2374,3 +2369,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-01 20:54,Channel,Failed,0.361,Timeout or Error
 2026-05-01 20:54,Comments,OK,0.614,"{""commentCount"":10504150 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-01 20:54,Playlist,Failed,0.347,Timeout or Error
+2026-05-01 22:07,Video,Failed,0.309,Timeout or Error
+2026-05-01 22:07,Search,OK,0.802,"[{""type"":""video"" ""title"":""Yamaha XSR900 Test 2026 - Retro Look  brutale Performance!"" ""videoId"":""93Y"
+2026-05-01 22:07,Channel,Failed,0.354,Timeout or Error
+2026-05-01 22:07,Comments,OK,0.705,"{""commentCount"":10504216 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-01 22:07,Playlist,Failed,0.345,Timeout or Error
