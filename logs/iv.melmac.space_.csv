@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-03 08:30,Video,Failed,1.219,Timeout or Error
-2026-04-03 08:30,Search,OK,0.883,"[{""type"":""video"" ""title"":""Zendaya und Robert Pattinson machen ein Freundschaftsquiz"" ""videoId"":""dSQ0"
-2026-04-03 08:30,Channel,Failed,0.891,Timeout or Error
-2026-04-03 08:30,Comments,OK,0.657,"{""commentCount"":10479907 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-03 08:30,Playlist,Failed,0.602,Timeout or Error
 2026-04-03 10:52,Video,Failed,1.12,Timeout or Error
 2026-04-03 10:52,Search,OK,1.016,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
 2026-04-03 10:52,Channel,Failed,0.673,Timeout or Error
@@ -2369,3 +2364,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-03 07:34,Channel,Failed,0.34,Timeout or Error
 2026-05-03 07:34,Comments,Failed,0.319,Timeout or Error
 2026-05-03 07:34,Playlist,Failed,0.319,Timeout or Error
+2026-05-03 08:37,Video,Failed,0.21,Timeout or Error
+2026-05-03 08:37,Search,Failed,0.21,Timeout or Error
+2026-05-03 08:37,Channel,Failed,0.209,Timeout or Error
+2026-05-03 08:37,Comments,Failed,0.209,Timeout or Error
+2026-05-03 08:37,Playlist,Failed,0.209,Timeout or Error
