@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-02 10:50,Video,Failed,0.364,Timeout or Error
-2026-04-02 10:50,Search,OK,0.822,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
-2026-04-02 10:50,Channel,Failed,0.37,Timeout or Error
-2026-04-02 10:50,Comments,OK,0.621,"{""commentCount"":10479460 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-02 10:50,Playlist,Failed,0.378,Timeout or Error
 2026-04-02 13:26,Video,Failed,0.363,Timeout or Error
 2026-04-02 13:26,Search,OK,0.719,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
 2026-04-02 13:26,Channel,Failed,0.368,Timeout or Error
@@ -2374,3 +2369,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-02 08:45,Channel,Failed,0.334,Timeout or Error
 2026-05-02 08:45,Comments,OK,0.514,"{""commentCount"":10504353 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-02 08:45,Playlist,Failed,0.342,Timeout or Error
+2026-05-02 11:09,Video,Failed,0.393,Timeout or Error
+2026-05-02 11:09,Search,OK,0.943,"[{""type"":""video"" ""title"":""First test drive! Alex drives the Type 00 | auto mobil"" ""videoId"":""vI7H6y_"
+2026-05-02 11:09,Channel,Failed,0.475,Timeout or Error
+2026-05-02 11:09,Comments,OK,0.616,"{""commentCount"":10504420 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-02 11:09,Playlist,Failed,0.451,Timeout or Error
