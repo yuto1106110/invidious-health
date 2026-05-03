@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-04 04:34,Video,Failed,0.745,Timeout or Error
-2026-04-04 04:34,Search,OK,1.102,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
-2026-04-04 04:34,Channel,Failed,0.567,Timeout or Error
-2026-04-04 04:34,Comments,OK,1.013,"{""commentCount"":10479973 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-04 04:34,Playlist,Failed,0.501,Timeout or Error
 2026-04-04 05:30,Video,Failed,0.72,Timeout or Error
 2026-04-04 05:30,Search,OK,1.121,"[{""type"":""video"" ""title"":""XPeng P7+ im ersten Test - Premium Elektroauto OHNE AUFPREIS - So gut ist "
 2026-04-04 05:30,Channel,Failed,0.63,Timeout or Error
@@ -2359,3 +2354,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-04 03:51,Channel,Failed,0.422,Timeout or Error
 2026-05-04 03:51,Comments,OK,0.753,"{""commentCount"":10503623 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-04 03:51,Playlist,Failed,0.482,Timeout or Error
+2026-05-04 04:50,Video,OK,1.06,
+2026-05-04 04:50,Search,OK,1.076,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-05-04 04:50,Channel,Failed,0.566,Timeout or Error
+2026-05-04 04:50,Comments,OK,0.819,"{""commentCount"":10503650 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-04 04:50,Playlist,Failed,0.544,Timeout or Error
