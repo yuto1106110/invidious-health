@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-04 02:29,Video,Failed,0.544,Timeout or Error
-2026-04-04 02:29,Search,OK,1.276,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
-2026-04-04 02:29,Channel,Failed,0.599,Timeout or Error
-2026-04-04 02:29,Comments,OK,0.837,"{""commentCount"":10479811 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-04 02:29,Playlist,Failed,0.599,Timeout or Error
 2026-04-04 03:39,Video,Failed,0.377,Timeout or Error
 2026-04-04 03:39,Search,OK,0.954,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
 2026-04-04 03:39,Channel,Failed,0.417,Timeout or Error
@@ -2359,3 +2354,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-04 01:42,Channel,Failed,0.432,Timeout or Error
 2026-05-04 01:42,Comments,OK,0.894,"{""commentCount"":10503546 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-04 01:42,Playlist,Failed,0.411,Timeout or Error
+2026-05-04 02:41,Video,Failed,0.532,Timeout or Error
+2026-05-04 02:41,Search,OK,1.219,"[{""type"":""video"" ""title"":""🚨 Bernd Zehner put to the test: Hype or quality?"" ""videoId"":""CnU7hgJYT2Y"" "
+2026-05-04 02:41,Channel,Failed,0.561,Timeout or Error
+2026-05-04 02:41,Comments,OK,0.871,"{""commentCount"":10501851 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-04 02:41,Playlist,Failed,0.59,Timeout or Error
