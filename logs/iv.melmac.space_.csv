@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-03 23:53,Video,Failed,1.219,Timeout or Error
-2026-04-03 23:53,Search,OK,1.139,"[{""type"":""video"" ""title"":""Ducati Monster 2026 | Test (deutsch)"" ""videoId"":""Aq7gNDfo9bk"" ""author"":""Mo"
-2026-04-03 23:53,Channel,Failed,0.453,Timeout or Error
-2026-04-03 23:53,Comments,OK,0.653,"{""commentCount"":10479550 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-03 23:53,Playlist,Failed,0.463,Timeout or Error
-2026-04-04 00:35,Video,Failed,0.574,Timeout or Error
-2026-04-04 00:35,Search,Failed,1.275,Timeout or Error
-2026-04-04 00:35,Channel,Failed,0.546,Timeout or Error
-2026-04-04 00:35,Comments,OK,0.852,"{""commentCount"":10479629 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-04 00:35,Playlist,Failed,0.525,Timeout or Error
 2026-04-04 01:34,Video,Failed,0.46,Timeout or Error
 2026-04-04 01:34,Search,Failed,0.465,Timeout or Error
 2026-04-04 01:34,Channel,Failed,0.454,Timeout or Error
@@ -2364,3 +2354,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-03 23:10,Channel,Failed,0.291,Timeout or Error
 2026-05-03 23:10,Comments,Failed,0.294,Timeout or Error
 2026-05-03 23:10,Playlist,Failed,0.286,Timeout or Error
+2026-05-04 00:41,Video,Failed,0.201,Timeout or Error
+2026-05-04 00:41,Search,Failed,0.212,Timeout or Error
+2026-05-04 00:41,Channel,Failed,0.202,Timeout or Error
+2026-05-04 00:41,Comments,Failed,0.21,Timeout or Error
+2026-05-04 00:41,Playlist,Failed,0.21,Timeout or Error
