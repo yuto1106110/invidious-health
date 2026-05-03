@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-03 10:52,Video,Failed,0.478,Timeout or Error
-2026-04-03 10:52,Search,OK,0.866,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
-2026-04-03 10:52,Channel,Failed,0.492,Timeout or Error
-2026-04-03 10:52,Comments,OK,0.677,"{""commentCount"":10479699 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-03 10:52,Playlist,Failed,0.498,Timeout or Error
 2026-04-03 13:26,Video,Failed,0.372,Timeout or Error
 2026-04-03 13:26,Search,OK,0.831,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
 2026-04-03 13:26,Channel,Failed,0.367,Timeout or Error
@@ -2369,3 +2364,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-03 08:37,Channel,Failed,0.335,Timeout or Error
 2026-05-03 08:37,Comments,OK,0.518,"{""commentCount"":10504700 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-03 08:37,Playlist,Failed,0.34,Timeout or Error
+2026-05-03 11:25,Video,Failed,0.435,Timeout or Error
+2026-05-03 11:25,Search,OK,0.872,"[{""type"":""video"" ""title"":""The Power of Perfect Color | 8K Dolby Vision HDR 60fps OLED TEST"" ""videoId"
+2026-05-03 11:25,Channel,Failed,0.487,Timeout or Error
+2026-05-03 11:25,Comments,OK,0.64,"{""commentCount"":10504414 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-03 11:25,Playlist,Failed,0.481,Timeout or Error

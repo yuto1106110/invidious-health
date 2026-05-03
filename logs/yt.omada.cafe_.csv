@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-03 10:52,Video,Failed,2.433,Timeout or Error
-2026-04-03 10:52,Search,OK,1.366,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-04-03 10:52,Channel,Failed,0.818,Timeout or Error
-2026-04-03 10:52,Comments,OK,1.055,"{""commentCount"":10479700 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-03 10:52,Playlist,Failed,0.815,Timeout or Error
 2026-04-03 13:26,Video,OK,1.565,
 2026-04-03 13:26,Search,OK,1.615,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-04-03 13:26,Channel,Failed,0.641,Timeout or Error
@@ -2369,3 +2364,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-03 08:37,Channel,Failed,1.133,Timeout or Error
 2026-05-03 08:37,Comments,OK,0.946,"{""commentCount"":10504699 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-03 08:37,Playlist,Failed,0.308,Timeout or Error
+2026-05-03 11:25,Video,OK,0.616,
+2026-05-03 11:25,Search,OK,1.43,"[{""type"":""video"" ""title"":""How Do Boys See You? 🤔💖 (Aesthetic Personality Test)"" ""videoId"":""q0Z86Mnkz"
+2026-05-03 11:25,Channel,Failed,1.62,Timeout or Error
+2026-05-03 11:25,Comments,OK,0.746,"{""commentCount"":10504417 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-03 11:25,Playlist,Failed,1.018,Timeout or Error
