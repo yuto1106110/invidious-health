@@ -1,19 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-04 15:53,Video,Failed,0.367,Timeout or Error
-2026-04-04 15:53,Search,OK,0.86,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
-2026-04-04 15:53,Channel,Failed,0.4,Timeout or Error
-2026-04-04 15:53,Comments,OK,0.642,"{""commentCount"":10480627 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-04 15:53,Playlist,Failed,0.409,Timeout or Error
-2026-04-04 16:45,Video,Failed,0.414,Timeout or Error
-2026-04-04 16:45,Search,OK,0.938,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
-2026-04-04 16:45,Channel,Failed,0.433,Timeout or Error
-2026-04-04 16:45,Comments,OK,0.714,"{""commentCount"":10480643 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-04 16:45,Playlist,Failed,0.436,Timeout or Error
-2026-04-04 17:34,Video,Failed,0.477,Timeout or Error
-2026-04-04 17:34,Search,OK,1.164,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
-2026-04-04 17:34,Channel,Failed,0.514,Timeout or Error
-2026-04-04 17:34,Comments,OK,0.863,"{""commentCount"":10480669 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-04 17:34,Playlist,Failed,0.637,Timeout or Error
 2026-04-04 18:32,Video,Failed,0.367,Timeout or Error
 2026-04-04 18:32,Search,OK,0.898,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
 2026-04-04 18:32,Channel,Failed,0.413,Timeout or Error
@@ -2354,3 +2339,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-04 14:58,Channel,Failed,0.201,Timeout or Error
 2026-05-04 14:58,Comments,Failed,0.202,Timeout or Error
 2026-05-04 14:58,Playlist,Failed,0.203,Timeout or Error
+2026-05-04 17:34,Video,Failed,0.356,Timeout or Error
+2026-05-04 17:34,Search,Failed,0.352,Timeout or Error
+2026-05-04 17:34,Channel,Failed,0.327,Timeout or Error
+2026-05-04 17:34,Comments,Failed,0.336,Timeout or Error
+2026-05-04 17:34,Playlist,Failed,0.342,Timeout or Error
