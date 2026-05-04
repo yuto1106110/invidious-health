@@ -1,19 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-04 22:49,Video,Failed,0.307,Timeout or Error
-2026-04-04 22:49,Search,Failed,0.308,Timeout or Error
-2026-04-04 22:49,Channel,Failed,0.308,Timeout or Error
-2026-04-04 22:49,Comments,OK,0.308,"{""commentCount"":10480815 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-04 22:49,Playlist,Failed,0.308,Timeout or Error
-2026-04-04 23:29,Video,Failed,0.508,Timeout or Error
-2026-04-04 23:29,Search,Failed,0.502,Timeout or Error
-2026-04-04 23:29,Channel,Failed,0.496,Timeout or Error
-2026-04-04 23:29,Comments,OK,0.491,"{""commentCount"":10480828 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-04 23:29,Playlist,Failed,0.512,Timeout or Error
-2026-04-05 00:26,Video,Failed,0.374,Timeout or Error
-2026-04-05 00:26,Search,Failed,0.373,Timeout or Error
-2026-04-05 00:26,Channel,Failed,0.391,Timeout or Error
-2026-04-05 00:26,Comments,OK,0.397,"{""commentCount"":10480850 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-05 00:26,Playlist,Failed,0.379,Timeout or Error
 2026-04-05 01:28,Video,Failed,0.355,Timeout or Error
 2026-04-05 01:28,Search,Failed,0.362,Timeout or Error
 2026-04-05 01:28,Channel,Failed,0.36,Timeout or Error
@@ -2334,3 +2319,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-04 22:46,Channel,Failed,0.352,Timeout or Error
 2026-05-04 22:46,Comments,OK,0.366,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
 2026-05-04 22:46,Playlist,OK,0.357,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
+2026-05-05 00:56,Video,Failed,0.431,Timeout or Error
+2026-05-05 00:56,Search,Failed,0.443,Timeout or Error
+2026-05-05 00:56,Channel,Failed,0.446,Timeout or Error
+2026-05-05 00:56,Comments,OK,0.445,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
+2026-05-05 00:56,Playlist,OK,0.444,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
