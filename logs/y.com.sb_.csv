@@ -1,24 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-05 21:44,Video,Failed,0.477,Timeout or Error
-2026-04-05 21:44,Search,OK,1.029,"[{""type"":""video"" ""title"":""NAVEE UT5 Max im Test: Ist der 999€ E-Scooter wirklich sein Geld wert? 🔥 #"
-2026-04-05 21:44,Channel,Failed,0.45,Timeout or Error
-2026-04-05 21:44,Comments,OK,1.095,"{""commentCount"":10481831 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-05 21:44,Playlist,Failed,0.492,Timeout or Error
-2026-04-05 22:50,Video,Failed,0.802,Timeout or Error
-2026-04-05 22:50,Search,OK,1.149,"[{""type"":""video"" ""title"":""NAVEE UT5 Max im Test: Ist der 999€ E-Scooter wirklich sein Geld wert? 🔥 #"
-2026-04-05 22:50,Channel,Failed,0.629,Timeout or Error
-2026-04-05 22:50,Comments,OK,0.877,"{""commentCount"":10481897 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-05 22:50,Playlist,Failed,0.589,Timeout or Error
-2026-04-05 23:31,Video,Failed,0.408,Timeout or Error
-2026-04-05 23:31,Search,OK,1.3,"[{""type"":""video"" ""title"":""NAVEE UT5 Max im Test: Ist der 999€ E-Scooter wirklich sein Geld wert? 🔥 #"
-2026-04-05 23:31,Channel,Failed,0.594,Timeout or Error
-2026-04-05 23:31,Comments,OK,0.998,"{""commentCount"":10481948 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-05 23:31,Playlist,Failed,0.669,Timeout or Error
-2026-04-06 00:26,Video,Failed,0.4,Timeout or Error
-2026-04-06 00:26,Search,OK,1.021,"[{""type"":""video"" ""title"":""NAVEE UT5 Max im Test: Ist der 999€ E-Scooter wirklich sein Geld wert? 🔥 #"
-2026-04-06 00:26,Channel,Failed,0.327,Timeout or Error
-2026-04-06 00:26,Comments,OK,0.592,"{""commentCount"":10482016 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-06 00:26,Playlist,Failed,0.345,Timeout or Error
 2026-04-06 01:30,Video,Failed,0.386,Timeout or Error
 2026-04-06 01:30,Search,OK,0.824,"[{""type"":""video"" ""title"":""NAVEE UT5 Max im Test: Ist der 999€ E-Scooter wirklich sein Geld wert? 🔥 #"
 2026-04-06 01:30,Channel,Failed,0.404,Timeout or Error
@@ -2294,3 +2274,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-05 20:56,Channel,Failed,0.604,Timeout or Error
 2026-05-05 20:56,Comments,OK,1.207,"{""commentCount"":10504155 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-05 20:56,Playlist,Failed,0.662,Timeout or Error
+2026-05-06 00:49,Video,Failed,0.304,Timeout or Error
+2026-05-06 00:49,Search,OK,1.008,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-05-06 00:49,Channel,Failed,0.367,Timeout or Error
+2026-05-06 00:49,Comments,OK,0.617,"{""commentCount"":10504327 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-06 00:49,Playlist,Failed,0.356,Timeout or Error

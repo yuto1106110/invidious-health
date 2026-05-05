@@ -1,24 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-05 21:44,Video,Failed,0.394,Timeout or Error
-2026-04-05 21:44,Search,Failed,0.407,Timeout or Error
-2026-04-05 21:44,Channel,Failed,0.373,Timeout or Error
-2026-04-05 21:44,Comments,OK,0.406,"{""commentCount"":10481752 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-05 21:44,Playlist,Failed,0.371,Timeout or Error
-2026-04-05 22:50,Video,Failed,0.5,Timeout or Error
-2026-04-05 22:50,Search,Failed,0.513,Timeout or Error
-2026-04-05 22:50,Channel,Failed,0.48,Timeout or Error
-2026-04-05 22:50,Comments,OK,0.512,"{""commentCount"":10481831 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-05 22:50,Playlist,Failed,0.5,Timeout or Error
-2026-04-05 23:31,Video,Failed,0.493,Timeout or Error
-2026-04-05 23:31,Search,Failed,0.48,Timeout or Error
-2026-04-05 23:31,Channel,Failed,0.496,Timeout or Error
-2026-04-05 23:31,Comments,OK,0.494,"{""commentCount"":10481897 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-05 23:31,Playlist,Failed,0.479,Timeout or Error
-2026-04-06 00:26,Video,Failed,0.311,Timeout or Error
-2026-04-06 00:26,Search,Failed,0.318,Timeout or Error
-2026-04-06 00:26,Channel,Failed,0.308,Timeout or Error
-2026-04-06 00:26,Comments,OK,0.307,"{""commentCount"":10481947 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-06 00:26,Playlist,Failed,0.308,Timeout or Error
 2026-04-06 01:30,Video,Failed,0.31,Timeout or Error
 2026-04-06 01:30,Search,Failed,0.308,Timeout or Error
 2026-04-06 01:30,Channel,Failed,0.308,Timeout or Error
@@ -2294,3 +2274,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-05 20:56,Channel,Failed,0.433,Timeout or Error
 2026-05-05 20:56,Comments,OK,0.442,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
 2026-05-05 20:56,Playlist,OK,0.434,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
+2026-05-06 00:49,Video,Failed,0.304,Timeout or Error
+2026-05-06 00:49,Search,Failed,0.304,Timeout or Error
+2026-05-06 00:49,Channel,Failed,0.304,Timeout or Error
+2026-05-06 00:49,Comments,OK,0.308,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
+2026-05-06 00:49,Playlist,OK,0.304,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
