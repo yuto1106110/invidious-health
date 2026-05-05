@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-05 15:12,Video,Failed,0.516,Timeout or Error
-2026-04-05 15:12,Search,OK,0.324,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-04-05 15:12,Channel,Failed,0.389,Timeout or Error
-2026-04-05 15:12,Comments,OK,0.329,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-04-05 15:12,Playlist,OK,0.33,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-04-05 16:52,Video,Failed,0.706,Timeout or Error
-2026-04-05 16:52,Search,OK,1.093,"[{""type"":""video"" ""title"":""NAVEE UT5 Max im Test: Ist der 999€ E-Scooter wirklich sein Geld wert? 🔥 #"
-2026-04-05 16:52,Channel,OK,0.437,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-04-05 16:52,Comments,OK,0.442,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-04-05 16:52,Playlist,Failed,1.302,Timeout or Error
 2026-04-05 17:37,Video,OK,0.647,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-04-05 17:37,Search,OK,0.451,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-04-05 17:37,Channel,OK,0.478,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
@@ -2309,3 +2299,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-05 14:37,Channel,OK,0.331,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-05-05 14:37,Comments,OK,0.334,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-05-05 14:37,Playlist,OK,0.333,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-05 17:00,Video,OK,0.941,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-05 17:00,Search,OK,0.476,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-05 17:00,Channel,OK,0.451,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-05 17:00,Comments,OK,0.474,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-05 17:00,Playlist,OK,0.45,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"

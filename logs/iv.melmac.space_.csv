@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-05 15:12,Video,Failed,0.315,Timeout or Error
-2026-04-05 15:12,Search,OK,0.837,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
-2026-04-05 15:12,Channel,Failed,0.35,Timeout or Error
-2026-04-05 15:12,Comments,OK,0.585,"{""commentCount"":10481465 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-05 15:12,Playlist,Failed,0.351,Timeout or Error
-2026-04-05 16:52,Video,Failed,0.444,Timeout or Error
-2026-04-05 16:52,Search,OK,1.035,"[{""type"":""video"" ""title"":""NAVEE UT5 Max im Test: Ist der 999€ E-Scooter wirklich sein Geld wert? 🔥 #"
-2026-04-05 16:52,Channel,Failed,0.503,Timeout or Error
-2026-04-05 16:52,Comments,OK,0.782,"{""commentCount"":10481550 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-05 16:52,Playlist,Failed,0.498,Timeout or Error
 2026-04-05 17:37,Video,Failed,0.473,Timeout or Error
 2026-04-05 17:37,Search,OK,1.041,"[{""type"":""video"" ""title"":""NAVEE UT5 Max im Test: Ist der 999€ E-Scooter wirklich sein Geld wert? 🔥 #"
 2026-04-05 17:37,Channel,Failed,0.7,Timeout or Error
@@ -2309,3 +2299,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-05 14:37,Channel,Failed,0.223,Timeout or Error
 2026-05-05 14:37,Comments,Failed,0.219,Timeout or Error
 2026-05-05 14:37,Playlist,Failed,0.222,Timeout or Error
+2026-05-05 17:00,Video,Failed,0.322,Timeout or Error
+2026-05-05 17:00,Search,Failed,0.304,Timeout or Error
+2026-05-05 17:00,Channel,Failed,0.297,Timeout or Error
+2026-05-05 17:00,Comments,Failed,0.313,Timeout or Error
+2026-05-05 17:00,Playlist,Failed,0.316,Timeout or Error
