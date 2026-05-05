@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-06 07:25,Video,Failed,0.367,Timeout or Error
-2026-04-06 07:25,Search,OK,0.852,"[{""type"":""video"" ""title"":""NAVEE UT5 Max im Test: Ist der 999€ E-Scooter wirklich sein Geld wert? 🔥 #"
-2026-04-06 07:25,Channel,Failed,0.376,Timeout or Error
-2026-04-06 07:25,Comments,OK,0.596,"{""commentCount"":10482550 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-06 07:25,Playlist,Failed,0.344,Timeout or Error
-2026-04-06 08:28,Video,Failed,0.431,Timeout or Error
-2026-04-06 08:28,Search,OK,0.823,"[{""type"":""video"" ""title"":""NAVEE UT5 Max im Test: Ist der 999€ E-Scooter wirklich sein Geld wert? 🔥 #"
-2026-04-06 08:28,Channel,Failed,0.401,Timeout or Error
-2026-04-06 08:28,Comments,OK,0.601,"{""commentCount"":10482609 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-06 08:28,Playlist,Failed,0.406,Timeout or Error
 2026-04-06 10:59,Video,Failed,0.493,Timeout or Error
 2026-04-06 10:59,Search,OK,0.875,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
 2026-04-06 10:59,Channel,Failed,0.504,Timeout or Error
@@ -2269,3 +2259,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-06 07:00,Channel,Failed,0.423,Timeout or Error
 2026-05-06 07:00,Comments,OK,0.643,"{""commentCount"":10504521 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-06 07:00,Playlist,Failed,0.416,Timeout or Error
+2026-05-06 08:42,Video,Failed,0.37,Timeout or Error
+2026-05-06 08:42,Search,OK,0.831,"[{""type"":""video"" ""title"":""The Chemical Brothers - The Test (Official Music Video)"" ""videoId"":""yhS9Ln"
+2026-05-06 08:42,Channel,Failed,0.42,Timeout or Error
+2026-05-06 08:42,Comments,OK,0.621,"{""commentCount"":10504578 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-06 08:42,Playlist,Failed,0.389,Timeout or Error
