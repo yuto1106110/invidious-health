@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-06 02:25,Video,Failed,0.54,Timeout or Error
-2026-04-06 02:25,Search,OK,0.863,"[{""type"":""video"" ""title"":""NAVEE UT5 Max im Test: Ist der 999€ E-Scooter wirklich sein Geld wert? 🔥 #"
-2026-04-06 02:25,Channel,OK,0.393,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-04-06 02:25,Comments,OK,0.881,"{""commentCount"":10482183 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-06 02:25,Playlist,OK,0.389,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-04-06 03:35,Video,Failed,0.493,Timeout or Error
-2026-04-06 03:35,Search,OK,1.102,"[{""type"":""video"" ""title"":""NAVEE UT5 Max im Test: Ist der 999€ E-Scooter wirklich sein Geld wert? 🔥 #"
-2026-04-06 03:35,Channel,OK,0.314,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-04-06 03:35,Comments,OK,0.615,"{""commentCount"":10482259 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-06 03:35,Playlist,OK,0.317,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-04-06 04:30,Video,Failed,0.473,Timeout or Error
 2026-04-06 04:30,Search,OK,0.997,"[{""type"":""video"" ""title"":""NAVEE UT5 Max im Test: Ist der 999€ E-Scooter wirklich sein Geld wert? 🔥 #"
 2026-04-06 04:30,Channel,Failed,0.376,Timeout or Error
@@ -2279,3 +2269,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-06 02:18,Channel,OK,0.325,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-05-06 02:18,Comments,OK,0.327,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-05-06 02:18,Playlist,OK,0.322,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-06 04:10,Video,OK,0.6,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-06 04:10,Search,OK,0.515,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-06 04:10,Channel,OK,0.494,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-06 04:10,Comments,OK,0.509,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-06 04:10,Playlist,OK,0.49,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
