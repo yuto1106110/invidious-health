@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-07 08:30,Video,Failed,0.5,Timeout or Error
-2026-04-07 08:30,Search,OK,0.857,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
-2026-04-07 08:30,Channel,Failed,0.508,Timeout or Error
-2026-04-07 08:30,Comments,OK,0.693,"{""commentCount"":10484425 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-07 08:30,Playlist,Failed,0.474,Timeout or Error
 2026-04-07 10:54,Video,Failed,0.511,Timeout or Error
 2026-04-07 10:54,Search,OK,0.92,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
 2026-04-07 10:54,Channel,Failed,0.544,Timeout or Error
@@ -2234,3 +2229,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-07 07:43,Channel,Failed,0.369,Timeout or Error
 2026-05-07 07:43,Comments,OK,0.585,"{""commentCount"":10505272 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-07 07:43,Playlist,Failed,0.375,Timeout or Error
+2026-05-07 08:43,Video,Failed,0.516,Timeout or Error
+2026-05-07 08:43,Search,OK,0.97,"[{""type"":""video"" ""title"":""KAWASAKI Z900 RS 2026 MOTORRAD TEST!"" ""videoId"":""dX8JDkRv50c"" ""author"":""Mo"
+2026-05-07 08:43,Channel,Failed,0.545,Timeout or Error
+2026-05-07 08:43,Comments,OK,0.68,"{""commentCount"":10505223 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-07 08:43,Playlist,Failed,0.553,Timeout or Error
