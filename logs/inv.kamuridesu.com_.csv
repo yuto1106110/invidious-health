@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-07 03:50,Video,Failed,0.446,Timeout or Error
-2026-04-07 03:50,Search,OK,1.014,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-04-07 03:50,Channel,Failed,0.481,Timeout or Error
-2026-04-07 03:50,Comments,OK,0.794,"{""commentCount"":10484036 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-07 03:50,Playlist,Failed,0.485,Timeout or Error
-2026-04-07 03:50,Video,Failed,0.404,Timeout or Error
-2026-04-07 03:50,Search,Failed,1.053,Timeout or Error
-2026-04-07 03:50,Channel,Failed,0.476,Timeout or Error
-2026-04-07 03:50,Comments,OK,0.788,"{""commentCount"":10484036 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-07 03:50,Playlist,Failed,0.515,Timeout or Error
 2026-04-07 04:48,Video,Failed,0.737,Timeout or Error
 2026-04-07 04:48,Search,Failed,1.281,Timeout or Error
 2026-04-07 04:48,Channel,Failed,0.822,Timeout or Error
@@ -4489,3 +4479,13 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-07 02:45,Channel,Failed,0.481,Timeout or Error
 2026-05-07 02:45,Comments,OK,0.704,"{""commentCount"":10505127 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-07 02:45,Playlist,Failed,0.504,Timeout or Error
+2026-05-07 04:29,Video,Failed,0.331,Timeout or Error
+2026-05-07 04:29,Search,OK,1.025,"[{""type"":""video"" ""title"":""Ultra Massive Details OLED HDR TEST | 16K HDR Nature Video | Dolby Vision "
+2026-05-07 04:29,Channel,Failed,0.4,Timeout or Error
+2026-05-07 04:29,Comments,OK,0.578,"{""commentCount"":10505190 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-07 04:29,Playlist,Failed,0.402,Timeout or Error
+2026-05-07 04:29,Video,Failed,0.328,Timeout or Error
+2026-05-07 04:29,Search,OK,0.96,"[{""type"":""video"" ""title"":""Ultra Massive Details OLED HDR TEST | 16K HDR Nature Video | Dolby Vision "
+2026-05-07 04:29,Channel,Failed,0.395,Timeout or Error
+2026-05-07 04:29,Comments,OK,0.742,"{""commentCount"":10505190 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-07 04:29,Playlist,Failed,0.403,Timeout or Error

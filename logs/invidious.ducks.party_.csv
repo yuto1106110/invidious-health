@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-07 03:50,Video,Failed,0.552,Timeout or Error
-2026-04-07 03:50,Search,OK,0.982,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
-2026-04-07 03:50,Channel,Failed,0.526,Timeout or Error
-2026-04-07 03:50,Comments,OK,0.763,"{""commentCount"":10484036 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-07 03:50,Playlist,Failed,0.538,Timeout or Error
 2026-04-07 04:48,Video,Failed,0.565,Timeout or Error
 2026-04-07 04:48,Search,OK,1.022,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
 2026-04-07 04:48,Channel,Failed,0.564,Timeout or Error
@@ -2244,3 +2239,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-07 02:45,Channel,Failed,0.59,Timeout or Error
 2026-05-07 02:45,Comments,OK,0.803,"{""commentCount"":10505127 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-07 02:45,Playlist,Failed,0.643,Timeout or Error
+2026-05-07 04:29,Video,Failed,0.31,Timeout or Error
+2026-05-07 04:29,Search,OK,0.961,"[{""type"":""video"" ""title"":""Ultra Massive Details OLED HDR TEST | 16K HDR Nature Video | Dolby Vision "
+2026-05-07 04:29,Channel,Failed,0.393,Timeout or Error
+2026-05-07 04:29,Comments,OK,0.72,"{""commentCount"":10505190 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-07 04:29,Playlist,Failed,0.414,Timeout or Error
