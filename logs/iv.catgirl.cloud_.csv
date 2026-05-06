@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-07 06:33,Video,OK,0.39,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-04-07 06:33,Search,OK,0.377,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-04-07 06:33,Channel,OK,0.39,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-04-07 06:33,Comments,Failed,1.263,Timeout or Error
-2026-04-07 06:33,Playlist,Failed,1.262,Timeout or Error
-2026-04-07 07:30,Video,OK,0.595,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-04-07 07:30,Search,OK,0.778,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
-2026-04-07 07:30,Channel,Failed,0.368,Timeout or Error
-2026-04-07 07:30,Comments,OK,0.932,"{""commentCount"":10484341 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-07 07:30,Playlist,Failed,0.373,Timeout or Error
 2026-04-07 08:30,Video,Failed,0.569,Timeout or Error
 2026-04-07 08:30,Search,OK,1.109,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
 2026-04-07 08:30,Channel,Failed,0.499,Timeout or Error
@@ -2239,3 +2229,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-07 06:06,Channel,OK,0.372,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-05-07 06:06,Comments,OK,0.379,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-05-07 06:06,Playlist,OK,0.367,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-07 07:43,Video,OK,1.11,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-07 07:43,Search,OK,0.327,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-07 07:43,Channel,OK,0.327,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-07 07:43,Comments,OK,0.327,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-07 07:43,Playlist,OK,0.325,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"

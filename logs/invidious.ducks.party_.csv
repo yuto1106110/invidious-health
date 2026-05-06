@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-07 06:33,Video,Failed,0.426,Timeout or Error
-2026-04-07 06:33,Search,OK,0.835,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
-2026-04-07 06:33,Channel,Failed,0.441,Timeout or Error
-2026-04-07 06:33,Comments,OK,0.685,"{""commentCount"":10484261 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-07 06:33,Playlist,Failed,0.378,Timeout or Error
-2026-04-07 07:30,Video,Failed,0.359,Timeout or Error
-2026-04-07 07:30,Search,OK,0.727,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
-2026-04-07 07:30,Channel,Failed,0.342,Timeout or Error
-2026-04-07 07:30,Comments,OK,0.531,"{""commentCount"":10484343 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-07 07:30,Playlist,Failed,0.344,Timeout or Error
 2026-04-07 08:30,Video,Failed,0.5,Timeout or Error
 2026-04-07 08:30,Search,OK,0.857,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
 2026-04-07 08:30,Channel,Failed,0.508,Timeout or Error
@@ -2239,3 +2229,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-07 06:06,Channel,Failed,0.426,Timeout or Error
 2026-05-07 06:06,Comments,OK,0.676,"{""commentCount"":10505216 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-07 06:06,Playlist,Failed,0.427,Timeout or Error
+2026-05-07 07:43,Video,Failed,0.311,Timeout or Error
+2026-05-07 07:43,Search,OK,0.795,"[{""type"":""video"" ""title"":""KAWASAKI Z900 RS 2026 MOTORRAD TEST!"" ""videoId"":""dX8JDkRv50c"" ""author"":""Mo"
+2026-05-07 07:43,Channel,Failed,0.369,Timeout or Error
+2026-05-07 07:43,Comments,OK,0.585,"{""commentCount"":10505272 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-07 07:43,Playlist,Failed,0.375,Timeout or Error
