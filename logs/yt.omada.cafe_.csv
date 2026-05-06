@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-06 23:11,Video,OK,1.458,
-2026-04-06 23:11,Search,OK,1.122,"[{""type"":""video"" ""title"":""Seekae - Test & Recognise (Flume Re-Work)"" ""videoId"":""wMzIHuWh_I0"" ""author"
-2026-04-06 23:11,Channel,Failed,0.709,Timeout or Error
-2026-04-06 23:11,Comments,OK,0.938,"{""commentCount"":10483522 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-06 23:11,Playlist,Failed,0.609,Timeout or Error
-2026-04-07 00:40,Video,OK,1.554,
-2026-04-07 00:40,Search,OK,2.009,"[{""type"":""video"" ""title"":""Seekae - Test & Recognise (Flume Re-Work)"" ""videoId"":""wMzIHuWh_I0"" ""author"
-2026-04-07 00:40,Channel,Failed,0.606,Timeout or Error
-2026-04-07 00:40,Comments,OK,1.247,"{""commentCount"":10483709 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-07 00:40,Playlist,Failed,0.419,Timeout or Error
 2026-04-07 01:39,Video,OK,0.996,
 2026-04-07 01:39,Search,OK,0.862,"[{""type"":""video"" ""title"":""Seekae - Test & Recognise (Flume Re-Work)"" ""videoId"":""wMzIHuWh_I0"" ""author"
 2026-04-07 01:39,Channel,Failed,0.333,Timeout or Error
@@ -2254,3 +2244,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-06 22:54,Channel,Failed,0.657,Timeout or Error
 2026-05-06 22:54,Comments,OK,1.616,"{""commentCount"":10504902 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-06 22:54,Playlist,Failed,0.874,Timeout or Error
+2026-05-07 00:59,Video,OK,0.903,
+2026-05-07 00:59,Search,Failed,1.804,Timeout or Error
+2026-05-07 00:59,Channel,Failed,0.704,Timeout or Error
+2026-05-07 00:59,Comments,OK,1.409,"{""commentCount"":10505039 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-07 00:59,Playlist,Failed,1.001,Timeout or Error

@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-06 23:11,Video,Failed,0.629,Timeout or Error
-2026-04-06 23:11,Search,Failed,1.339,Timeout or Error
-2026-04-06 23:11,Channel,OK,0.514,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-04-06 23:11,Comments,OK,0.534,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-04-06 23:11,Playlist,OK,0.521,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-04-07 00:40,Video,OK,0.756,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-04-07 00:40,Search,OK,0.405,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-04-07 00:40,Channel,OK,0.429,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-04-07 00:40,Comments,OK,0.89,"{""commentCount"":10483711 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-07 00:40,Playlist,OK,0.414,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-04-07 01:39,Video,Failed,0.51,Timeout or Error
 2026-04-07 01:39,Search,Failed,1.276,Timeout or Error
 2026-04-07 01:39,Channel,Failed,1.269,Timeout or Error
@@ -2254,3 +2244,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-06 22:54,Channel,OK,0.462,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-05-06 22:54,Comments,OK,0.46,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-05-06 22:54,Playlist,OK,0.461,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-07 00:59,Video,OK,1.014,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-07 00:59,Search,OK,0.539,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-07 00:59,Channel,OK,0.493,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-07 00:59,Comments,OK,0.482,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-07 00:59,Playlist,OK,0.518,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"

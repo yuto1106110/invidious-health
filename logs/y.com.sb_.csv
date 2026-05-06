@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-06 23:11,Video,Failed,0.551,Timeout or Error
-2026-04-06 23:11,Search,OK,0.931,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
-2026-04-06 23:11,Channel,Failed,0.541,Timeout or Error
-2026-04-06 23:11,Comments,OK,0.839,"{""commentCount"":10483521 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-06 23:11,Playlist,Failed,0.618,Timeout or Error
-2026-04-07 00:40,Video,Failed,0.424,Timeout or Error
-2026-04-07 00:40,Search,OK,1.181,"[{""type"":""video"" ""title"":""RazFlow - TEST"" ""videoId"":""22izxhm315c"" ""author"":""RazFlow"" ""authorId"":""UCf"
-2026-04-07 00:40,Channel,Failed,0.419,Timeout or Error
-2026-04-07 00:40,Comments,OK,0.706,"{""commentCount"":10483714 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-07 00:40,Playlist,Failed,0.532,Timeout or Error
 2026-04-07 01:39,Video,Failed,0.552,Timeout or Error
 2026-04-07 01:39,Search,OK,0.97,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
 2026-04-07 01:39,Channel,Failed,0.382,Timeout or Error
@@ -2254,3 +2244,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-06 22:54,Channel,Failed,0.29,Timeout or Error
 2026-05-06 22:54,Comments,Failed,0.28,Timeout or Error
 2026-05-06 22:54,Playlist,Failed,0.291,Timeout or Error
+2026-05-07 00:59,Video,Failed,0.345,Timeout or Error
+2026-05-07 00:59,Search,Failed,0.355,Timeout or Error
+2026-05-07 00:59,Channel,Failed,0.328,Timeout or Error
+2026-05-07 00:59,Comments,Failed,0.355,Timeout or Error
+2026-05-07 00:59,Playlist,Failed,0.333,Timeout or Error
