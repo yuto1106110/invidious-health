@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-07 19:03,Video,Failed,0.498,Timeout or Error
-2026-04-07 19:03,Search,OK,1.058,"[{""type"":""video"" ""title"":""Hedge trimmer torture: Dead after 22 hours 😱 (Test hedge trimmers Stiftung"
-2026-04-07 19:03,Channel,Failed,0.526,Timeout or Error
-2026-04-07 19:03,Comments,OK,0.777,"{""commentCount"":10484851 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-07 19:03,Playlist,Failed,0.565,Timeout or Error
 2026-04-07 20:49,Video,Failed,0.317,Timeout or Error
 2026-04-07 20:49,Search,OK,0.85,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
 2026-04-07 20:49,Channel,Failed,0.38,Timeout or Error
@@ -2229,3 +2224,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-07 17:31,Channel,Failed,0.428,Timeout or Error
 2026-05-07 17:31,Comments,OK,0.683,"{""commentCount"":10505428 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-07 17:31,Playlist,Failed,0.438,Timeout or Error
+2026-05-07 20:05,Video,Failed,0.393,Timeout or Error
+2026-05-07 20:05,Search,OK,0.809,"[{""type"":""video"" ""title"":""CHEAP VS EXPENSIVE KINDER BUENO BARS #foryou #food #delicious #eating #tes"
+2026-05-07 20:05,Channel,Failed,0.434,Timeout or Error
+2026-05-07 20:05,Comments,OK,0.934,"{""commentCount"":10505557 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-07 20:05,Playlist,Failed,0.442,Timeout or Error
