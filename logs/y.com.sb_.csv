@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-08 03:56,Video,Failed,0.501,Timeout or Error
-2026-04-08 03:56,Search,OK,1.006,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
-2026-04-08 03:56,Channel,Failed,0.599,Timeout or Error
-2026-04-08 03:56,Comments,OK,0.796,"{""commentCount"":10485147 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-08 03:56,Playlist,Failed,0.497,Timeout or Error
-2026-04-08 04:55,Video,Failed,0.781,Timeout or Error
-2026-04-08 04:55,Search,OK,1.169,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
-2026-04-08 04:55,Channel,Failed,0.567,Timeout or Error
-2026-04-08 04:55,Comments,OK,0.791,"{""commentCount"":10485156 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-08 04:55,Playlist,Failed,0.574,Timeout or Error
 2026-04-08 05:41,Video,Failed,0.442,Timeout or Error
 2026-04-08 05:41,Search,OK,1.007,"[{""type"":""video"" ""title"":""5.1 Surround Sound Test PCM | Dolby Digital 5.1 Test | 4K"" ""videoId"":""4FEz"
 2026-04-08 05:41,Channel,Failed,0.443,Timeout or Error
@@ -2219,3 +2209,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-08 03:20,Channel,Failed,0.45,Timeout or Error
 2026-05-08 03:20,Comments,OK,0.674,"{""commentCount"":10505916 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-08 03:20,Playlist,Failed,0.966,Timeout or Error
+2026-05-08 05:10,Video,Failed,0.401,Timeout or Error
+2026-05-08 05:10,Search,OK,0.913,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-05-08 05:10,Channel,Failed,0.462,Timeout or Error
+2026-05-08 05:10,Comments,OK,0.711,"{""commentCount"":10506002 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-08 05:10,Playlist,Failed,0.44,Timeout or Error
