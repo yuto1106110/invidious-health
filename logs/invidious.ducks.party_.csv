@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-07 13:30,Video,Failed,0.317,Timeout or Error
-2026-04-07 13:30,Search,OK,0.68,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
-2026-04-07 13:30,Channel,Failed,0.358,Timeout or Error
-2026-04-07 13:30,Comments,OK,0.492,"{""commentCount"":10484714 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-07 13:30,Playlist,Failed,0.343,Timeout or Error
 2026-04-07 15:17,Video,Failed,0.41,Timeout or Error
 2026-04-07 15:17,Search,OK,0.901,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
 2026-04-07 15:17,Channel,Failed,0.459,Timeout or Error
@@ -2234,3 +2229,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-07 11:25,Channel,Failed,0.48,Timeout or Error
 2026-05-07 11:25,Comments,OK,0.641,"{""commentCount"":10505273 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-07 11:25,Playlist,Failed,0.455,Timeout or Error
+2026-05-07 14:56,Video,Failed,0.434,Timeout or Error
+2026-05-07 14:56,Search,OK,1.034,"[{""type"":""video"" ""title"":""CHEAP VS EXPENSIVE KINDER BUENO BARS #foryou #food #delicious #eating #tes"
+2026-05-07 14:56,Channel,Failed,0.512,Timeout or Error
+2026-05-07 14:56,Comments,OK,0.76,"{""commentCount"":10505343 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-07 14:56,Playlist,Failed,0.515,Timeout or Error
