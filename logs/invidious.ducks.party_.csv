@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-09 03:04,Video,Failed,0.312,Timeout or Error
-2026-04-09 03:04,Search,OK,0.848,"[{""type"":""video"" ""title"":""Hotline-Test extrem: Hilft der Kundenservice beim Kreuzworträtsel? | Exper"
-2026-04-09 03:04,Channel,Failed,0.407,Timeout or Error
-2026-04-09 03:04,Comments,OK,0.648,"{""commentCount"":10485262 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-09 03:04,Playlist,Failed,0.377,Timeout or Error
 2026-04-09 04:55,Video,Failed,0.474,Timeout or Error
 2026-04-09 04:55,Search,OK,1.005,"[{""type"":""video"" ""title"":""Hotline-Test extrem: Hilft der Kundenservice beim Kreuzworträtsel? | Exper"
 2026-04-09 04:55,Channel,Failed,0.433,Timeout or Error
@@ -2204,3 +2199,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-09 02:08,Channel,Failed,0.46,Timeout or Error
 2026-05-09 02:08,Comments,OK,0.713,"{""commentCount"":10507066 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-09 02:08,Playlist,Failed,0.466,Timeout or Error
+2026-05-09 04:09,Video,Failed,0.429,Timeout or Error
+2026-05-09 04:09,Search,OK,1.104,"[{""type"":""video"" ""title"":""Amazon verarscht dich: 19€ Akkuschrauber im knallharten Test"" ""videoId"":""L"
+2026-05-09 04:09,Channel,Failed,0.519,Timeout or Error
+2026-05-09 04:09,Comments,OK,0.838,"{""commentCount"":10507167 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-09 04:09,Playlist,Failed,0.495,Timeout or Error
