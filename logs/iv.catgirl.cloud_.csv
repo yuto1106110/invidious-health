@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-08 20:50,Video,OK,0.736,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-04-08 20:50,Search,OK,0.997,"[{""type"":""video"" ""title"":""How to Answer Any Question on a Test"" ""videoId"":""imJFJTXJX48"" ""author"":""Go"
-2026-04-08 20:50,Channel,OK,0.386,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-04-08 20:50,Comments,OK,0.76,"{""commentCount"":10484966 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-08 20:50,Playlist,Failed,1.279,Timeout or Error
-2026-04-08 22:09,Video,OK,0.527,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-04-08 22:09,Search,OK,1.069,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
-2026-04-08 22:09,Channel,OK,0.501,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-04-08 22:09,Comments,OK,0.779,"{""commentCount"":10485007 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-08 22:09,Playlist,OK,0.529,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-04-09 00:05,Video,Failed,1.368,Timeout or Error
 2026-04-09 00:05,Search,OK,0.522,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-04-09 00:05,Channel,Failed,1.364,Timeout or Error
@@ -2209,3 +2199,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-08 20:07,Channel,OK,0.408,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-05-08 20:07,Comments,OK,0.422,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-05-08 20:07,Playlist,OK,0.411,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-08 22:19,Video,OK,0.665,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-08 22:19,Search,OK,0.328,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-08 22:19,Channel,OK,0.322,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-08 22:19,Comments,OK,0.328,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-08 22:19,Playlist,OK,0.331,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
