@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-09 07:34,Video,Failed,0.585,Timeout or Error
-2026-04-09 07:34,Search,OK,1.214,"[{""type"":""video"" ""title"":""50 QUESTIONS pour TESTER TON SAVOIR 🧠🤯 | Quiz Culture Générale"" ""videoId"":"
-2026-04-09 07:34,Channel,Failed,0.662,Timeout or Error
-2026-04-09 07:34,Comments,Failed,0.805,Timeout or Error
-2026-04-09 07:34,Playlist,Failed,0.43,Timeout or Error
 2026-04-09 08:33,Video,Failed,0.602,Timeout or Error
 2026-04-09 08:33,Search,Failed,0.97,Timeout or Error
 2026-04-09 08:33,Channel,Failed,0.43,Timeout or Error
@@ -2199,3 +2194,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-09 06:54,Channel,Failed,0.482,Timeout or Error
 2026-05-09 06:54,Comments,Failed,0.608,Timeout or Error
 2026-05-09 06:54,Playlist,Failed,0.356,Timeout or Error
+2026-05-09 07:51,Video,Failed,0.429,Timeout or Error
+2026-05-09 07:51,Search,OK,0.853,"[{""type"":""video"" ""title"":""4K Test Monitor Color / Monitor-Farbtest (RGB and CMYK)"" ""videoId"":""IVdyt2"
+2026-05-09 07:51,Channel,Failed,0.415,Timeout or Error
+2026-05-09 07:51,Comments,Failed,0.635,Timeout or Error
+2026-05-09 07:51,Playlist,Failed,0.568,Timeout or Error
