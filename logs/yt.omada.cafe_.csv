@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-08 13:35,Video,OK,1.689,
-2026-04-08 13:35,Search,OK,1.553,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-04-08 13:35,Channel,Failed,0.678,Timeout or Error
-2026-04-08 13:35,Comments,OK,0.942,"{""commentCount"":10484754 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-08 13:35,Playlist,Failed,0.58,Timeout or Error
 2026-04-08 15:18,Video,OK,1.537,
 2026-04-08 15:18,Search,OK,1.296,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-04-08 15:18,Channel,Failed,0.872,Timeout or Error
@@ -2209,3 +2204,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-08 11:33,Channel,Failed,0.607,Timeout or Error
 2026-05-08 11:33,Comments,OK,0.929,"{""commentCount"":10506262 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-08 11:33,Playlist,Failed,0.478,Timeout or Error
+2026-05-08 14:25,Video,Failed,1.178,Timeout or Error
+2026-05-08 14:25,Search,OK,0.933,"[{""type"":""video"" ""title"":""Is He Turning Off His Location To Cheat? | UDY Loyalty Test"" ""videoId"":""wU"
+2026-05-08 14:25,Channel,Failed,0.569,Timeout or Error
+2026-05-08 14:25,Comments,OK,0.862,"{""commentCount"":10506384 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-08 14:25,Playlist,Failed,0.533,Timeout or Error
