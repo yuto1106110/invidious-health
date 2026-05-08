@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-09 01:55,Video,Failed,0.523,Timeout or Error
-2026-04-09 01:55,Search,OK,1.017,"[{""type"":""video"" ""title"":""Horrorfilmwaffen im echten Leben testen!"" ""videoId"":""3WIqFg-Dfek"" ""author"""
-2026-04-09 01:55,Channel,Failed,0.549,Timeout or Error
-2026-04-09 01:55,Comments,OK,0.777,"{""commentCount"":10485213 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-09 01:55,Playlist,Failed,0.619,Timeout or Error
 2026-04-09 03:04,Video,Failed,0.312,Timeout or Error
 2026-04-09 03:04,Search,OK,0.848,"[{""type"":""video"" ""title"":""Hotline-Test extrem: Hilft der Kundenservice beim Kreuzworträtsel? | Exper"
 2026-04-09 03:04,Channel,Failed,0.407,Timeout or Error
@@ -2204,3 +2199,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-09 00:16,Channel,Failed,0.532,Timeout or Error
 2026-05-09 00:16,Comments,OK,0.793,"{""commentCount"":10506933 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-09 00:16,Playlist,Failed,0.588,Timeout or Error
+2026-05-09 02:08,Video,Failed,0.41,Timeout or Error
+2026-05-09 02:08,Search,OK,1.215,"[{""type"":""video"" ""title"":""Hedge trimmer torture: Dead after 22 hours 😱 (Test hedge trimmers Stiftung"
+2026-05-09 02:08,Channel,Failed,0.46,Timeout or Error
+2026-05-09 02:08,Comments,OK,0.713,"{""commentCount"":10507066 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-09 02:08,Playlist,Failed,0.466,Timeout or Error
