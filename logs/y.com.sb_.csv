@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-09 22:13,Video,Failed,0.496,Timeout or Error
-2026-04-09 22:13,Search,OK,1.093,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-04-09 22:13,Channel,Failed,0.487,Timeout or Error
-2026-04-09 22:13,Comments,OK,0.855,"{""commentCount"":10486323 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-09 22:13,Playlist,Failed,0.476,Timeout or Error
 2026-04-10 00:17,Video,Failed,1.167,Timeout or Error
 2026-04-10 00:17,Search,OK,1.149,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-04-10 00:17,Channel,Failed,0.386,Timeout or Error
@@ -2204,3 +2199,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-09 22:03,Channel,Failed,0.488,Timeout or Error
 2026-05-09 22:03,Comments,OK,0.747,"{""commentCount"":10507997 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-09 22:03,Playlist,Failed,0.493,Timeout or Error
+2026-05-09 23:44,Video,Failed,0.341,Timeout or Error
+2026-05-09 23:44,Search,OK,0.89,"[{""type"":""video"" ""title"":""HIGHLIGHTS | Bangladesh vs Pakistan  1st Test | Day 2 | Pakistan tour of B"
+2026-05-09 23:44,Channel,Failed,0.375,Timeout or Error
+2026-05-09 23:44,Comments,OK,0.779,"{""commentCount"":10508079 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-09 23:44,Playlist,Failed,0.377,Timeout or Error
