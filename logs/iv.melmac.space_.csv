@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-10 00:17,Video,Failed,0.655,Timeout or Error
-2026-04-10 00:17,Search,OK,1.157,"[{""type"":""video"" ""title"":""Können Bayern überhaupt Deutsch? Lutz van der Horst macht den Test | heute"
-2026-04-10 00:17,Channel,Failed,0.487,Timeout or Error
-2026-04-10 00:17,Comments,OK,0.92,"{""commentCount"":10486275 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-10 00:17,Playlist,Failed,0.874,Timeout or Error
 2026-04-10 02:01,Video,Failed,0.595,Timeout or Error
 2026-04-10 02:01,Search,OK,1.272,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
 2026-04-10 02:01,Channel,Failed,0.524,Timeout or Error
@@ -2204,3 +2199,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-09 23:44,Channel,Failed,0.246,Timeout or Error
 2026-05-09 23:44,Comments,Failed,0.245,Timeout or Error
 2026-05-09 23:44,Playlist,Failed,0.237,Timeout or Error
+2026-05-10 00:44,Video,Failed,0.238,Timeout or Error
+2026-05-10 00:44,Search,Failed,0.246,Timeout or Error
+2026-05-10 00:44,Channel,Failed,0.238,Timeout or Error
+2026-05-10 00:44,Comments,Failed,0.242,Timeout or Error
+2026-05-10 00:44,Playlist,Failed,0.238,Timeout or Error
