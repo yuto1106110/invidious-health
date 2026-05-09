@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-09 20:51,Video,Failed,0.317,Timeout or Error
-2026-04-09 20:51,Search,OK,1.213,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
-2026-04-09 20:51,Channel,Failed,0.409,Timeout or Error
-2026-04-09 20:51,Comments,OK,0.603,"{""commentCount"":10486281 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-09 20:51,Playlist,Failed,0.385,Timeout or Error
 2026-04-09 22:13,Video,Failed,0.605,Timeout or Error
 2026-04-09 22:13,Search,OK,1.192,"[{""type"":""video"" ""title"":""Hedge trimmer torture: Dead after 22 hours 😱 (Test hedge trimmers Stiftung"
 2026-04-09 22:13,Channel,Failed,0.578,Timeout or Error
@@ -2204,3 +2199,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-09 20:44,Channel,Failed,0.322,Timeout or Error
 2026-05-09 20:44,Comments,Failed,0.338,Timeout or Error
 2026-05-09 20:44,Playlist,Failed,0.324,Timeout or Error
+2026-05-09 22:03,Video,Failed,0.33,Timeout or Error
+2026-05-09 22:03,Search,Failed,0.323,Timeout or Error
+2026-05-09 22:03,Channel,Failed,0.325,Timeout or Error
+2026-05-09 22:03,Comments,Failed,0.316,Timeout or Error
+2026-05-09 22:03,Playlist,Failed,0.33,Timeout or Error
