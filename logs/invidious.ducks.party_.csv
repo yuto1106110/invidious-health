@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-10 03:56,Video,Failed,0.423,Timeout or Error
-2026-04-10 03:56,Search,OK,1.114,"[{""type"":""video"" ""title"":""Absolutely the Best OLED HDR Test Ever | Dolby Vision 16K HDR 240FPS (8K/4"
-2026-04-10 03:56,Channel,Failed,0.524,Timeout or Error
-2026-04-10 03:56,Comments,OK,0.749,"{""commentCount"":10486054 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-10 03:56,Playlist,Failed,0.453,Timeout or Error
 2026-04-10 05:01,Video,Failed,0.368,Timeout or Error
 2026-04-10 05:01,Search,OK,0.874,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
 2026-04-10 05:01,Channel,Failed,0.401,Timeout or Error
@@ -2214,3 +2209,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-10 03:52,Channel,Failed,0.473,Timeout or Error
 2026-05-10 03:52,Comments,OK,0.725,"{""commentCount"":10508227 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-10 03:52,Playlist,Failed,0.446,Timeout or Error
+2026-05-10 04:53,Video,Failed,0.31,Timeout or Error
+2026-05-10 04:53,Search,OK,0.846,"[{""type"":""video"" ""title"":""Hedge trimmer torture: Dead after 22 hours 😱 (Test hedge trimmers Stiftung"
+2026-05-10 04:53,Channel,Failed,0.389,Timeout or Error
+2026-05-10 04:53,Comments,OK,0.79,"{""commentCount"":10508313 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-10 04:53,Playlist,Failed,0.405,Timeout or Error
