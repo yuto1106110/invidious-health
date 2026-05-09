@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-10 05:01,Video,OK,0.749,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-04-10 05:01,Search,OK,0.331,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-04-10 05:01,Channel,OK,0.335,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-04-10 05:01,Comments,OK,0.322,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-04-10 05:01,Playlist,Failed,1.235,Timeout or Error
 2026-04-10 06:41,Video,Failed,1.22,Timeout or Error
 2026-04-10 06:41,Search,OK,1.151,"[{""type"":""video"" ""title"":""Absolutely the Best OLED HDR Test Ever | Dolby Vision 16K HDR 240FPS (8K/4"
 2026-04-10 06:41,Channel,Failed,1.23,Timeout or Error
@@ -2214,3 +2209,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-10 04:53,Channel,OK,0.31,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-05-10 04:53,Comments,OK,0.333,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-05-10 04:53,Playlist,OK,0.313,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-10 05:38,Video,OK,0.818,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-10 05:38,Search,OK,0.319,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-10 05:38,Channel,OK,0.326,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-10 05:38,Comments,OK,0.325,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-10 05:38,Playlist,OK,0.323,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"

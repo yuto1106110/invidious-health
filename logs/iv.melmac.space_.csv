@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-10 05:01,Video,Failed,0.326,Timeout or Error
-2026-04-10 05:01,Search,OK,1.066,"[{""type"":""video"" ""title"":""Absolutely the Best OLED HDR Test Ever | Dolby Vision 16K HDR 240FPS (8K/4"
-2026-04-10 05:01,Channel,Failed,0.375,Timeout or Error
-2026-04-10 05:01,Comments,OK,0.683,"{""commentCount"":10486111 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-10 05:01,Playlist,Failed,1.214,Timeout or Error
 2026-04-10 06:41,Video,Failed,0.399,Timeout or Error
 2026-04-10 06:41,Search,OK,0.833,"[{""type"":""video"" ""title"":""The Chemical Brothers - The Test (Official Music Video)"" ""videoId"":""yhS9Ln"
 2026-04-10 06:41,Channel,Failed,0.378,Timeout or Error
@@ -2214,3 +2209,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-10 04:53,Channel,Failed,0.209,Timeout or Error
 2026-05-10 04:53,Comments,Failed,0.209,Timeout or Error
 2026-05-10 04:53,Playlist,Failed,0.211,Timeout or Error
+2026-05-10 05:38,Video,Failed,0.21,Timeout or Error
+2026-05-10 05:38,Search,Failed,0.21,Timeout or Error
+2026-05-10 05:38,Channel,Failed,0.21,Timeout or Error
+2026-05-10 05:38,Comments,Failed,0.209,Timeout or Error
+2026-05-10 05:38,Playlist,Failed,0.214,Timeout or Error

@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-10 05:01,Video,Failed,0.368,Timeout or Error
-2026-04-10 05:01,Search,OK,0.874,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
-2026-04-10 05:01,Channel,Failed,0.401,Timeout or Error
-2026-04-10 05:01,Comments,OK,0.702,"{""commentCount"":10486112 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-10 05:01,Playlist,Failed,0.414,Timeout or Error
 2026-04-10 06:41,Video,Failed,0.369,Timeout or Error
 2026-04-10 06:41,Search,OK,0.842,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
 2026-04-10 06:41,Channel,Failed,0.379,Timeout or Error
@@ -2214,3 +2209,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-10 04:53,Channel,Failed,0.389,Timeout or Error
 2026-05-10 04:53,Comments,OK,0.79,"{""commentCount"":10508313 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-10 04:53,Playlist,Failed,0.405,Timeout or Error
+2026-05-10 05:38,Video,Failed,0.317,Timeout or Error
+2026-05-10 05:38,Search,OK,0.909,"[{""type"":""video"" ""title"":""Highlights des 2. Testspieltags | Bangladesch gegen Pakistan | ICC World T"
+2026-05-10 05:38,Channel,Failed,0.389,Timeout or Error
+2026-05-10 05:38,Comments,OK,0.641,"{""commentCount"":10508285 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-10 05:38,Playlist,Failed,0.387,Timeout or Error
