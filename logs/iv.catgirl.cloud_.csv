@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-10 06:41,Video,Failed,1.22,Timeout or Error
-2026-04-10 06:41,Search,OK,1.151,"[{""type"":""video"" ""title"":""Absolutely the Best OLED HDR Test Ever | Dolby Vision 16K HDR 240FPS (8K/4"
-2026-04-10 06:41,Channel,Failed,1.23,Timeout or Error
-2026-04-10 06:41,Comments,OK,0.55,"{""commentCount"":10486175 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-10 06:41,Playlist,Failed,1.228,Timeout or Error
-2026-04-10 07:36,Video,Failed,0.46,Timeout or Error
-2026-04-10 07:36,Search,OK,1.118,"[{""type"":""video"" ""title"":""5.1 Surround Sound Test PCM | Dolby Digital 5.1 Test | 4K"" ""videoId"":""4FEz"
-2026-04-10 07:36,Channel,Failed,0.721,Timeout or Error
-2026-04-10 07:36,Comments,OK,0.579,"{""commentCount"":10486198 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-10 07:36,Playlist,Failed,0.386,Timeout or Error
 2026-04-10 08:33,Video,Failed,0.491,Timeout or Error
 2026-04-10 08:33,Search,OK,0.316,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-04-10 08:33,Channel,Failed,0.378,Timeout or Error
@@ -2219,3 +2209,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-10 06:37,Channel,OK,0.372,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-05-10 06:37,Comments,OK,0.368,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-05-10 06:37,Playlist,OK,0.376,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-10 07:36,Video,OK,0.844,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-10 07:36,Search,OK,0.488,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-10 07:36,Channel,OK,0.531,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-10 07:36,Comments,OK,0.491,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-10 07:36,Playlist,OK,0.5,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"

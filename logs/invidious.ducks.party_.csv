@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-10 06:41,Video,Failed,0.369,Timeout or Error
-2026-04-10 06:41,Search,OK,0.842,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
-2026-04-10 06:41,Channel,Failed,0.379,Timeout or Error
-2026-04-10 06:41,Comments,OK,0.704,"{""commentCount"":10486176 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-10 06:41,Playlist,Failed,0.375,Timeout or Error
-2026-04-10 07:36,Video,Failed,0.371,Timeout or Error
-2026-04-10 07:36,Search,OK,0.763,"[{""type"":""video"" ""title"":""The Chemical Brothers - The Test (Official Music Video)"" ""videoId"":""yhS9Ln"
-2026-04-10 07:36,Channel,Failed,0.363,Timeout or Error
-2026-04-10 07:36,Comments,OK,0.613,"{""commentCount"":10486198 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-10 07:36,Playlist,Failed,0.395,Timeout or Error
 2026-04-10 08:33,Video,Failed,0.372,Timeout or Error
 2026-04-10 08:33,Search,OK,0.799,"[{""type"":""video"" ""title"":""She Faked Being Blind To Test Her Students! 🕵️‍♀️🎓"" ""videoId"":""VpL0oK1-3v4"
 2026-04-10 08:33,Channel,Failed,0.371,Timeout or Error
@@ -2219,3 +2209,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-10 06:37,Channel,Failed,0.437,Timeout or Error
 2026-05-10 06:37,Comments,OK,0.699,"{""commentCount"":10508274 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-10 06:37,Playlist,Failed,0.421,Timeout or Error
+2026-05-10 07:36,Video,Failed,0.531,Timeout or Error
+2026-05-10 07:36,Search,OK,0.997,"[{""type"":""video"" ""title"":""Hedge trimmer torture: Dead after 22 hours 😱 (Test hedge trimmers Stiftung"
+2026-05-10 07:36,Channel,Failed,0.565,Timeout or Error
+2026-05-10 07:36,Comments,OK,0.834,"{""commentCount"":10508318 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-10 07:36,Playlist,Failed,0.565,Timeout or Error
