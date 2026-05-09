@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-10 02:01,Video,Failed,0.595,Timeout or Error
-2026-04-10 02:01,Search,OK,1.272,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
-2026-04-10 02:01,Channel,Failed,0.524,Timeout or Error
-2026-04-10 02:01,Comments,OK,0.833,"{""commentCount"":10486096 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-10 02:01,Playlist,Failed,1.313,Timeout or Error
 2026-04-10 03:56,Video,Failed,0.505,Timeout or Error
 2026-04-10 03:56,Search,OK,1.206,"[{""type"":""video"" ""title"":""Absolutely the Best OLED HDR Test Ever | Dolby Vision 16K HDR 240FPS (8K/4"
 2026-04-10 03:56,Channel,Failed,0.567,Timeout or Error
@@ -2209,3 +2204,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-10 01:45,Channel,Failed,0.322,Timeout or Error
 2026-05-10 01:45,Comments,Failed,0.336,Timeout or Error
 2026-05-10 01:45,Playlist,Failed,0.336,Timeout or Error
+2026-05-10 02:43,Video,Failed,0.252,Timeout or Error
+2026-05-10 02:43,Search,Failed,0.267,Timeout or Error
+2026-05-10 02:43,Channel,Failed,0.266,Timeout or Error
+2026-05-10 02:43,Comments,Failed,0.265,Timeout or Error
+2026-05-10 02:43,Playlist,Failed,0.257,Timeout or Error

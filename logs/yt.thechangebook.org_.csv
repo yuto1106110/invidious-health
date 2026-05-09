@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-10 02:01,Video,Failed,0.736,Timeout or Error
-2026-04-10 02:01,Search,OK,1.163,"[{""type"":""video"" ""title"":""50 QUESTIONS pour TESTER TON SAVOIR 🧠🤯 | Quiz Culture Générale"" ""videoId"":"
-2026-04-10 02:01,Channel,Failed,0.568,Timeout or Error
-2026-04-10 02:01,Comments,Failed,0.837,Timeout or Error
-2026-04-10 02:01,Playlist,Failed,0.757,Timeout or Error
 2026-04-10 03:56,Video,Failed,0.609,Timeout or Error
 2026-04-10 03:56,Search,OK,1.079,"[{""type"":""video"" ""title"":""Absolutely the Best OLED HDR Test Ever | Dolby Vision 16K HDR 240FPS (8K/4"
 2026-04-10 03:56,Channel,Failed,0.556,Timeout or Error
@@ -2209,3 +2204,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-10 01:45,Channel,Failed,0.865,Timeout or Error
 2026-05-10 01:45,Comments,Failed,0.867,Timeout or Error
 2026-05-10 01:45,Playlist,Failed,0.544,Timeout or Error
+2026-05-10 02:43,Video,Failed,0.667,Timeout or Error
+2026-05-10 02:43,Search,Failed,1.243,Timeout or Error
+2026-05-10 02:43,Channel,Failed,0.628,Timeout or Error
+2026-05-10 02:43,Comments,Failed,0.791,Timeout or Error
+2026-05-10 02:43,Playlist,Failed,0.68,Timeout or Error
