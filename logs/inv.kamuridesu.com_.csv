@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-11 05:29,Video,Failed,0.421,Timeout or Error
-2026-04-11 05:29,Search,Failed,1.053,Timeout or Error
-2026-04-11 05:29,Channel,Failed,0.487,Timeout or Error
-2026-04-11 05:29,Comments,OK,0.767,"{""commentCount"":10486757 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-11 05:29,Playlist,Failed,0.49,Timeout or Error
-2026-04-11 05:29,Video,Failed,0.445,Timeout or Error
-2026-04-11 05:29,Search,Failed,1.051,Timeout or Error
-2026-04-11 05:29,Channel,Failed,0.515,Timeout or Error
-2026-04-11 05:29,Comments,OK,0.715,"{""commentCount"":10486758 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-11 05:29,Playlist,Failed,0.488,Timeout or Error
 2026-04-11 06:32,Video,Failed,0.466,Timeout or Error
 2026-04-11 06:32,Search,Failed,1.032,Timeout or Error
 2026-04-11 06:32,Channel,Failed,0.527,Timeout or Error
@@ -4419,3 +4409,13 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-11 04:55,Channel,Failed,0.451,Timeout or Error
 2026-05-11 04:55,Comments,OK,0.822,"{""commentCount"":10507688 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-11 04:55,Playlist,Failed,0.681,Timeout or Error
+2026-05-11 05:42,Video,Failed,0.431,Timeout or Error
+2026-05-11 05:42,Search,Failed,1.03,Timeout or Error
+2026-05-11 05:42,Channel,Failed,0.488,Timeout or Error
+2026-05-11 05:42,Comments,OK,0.745,"{""commentCount"":10507713 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-11 05:42,Playlist,Failed,0.551,Timeout or Error
+2026-05-11 05:42,Video,Failed,0.399,Timeout or Error
+2026-05-11 05:42,Search,Failed,1.027,Timeout or Error
+2026-05-11 05:42,Channel,Failed,0.478,Timeout or Error
+2026-05-11 05:42,Comments,OK,0.785,"{""commentCount"":10507713 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-11 05:42,Playlist,Failed,0.519,Timeout or Error

@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-11 05:29,Video,Failed,0.466,Timeout or Error
-2026-04-11 05:29,Search,OK,1.135,"[{""type"":""video"" ""title"":""Welches Schloss hält Dieben stand? Der große Test | CHIP"" ""videoId"":""j0mOg"
-2026-04-11 05:29,Channel,Failed,0.582,Timeout or Error
-2026-04-11 05:29,Comments,OK,0.849,"{""commentCount"":10486756 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-11 05:29,Playlist,Failed,0.524,Timeout or Error
 2026-04-11 06:32,Video,Failed,0.506,Timeout or Error
 2026-04-11 06:32,Search,OK,1.141,"[{""type"":""video"" ""title"":""Indestructible military folding knife?! Cold Steel Engage put to the test "
 2026-04-11 06:32,Channel,Failed,0.586,Timeout or Error
@@ -2209,3 +2204,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-11 04:55,Channel,Failed,0.292,Timeout or Error
 2026-05-11 04:55,Comments,Failed,0.285,Timeout or Error
 2026-05-11 04:55,Playlist,Failed,0.282,Timeout or Error
+2026-05-11 05:42,Video,Failed,0.322,Timeout or Error
+2026-05-11 05:42,Search,Failed,0.334,Timeout or Error
+2026-05-11 05:42,Channel,Failed,0.326,Timeout or Error
+2026-05-11 05:42,Comments,Failed,0.327,Timeout or Error
+2026-05-11 05:42,Playlist,Failed,0.337,Timeout or Error
