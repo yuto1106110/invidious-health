@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-10 11:00,Video,Failed,0.497,Timeout or Error
-2026-04-10 11:00,Search,OK,0.958,"[{""type"":""video"" ""title"":""How to Answer Any Question on a Test"" ""videoId"":""imJFJTXJX48"" ""author"":""Go"
-2026-04-10 11:00,Channel,Failed,0.509,Timeout or Error
-2026-04-10 11:00,Comments,OK,0.652,"{""commentCount"":10486334 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-10 11:00,Playlist,Failed,0.512,Timeout or Error
 2026-04-10 14:20,Video,Failed,0.375,Timeout or Error
 2026-04-10 14:20,Search,OK,0.891,"[{""type"":""video"" ""title"":""OLED TEST HDR 4K 120FPS DOLBY VISION 🏞 4K / 8K Monitor Test Video #BGM"" ""v"
 2026-04-10 14:20,Channel,Failed,0.35,Timeout or Error
@@ -2214,3 +2209,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-10 08:41,Channel,Failed,0.37,Timeout or Error
 2026-05-10 08:41,Comments,OK,0.692,"{""commentCount"":10508351 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-10 08:41,Playlist,Failed,0.376,Timeout or Error
+2026-05-10 11:28,Video,Failed,0.38,Timeout or Error
+2026-05-10 11:28,Search,OK,0.819,"[{""type"":""video"" ""title"":""Hedge trimmer torture: Dead after 22 hours 😱 (Test hedge trimmers Stiftung"
+2026-05-10 11:28,Channel,Failed,0.447,Timeout or Error
+2026-05-10 11:28,Comments,OK,0.622,"{""commentCount"":10508431 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-10 11:28,Playlist,Failed,0.423,Timeout or Error
