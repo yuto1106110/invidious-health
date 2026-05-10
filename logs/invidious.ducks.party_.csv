@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-10 14:20,Video,Failed,0.375,Timeout or Error
-2026-04-10 14:20,Search,OK,0.891,"[{""type"":""video"" ""title"":""OLED TEST HDR 4K 120FPS DOLBY VISION 🏞 4K / 8K Monitor Test Video #BGM"" ""v"
-2026-04-10 14:20,Channel,Failed,0.35,Timeout or Error
-2026-04-10 14:20,Comments,OK,0.536,"{""commentCount"":10486386 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-10 14:20,Playlist,Failed,0.345,Timeout or Error
 2026-04-10 16:19,Video,Failed,0.583,Timeout or Error
 2026-04-10 16:19,Search,OK,1.008,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
 2026-04-10 16:19,Channel,Failed,0.579,Timeout or Error
@@ -2214,3 +2209,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-10 11:28,Channel,Failed,0.447,Timeout or Error
 2026-05-10 11:28,Comments,OK,0.622,"{""commentCount"":10508431 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-10 11:28,Playlist,Failed,0.423,Timeout or Error
+2026-05-10 14:59,Video,Failed,0.311,Timeout or Error
+2026-05-10 14:59,Search,OK,0.778,"[{""type"":""video"" ""title"":""4K Test Monitor Color / Monitor-Farbtest (RGB and CMYK)"" ""videoId"":""IVdyt2"
+2026-05-10 14:59,Channel,Failed,0.337,Timeout or Error
+2026-05-10 14:59,Comments,OK,0.624,"{""commentCount"":10508724 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-10 14:59,Playlist,Failed,0.364,Timeout or Error
