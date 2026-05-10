@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-11 07:31,Video,Failed,0.542,Timeout or Error
-2026-04-11 07:31,Search,OK,0.985,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-04-11 07:31,Channel,Failed,0.575,Timeout or Error
-2026-04-11 07:31,Comments,OK,0.852,"{""commentCount"":10486822 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-11 07:31,Playlist,Failed,0.59,Timeout or Error
 2026-04-11 08:29,Video,Failed,0.545,Timeout or Error
 2026-04-11 08:29,Search,OK,1.038,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
 2026-04-11 08:29,Channel,Failed,0.564,Timeout or Error
@@ -2209,3 +2204,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-11 06:41,Channel,Failed,0.378,Timeout or Error
 2026-05-11 06:41,Comments,OK,0.622,"{""commentCount"":10507737 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-11 06:41,Playlist,Failed,0.375,Timeout or Error
+2026-05-11 07:40,Video,Failed,0.468,Timeout or Error
+2026-05-11 07:40,Search,OK,0.898,"[{""type"":""video"" ""title"":""Grilling ANYWHERE for €50?! 😳 Camping Gas Grill Test"" ""videoId"":""jivU7M8Ea"
+2026-05-11 07:40,Channel,Failed,0.501,Timeout or Error
+2026-05-11 07:40,Comments,OK,0.683,"{""commentCount"":10507773 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-11 07:40,Playlist,Failed,0.525,Timeout or Error
