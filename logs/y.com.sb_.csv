@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-12 07:25,Video,Failed,0.481,Timeout or Error
-2026-04-12 07:25,Search,OK,0.937,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-04-12 07:25,Channel,Failed,0.367,Timeout or Error
-2026-04-12 07:25,Comments,OK,0.658,"{""commentCount"":10487986 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-12 07:25,Playlist,Failed,0.352,Timeout or Error
-2026-04-12 08:28,Video,Failed,0.39,Timeout or Error
-2026-04-12 08:28,Search,OK,0.703,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-04-12 08:28,Channel,Failed,0.32,Timeout or Error
-2026-04-12 08:28,Comments,OK,0.548,"{""commentCount"":10488037 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-12 08:28,Playlist,Failed,0.384,Timeout or Error
 2026-04-12 11:02,Video,Failed,0.382,Timeout or Error
 2026-04-12 11:02,Search,OK,0.745,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-04-12 11:02,Channel,Failed,0.342,Timeout or Error
@@ -2154,3 +2144,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-12 07:01,Channel,Failed,0.509,Timeout or Error
 2026-05-12 07:01,Comments,OK,0.718,"{""commentCount"":10508294 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-12 07:01,Playlist,Failed,0.513,Timeout or Error
+2026-05-12 08:52,Video,Failed,0.426,Timeout or Error
+2026-05-12 08:52,Search,OK,0.808,"[{""type"":""video"" ""title"":""𝐇𝐈𝐆𝐇𝐋𝐈𝐆𝐇𝐓𝐒 | 𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡 𝐯𝐬 𝐏𝐚𝐤𝐢𝐬𝐭𝐚𝐧  𝟏𝐬𝐭 𝐓𝐞𝐬𝐭 | 𝐃𝐚𝐲 𝟒 | 𝐏𝐚𝐤𝐢𝐬𝐭𝐚𝐧 𝐭𝐨𝐮𝐫 𝐨𝐟 𝐁"
+2026-05-12 08:52,Channel,Failed,0.451,Timeout or Error
+2026-05-12 08:52,Comments,OK,0.658,"{""commentCount"":10508325 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-12 08:52,Playlist,Failed,0.449,Timeout or Error
