@@ -1,19 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-12 01:30,Video,Failed,0.67,Timeout or Error
-2026-04-12 01:30,Search,OK,0.989,"[{""type"":""video"" ""title"":""50 QUESTIONS pour TESTER TON SAVOIR 🧠🤯 | Quiz Culture Générale"" ""videoId"":"
-2026-04-12 01:30,Channel,Failed,0.62,Timeout or Error
-2026-04-12 01:30,Comments,Failed,0.781,Timeout or Error
-2026-04-12 01:30,Playlist,Failed,0.599,Timeout or Error
-2026-04-12 02:26,Video,Failed,0.652,Timeout or Error
-2026-04-12 02:26,Search,OK,1.293,"[{""type"":""video"" ""title"":""50 QUESTIONS pour TESTER TON SAVOIR 🧠🤯 | Quiz Culture Générale"" ""videoId"":"
-2026-04-12 02:26,Channel,Failed,0.595,Timeout or Error
-2026-04-12 02:26,Comments,Failed,0.987,Timeout or Error
-2026-04-12 02:26,Playlist,Failed,0.496,Timeout or Error
-2026-04-12 03:36,Video,Failed,0.494,Timeout or Error
-2026-04-12 03:36,Search,OK,1.021,"[{""type"":""video"" ""title"":""50 QUESTIONS pour TESTER TON SAVOIR 🧠🤯 | Quiz Culture Générale"" ""videoId"":"
-2026-04-12 03:36,Channel,Failed,0.682,Timeout or Error
-2026-04-12 03:36,Comments,Failed,0.681,Timeout or Error
-2026-04-12 03:36,Playlist,Failed,0.342,Timeout or Error
 2026-04-12 04:31,Video,Failed,0.596,Timeout or Error
 2026-04-12 04:31,Search,OK,1.081,"[{""type"":""video"" ""title"":""50 QUESTIONS pour TESTER TON SAVOIR 🧠🤯 | Quiz Culture Générale"" ""videoId"":"
 2026-04-12 04:31,Channel,Failed,0.473,Timeout or Error
@@ -2169,3 +2154,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-12 01:28,Channel,Failed,0.614,Timeout or Error
 2026-05-12 01:28,Comments,Failed,0.692,Timeout or Error
 2026-05-12 01:28,Playlist,Failed,0.365,Timeout or Error
+2026-05-12 03:53,Video,Failed,0.595,Timeout or Error
+2026-05-12 03:53,Search,OK,1.166,"[{""type"":""video"" ""title"":""𝐇𝐈𝐆𝐇𝐋𝐈𝐆𝐇𝐓𝐒 | 𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡 𝐯𝐬 𝐏𝐚𝐤𝐢𝐬𝐭𝐚𝐧  𝟏𝐬𝐭 𝐓𝐞𝐬𝐭 | 𝐃𝐚𝐲 𝟒 | 𝐏𝐚𝐤𝐢𝐬𝐭𝐚𝐧 𝐭𝐨𝐮𝐫 𝐨𝐟 𝐁"
+2026-05-12 03:53,Channel,Failed,0.578,Timeout or Error
+2026-05-12 03:53,Comments,Failed,0.942,Timeout or Error
+2026-05-12 03:53,Playlist,Failed,0.556,Timeout or Error
