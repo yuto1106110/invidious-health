@@ -1,29 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-11 15:59,Video,Failed,0.644,Timeout or Error
-2026-04-11 15:59,Search,Failed,0.838,Timeout or Error
-2026-04-11 15:59,Channel,Failed,0.598,Timeout or Error
-2026-04-11 15:59,Comments,Failed,0.601,Timeout or Error
-2026-04-11 15:59,Playlist,Failed,0.582,Timeout or Error
-2026-04-11 16:54,Video,Failed,0.434,Timeout or Error
-2026-04-11 16:54,Search,OK,1.072,"[{""type"":""video"" ""title"":""50 QUESTIONS pour TESTER TON SAVOIR 🧠🤯 | Quiz Culture Générale"" ""videoId"":"
-2026-04-11 16:54,Channel,Failed,0.405,Timeout or Error
-2026-04-11 16:54,Comments,Failed,0.696,Timeout or Error
-2026-04-11 16:54,Playlist,Failed,0.485,Timeout or Error
-2026-04-11 17:36,Video,Failed,0.639,Timeout or Error
-2026-04-11 17:36,Search,OK,1.054,"[{""type"":""video"" ""title"":""50 QUESTIONS pour TESTER TON SAVOIR 🧠🤯 | Quiz Culture Générale"" ""videoId"":"
-2026-04-11 17:36,Channel,Failed,0.367,Timeout or Error
-2026-04-11 17:36,Comments,Failed,0.825,Timeout or Error
-2026-04-11 17:36,Playlist,Failed,0.536,Timeout or Error
-2026-04-11 18:35,Video,Failed,0.573,Timeout or Error
-2026-04-11 18:35,Search,OK,1.219,"[{""type"":""video"" ""title"":""50 QUESTIONS pour TESTER TON SAVOIR 🧠🤯 | Quiz Culture Générale"" ""videoId"":"
-2026-04-11 18:35,Channel,Failed,0.813,Timeout or Error
-2026-04-11 18:35,Comments,Failed,0.743,Timeout or Error
-2026-04-11 18:35,Playlist,Failed,0.591,Timeout or Error
-2026-04-11 19:29,Video,Failed,0.703,Timeout or Error
-2026-04-11 19:29,Search,OK,1.025,"[{""type"":""video"" ""title"":""TEST LG G6 : l’un des meilleurs téléviseurs de 2026 ?"" ""videoId"":""zv96K_iU"
-2026-04-11 19:29,Channel,Failed,0.69,Timeout or Error
-2026-04-11 19:29,Comments,Failed,0.746,Timeout or Error
-2026-04-11 19:29,Playlist,Failed,0.681,Timeout or Error
 2026-04-11 20:25,Video,Failed,0.391,Timeout or Error
 2026-04-11 20:25,Search,OK,0.868,"[{""type"":""video"" ""title"":""test de maturité"" ""videoId"":""NCwKe6rHpMc"" ""author"":""MatureCOW fv!"" ""author"
 2026-04-11 20:25,Channel,Failed,0.475,Timeout or Error
@@ -2204,3 +2179,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-11 15:33,Channel,Failed,0.396,Timeout or Error
 2026-05-11 15:33,Comments,Failed,0.801,Timeout or Error
 2026-05-11 15:33,Playlist,Failed,0.433,Timeout or Error
+2026-05-11 19:33,Video,Failed,0.671,Timeout or Error
+2026-05-11 19:33,Search,OK,0.976,"[{""type"":""video"" ""title"":""50 QUESTIONS pour TESTER TON SAVOIR 🧠🤯 | Quiz Culture Générale"" ""videoId"":"
+2026-05-11 19:33,Channel,Failed,0.645,Timeout or Error
+2026-05-11 19:33,Comments,Failed,0.822,Timeout or Error
+2026-05-11 19:33,Playlist,Failed,0.536,Timeout or Error
