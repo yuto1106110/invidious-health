@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-11 10:50,Video,Failed,0.38,Timeout or Error
-2026-04-11 10:50,Search,Failed,0.942,Timeout or Error
-2026-04-11 10:50,Channel,Failed,0.461,Timeout or Error
-2026-04-11 10:50,Comments,Failed,0.746,Timeout or Error
-2026-04-11 10:50,Playlist,Failed,0.367,Timeout or Error
 2026-04-11 13:17,Video,Failed,0.639,Timeout or Error
 2026-04-11 13:17,Search,OK,0.96,"[{""type"":""video"" ""title"":""OLED TEST HDR 4K 120FPS DOLBY VISION 🏞 4K / 8K Monitor Test Video #BGM"" ""v"
 2026-04-11 13:17,Channel,Failed,0.408,Timeout or Error
@@ -2209,3 +2204,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-11 08:44,Channel,Failed,0.575,Timeout or Error
 2026-05-11 08:44,Comments,Failed,0.813,Timeout or Error
 2026-05-11 08:44,Playlist,Failed,0.402,Timeout or Error
+2026-05-11 11:37,Video,Failed,0.423,Timeout or Error
+2026-05-11 11:37,Search,OK,0.982,"[{""type"":""video"" ""title"":""Je teste toutes les ARNAQUES d'EGYPTE (extrême)"" ""videoId"":""3jPzF6kIiok"" """
+2026-05-11 11:37,Channel,Failed,0.547,Timeout or Error
+2026-05-11 11:37,Comments,Failed,0.549,Timeout or Error
+2026-05-11 11:37,Playlist,Failed,0.308,Timeout or Error
