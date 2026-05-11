@@ -1,19 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-11 22:51,Video,Failed,0.314,Timeout or Error
-2026-04-11 22:51,Search,OK,1.06,"[{""type"":""video"" ""title"":""Indestructible military folding knife?! Cold Steel Engage put to the test "
-2026-04-11 22:51,Channel,Failed,0.367,Timeout or Error
-2026-04-11 22:51,Comments,OK,0.668,"{""commentCount"":10487322 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-11 22:51,Playlist,Failed,0.381,Timeout or Error
-2026-04-11 23:32,Video,Failed,0.482,Timeout or Error
-2026-04-11 23:32,Search,OK,0.978,"[{""type"":""video"" ""title"":""Indestructible military folding knife?! Cold Steel Engage put to the test "
-2026-04-11 23:32,Channel,Failed,0.582,Timeout or Error
-2026-04-11 23:32,Comments,OK,0.842,"{""commentCount"":10487367 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-11 23:32,Playlist,Failed,0.53,Timeout or Error
-2026-04-12 00:28,Video,Failed,0.478,Timeout or Error
-2026-04-12 00:28,Search,OK,1.088,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
-2026-04-12 00:28,Channel,Failed,0.44,Timeout or Error
-2026-04-12 00:28,Comments,OK,0.73,"{""commentCount"":10487439 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-12 00:28,Playlist,Failed,0.448,Timeout or Error
 2026-04-12 01:30,Video,Failed,0.369,Timeout or Error
 2026-04-12 01:30,Search,OK,1.243,"[{""type"":""video"" ""title"":""Dolby Atmos Sound Test"" ""videoId"":""FLH1aARTpMg"" ""author"":""Bits and Pieces"""
 2026-04-12 01:30,Channel,Failed,0.549,Timeout or Error
@@ -2179,3 +2164,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-11 22:43,Channel,Failed,0.21,Timeout or Error
 2026-05-11 22:43,Comments,Failed,0.21,Timeout or Error
 2026-05-11 22:43,Playlist,Failed,0.21,Timeout or Error
+2026-05-12 01:28,Video,Failed,0.229,Timeout or Error
+2026-05-12 01:28,Search,Failed,0.221,Timeout or Error
+2026-05-12 01:28,Channel,Failed,0.209,Timeout or Error
+2026-05-12 01:28,Comments,Failed,0.221,Timeout or Error
+2026-05-12 01:28,Playlist,Failed,0.213,Timeout or Error

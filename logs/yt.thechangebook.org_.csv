@@ -1,19 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-11 22:51,Video,Failed,0.613,Timeout or Error
-2026-04-11 22:51,Search,OK,1.087,"[{""type"":""video"" ""title"":""test de maturité"" ""videoId"":""NCwKe6rHpMc"" ""author"":""MatureCOW fv!"" ""author"
-2026-04-11 22:51,Channel,Failed,0.674,Timeout or Error
-2026-04-11 22:51,Comments,Failed,0.585,Timeout or Error
-2026-04-11 22:51,Playlist,Failed,0.413,Timeout or Error
-2026-04-11 23:32,Video,Failed,0.686,Timeout or Error
-2026-04-11 23:32,Search,OK,0.908,"[{""type"":""video"" ""title"":""50 QUESTIONS pour TESTER TON SAVOIR 🧠🤯 | Quiz Culture Générale"" ""videoId"":"
-2026-04-11 23:32,Channel,Failed,0.673,Timeout or Error
-2026-04-11 23:32,Comments,Failed,1.012,Timeout or Error
-2026-04-11 23:32,Playlist,Failed,0.671,Timeout or Error
-2026-04-12 00:28,Video,Failed,0.684,Timeout or Error
-2026-04-12 00:28,Search,Failed,0.963,Timeout or Error
-2026-04-12 00:28,Channel,Failed,0.441,Timeout or Error
-2026-04-12 00:28,Comments,Failed,0.837,Timeout or Error
-2026-04-12 00:28,Playlist,Failed,0.426,Timeout or Error
 2026-04-12 01:30,Video,Failed,0.67,Timeout or Error
 2026-04-12 01:30,Search,OK,0.989,"[{""type"":""video"" ""title"":""50 QUESTIONS pour TESTER TON SAVOIR 🧠🤯 | Quiz Culture Générale"" ""videoId"":"
 2026-04-12 01:30,Channel,Failed,0.62,Timeout or Error
@@ -2179,3 +2164,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-11 22:43,Channel,Failed,0.574,Timeout or Error
 2026-05-11 22:43,Comments,Failed,0.85,Timeout or Error
 2026-05-11 22:43,Playlist,Failed,0.583,Timeout or Error
+2026-05-12 01:28,Video,Failed,0.493,Timeout or Error
+2026-05-12 01:28,Search,OK,1.207,"[{""type"":""video"" ""title"":""50 QUESTIONS pour TESTER TON SAVOIR 🧠🤯 | Quiz Culture Générale"" ""videoId"":"
+2026-05-12 01:28,Channel,Failed,0.614,Timeout or Error
+2026-05-12 01:28,Comments,Failed,0.692,Timeout or Error
+2026-05-12 01:28,Playlist,Failed,0.365,Timeout or Error
