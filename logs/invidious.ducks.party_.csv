@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-13 06:28,Video,Failed,0.425,Timeout or Error
-2026-04-13 06:28,Search,OK,0.761,"[{""type"":""video"" ""title"":""Nerva EXE 2 Test: 130 km/h  BYD Akku und viel Komfort? 🔋 Nerva Exe 2 Test!"
-2026-04-13 06:28,Channel,Failed,0.445,Timeout or Error
-2026-04-13 06:28,Comments,OK,0.703,"{""commentCount"":10489154 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-13 06:28,Playlist,Failed,0.423,Timeout or Error
-2026-04-13 07:27,Video,Failed,0.487,Timeout or Error
-2026-04-13 07:27,Search,OK,0.96,"[{""type"":""video"" ""title"":""The Chemical Brothers - The Test (Official Music Video)"" ""videoId"":""yhS9Ln"
-2026-04-13 07:27,Channel,Failed,0.49,Timeout or Error
-2026-04-13 07:27,Comments,OK,0.736,"{""commentCount"":10489201 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-13 07:27,Playlist,Failed,0.492,Timeout or Error
 2026-04-13 08:29,Video,Failed,0.363,Timeout or Error
 2026-04-13 08:29,Search,OK,0.87,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
 2026-04-13 08:29,Channel,Failed,0.377,Timeout or Error
@@ -2109,3 +2099,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-13 06:13,Channel,Failed,0.432,Timeout or Error
 2026-05-13 06:13,Comments,OK,0.792,"{""commentCount"":10509036 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-13 06:13,Playlist,Failed,0.433,Timeout or Error
+2026-05-13 07:54,Video,Failed,0.514,Timeout or Error
+2026-05-13 07:54,Search,OK,0.955,"[{""type"":""video"" ""title"":""Hedge trimmer torture: Dead after 22 hours 😱 (Test hedge trimmers Stiftung"
+2026-05-13 07:54,Channel,Failed,0.553,Timeout or Error
+2026-05-13 07:54,Comments,OK,0.807,"{""commentCount"":10509088 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-13 07:54,Playlist,Failed,0.568,Timeout or Error
