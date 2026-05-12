@@ -1,19 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-12 18:40,Video,Failed,0.497,Timeout or Error
-2026-04-12 18:40,Search,OK,1.042,"[{""type"":""video"" ""title"":""Indestructible military folding knife?! Cold Steel Engage put to the test "
-2026-04-12 18:40,Channel,Failed,0.536,Timeout or Error
-2026-04-12 18:40,Comments,OK,0.898,"{""commentCount"":10488426 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-12 18:40,Playlist,Failed,0.548,Timeout or Error
-2026-04-12 19:34,Video,Failed,0.423,Timeout or Error
-2026-04-12 19:34,Search,OK,1.039,"[{""type"":""video"" ""title"":""Indestructible military folding knife?! Cold Steel Engage put to the test "
-2026-04-12 19:34,Channel,Failed,0.481,Timeout or Error
-2026-04-12 19:34,Comments,OK,0.793,"{""commentCount"":10488488 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-12 19:34,Playlist,Failed,0.485,Timeout or Error
-2026-04-12 20:30,Video,Failed,0.398,Timeout or Error
-2026-04-12 20:30,Search,OK,1.041,"[{""type"":""video"" ""title"":""Indestructible military folding knife?! Cold Steel Engage put to the test "
-2026-04-12 20:30,Channel,Failed,0.457,Timeout or Error
-2026-04-12 20:30,Comments,OK,0.7,"{""commentCount"":10488536 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-12 20:30,Playlist,Failed,0.576,Timeout or Error
 2026-04-12 21:51,Video,Failed,0.368,Timeout or Error
 2026-04-12 21:51,Search,OK,1.067,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
 2026-04-12 21:51,Channel,Failed,0.482,Timeout or Error
@@ -2144,3 +2129,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-12 18:32,Channel,Failed,0.293,Timeout or Error
 2026-05-12 18:32,Comments,Failed,0.291,Timeout or Error
 2026-05-12 18:32,Playlist,Failed,0.293,Timeout or Error
+2026-05-12 20:49,Video,Failed,0.534,Timeout or Error
+2026-05-12 20:49,Search,Failed,0.54,Timeout or Error
+2026-05-12 20:49,Channel,Failed,0.489,Timeout or Error
+2026-05-12 20:49,Comments,Failed,0.487,Timeout or Error
+2026-05-12 20:49,Playlist,Failed,1.454,Timeout or Error
