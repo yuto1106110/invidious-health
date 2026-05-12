@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-12 21:51,Video,OK,0.479,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-04-12 21:51,Search,OK,0.37,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-04-12 21:51,Channel,Failed,0.498,Timeout or Error
-2026-04-12 21:51,Comments,OK,0.376,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-04-12 21:51,Playlist,OK,0.378,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-04-12 22:57,Video,Failed,0.629,Timeout or Error
-2026-04-12 22:57,Search,OK,1.131,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-04-12 22:57,Channel,Failed,0.486,Timeout or Error
-2026-04-12 22:57,Comments,OK,0.785,"{""commentCount"":10488659 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-12 22:57,Playlist,OK,0.401,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-04-12 23:38,Video,OK,0.418,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-04-12 23:38,Search,OK,1.22,"[{""type"":""video"" ""title"":""Indestructible military folding knife?! Cold Steel Engage put to the test "
 2026-04-12 23:38,Channel,OK,0.328,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
@@ -2134,3 +2124,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-12 20:49,Channel,OK,0.446,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-05-12 20:49,Comments,OK,0.445,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-05-12 20:49,Playlist,OK,0.722,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-12 23:07,Video,OK,0.795,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-12 23:07,Search,OK,0.498,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-12 23:07,Channel,OK,0.51,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-12 23:07,Comments,OK,0.523,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-12 23:07,Playlist,OK,0.524,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
