@@ -1,19 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-13 02:29,Video,Failed,0.376,Timeout or Error
-2026-04-13 02:29,Search,OK,0.899,"[{""type"":""video"" ""title"":""Nerva EXE 2 Test: 130 km/h  BYD Akku und viel Komfort? 🔋 Nerva Exe 2 Test!"
-2026-04-13 02:29,Channel,Failed,0.402,Timeout or Error
-2026-04-13 02:29,Comments,OK,0.66,"{""commentCount"":10488906 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-13 02:29,Playlist,Failed,0.424,Timeout or Error
-2026-04-13 03:39,Video,Failed,0.437,Timeout or Error
-2026-04-13 03:39,Search,OK,0.977,"[{""type"":""video"" ""title"":""Ein herzzerreißender Test #lustig #Bearbeitung"" ""videoId"":""QPX9OPDjQ4w"" ""a"
-2026-04-13 03:39,Channel,Failed,0.482,Timeout or Error
-2026-04-13 03:39,Comments,OK,0.762,"{""commentCount"":10488982 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-13 03:39,Playlist,Failed,0.462,Timeout or Error
-2026-04-13 04:35,Video,OK,0.431,
-2026-04-13 04:35,Search,OK,1.042,"[{""type"":""video"" ""title"":""Nerva EXE 2 Test: 130 km/h  BYD Akku und viel Komfort? 🔋 Nerva Exe 2 Test!"
-2026-04-13 04:35,Channel,Failed,0.502,Timeout or Error
-2026-04-13 04:35,Comments,OK,0.756,"{""commentCount"":10489058 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-13 04:35,Playlist,Failed,0.503,Timeout or Error
 2026-04-13 05:29,Video,OK,1.295,
 2026-04-13 05:29,Search,OK,0.933,"[{""type"":""video"" ""title"":""Nerva EXE 2 Test: 130 km/h  BYD Akku und viel Komfort? 🔋 Nerva Exe 2 Test!"
 2026-04-13 05:29,Channel,Failed,0.397,Timeout or Error
@@ -2119,3 +2104,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-13 02:05,Channel,Failed,0.381,Timeout or Error
 2026-05-13 02:05,Comments,OK,0.81,"{""commentCount"":10508801 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-13 02:05,Playlist,Failed,0.399,Timeout or Error
+2026-05-13 04:42,Video,Failed,0.514,Timeout or Error
+2026-05-13 04:42,Search,OK,1.097,"[{""type"":""video"" ""title"":""Hedge trimmer torture: Dead after 22 hours 😱 (Test hedge trimmers Stiftung"
+2026-05-13 04:42,Channel,Failed,0.561,Timeout or Error
+2026-05-13 04:42,Comments,OK,0.88,"{""commentCount"":10508929 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-13 04:42,Playlist,Failed,0.594,Timeout or Error

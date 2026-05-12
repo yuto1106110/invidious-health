@@ -1,19 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-13 02:29,Video,Failed,0.315,Timeout or Error
-2026-04-13 02:29,Search,OK,1.115,"[{""type"":""video"" ""title"":""Nerva EXE 2 Test: 130 km/h  BYD Akku und viel Komfort? 🔋 Nerva Exe 2 Test!"
-2026-04-13 02:29,Channel,Failed,0.365,Timeout or Error
-2026-04-13 02:29,Comments,OK,0.783,"{""commentCount"":10488905 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-13 02:29,Playlist,Failed,0.351,Timeout or Error
-2026-04-13 03:39,Video,Failed,0.397,Timeout or Error
-2026-04-13 03:39,Search,OK,1.237,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
-2026-04-13 03:39,Channel,Failed,0.453,Timeout or Error
-2026-04-13 03:39,Comments,OK,0.769,"{""commentCount"":10488983 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-13 03:39,Playlist,Failed,0.501,Timeout or Error
-2026-04-13 04:35,Video,Failed,0.487,Timeout or Error
-2026-04-13 04:35,Search,OK,1.111,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
-2026-04-13 04:35,Channel,Failed,0.484,Timeout or Error
-2026-04-13 04:35,Comments,OK,0.997,"{""commentCount"":10489057 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-13 04:35,Playlist,Failed,0.496,Timeout or Error
 2026-04-13 05:29,Video,Failed,0.369,Timeout or Error
 2026-04-13 05:29,Search,OK,0.935,"[{""type"":""video"" ""title"":""Nerva EXE 2 Test: 130 km/h  BYD Akku und viel Komfort? 🔋 Nerva Exe 2 Test!"
 2026-04-13 05:29,Channel,Failed,0.434,Timeout or Error
@@ -2119,3 +2104,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-13 02:05,Channel,Failed,0.215,Timeout or Error
 2026-05-13 02:05,Comments,Failed,0.216,Timeout or Error
 2026-05-13 02:05,Playlist,Failed,0.209,Timeout or Error
+2026-05-13 04:42,Video,Failed,0.334,Timeout or Error
+2026-05-13 04:42,Search,Failed,0.335,Timeout or Error
+2026-05-13 04:42,Channel,Failed,0.333,Timeout or Error
+2026-05-13 04:42,Comments,Failed,0.322,Timeout or Error
+2026-05-13 04:42,Playlist,Failed,0.335,Timeout or Error
