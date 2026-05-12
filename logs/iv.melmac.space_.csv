@@ -1,19 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-12 23:38,Video,Failed,0.315,Timeout or Error
-2026-04-12 23:38,Search,OK,1.019,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
-2026-04-12 23:38,Channel,Failed,0.439,Timeout or Error
-2026-04-12 23:38,Comments,OK,0.694,"{""commentCount"":10488714 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-12 23:38,Playlist,Failed,0.351,Timeout or Error
-2026-04-13 00:31,Video,Failed,0.312,Timeout or Error
-2026-04-13 00:31,Search,OK,1.157,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-04-13 00:31,Channel,Failed,0.406,Timeout or Error
-2026-04-13 00:31,Comments,OK,0.656,"{""commentCount"":10488795 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-13 00:31,Playlist,Failed,0.37,Timeout or Error
-2026-04-13 01:31,Video,Failed,0.314,Timeout or Error
-2026-04-13 01:31,Search,OK,0.958,"[{""type"":""video"" ""title"":""Indestructible military folding knife?! Cold Steel Engage put to the test "
-2026-04-13 01:31,Channel,Failed,0.439,Timeout or Error
-2026-04-13 01:31,Comments,OK,0.71,"{""commentCount"":10488862 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-13 01:31,Playlist,Failed,0.504,Timeout or Error
 2026-04-13 02:29,Video,Failed,0.315,Timeout or Error
 2026-04-13 02:29,Search,OK,1.115,"[{""type"":""video"" ""title"":""Nerva EXE 2 Test: 130 km/h  BYD Akku und viel Komfort? 🔋 Nerva Exe 2 Test!"
 2026-04-13 02:29,Channel,Failed,0.365,Timeout or Error
@@ -2129,3 +2114,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-12 23:07,Channel,Failed,0.349,Timeout or Error
 2026-05-12 23:07,Comments,Failed,0.345,Timeout or Error
 2026-05-12 23:07,Playlist,Failed,0.345,Timeout or Error
+2026-05-13 02:05,Video,Failed,0.21,Timeout or Error
+2026-05-13 02:05,Search,Failed,0.216,Timeout or Error
+2026-05-13 02:05,Channel,Failed,0.215,Timeout or Error
+2026-05-13 02:05,Comments,Failed,0.216,Timeout or Error
+2026-05-13 02:05,Playlist,Failed,0.209,Timeout or Error
