@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-13 14:36,Video,Failed,0.64,Timeout or Error
-2026-04-13 14:36,Search,OK,0.509,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-04-13 14:36,Channel,OK,0.513,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-04-13 14:36,Comments,OK,0.507,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-04-13 14:36,Playlist,Failed,0.544,Timeout or Error
 2026-04-13 16:54,Video,OK,0.526,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-04-13 16:54,Search,OK,1.246,"[{""type"":""video"" ""title"":""Indestructible military folding knife?! Cold Steel Engage put to the test "
 2026-04-13 16:54,Channel,Failed,0.54,Timeout or Error
@@ -2104,3 +2099,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-13 11:38,Channel,OK,0.322,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-05-13 11:38,Comments,OK,0.316,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-05-13 11:38,Playlist,OK,0.318,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-13 15:22,Video,OK,0.562,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-13 15:22,Search,OK,0.322,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-13 15:22,Channel,OK,0.327,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-13 15:22,Comments,OK,0.33,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-13 15:22,Playlist,OK,0.322,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
