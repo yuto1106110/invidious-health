@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-13 18:50,Video,Failed,0.497,Timeout or Error
-2026-04-13 18:50,Search,OK,0.9,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
-2026-04-13 18:50,Channel,Failed,0.423,Timeout or Error
-2026-04-13 18:50,Comments,OK,0.68,"{""commentCount"":10489443 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-13 18:50,Playlist,Failed,0.43,Timeout or Error
-2026-04-13 20:13,Video,Failed,0.367,Timeout or Error
-2026-04-13 20:13,Search,OK,0.843,"[{""type"":""video"" ""title"":""Humanoid robot reaches 10 m/s in test  company says #coolchina"" ""videoId"":"
-2026-04-13 20:13,Channel,Failed,0.372,Timeout or Error
-2026-04-13 20:13,Comments,OK,0.635,"{""commentCount"":10489287 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-13 20:13,Playlist,Failed,0.379,Timeout or Error
 2026-04-13 22:13,Video,Failed,0.432,Timeout or Error
 2026-04-13 22:13,Search,OK,0.876,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
 2026-04-13 22:13,Channel,Failed,0.437,Timeout or Error
@@ -2104,3 +2094,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-13 18:39,Channel,Failed,0.521,Timeout or Error
 2026-05-13 18:39,Comments,OK,0.793,"{""commentCount"":10509265 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-13 18:39,Playlist,Failed,0.544,Timeout or Error
+2026-05-13 20:58,Video,Failed,0.363,Timeout or Error
+2026-05-13 20:58,Search,OK,0.888,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-05-13 20:58,Channel,Failed,0.406,Timeout or Error
+2026-05-13 20:58,Comments,OK,0.742,"{""commentCount"":10509328 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-13 20:58,Playlist,Failed,0.638,Timeout or Error

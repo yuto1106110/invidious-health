@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-13 18:50,Video,Failed,0.422,Timeout or Error
-2026-04-13 18:50,Search,OK,1.121,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
-2026-04-13 18:50,Channel,Failed,0.488,Timeout or Error
-2026-04-13 18:50,Comments,OK,0.987,"{""commentCount"":10489444 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-13 18:50,Playlist,Failed,0.626,Timeout or Error
-2026-04-13 20:13,Video,Failed,0.321,Timeout or Error
-2026-04-13 20:13,Search,OK,0.978,"[{""type"":""video"" ""title"":""HiFi novelties April 2026: these devices are coming by for testing!"" ""vide"
-2026-04-13 20:13,Channel,Failed,0.356,Timeout or Error
-2026-04-13 20:13,Comments,OK,0.894,"{""commentCount"":10489287 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-13 20:13,Playlist,Failed,0.5,Timeout or Error
 2026-04-13 22:13,Video,Failed,1.265,Timeout or Error
 2026-04-13 22:13,Search,Failed,1.264,Timeout or Error
 2026-04-13 22:13,Channel,Failed,1.27,Timeout or Error
@@ -2104,3 +2094,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-13 18:39,Channel,Failed,0.337,Timeout or Error
 2026-05-13 18:39,Comments,Failed,0.341,Timeout or Error
 2026-05-13 18:39,Playlist,Failed,0.333,Timeout or Error
+2026-05-13 20:58,Video,Failed,0.246,Timeout or Error
+2026-05-13 20:58,Search,Failed,0.247,Timeout or Error
+2026-05-13 20:58,Channel,Failed,0.249,Timeout or Error
+2026-05-13 20:58,Comments,Failed,0.251,Timeout or Error
+2026-05-13 20:58,Playlist,Failed,0.238,Timeout or Error
