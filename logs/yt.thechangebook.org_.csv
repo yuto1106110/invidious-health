@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-14 03:06,Video,Failed,0.823,Timeout or Error
-2026-04-14 03:06,Search,OK,1.117,"[{""type"":""video"" ""title"":""TEST Pragmata : J'ai FINI le jeu ! ⭐ Un gameplay terriblement ADDICTIF ! 🔥"
-2026-04-14 03:06,Channel,Failed,0.804,Timeout or Error
-2026-04-14 03:06,Comments,Failed,1.129,Timeout or Error
-2026-04-14 03:06,Playlist,Failed,0.744,Timeout or Error
 2026-04-14 05:01,Video,Failed,0.647,Timeout or Error
 2026-04-14 05:01,Search,OK,1.18,"[{""type"":""video"" ""title"":""Test | Pragmata : une prise de risque payante"" ""videoId"":""yqxAHayzqkA"" ""au"
 2026-04-14 05:01,Channel,Failed,0.384,Timeout or Error
@@ -2094,3 +2089,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-14 02:12,Channel,Failed,0.556,Timeout or Error
 2026-05-14 02:12,Comments,Failed,0.917,Timeout or Error
 2026-05-14 02:12,Playlist,Failed,0.531,Timeout or Error
+2026-05-14 04:46,Video,Failed,0.686,Timeout or Error
+2026-05-14 04:46,Search,Failed,0.99,Timeout or Error
+2026-05-14 04:46,Channel,Failed,0.656,Timeout or Error
+2026-05-14 04:46,Comments,Failed,0.878,Timeout or Error
+2026-05-14 04:46,Playlist,Failed,0.504,Timeout or Error
