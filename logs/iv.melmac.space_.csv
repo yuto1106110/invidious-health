@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-13 16:54,Video,Failed,0.385,Timeout or Error
-2026-04-13 16:54,Search,OK,1.03,"[{""type"":""video"" ""title"":""Indestructible military folding knife?! Cold Steel Engage put to the test "
-2026-04-13 16:54,Channel,Failed,0.486,Timeout or Error
-2026-04-13 16:54,Comments,OK,0.677,"{""commentCount"":10489468 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-13 16:54,Playlist,Failed,0.414,Timeout or Error
 2026-04-13 18:50,Video,Failed,0.422,Timeout or Error
 2026-04-13 18:50,Search,OK,1.121,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
 2026-04-13 18:50,Channel,Failed,0.488,Timeout or Error
@@ -2104,3 +2099,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-13 15:22,Channel,Failed,0.214,Timeout or Error
 2026-05-13 15:22,Comments,Failed,0.211,Timeout or Error
 2026-05-13 15:22,Playlist,Failed,0.21,Timeout or Error
+2026-05-13 18:39,Video,Failed,0.339,Timeout or Error
+2026-05-13 18:39,Search,Failed,0.326,Timeout or Error
+2026-05-13 18:39,Channel,Failed,0.337,Timeout or Error
+2026-05-13 18:39,Comments,Failed,0.341,Timeout or Error
+2026-05-13 18:39,Playlist,Failed,0.333,Timeout or Error

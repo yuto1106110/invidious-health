@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-13 16:54,Video,Failed,0.42,Timeout or Error
-2026-04-13 16:54,Search,OK,0.87,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
-2026-04-13 16:54,Channel,Failed,0.419,Timeout or Error
-2026-04-13 16:54,Comments,OK,0.914,"{""commentCount"":10489468 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-13 16:54,Playlist,Failed,0.446,Timeout or Error
 2026-04-13 18:50,Video,Failed,0.497,Timeout or Error
 2026-04-13 18:50,Search,OK,0.9,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
 2026-04-13 18:50,Channel,Failed,0.423,Timeout or Error
@@ -2104,3 +2099,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-13 15:22,Channel,Failed,0.33,Timeout or Error
 2026-05-13 15:22,Comments,OK,0.621,"{""commentCount"":10509211 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-13 15:22,Playlist,Failed,0.338,Timeout or Error
+2026-05-13 18:39,Video,Failed,0.504,Timeout or Error
+2026-05-13 18:39,Search,OK,1.046,"[{""type"":""video"" ""title"":""OLED TEST HDR 4K 120FPS DOLBY VISION 🏞 4K / 8K Monitor Test Video #BGM"" ""v"
+2026-05-13 18:39,Channel,Failed,0.521,Timeout or Error
+2026-05-13 18:39,Comments,OK,0.793,"{""commentCount"":10509265 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-13 18:39,Playlist,Failed,0.544,Timeout or Error
