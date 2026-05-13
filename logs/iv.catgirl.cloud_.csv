@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-13 22:13,Video,OK,0.389,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-04-13 22:13,Search,OK,0.379,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-04-13 22:13,Channel,Failed,0.433,Timeout or Error
-2026-04-13 22:13,Comments,OK,0.684,"{""commentCount"":10488622 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-13 22:13,Playlist,OK,0.386,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-04-14 00:12,Video,OK,0.569,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-04-14 00:12,Search,OK,1.234,"[{""type"":""video"" ""title"":""Ich teste Fitness Gadgets - heute eine Fettverbrennungcreme #gym #fitness "
 2026-04-14 00:12,Channel,Failed,0.511,Timeout or Error
@@ -2099,3 +2094,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-13 20:58,Channel,OK,0.384,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-05-13 20:58,Comments,OK,0.392,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-05-13 20:58,Playlist,OK,0.381,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-13 23:44,Video,OK,1.027,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-13 23:44,Search,OK,0.488,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-13 23:44,Channel,OK,0.481,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-13 23:44,Comments,OK,0.515,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-13 23:44,Playlist,OK,0.488,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
