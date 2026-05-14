@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-14 20:58,Video,Failed,0.367,Timeout or Error
-2026-04-14 20:58,Search,OK,0.949,"[{""type"":""video"" ""title"":""Hedge trimmer torture: Dead after 22 hours 😱 (Test hedge trimmers Stiftung"
-2026-04-14 20:58,Channel,Failed,0.428,Timeout or Error
-2026-04-14 20:58,Comments,OK,0.654,"{""commentCount"":10489532 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-14 20:58,Playlist,Failed,0.452,Timeout or Error
-2026-04-14 22:48,Video,Failed,0.523,Timeout or Error
-2026-04-14 22:48,Search,OK,0.938,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
-2026-04-14 22:48,Channel,Failed,0.548,Timeout or Error
-2026-04-14 22:48,Comments,OK,0.77,"{""commentCount"":10489609 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-14 22:48,Playlist,Failed,0.592,Timeout or Error
 2026-04-15 00:09,Video,Failed,0.425,Timeout or Error
 2026-04-15 00:09,Search,OK,0.886,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
 2026-04-15 00:09,Channel,Failed,0.51,Timeout or Error
@@ -2079,3 +2069,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-14 20:46,Channel,Failed,0.53,Timeout or Error
 2026-05-14 20:46,Comments,OK,0.884,"{""commentCount"":10509904 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-14 20:46,Playlist,Failed,0.669,Timeout or Error
+2026-05-14 22:55,Video,Failed,0.459,Timeout or Error
+2026-05-14 22:55,Search,OK,0.938,"[{""type"":""video"" ""title"":""Forza Horizon 6 im Test: Die Spitze der Open World-Racer?"" ""videoId"":""8mSG"
+2026-05-14 22:55,Channel,Failed,0.494,Timeout or Error
+2026-05-14 22:55,Comments,OK,0.815,"{""commentCount"":10511399 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-14 22:55,Playlist,Failed,0.515,Timeout or Error

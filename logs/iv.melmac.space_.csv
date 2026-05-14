@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-14 20:58,Video,Failed,0.373,Timeout or Error
-2026-04-14 20:58,Search,OK,0.851,"[{""type"":""video"" ""title"":""4K Test Monitor Color / Monitor-Farbtest (RGB and CMYK)"" ""videoId"":""IVdyt2"
-2026-04-14 20:58,Channel,Failed,0.49,Timeout or Error
-2026-04-14 20:58,Comments,OK,0.757,"{""commentCount"":10489531 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-14 20:58,Playlist,Failed,0.409,Timeout or Error
-2026-04-14 22:48,Video,Failed,0.52,Timeout or Error
-2026-04-14 22:48,Search,OK,1.16,"[{""type"":""video"" ""title"":""This space shooter hits you right in the heart! | Pragmata Review"" ""videoI"
-2026-04-14 22:48,Channel,Failed,0.801,Timeout or Error
-2026-04-14 22:48,Comments,OK,0.902,"{""commentCount"":10489608 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-14 22:48,Playlist,Failed,0.592,Timeout or Error
 2026-04-15 00:09,Video,Failed,0.515,Timeout or Error
 2026-04-15 00:09,Search,OK,1.11,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
 2026-04-15 00:09,Channel,Failed,0.502,Timeout or Error
@@ -2079,3 +2069,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-14 20:46,Channel,Failed,0.335,Timeout or Error
 2026-05-14 20:46,Comments,Failed,0.337,Timeout or Error
 2026-05-14 20:46,Playlist,Failed,0.333,Timeout or Error
+2026-05-14 22:55,Video,Failed,0.309,Timeout or Error
+2026-05-14 22:55,Search,Failed,0.335,Timeout or Error
+2026-05-14 22:55,Channel,Failed,0.318,Timeout or Error
+2026-05-14 22:55,Comments,Failed,0.336,Timeout or Error
+2026-05-14 22:55,Playlist,Failed,0.308,Timeout or Error

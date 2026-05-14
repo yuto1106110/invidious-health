@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-14 20:58,Video,Failed,0.416,Timeout or Error
-2026-04-14 20:58,Search,OK,0.77,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-04-14 20:58,Channel,Failed,0.369,Timeout or Error
-2026-04-14 20:58,Comments,OK,0.695,"{""commentCount"":10489532 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-14 20:58,Playlist,Failed,0.406,Timeout or Error
-2026-04-14 22:48,Video,Failed,0.568,Timeout or Error
-2026-04-14 22:48,Search,OK,1.056,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
-2026-04-14 22:48,Channel,Failed,0.579,Timeout or Error
-2026-04-14 22:48,Comments,OK,0.905,"{""commentCount"":10489609 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-14 22:48,Playlist,Failed,0.563,Timeout or Error
 2026-04-15 00:09,Video,Failed,1.271,Timeout or Error
 2026-04-15 00:09,Search,OK,1.012,"[{""type"":""video"" ""title"":""Harzer Käse-Chips im Test: Ist der Protein-Snack aus dem Ofen wirklich so "
 2026-04-15 00:09,Channel,Failed,0.46,Timeout or Error
@@ -2079,3 +2069,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-14 20:46,Channel,Failed,0.557,Timeout or Error
 2026-05-14 20:46,Comments,OK,0.895,"{""commentCount"":10509905 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-14 20:46,Playlist,Failed,0.503,Timeout or Error
+2026-05-14 22:55,Video,OK,0.448,
+2026-05-14 22:55,Search,OK,1.084,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-05-14 22:55,Channel,Failed,0.502,Timeout or Error
+2026-05-14 22:55,Comments,OK,0.792,"{""commentCount"":10511399 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-14 22:55,Playlist,Failed,0.481,Timeout or Error
