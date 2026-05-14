@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-14 08:38,Video,Failed,0.557,Timeout or Error
-2026-04-14 08:38,Search,OK,0.998,"[{""type"":""video"" ""title"":""Google Pixel 10a | Test des neuesten und handlichsten Smartphones von Goog"
-2026-04-14 08:38,Channel,Failed,0.557,Timeout or Error
-2026-04-14 08:38,Comments,OK,0.812,"{""commentCount"":10489187 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-14 08:38,Playlist,Failed,0.538,Timeout or Error
-2026-04-14 11:01,Video,Failed,0.347,Timeout or Error
-2026-04-14 11:01,Search,OK,0.772,"[{""type"":""video"" ""title"":""This space shooter hits you right in the heart! | Pragmata Review"" ""videoI"
-2026-04-14 11:01,Channel,Failed,0.349,Timeout or Error
-2026-04-14 11:01,Comments,OK,0.56,"{""commentCount"":10489243 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-14 11:01,Playlist,Failed,0.357,Timeout or Error
 2026-04-14 14:17,Video,Failed,0.315,Timeout or Error
 2026-04-14 14:17,Search,OK,0.871,"[{""type"":""video"" ""title"":""This space shooter hits you right in the heart! | Pragmata Review"" ""videoI"
 2026-04-14 14:17,Channel,Failed,0.366,Timeout or Error
@@ -2089,3 +2079,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-14 08:01,Channel,Failed,0.274,Timeout or Error
 2026-05-14 08:01,Comments,Failed,0.269,Timeout or Error
 2026-05-14 08:01,Playlist,Failed,0.256,Timeout or Error
+2026-05-14 11:37,Video,Failed,0.299,Timeout or Error
+2026-05-14 11:37,Search,Failed,0.292,Timeout or Error
+2026-05-14 11:37,Channel,Failed,0.287,Timeout or Error
+2026-05-14 11:37,Comments,Failed,0.293,Timeout or Error
+2026-05-14 11:37,Playlist,Failed,0.295,Timeout or Error
