@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-15 07:40,Video,Failed,0.506,Timeout or Error
-2026-04-15 07:40,Search,OK,0.984,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
-2026-04-15 07:40,Channel,Failed,0.596,Timeout or Error
-2026-04-15 07:40,Comments,OK,0.834,"{""commentCount"":10489968 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-15 07:40,Playlist,Failed,0.591,Timeout or Error
-2026-04-15 08:38,Video,Failed,0.313,Timeout or Error
-2026-04-15 08:38,Search,OK,0.801,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
-2026-04-15 08:38,Channel,Failed,0.379,Timeout or Error
-2026-04-15 08:38,Comments,OK,0.55,"{""commentCount"":10489976 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-15 08:38,Playlist,Failed,0.364,Timeout or Error
 2026-04-15 10:58,Video,Failed,0.516,Timeout or Error
 2026-04-15 10:58,Search,OK,0.904,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
 2026-04-15 10:58,Channel,Failed,0.556,Timeout or Error
@@ -2069,3 +2059,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-15 07:05,Channel,Failed,0.436,Timeout or Error
 2026-05-15 07:05,Comments,OK,0.65,"{""commentCount"":10511478 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-15 07:05,Playlist,Failed,0.453,Timeout or Error
+2026-05-15 08:53,Video,Failed,0.311,Timeout or Error
+2026-05-15 08:53,Search,OK,0.805,"[{""type"":""video"" ""title"":""Forza Horizon 6 im Test: Die Spitze der Open World-Racer?"" ""videoId"":""8mSG"
+2026-05-15 08:53,Channel,Failed,0.338,Timeout or Error
+2026-05-15 08:53,Comments,OK,0.541,"{""commentCount"":10511512 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-15 08:53,Playlist,Failed,0.341,Timeout or Error
