@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-15 00:09,Video,Failed,0.425,Timeout or Error
-2026-04-15 00:09,Search,OK,0.886,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
-2026-04-15 00:09,Channel,Failed,0.51,Timeout or Error
-2026-04-15 00:09,Comments,OK,0.838,"{""commentCount"":10489669 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-15 00:09,Playlist,Failed,0.482,Timeout or Error
 2026-04-15 02:00,Video,Failed,0.515,Timeout or Error
 2026-04-15 02:00,Search,OK,1.215,"[{""type"":""video"" ""title"":""Harzer Käse-Chips im Test: Ist der Protein-Snack aus dem Ofen wirklich so "
 2026-04-15 02:00,Channel,Failed,0.555,Timeout or Error
@@ -2074,3 +2069,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-14 22:55,Channel,Failed,0.494,Timeout or Error
 2026-05-14 22:55,Comments,OK,0.815,"{""commentCount"":10511399 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-14 22:55,Playlist,Failed,0.515,Timeout or Error
+2026-05-15 01:08,Video,Failed,0.31,Timeout or Error
+2026-05-15 01:08,Search,OK,0.97,"[{""type"":""video"" ""title"":""Forza Horizon 6 im Test: Die Spitze der Open World-Racer?"" ""videoId"":""8mSG"
+2026-05-15 01:08,Channel,Failed,0.374,Timeout or Error
+2026-05-15 01:08,Comments,OK,0.607,"{""commentCount"":10511260 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-15 01:08,Playlist,Failed,0.39,Timeout or Error

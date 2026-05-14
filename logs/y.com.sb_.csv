@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-15 00:09,Video,Failed,1.271,Timeout or Error
-2026-04-15 00:09,Search,OK,1.012,"[{""type"":""video"" ""title"":""Harzer Käse-Chips im Test: Ist der Protein-Snack aus dem Ofen wirklich so "
-2026-04-15 00:09,Channel,Failed,0.46,Timeout or Error
-2026-04-15 00:09,Comments,OK,0.796,"{""commentCount"":10489669 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-15 00:09,Playlist,Failed,0.459,Timeout or Error
 2026-04-15 02:00,Video,Failed,0.618,Timeout or Error
 2026-04-15 02:00,Search,OK,1.021,"[{""type"":""video"" ""title"":""Hedge trimmer torture: Dead after 22 hours 😱 (Test hedge trimmers Stiftung"
 2026-04-15 02:00,Channel,Failed,0.675,Timeout or Error
@@ -2074,3 +2069,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-14 22:55,Channel,Failed,0.502,Timeout or Error
 2026-05-14 22:55,Comments,OK,0.792,"{""commentCount"":10511399 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-14 22:55,Playlist,Failed,0.481,Timeout or Error
+2026-05-15 01:08,Video,OK,0.303,
+2026-05-15 01:08,Search,OK,0.99,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-05-15 01:08,Channel,Failed,0.34,Timeout or Error
+2026-05-15 01:08,Comments,OK,0.7,"{""commentCount"":10511260 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-15 01:08,Playlist,Failed,0.345,Timeout or Error
