@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-16 07:37,Video,Failed,0.649,Timeout or Error
-2026-04-16 07:37,Search,OK,0.947,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
-2026-04-16 07:37,Channel,Failed,0.513,Timeout or Error
-2026-04-16 07:37,Comments,OK,1.201,"{""commentCount"":10490353 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-16 07:37,Playlist,Failed,0.531,Timeout or Error
 2026-04-16 08:37,Video,Failed,0.648,Timeout or Error
 2026-04-16 08:37,Search,OK,0.876,"[{""type"":""video"" ""title"":""Incredible 8K HDR 120FPS | Dolby Vision OLED Test (4K/8K TV Video)"" ""video"
 2026-04-16 08:37,Channel,Failed,0.428,Timeout or Error
@@ -2049,3 +2044,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-16 06:54,Channel,Failed,0.328,Timeout or Error
 2026-05-16 06:54,Comments,OK,0.613,"{""commentCount"":10512066 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-16 06:54,Playlist,Failed,0.271,Timeout or Error
+2026-05-16 07:50,Video,Failed,0.407,Timeout or Error
+2026-05-16 07:50,Search,OK,0.83,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-05-16 07:50,Channel,Failed,0.44,Timeout or Error
+2026-05-16 07:50,Comments,OK,0.694,"{""commentCount"":10512086 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-16 07:50,Playlist,Failed,0.603,Timeout or Error
