@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-15 15:52,Video,Failed,0.366,Timeout or Error
-2026-04-15 15:52,Search,OK,0.886,"[{""type"":""video"" ""title"":""Test  Test & Test Again! Starship & Super Heavy Test Campaign In Full Forc"
-2026-04-15 15:52,Channel,Failed,0.419,Timeout or Error
-2026-04-15 15:52,Comments,OK,0.629,"{""commentCount"":10490104 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-15 15:52,Playlist,Failed,0.428,Timeout or Error
-2026-04-15 17:25,Video,Failed,0.506,Timeout or Error
-2026-04-15 17:25,Search,OK,0.938,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
-2026-04-15 17:25,Channel,Failed,0.586,Timeout or Error
-2026-04-15 17:25,Comments,OK,0.828,"{""commentCount"":10490096 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-15 17:25,Playlist,Failed,0.589,Timeout or Error
 2026-04-15 19:12,Video,Failed,0.364,Timeout or Error
 2026-04-15 19:12,Search,OK,0.906,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
 2026-04-15 19:12,Channel,Failed,0.392,Timeout or Error
@@ -2064,3 +2054,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-15 15:28,Channel,Failed,0.47,Timeout or Error
 2026-05-15 15:28,Comments,OK,0.752,"{""commentCount"":10511619 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-15 15:28,Playlist,Failed,0.475,Timeout or Error
+2026-05-15 18:42,Video,Failed,0.309,Timeout or Error
+2026-05-15 18:42,Search,OK,0.77,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-05-15 18:42,Channel,Failed,0.348,Timeout or Error
+2026-05-15 18:42,Comments,OK,0.575,"{""commentCount"":10511655 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-15 18:42,Playlist,Failed,0.352,Timeout or Error
