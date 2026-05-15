@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-15 13:48,Video,Failed,0.36,Timeout or Error
-2026-04-15 13:48,Search,OK,0.776,"[{""type"":""video"" ""title"":""Test  Test & Test Again! Starship & Super Heavy Test Campaign In Full Forc"
-2026-04-15 13:48,Channel,Failed,0.422,Timeout or Error
-2026-04-15 13:48,Comments,OK,0.696,"{""commentCount"":10490095 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-15 13:48,Playlist,Failed,0.43,Timeout or Error
 2026-04-15 15:52,Video,Failed,0.366,Timeout or Error
 2026-04-15 15:52,Search,OK,0.886,"[{""type"":""video"" ""title"":""Test  Test & Test Again! Starship & Super Heavy Test Campaign In Full Forc"
 2026-04-15 15:52,Channel,Failed,0.419,Timeout or Error
@@ -2064,3 +2059,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-15 11:38,Channel,Failed,0.532,Timeout or Error
 2026-05-15 11:38,Comments,OK,0.716,"{""commentCount"":10511571 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-15 11:38,Playlist,Failed,0.531,Timeout or Error
+2026-05-15 15:28,Video,Failed,0.443,Timeout or Error
+2026-05-15 15:28,Search,OK,0.919,"[{""type"":""video"" ""title"":""Forza Horizon 6 im Test: Die Spitze der Open World-Racer?"" ""videoId"":""8mSG"
+2026-05-15 15:28,Channel,Failed,0.47,Timeout or Error
+2026-05-15 15:28,Comments,OK,0.752,"{""commentCount"":10511619 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-15 15:28,Playlist,Failed,0.475,Timeout or Error
