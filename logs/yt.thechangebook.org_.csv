@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-16 08:37,Video,Failed,0.532,Timeout or Error
-2026-04-16 08:37,Search,OK,0.793,"[{""type"":""video"" ""title"":""Incredible 8K HDR 120FPS | Dolby Vision OLED Test (4K/8K TV Video)"" ""video"
-2026-04-16 08:37,Channel,Failed,0.534,Timeout or Error
-2026-04-16 08:37,Comments,Failed,0.897,Timeout or Error
-2026-04-16 08:37,Playlist,Failed,0.691,Timeout or Error
 2026-04-16 11:06,Video,Failed,0.709,Timeout or Error
 2026-04-16 11:06,Search,OK,1.112,"[{""type"":""video"" ""title"":""TEST TOMODACHI LIFE : Le jeu le plus BIZARRE de Nintendo est de retour sur"
 2026-04-16 11:06,Channel,Failed,0.495,Timeout or Error
@@ -2049,3 +2044,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-16 07:50,Channel,Failed,0.562,Timeout or Error
 2026-05-16 07:50,Comments,Failed,0.948,Timeout or Error
 2026-05-16 07:50,Playlist,Failed,0.409,Timeout or Error
+2026-05-16 08:51,Video,Failed,0.509,Timeout or Error
+2026-05-16 08:51,Search,OK,0.725,"[{""type"":""video"" ""title"":""50 QUESTIONS pour TESTER TON SAVOIR 🧠🤯 | Quiz Culture Générale"" ""videoId"":"
+2026-05-16 08:51,Channel,Failed,0.346,Timeout or Error
+2026-05-16 08:51,Comments,Failed,0.853,Timeout or Error
+2026-05-16 08:51,Playlist,Failed,0.368,Timeout or Error
