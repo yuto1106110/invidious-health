@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-16 01:57,Video,OK,0.814,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-04-16 01:57,Search,Failed,1.34,Timeout or Error
-2026-04-16 01:57,Channel,Failed,0.546,Timeout or Error
-2026-04-16 01:57,Comments,OK,0.51,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-04-16 01:57,Playlist,OK,0.528,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-04-16 03:04,Video,OK,4.99,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-04-16 03:04,Search,OK,1.086,"[{""type"":""video"" ""title"":""CFMOTO 1000 MT-X | Test (deutsch) der neuen  günstigen Reise-Enduro"" ""vide"
-2026-04-16 03:04,Channel,OK,0.48,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-04-16 03:04,Comments,OK,0.483,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-04-16 03:04,Playlist,Failed,0.52,Timeout or Error
 2026-04-16 04:59,Video,OK,0.326,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-04-16 04:59,Search,Failed,1.232,Timeout or Error
 2026-04-16 04:59,Channel,Failed,0.355,Timeout or Error
@@ -2054,3 +2044,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-16 01:00,Channel,OK,0.325,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-05-16 01:00,Comments,OK,0.324,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-05-16 01:00,Playlist,OK,0.328,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-16 03:18,Video,OK,0.753,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-16 03:18,Search,OK,0.448,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-16 03:18,Channel,OK,0.448,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-16 03:18,Comments,OK,0.471,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-16 03:18,Playlist,OK,0.459,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"

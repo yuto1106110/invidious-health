@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-16 01:57,Video,Failed,0.588,Timeout or Error
-2026-04-16 01:57,Search,OK,1.089,"[{""type"":""video"" ""title"":""CFMOTO 1000 MT-X | Test (deutsch) der neuen  günstigen Reise-Enduro"" ""vide"
-2026-04-16 01:57,Channel,Failed,0.567,Timeout or Error
-2026-04-16 01:57,Comments,OK,0.765,"{""commentCount"":10490258 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-16 01:57,Playlist,Failed,0.577,Timeout or Error
-2026-04-16 03:04,Video,Failed,0.514,Timeout or Error
-2026-04-16 03:04,Search,OK,1.033,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
-2026-04-16 03:04,Channel,Failed,0.488,Timeout or Error
-2026-04-16 03:04,Comments,OK,0.78,"{""commentCount"":10490247 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-16 03:04,Playlist,Failed,1.12,Timeout or Error
 2026-04-16 04:59,Video,Failed,0.372,Timeout or Error
 2026-04-16 04:59,Search,OK,0.814,"[{""type"":""video"" ""title"":""CFMOTO 1000 MT-X | Test (deutsch) der neuen  günstigen Reise-Enduro"" ""vide"
 2026-04-16 04:59,Channel,Failed,0.338,Timeout or Error
@@ -2054,3 +2044,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-16 01:00,Channel,Failed,0.383,Timeout or Error
 2026-05-16 01:00,Comments,OK,1.015,"{""commentCount"":10511901 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-16 01:00,Playlist,Failed,0.363,Timeout or Error
+2026-05-16 03:18,Video,Failed,0.42,Timeout or Error
+2026-05-16 03:18,Search,OK,1.281,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-05-16 03:18,Channel,Failed,0.496,Timeout or Error
+2026-05-16 03:18,Comments,OK,0.854,"{""commentCount"":10511983 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-16 03:18,Playlist,Failed,0.47,Timeout or Error
