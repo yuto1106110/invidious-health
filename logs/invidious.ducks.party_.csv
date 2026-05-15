@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-16 00:02,Video,Failed,0.413,Timeout or Error
-2026-04-16 00:02,Search,OK,0.89,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
-2026-04-16 00:02,Channel,Failed,0.46,Timeout or Error
-2026-04-16 00:02,Comments,OK,0.757,"{""commentCount"":10490207 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-16 00:02,Playlist,Failed,0.503,Timeout or Error
 2026-04-16 01:57,Video,Failed,0.529,Timeout or Error
 2026-04-16 01:57,Search,OK,1.21,"[{""type"":""video"" ""title"":""CFMOTO 1000 MT-X | Test (deutsch) der neuen  günstigen Reise-Enduro"" ""vide"
 2026-04-16 01:57,Channel,Failed,0.581,Timeout or Error
@@ -2054,3 +2049,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-15 22:52,Channel,Failed,0.368,Timeout or Error
 2026-05-15 22:52,Comments,OK,0.714,"{""commentCount"":10511832 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-15 22:52,Playlist,Failed,0.413,Timeout or Error
+2026-05-16 01:00,Video,Failed,0.311,Timeout or Error
+2026-05-16 01:00,Search,OK,1.16,"[{""type"":""video"" ""title"":""Hedge trimmer torture: Dead after 22 hours 😱 (Test hedge trimmers Stiftung"
+2026-05-16 01:00,Channel,Failed,0.336,Timeout or Error
+2026-05-16 01:00,Comments,OK,0.656,"{""commentCount"":10511901 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-16 01:00,Playlist,Failed,0.361,Timeout or Error
