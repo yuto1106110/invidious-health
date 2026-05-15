@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-15 10:58,Video,Failed,0.516,Timeout or Error
-2026-04-15 10:58,Search,OK,0.904,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
-2026-04-15 10:58,Channel,Failed,0.556,Timeout or Error
-2026-04-15 10:58,Comments,OK,0.746,"{""commentCount"":10490031 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-15 10:58,Playlist,Failed,0.538,Timeout or Error
 2026-04-15 13:48,Video,Failed,0.36,Timeout or Error
 2026-04-15 13:48,Search,OK,0.776,"[{""type"":""video"" ""title"":""Test  Test & Test Again! Starship & Super Heavy Test Campaign In Full Forc"
 2026-04-15 13:48,Channel,Failed,0.422,Timeout or Error
@@ -2064,3 +2059,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-15 08:53,Channel,Failed,0.338,Timeout or Error
 2026-05-15 08:53,Comments,OK,0.541,"{""commentCount"":10511512 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-15 08:53,Playlist,Failed,0.341,Timeout or Error
+2026-05-15 11:38,Video,Failed,0.498,Timeout or Error
+2026-05-15 11:38,Search,OK,0.989,"[{""type"":""video"" ""title"":""Forza Horizon 6 im Test: Die Spitze der Open World-Racer?"" ""videoId"":""8mSG"
+2026-05-15 11:38,Channel,Failed,0.532,Timeout or Error
+2026-05-15 11:38,Comments,OK,0.716,"{""commentCount"":10511571 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-15 11:38,Playlist,Failed,0.531,Timeout or Error

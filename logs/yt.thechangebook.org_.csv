@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-15 10:58,Video,Failed,0.746,Timeout or Error
-2026-04-15 10:58,Search,OK,1.059,"[{""type"":""video"" ""title"":""REPLACED : La baffe Cyberpunk 2026 🔴 TEST / Review"" ""videoId"":""lYdys494J5s"
-2026-04-15 10:58,Channel,Failed,0.861,Timeout or Error
-2026-04-15 10:58,Comments,Failed,0.84,Timeout or Error
-2026-04-15 10:58,Playlist,Failed,0.825,Timeout or Error
 2026-04-15 13:48,Video,Failed,0.651,Timeout or Error
 2026-04-15 13:48,Search,OK,0.855,"[{""type"":""video"" ""title"":""Déjà le GOTY 2026 ? 🧀 MOUSE: P.I. FOR HIRE (Test / Review PS5)"" ""videoId"":"
 2026-04-15 13:48,Channel,Failed,0.521,Timeout or Error
@@ -2064,3 +2059,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-15 08:53,Channel,Failed,0.493,Timeout or Error
 2026-05-15 08:53,Comments,Failed,0.756,Timeout or Error
 2026-05-15 08:53,Playlist,Failed,0.572,Timeout or Error
+2026-05-15 11:38,Video,Failed,0.694,Timeout or Error
+2026-05-15 11:38,Search,OK,0.916,"[{""type"":""video"" ""title"":""TEST FORZA HORIZON 6 : La CLAQUE GRAPHIQUE de 2026 🔵 TEST 4K 60 FPS"" ""vide"
+2026-05-15 11:38,Channel,Failed,0.779,Timeout or Error
+2026-05-15 11:38,Comments,Failed,1.008,Timeout or Error
+2026-05-15 11:38,Playlist,Failed,0.651,Timeout or Error
