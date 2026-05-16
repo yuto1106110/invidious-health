@@ -2054,3 +2054,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-17 00:52,Channel,Failed,0.556,Timeout or Error
 2026-05-17 00:52,Comments,OK,0.86,"{""commentCount"":10512532 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-17 00:52,Playlist,Failed,0.528,Timeout or Error
+2026-05-17 01:52,Video,Failed,0.307,Timeout or Error
+2026-05-17 01:52,Search,OK,0.911,"[{""type"":""video"" ""title"":""2nd Test Day 1 Full Highlights | Ban vs Pak | 2nd Test | Day 1 | ICC World"
+2026-05-17 01:52,Channel,Failed,0.328,Timeout or Error
+2026-05-17 01:52,Comments,OK,0.66,"{""commentCount"":10512585 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-17 01:52,Playlist,Failed,0.397,Timeout or Error
