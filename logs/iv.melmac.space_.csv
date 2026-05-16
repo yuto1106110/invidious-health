@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-16 11:06,Video,Failed,0.52,Timeout or Error
-2026-04-16 11:06,Search,OK,1.044,"[{""type"":""video"" ""title"":""Ich teste einen Lungentrainier als Fitnessgadget #gym #fitness #bodybuildi"
-2026-04-16 11:06,Channel,Failed,0.529,Timeout or Error
-2026-04-16 11:06,Comments,OK,0.802,"{""commentCount"":10490405 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-16 11:06,Playlist,Failed,0.597,Timeout or Error
 2026-04-16 14:26,Video,Failed,0.363,Timeout or Error
 2026-04-16 14:26,Search,Failed,1.259,Timeout or Error
 2026-04-16 14:26,Channel,Failed,0.373,Timeout or Error
@@ -2049,3 +2044,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-16 08:51,Channel,Failed,0.243,Timeout or Error
 2026-05-16 08:51,Comments,Failed,0.248,Timeout or Error
 2026-05-16 08:51,Playlist,Failed,0.254,Timeout or Error
+2026-05-16 11:28,Video,Failed,0.334,Timeout or Error
+2026-05-16 11:28,Search,Failed,0.329,Timeout or Error
+2026-05-16 11:28,Channel,Failed,0.322,Timeout or Error
+2026-05-16 11:28,Comments,Failed,0.336,Timeout or Error
+2026-05-16 11:28,Playlist,Failed,0.336,Timeout or Error
