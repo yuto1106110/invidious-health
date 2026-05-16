@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-17 05:42,Video,Failed,0.531,Timeout or Error
-2026-04-17 05:42,Search,OK,0.981,"[{""type"":""video"" ""title"":""Die beste Soundbar auf dem Markt? LG Sound Suite im Test"" ""videoId"":""kygEZ"
-2026-04-17 05:42,Channel,OK,0.325,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-04-17 05:42,Comments,OK,1.125,"{""commentCount"":10490808 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-17 05:42,Playlist,Failed,0.37,Timeout or Error
-2026-04-17 06:37,Video,Failed,0.583,Timeout or Error
-2026-04-17 06:37,Search,OK,0.407,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-04-17 06:37,Channel,OK,0.416,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-04-17 06:37,Comments,OK,0.403,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-04-17 06:37,Playlist,Failed,0.469,Timeout or Error
 2026-04-17 07:34,Video,OK,0.414,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-04-17 07:34,Search,OK,1.029,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
 2026-04-17 07:34,Channel,Failed,0.474,Timeout or Error
@@ -2064,3 +2054,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-17 05:00,Channel,OK,0.491,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-05-17 05:00,Comments,OK,0.47,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-05-17 05:00,Playlist,OK,0.466,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-17 06:42,Video,OK,0.913,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-17 06:42,Search,OK,0.519,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-17 06:42,Channel,OK,0.482,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-17 06:42,Comments,OK,0.501,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-17 06:42,Playlist,OK,0.49,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"

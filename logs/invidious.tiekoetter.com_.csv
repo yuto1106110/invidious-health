@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-17 05:42,Video,Failed,0.316,Timeout or Error
-2026-04-17 05:42,Search,Failed,0.315,Timeout or Error
-2026-04-17 05:42,Channel,Failed,0.319,Timeout or Error
-2026-04-17 05:42,Comments,OK,0.317,"{""commentCount"":10485257 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-17 05:42,Playlist,Failed,0.316,Timeout or Error
-2026-04-17 06:37,Video,Failed,0.387,Timeout or Error
-2026-04-17 06:37,Search,Failed,0.411,Timeout or Error
-2026-04-17 06:37,Channel,Failed,0.401,Timeout or Error
-2026-04-17 06:37,Comments,OK,0.39,"{""commentCount"":10485257 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-17 06:37,Playlist,Failed,0.386,Timeout or Error
 2026-04-17 07:34,Video,Failed,0.402,Timeout or Error
 2026-04-17 07:34,Search,Failed,0.372,Timeout or Error
 2026-04-17 07:34,Channel,Failed,0.386,Timeout or Error
@@ -2064,3 +2054,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-17 05:00,Channel,Failed,0.465,Timeout or Error
 2026-05-17 05:00,Comments,OK,0.449,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
 2026-05-17 05:00,Playlist,OK,0.466,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
+2026-05-17 06:42,Video,Failed,0.506,Timeout or Error
+2026-05-17 06:42,Search,Failed,0.508,Timeout or Error
+2026-05-17 06:42,Channel,Failed,0.512,Timeout or Error
+2026-05-17 06:42,Comments,OK,0.51,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
+2026-05-17 06:42,Playlist,OK,0.5,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
