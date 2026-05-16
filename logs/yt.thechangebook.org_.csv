@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-16 14:26,Video,Failed,0.662,Timeout or Error
-2026-04-16 14:26,Search,OK,1.002,"[{""type"":""video"" ""title"":""50 QUESTIONS pour TESTER TON SAVOIR 🧠🤯 | Quiz Culture Générale"" ""videoId"":"
-2026-04-16 14:26,Channel,Failed,0.371,Timeout or Error
-2026-04-16 14:26,Comments,Failed,0.685,Timeout or Error
-2026-04-16 14:26,Playlist,Failed,0.378,Timeout or Error
 2026-04-16 16:24,Video,Failed,0.748,Timeout or Error
 2026-04-16 16:24,Search,OK,1.022,"[{""type"":""video"" ""title"":""NASDAS LIVE - TEST DE PURETÉ AVEC ANIS  TOUNSI ET BILEL !"" ""videoId"":""E-Rp"
 2026-04-16 16:24,Channel,Failed,0.665,Timeout or Error
@@ -2049,3 +2044,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-16 11:28,Channel,Failed,0.637,Timeout or Error
 2026-05-16 11:28,Comments,Failed,0.817,Timeout or Error
 2026-05-16 11:28,Playlist,Failed,0.657,Timeout or Error
+2026-05-16 14:49,Video,Failed,0.583,Timeout or Error
+2026-05-16 14:49,Search,Failed,1.124,Timeout or Error
+2026-05-16 14:49,Channel,Failed,0.428,Timeout or Error
+2026-05-16 14:49,Comments,Failed,0.64,Timeout or Error
+2026-05-16 14:49,Playlist,Failed,0.436,Timeout or Error
