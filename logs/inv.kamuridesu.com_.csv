@@ -4119,3 +4119,13 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-17 02:51,Channel,Failed,0.45,Timeout or Error
 2026-05-17 02:51,Comments,OK,0.799,"{""commentCount"":10512649 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-17 02:51,Playlist,Failed,0.504,Timeout or Error
+2026-05-17 03:56,Video,Failed,0.361,Timeout or Error
+2026-05-17 03:56,Search,OK,0.969,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-05-17 03:56,Channel,Failed,0.463,Timeout or Error
+2026-05-17 03:56,Comments,OK,0.656,"{""commentCount"":10512703 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-17 03:56,Playlist,Failed,0.432,Timeout or Error
+2026-05-17 03:56,Video,Failed,0.36,Timeout or Error
+2026-05-17 03:56,Search,OK,0.858,"[{""type"":""video"" ""title"":""PIXELS ON FIRE: Massive OLED HDR TEST | 16K Dolby Vision 120fps (8K/4K Vid"
+2026-05-17 03:56,Channel,Failed,0.416,Timeout or Error
+2026-05-17 03:56,Comments,OK,0.688,"{""commentCount"":10512703 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-17 03:56,Playlist,Failed,0.428,Timeout or Error
