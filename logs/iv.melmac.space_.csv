@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-16 20:59,Video,Failed,0.527,Timeout or Error
-2026-04-16 20:59,Search,OK,1.141,"[{""type"":""video"" ""title"":""Kann Zero-Trust-Sicherheit uns retten? ThreatLocker-Test"" ""videoId"":""onLx6"
-2026-04-16 20:59,Channel,Failed,0.584,Timeout or Error
-2026-04-16 20:59,Comments,OK,0.854,"{""commentCount"":10490529 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-16 20:59,Playlist,Failed,0.573,Timeout or Error
 2026-04-16 22:58,Video,Failed,0.316,Timeout or Error
 2026-04-16 22:58,Search,OK,0.903,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
 2026-04-16 22:58,Channel,Failed,0.47,Timeout or Error
@@ -2054,3 +2049,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-16 20:52,Channel,Failed,0.309,Timeout or Error
 2026-05-16 20:52,Comments,Failed,0.316,Timeout or Error
 2026-05-16 20:52,Playlist,Failed,0.311,Timeout or Error
+2026-05-16 22:09,Video,Failed,0.309,Timeout or Error
+2026-05-16 22:09,Search,Failed,0.317,Timeout or Error
+2026-05-16 22:09,Channel,Failed,0.317,Timeout or Error
+2026-05-16 22:09,Comments,Failed,0.308,Timeout or Error
+2026-05-16 22:09,Playlist,Failed,0.308,Timeout or Error
