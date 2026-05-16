@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-17 04:04,Video,Failed,0.55,Timeout or Error
-2026-04-17 04:04,Search,OK,1.137,"[{""type"":""video"" ""title"":""50 QUESTIONS pour TESTER TON SAVOIR 🧠🤯 | Quiz Culture Générale"" ""videoId"":"
-2026-04-17 04:04,Channel,Failed,0.37,Timeout or Error
-2026-04-17 04:04,Comments,Failed,0.709,Timeout or Error
-2026-04-17 04:04,Playlist,Failed,0.485,Timeout or Error
 2026-04-17 05:42,Video,Failed,0.616,Timeout or Error
 2026-04-17 05:42,Search,OK,0.827,"[{""type"":""video"" ""title"":""50 QUESTIONS pour TESTER TON SAVOIR 🧠🤯 | Quiz Culture Générale"" ""videoId"":"
 2026-04-17 05:42,Channel,Failed,0.617,Timeout or Error
@@ -2064,3 +2059,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-17 03:56,Channel,Failed,0.451,Timeout or Error
 2026-05-17 03:56,Comments,Failed,0.702,Timeout or Error
 2026-05-17 03:56,Playlist,Failed,0.431,Timeout or Error
+2026-05-17 05:00,Video,Failed,0.836,Timeout or Error
+2026-05-17 05:00,Search,OK,1.204,"[{""type"":""video"" ""title"":""2nd Test Day 1 Full Highlights | Ban vs Pak | 2nd Test | Day 1 | ICC World"
+2026-05-17 05:00,Channel,Failed,0.7,Timeout or Error
+2026-05-17 05:00,Comments,Failed,0.768,Timeout or Error
+2026-05-17 05:00,Playlist,Failed,0.677,Timeout or Error

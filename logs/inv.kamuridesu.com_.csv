@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-17 04:04,Video,Failed,0.33,Timeout or Error
-2026-04-17 04:04,Search,Failed,1.034,Timeout or Error
-2026-04-17 04:04,Channel,Failed,0.391,Timeout or Error
-2026-04-17 04:04,Comments,OK,0.658,"{""commentCount"":10490766 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-17 04:04,Playlist,Failed,0.416,Timeout or Error
-2026-04-17 04:04,Video,Failed,0.322,Timeout or Error
-2026-04-17 04:04,Search,Failed,1.034,Timeout or Error
-2026-04-17 04:04,Channel,Failed,0.389,Timeout or Error
-2026-04-17 04:04,Comments,OK,0.65,"{""commentCount"":10490768 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-17 04:04,Playlist,Failed,0.403,Timeout or Error
 2026-04-17 05:42,Video,Failed,0.474,Timeout or Error
 2026-04-17 05:42,Search,Failed,1.054,Timeout or Error
 2026-04-17 05:42,Channel,Failed,0.393,Timeout or Error
@@ -4129,3 +4119,13 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-17 03:56,Channel,Failed,0.416,Timeout or Error
 2026-05-17 03:56,Comments,OK,0.688,"{""commentCount"":10512703 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-17 03:56,Playlist,Failed,0.428,Timeout or Error
+2026-05-17 05:00,Video,Failed,0.421,Timeout or Error
+2026-05-17 05:00,Search,OK,1.004,"[{""type"":""video"" ""title"":""PIXELS ON FIRE: Massive OLED HDR TEST | 16K Dolby Vision 120fps (8K/4K Vid"
+2026-05-17 05:00,Channel,Failed,0.504,Timeout or Error
+2026-05-17 05:00,Comments,OK,0.786,"{""commentCount"":10512758 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-17 05:00,Playlist,Failed,0.473,Timeout or Error
+2026-05-17 05:00,Video,Failed,0.393,Timeout or Error
+2026-05-17 05:00,Search,OK,1.017,"[{""type"":""video"" ""title"":""PIXELS ON FIRE: Massive OLED HDR TEST | 16K Dolby Vision 120fps (8K/4K Vid"
+2026-05-17 05:00,Channel,Failed,0.475,Timeout or Error
+2026-05-17 05:00,Comments,OK,0.673,"{""commentCount"":10512758 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-17 05:00,Playlist,Failed,0.465,Timeout or Error
