@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-17 14:23,Video,OK,0.573,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
-2026-04-17 14:23,Search,OK,0.489,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
-2026-04-17 14:23,Channel,OK,0.221,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
-2026-04-17 14:23,Comments,OK,0.202,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
-2026-04-17 14:23,Playlist,OK,0.585,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
 2026-04-17 16:25,Video,OK,0.605,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
 2026-04-17 16:25,Search,OK,0.233,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
 2026-04-17 16:25,Channel,OK,0.562,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
@@ -2059,3 +2054,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-17 11:35,Channel,Failed,0.078,Timeout or Error
 2026-05-17 11:35,Comments,Failed,0.082,Timeout or Error
 2026-05-17 11:35,Playlist,Failed,0.075,Timeout or Error
+2026-05-17 15:17,Video,OK,0.613,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
+2026-05-17 15:17,Search,OK,0.234,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
+2026-05-17 15:17,Channel,OK,0.229,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
+2026-05-17 15:17,Comments,OK,0.516,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
+2026-05-17 15:17,Playlist,OK,0.21,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
