@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-18 04:55,Video,Failed,0.565,Timeout or Error
-2026-04-18 04:55,Search,OK,1.143,"[{""type"":""video"" ""title"":""YAMAHA R7 2026 | Test auf Landstraße & Rennstrecke"" ""videoId"":""PFWcr-EZNkU"
-2026-04-18 04:55,Channel,Failed,0.52,Timeout or Error
-2026-04-18 04:55,Comments,OK,0.827,"{""commentCount"":10491595 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-18 04:55,Playlist,Failed,0.506,Timeout or Error
-2026-04-18 05:39,Video,Failed,0.475,Timeout or Error
-2026-04-18 05:39,Search,OK,1.028,"[{""type"":""video"" ""title"":""Amazon's 5 most popular fly traps put to the test – which one really kills"
-2026-04-18 05:39,Channel,Failed,0.408,Timeout or Error
-2026-04-18 05:39,Comments,OK,0.846,"{""commentCount"":10491618 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-18 05:39,Playlist,Failed,0.415,Timeout or Error
 2026-04-18 06:36,Video,Failed,0.652,Timeout or Error
 2026-04-18 06:36,Search,OK,1.058,"[{""type"":""video"" ""title"":""Amazon's 5 most popular fly traps put to the test – which one really kills"
 2026-04-18 06:36,Channel,Failed,0.511,Timeout or Error
@@ -2049,3 +2039,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-18 04:00,Channel,Failed,0.368,Timeout or Error
 2026-05-18 04:00,Comments,OK,0.599,"{""commentCount"":10513727 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-18 04:00,Playlist,Failed,0.372,Timeout or Error
+2026-05-18 05:41,Video,Failed,0.3,Timeout or Error
+2026-05-18 05:41,Search,OK,0.805,"[{""type"":""video"" ""title"":""Full Highlights | Bangladesh vs Pakistan | 2nd Test  Day 2 | ICC WTC | M9I"
+2026-05-18 05:41,Channel,Failed,0.352,Timeout or Error
+2026-05-18 05:41,Comments,OK,0.559,"{""commentCount"":10513665 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-18 05:41,Playlist,Failed,0.337,Timeout or Error
