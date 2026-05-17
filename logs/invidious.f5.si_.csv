@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-17 11:02,Video,OK,0.656,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
-2026-04-17 11:02,Search,OK,0.248,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
-2026-04-17 11:02,Channel,OK,0.577,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
-2026-04-17 11:02,Comments,OK,0.544,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
-2026-04-17 11:02,Playlist,OK,0.509,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
 2026-04-17 14:23,Video,OK,0.573,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
 2026-04-17 14:23,Search,OK,0.489,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
 2026-04-17 14:23,Channel,OK,0.221,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
@@ -2059,3 +2054,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-17 08:45,Channel,Failed,0.088,Timeout or Error
 2026-05-17 08:45,Comments,Failed,0.088,Timeout or Error
 2026-05-17 08:45,Playlist,Failed,0.091,Timeout or Error
+2026-05-17 11:35,Video,Failed,0.074,Timeout or Error
+2026-05-17 11:35,Search,Failed,0.083,Timeout or Error
+2026-05-17 11:35,Channel,Failed,0.078,Timeout or Error
+2026-05-17 11:35,Comments,Failed,0.082,Timeout or Error
+2026-05-17 11:35,Playlist,Failed,0.075,Timeout or Error
