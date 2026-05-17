@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-17 22:06,Video,Failed,0.652,Timeout or Error
-2026-04-17 22:06,Search,OK,1.268,"[{""type"":""video"" ""title"":""Jägermeister: Das ganze Sortiment im Test!"" ""videoId"":""D4jNL0zO8dI"" ""autho"
-2026-04-17 22:06,Channel,OK,0.506,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-04-17 22:06,Comments,OK,0.945,"{""commentCount"":10491310 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-17 22:06,Playlist,OK,0.522,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-04-17 23:51,Video,Failed,0.557,Timeout or Error
 2026-04-17 23:51,Search,OK,1.214,"[{""type"":""video"" ""title"":""Jägermeister: Das ganze Sortiment im Test!"" ""videoId"":""D4jNL0zO8dI"" ""autho"
 2026-04-17 23:51,Channel,Failed,0.482,Timeout or Error
@@ -2054,3 +2049,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-17 21:02,Channel,OK,0.332,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-05-17 21:02,Comments,OK,0.321,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-05-17 21:02,Playlist,OK,0.327,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-17 23:23,Video,OK,0.446,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-17 23:23,Search,OK,0.316,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-17 23:23,Channel,OK,0.326,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-17 23:23,Comments,OK,0.317,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-17 23:23,Playlist,OK,0.321,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
