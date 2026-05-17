@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-17 20:45,Video,Failed,0.372,Timeout or Error
-2026-04-17 20:45,Search,OK,0.938,"[{""type"":""video"" ""title"":""The Chemical Brothers - The Test (Official Music Video)"" ""videoId"":""yhS9Ln"
-2026-04-17 20:45,Channel,Failed,0.333,Timeout or Error
-2026-04-17 20:45,Comments,OK,0.586,"{""commentCount"":10491248 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-17 20:45,Playlist,Failed,0.357,Timeout or Error
 2026-04-17 22:06,Video,Failed,0.566,Timeout or Error
 2026-04-17 22:06,Search,OK,1.023,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
 2026-04-17 22:06,Channel,Failed,0.519,Timeout or Error
@@ -2054,3 +2049,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-17 19:59,Channel,Failed,0.425,Timeout or Error
 2026-05-17 19:59,Comments,Failed,0.279,Timeout or Error
 2026-05-17 19:59,Playlist,Failed,0.437,Timeout or Error
+2026-05-17 21:02,Video,Failed,0.322,Timeout or Error
+2026-05-17 21:02,Search,OK,1.037,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-05-17 21:02,Channel,Failed,0.348,Timeout or Error
+2026-05-17 21:02,Comments,OK,0.6,"{""commentCount"":10513364 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-17 21:02,Playlist,Failed,0.348,Timeout or Error
