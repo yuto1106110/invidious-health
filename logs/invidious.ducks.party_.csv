@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-18 07:32,Video,Failed,0.312,Timeout or Error
-2026-04-18 07:32,Search,OK,0.764,"[{""type"":""video"" ""title"":""Amazon's 5 most popular fly traps put to the test – which one really kills"
-2026-04-18 07:32,Channel,Failed,0.376,Timeout or Error
-2026-04-18 07:32,Comments,OK,0.577,"{""commentCount"":10491655 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-18 07:32,Playlist,Failed,0.373,Timeout or Error
 2026-04-18 08:34,Video,Failed,0.353,Timeout or Error
 2026-04-18 08:34,Search,OK,0.81,"[{""type"":""video"" ""title"":""Amazon's 5 most popular fly traps put to the test – which one really kills"
 2026-04-18 08:34,Channel,Failed,0.434,Timeout or Error
@@ -2044,3 +2039,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-18 06:50,Channel,Failed,0.335,Timeout or Error
 2026-05-18 06:50,Comments,OK,0.523,"{""commentCount"":10513701 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-18 06:50,Playlist,Failed,0.387,Timeout or Error
+2026-05-18 07:47,Video,Failed,0.438,Timeout or Error
+2026-05-18 07:47,Search,OK,0.899,"[{""type"":""video"" ""title"":""Hedge trimmer torture: Dead after 22 hours 😱 (Test hedge trimmers Stiftung"
+2026-05-18 07:47,Channel,Failed,0.462,Timeout or Error
+2026-05-18 07:47,Comments,OK,0.749,"{""commentCount"":10513730 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-18 07:47,Playlist,Failed,0.457,Timeout or Error

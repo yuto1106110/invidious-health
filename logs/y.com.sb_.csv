@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-18 07:32,Video,Failed,0.373,Timeout or Error
-2026-04-18 07:32,Search,OK,0.741,"[{""type"":""video"" ""title"":""Amazon's 5 most popular fly traps put to the test – which one really kills"
-2026-04-18 07:32,Channel,Failed,0.324,Timeout or Error
-2026-04-18 07:32,Comments,OK,0.579,"{""commentCount"":10491655 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-18 07:32,Playlist,Failed,0.33,Timeout or Error
 2026-04-18 08:34,Video,Failed,0.761,Timeout or Error
 2026-04-18 08:34,Search,OK,0.84,"[{""type"":""video"" ""title"":""Amazon's 5 most popular fly traps put to the test – which one really kills"
 2026-04-18 08:34,Channel,Failed,0.575,Timeout or Error
@@ -2044,3 +2039,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-18 06:50,Channel,Failed,0.323,Timeout or Error
 2026-05-18 06:50,Comments,OK,0.585,"{""commentCount"":10513701 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-18 06:50,Playlist,Failed,0.214,Timeout or Error
+2026-05-18 07:47,Video,Failed,0.417,Timeout or Error
+2026-05-18 07:47,Search,OK,0.88,"[{""type"":""video"" ""title"":""Full Highlights Day 02 | Bangladesh vs Pakistan | 2nd Test  Day 2 | ICC WT"
+2026-05-18 07:47,Channel,Failed,0.448,Timeout or Error
+2026-05-18 07:47,Comments,OK,0.644,"{""commentCount"":10513730 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-18 07:47,Playlist,Failed,0.276,Timeout or Error
