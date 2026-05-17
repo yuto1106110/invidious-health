@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-17 23:51,Video,Failed,0.618,Timeout or Error
-2026-04-17 23:51,Search,OK,1.03,"[{""type"":""video"" ""title"":""50 QUESTIONS pour TESTER TON SAVOIR 🧠🤯 | Quiz Culture Générale"" ""videoId"":"
-2026-04-17 23:51,Channel,Failed,0.666,Timeout or Error
-2026-04-17 23:51,Comments,Failed,0.879,Timeout or Error
-2026-04-17 23:51,Playlist,Failed,0.586,Timeout or Error
 2026-04-18 00:55,Video,Failed,0.708,Timeout or Error
 2026-04-18 00:55,Search,Failed,1.108,Timeout or Error
 2026-04-18 00:55,Channel,Failed,0.879,Timeout or Error
@@ -2054,3 +2049,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-17 23:23,Channel,Failed,0.309,Timeout or Error
 2026-05-17 23:23,Comments,Failed,0.981,Timeout or Error
 2026-05-17 23:23,Playlist,Failed,0.325,Timeout or Error
+2026-05-18 00:54,Video,Failed,0.708,Timeout or Error
+2026-05-18 00:54,Search,OK,1.391,"[{""type"":""video"" ""title"":""HIGHLIGHTS | Bangladesh vs Pakistan  2nd Test | Day 2 | T Sports"" ""videoId"
+2026-05-18 00:54,Channel,Failed,0.725,Timeout or Error
+2026-05-18 00:54,Comments,Failed,0.964,Timeout or Error
+2026-05-18 00:54,Playlist,Failed,0.699,Timeout or Error
