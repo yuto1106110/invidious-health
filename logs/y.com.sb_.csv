@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-18 08:34,Video,Failed,0.761,Timeout or Error
-2026-04-18 08:34,Search,OK,0.84,"[{""type"":""video"" ""title"":""Amazon's 5 most popular fly traps put to the test – which one really kills"
-2026-04-18 08:34,Channel,Failed,0.575,Timeout or Error
-2026-04-18 08:34,Comments,OK,0.702,"{""commentCount"":10491694 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-18 08:34,Playlist,Failed,0.365,Timeout or Error
 2026-04-18 10:53,Video,Failed,0.404,Timeout or Error
 2026-04-18 10:53,Search,OK,0.809,"[{""type"":""video"" ""title"":""Amazon's 5 most popular fly traps put to the test – which one really kills"
 2026-04-18 10:53,Channel,Failed,0.367,Timeout or Error
@@ -2044,3 +2039,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-18 07:47,Channel,Failed,0.448,Timeout or Error
 2026-05-18 07:47,Comments,OK,0.644,"{""commentCount"":10513730 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-18 07:47,Playlist,Failed,0.276,Timeout or Error
+2026-05-18 08:53,Video,Failed,0.406,Timeout or Error
+2026-05-18 08:53,Search,OK,0.886,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-05-18 08:53,Channel,Failed,0.427,Timeout or Error
+2026-05-18 08:53,Comments,OK,0.636,"{""commentCount"":10513750 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-18 08:53,Playlist,Failed,0.429,Timeout or Error
