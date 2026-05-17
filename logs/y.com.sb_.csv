@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-18 00:55,Video,Failed,1.113,Timeout or Error
-2026-04-18 00:55,Search,OK,1.211,"[{""type"":""video"" ""title"":""Jägermeister: Das ganze Sortiment im Test!"" ""videoId"":""D4jNL0zO8dI"" ""autho"
-2026-04-18 00:55,Channel,Failed,0.465,Timeout or Error
-2026-04-18 00:55,Comments,OK,0.743,"{""commentCount"":10491442 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-18 00:55,Playlist,Failed,0.468,Timeout or Error
-2026-04-18 01:50,Video,Failed,0.545,Timeout or Error
-2026-04-18 01:50,Search,OK,1.064,"[{""type"":""video"" ""title"":""Jägermeister: Das ganze Sortiment im Test!"" ""videoId"":""D4jNL0zO8dI"" ""autho"
-2026-04-18 01:50,Channel,Failed,0.524,Timeout or Error
-2026-04-18 01:50,Comments,OK,1.046,"{""commentCount"":10491467 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-18 01:50,Playlist,Failed,0.932,Timeout or Error
 2026-04-18 02:44,Video,Failed,0.421,Timeout or Error
 2026-04-18 02:44,Search,OK,0.926,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
 2026-04-18 02:44,Channel,Failed,0.42,Timeout or Error
@@ -2054,3 +2044,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-18 00:54,Channel,Failed,0.515,Timeout or Error
 2026-05-18 00:54,Comments,OK,0.85,"{""commentCount"":10513553 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-18 00:54,Playlist,Failed,0.329,Timeout or Error
+2026-05-18 01:51,Video,Failed,0.303,Timeout or Error
+2026-05-18 01:51,Search,OK,0.88,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-05-18 01:51,Channel,Failed,0.552,Timeout or Error
+2026-05-18 01:51,Comments,OK,0.757,"{""commentCount"":10513603 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-18 01:51,Playlist,Failed,0.217,Timeout or Error

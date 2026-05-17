@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-18 00:55,Video,Failed,1.322,Timeout or Error
-2026-04-18 00:55,Search,Failed,1.33,Timeout or Error
-2026-04-18 00:55,Channel,Failed,0.628,Timeout or Error
-2026-04-18 00:55,Comments,OK,0.475,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-04-18 00:55,Playlist,OK,0.455,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-04-18 01:50,Video,Failed,0.679,Timeout or Error
-2026-04-18 01:50,Search,OK,0.538,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-04-18 01:50,Channel,Failed,1.367,Timeout or Error
-2026-04-18 01:50,Comments,OK,0.495,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-04-18 01:50,Playlist,OK,0.538,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-04-18 02:44,Video,Failed,0.53,Timeout or Error
 2026-04-18 02:44,Search,OK,0.988,"[{""type"":""video"" ""title"":""Jägermeister: Das ganze Sortiment im Test!"" ""videoId"":""D4jNL0zO8dI"" ""autho"
 2026-04-18 02:44,Channel,Failed,0.474,Timeout or Error
@@ -2054,3 +2044,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-18 00:54,Channel,OK,0.509,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-05-18 00:54,Comments,OK,0.502,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-05-18 00:54,Playlist,OK,0.506,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-18 01:51,Video,OK,0.408,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-18 01:51,Search,OK,0.311,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-18 01:51,Channel,OK,0.315,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-18 01:51,Comments,OK,0.321,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-18 01:51,Playlist,OK,0.312,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
