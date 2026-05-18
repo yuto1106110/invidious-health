@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-19 06:29,Video,Failed,0.609,Timeout or Error
-2026-04-19 06:29,Search,Failed,1.026,Timeout or Error
-2026-04-19 06:29,Channel,Failed,0.581,Timeout or Error
-2026-04-19 06:29,Comments,Failed,0.8,Timeout or Error
-2026-04-19 06:29,Playlist,Failed,0.593,Timeout or Error
-2026-04-19 07:28,Video,Failed,0.774,Timeout or Error
-2026-04-19 07:28,Search,Failed,1.036,Timeout or Error
-2026-04-19 07:28,Channel,Failed,0.699,Timeout or Error
-2026-04-19 07:28,Comments,Failed,0.93,Timeout or Error
-2026-04-19 07:28,Playlist,Failed,0.675,Timeout or Error
 2026-04-19 08:29,Video,Failed,0.612,Timeout or Error
 2026-04-19 08:29,Search,Failed,1.146,Timeout or Error
 2026-04-19 08:29,Channel,Failed,0.732,Timeout or Error
@@ -1994,3 +1984,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-19 06:05,Channel,Failed,0.551,Timeout or Error
 2026-05-19 06:05,Comments,Failed,0.65,Timeout or Error
 2026-05-19 06:05,Playlist,Failed,0.483,Timeout or Error
+2026-05-19 07:54,Video,Failed,0.688,Timeout or Error
+2026-05-19 07:54,Search,OK,0.858,"[{""type"":""video"" ""title"":""LEGO Batman (Arkham) TEST ❤️ Le GOTY 2026 ? (Review PS5)"" ""videoId"":""uO221"
+2026-05-19 07:54,Channel,Failed,0.365,Timeout or Error
+2026-05-19 07:54,Comments,Failed,0.606,Timeout or Error
+2026-05-19 07:54,Playlist,Failed,0.63,Timeout or Error
