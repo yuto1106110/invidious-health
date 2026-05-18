@@ -1,24 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-18 16:56,Video,OK,0.676,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-04-18 16:56,Search,OK,1.193,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
-2026-04-18 16:56,Channel,Failed,1.282,Timeout or Error
-2026-04-18 16:56,Comments,OK,0.39,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-04-18 16:56,Playlist,Failed,0.451,Timeout or Error
-2026-04-18 17:50,Video,OK,0.685,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-04-18 17:50,Search,OK,0.467,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-04-18 17:50,Channel,OK,0.471,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-04-18 17:50,Comments,OK,0.731,"{""commentCount"":10491680 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-18 17:50,Playlist,Failed,0.52,Timeout or Error
-2026-04-18 18:41,Video,Failed,0.619,Timeout or Error
-2026-04-18 18:41,Search,OK,1.049,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
-2026-04-18 18:41,Channel,OK,0.473,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-04-18 18:41,Comments,OK,0.93,"{""commentCount"":10491677 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-18 18:41,Playlist,OK,0.471,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-04-18 19:35,Video,Failed,0.478,Timeout or Error
-2026-04-18 19:35,Search,OK,0.324,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-04-18 19:35,Channel,Failed,0.397,Timeout or Error
-2026-04-18 19:35,Comments,OK,0.706,"{""commentCount"":10491714 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-18 19:35,Playlist,Failed,0.384,Timeout or Error
 2026-04-18 20:30,Video,Failed,0.453,Timeout or Error
 2026-04-18 20:30,Search,OK,0.32,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-04-18 20:30,Channel,OK,0.318,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
@@ -2039,3 +2019,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-18 15:51,Channel,OK,0.408,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-05-18 15:51,Comments,OK,0.42,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-05-18 15:51,Playlist,OK,0.414,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-18 20:02,Video,OK,0.531,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-18 20:02,Search,OK,0.329,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-18 20:02,Channel,OK,0.331,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-18 20:02,Comments,OK,0.319,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-18 20:02,Playlist,OK,0.339,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
