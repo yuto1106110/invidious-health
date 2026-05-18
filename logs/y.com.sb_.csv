@@ -1,24 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-18 20:30,Video,Failed,0.228,Timeout or Error
-2026-04-18 20:30,Search,Failed,0.228,Timeout or Error
-2026-04-18 20:30,Channel,Failed,0.232,Timeout or Error
-2026-04-18 20:30,Comments,Failed,0.241,Timeout or Error
-2026-04-18 20:30,Playlist,Failed,0.227,Timeout or Error
-2026-04-18 21:51,Video,Failed,0.264,Timeout or Error
-2026-04-18 21:51,Search,Failed,0.278,Timeout or Error
-2026-04-18 21:51,Channel,Failed,0.265,Timeout or Error
-2026-04-18 21:51,Comments,Failed,0.244,Timeout or Error
-2026-04-18 21:51,Playlist,Failed,0.262,Timeout or Error
-2026-04-18 22:58,Video,Failed,0.226,Timeout or Error
-2026-04-18 22:58,Search,Failed,0.229,Timeout or Error
-2026-04-18 22:58,Channel,Failed,0.215,Timeout or Error
-2026-04-18 22:58,Comments,Failed,0.223,Timeout or Error
-2026-04-18 22:58,Playlist,Failed,0.222,Timeout or Error
-2026-04-18 23:42,Video,Failed,0.243,Timeout or Error
-2026-04-18 23:42,Search,Failed,0.245,Timeout or Error
-2026-04-18 23:42,Channel,Failed,0.263,Timeout or Error
-2026-04-18 23:42,Comments,Failed,0.249,Timeout or Error
-2026-04-18 23:42,Playlist,Failed,0.266,Timeout or Error
 2026-04-19 00:33,Video,Failed,0.243,Timeout or Error
 2026-04-19 00:33,Search,Failed,0.242,Timeout or Error
 2026-04-19 00:33,Channel,Failed,0.231,Timeout or Error
@@ -2024,3 +2004,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-18 20:02,Channel,Failed,0.325,Timeout or Error
 2026-05-18 20:02,Comments,OK,0.584,"{""commentCount"":10513771 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-18 20:02,Playlist,Failed,0.335,Timeout or Error
+2026-05-19 00:16,Video,Failed,0.515,Timeout or Error
+2026-05-19 00:16,Search,OK,1.115,"[{""type"":""video"" ""title"":""HIGHLIGHTS | Bangladesh vs Pakistan  2nd Test | Day 3 | Pakistan tour of B"
+2026-05-19 00:16,Channel,Failed,0.531,Timeout or Error
+2026-05-19 00:16,Comments,OK,0.838,"{""commentCount"":10513765 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-19 00:16,Playlist,Failed,0.523,Timeout or Error
