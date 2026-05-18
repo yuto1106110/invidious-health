@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-18 13:28,Video,Failed,0.733,Timeout or Error
-2026-04-18 13:28,Search,Failed,1.052,Timeout or Error
-2026-04-18 13:28,Channel,Failed,0.646,Timeout or Error
-2026-04-18 13:28,Comments,Failed,1.037,Timeout or Error
-2026-04-18 13:28,Playlist,Failed,0.51,Timeout or Error
-2026-04-18 15:10,Video,Failed,0.487,Timeout or Error
-2026-04-18 15:10,Search,Failed,1.207,Timeout or Error
-2026-04-18 15:10,Channel,Failed,0.61,Timeout or Error
-2026-04-18 15:10,Comments,Failed,0.829,Timeout or Error
-2026-04-18 15:10,Playlist,Failed,0.589,Timeout or Error
 2026-04-18 16:56,Video,Failed,0.583,Timeout or Error
 2026-04-18 16:56,Search,Failed,0.881,Timeout or Error
 2026-04-18 16:56,Channel,Failed,0.49,Timeout or Error
@@ -2044,3 +2034,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-18 11:45,Channel,Failed,0.35,Timeout or Error
 2026-05-18 11:45,Comments,Failed,0.798,Timeout or Error
 2026-05-18 11:45,Playlist,Failed,0.369,Timeout or Error
+2026-05-18 15:51,Video,Failed,0.55,Timeout or Error
+2026-05-18 15:51,Search,OK,0.993,"[{""type"":""video"" ""title"":""TEST FORZA HORIZON 6 : Tout simplement le meilleur jeu de la série 🔵 TEST "
+2026-05-18 15:51,Channel,Failed,0.545,Timeout or Error
+2026-05-18 15:51,Comments,Failed,0.76,Timeout or Error
+2026-05-18 15:51,Playlist,Failed,0.404,Timeout or Error
