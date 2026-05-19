@@ -1,19 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-19 21:50,Video,Failed,0.314,Timeout or Error
-2026-04-19 21:50,Search,OK,1.174,"[{""type"":""video"" ""title"":""OLED TEST HDR 4K 120FPS DOLBY VISION 🏞 4K / 8K Monitor Test Video #BGM"" ""v"
-2026-04-19 21:50,Channel,Failed,0.356,Timeout or Error
-2026-04-19 21:50,Comments,OK,0.633,"{""commentCount"":10492283 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-19 21:50,Playlist,Failed,0.343,Timeout or Error
-2026-04-19 22:57,Video,Failed,0.313,Timeout or Error
-2026-04-19 22:57,Search,OK,0.749,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
-2026-04-19 22:57,Channel,Failed,0.343,Timeout or Error
-2026-04-19 22:57,Comments,OK,0.655,"{""commentCount"":10492317 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-19 22:57,Playlist,Failed,0.341,Timeout or Error
-2026-04-19 23:39,Video,Failed,0.314,Timeout or Error
-2026-04-19 23:39,Search,OK,0.869,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
-2026-04-19 23:39,Channel,Failed,0.336,Timeout or Error
-2026-04-19 23:39,Comments,OK,0.599,"{""commentCount"":10492335 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-19 23:39,Playlist,Failed,0.348,Timeout or Error
 2026-04-20 00:33,Video,Failed,0.472,Timeout or Error
 2026-04-20 00:33,Search,OK,1.115,"[{""type"":""video"" ""title"":""Kawasaki Z900 RS | Test (deutsch) 2026"" ""videoId"":""H57SbgMv7n4"" ""author"":"""
 2026-04-20 00:33,Channel,Failed,0.558,Timeout or Error
@@ -1969,3 +1954,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-19 20:57,Channel,Failed,0.349,Timeout or Error
 2026-05-19 20:57,Comments,OK,0.594,"{""commentCount"":10513858 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-19 20:57,Playlist,Failed,0.366,Timeout or Error
+2026-05-20 00:21,Video,Failed,0.317,Timeout or Error
+2026-05-20 00:21,Search,OK,0.907,"[{""type"":""video"" ""title"":""Hedge trimmer torture: Dead after 22 hours 😱 (Test hedge trimmers Stiftung"
+2026-05-20 00:21,Channel,Failed,0.35,Timeout or Error
+2026-05-20 00:21,Comments,OK,0.718,"{""commentCount"":10513945 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-20 00:21,Playlist,Failed,0.36,Timeout or Error

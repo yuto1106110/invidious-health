@@ -1,19 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-19 21:50,Video,Failed,0.614,Timeout or Error
-2026-04-19 21:50,Search,Failed,1.185,Timeout or Error
-2026-04-19 21:50,Channel,Failed,0.592,Timeout or Error
-2026-04-19 21:50,Comments,Failed,0.845,Timeout or Error
-2026-04-19 21:50,Playlist,Failed,0.425,Timeout or Error
-2026-04-19 22:57,Video,Failed,0.593,Timeout or Error
-2026-04-19 22:57,Search,Failed,0.978,Timeout or Error
-2026-04-19 22:57,Channel,Failed,0.432,Timeout or Error
-2026-04-19 22:57,Comments,Failed,0.965,Timeout or Error
-2026-04-19 22:57,Playlist,Failed,0.418,Timeout or Error
-2026-04-19 23:39,Video,Failed,0.62,Timeout or Error
-2026-04-19 23:39,Search,Failed,1.064,Timeout or Error
-2026-04-19 23:39,Channel,Failed,0.585,Timeout or Error
-2026-04-19 23:39,Comments,Failed,1.062,Timeout or Error
-2026-04-19 23:39,Playlist,Failed,0.355,Timeout or Error
 2026-04-20 00:33,Video,Failed,0.718,Timeout or Error
 2026-04-20 00:33,Search,Failed,1.101,Timeout or Error
 2026-04-20 00:33,Channel,Failed,0.841,Timeout or Error
@@ -1969,3 +1954,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-19 20:57,Channel,Failed,0.668,Timeout or Error
 2026-05-19 20:57,Comments,Failed,0.74,Timeout or Error
 2026-05-19 20:57,Playlist,Failed,0.687,Timeout or Error
+2026-05-20 00:21,Video,Failed,0.579,Timeout or Error
+2026-05-20 00:21,Search,OK,1.175,"[{""type"":""video"" ""title"":""𝐇𝐈𝐆𝐇𝐋𝐈𝐆𝐇𝐓𝐒 | 𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡 𝐯𝐬 𝐏𝐚𝐤𝐢𝐬𝐭𝐚𝐧  𝟐𝐧𝐝 𝐓𝐞𝐬𝐭 | 𝐃𝐚𝐲 𝟒 | 𝐏𝐚𝐤𝐢𝐬𝐭𝐚𝐧 𝐭𝐨𝐮𝐫 𝐨𝐟 𝐁"
+2026-05-20 00:21,Channel,Failed,0.603,Timeout or Error
+2026-05-20 00:21,Comments,Failed,0.751,Timeout or Error
+2026-05-20 00:21,Playlist,Failed,0.453,Timeout or Error
