@@ -1,19 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-20 00:33,Video,Failed,0.571,Timeout or Error
-2026-04-20 00:33,Search,OK,1.111,"[{""type"":""video"" ""title"":""Kawasaki Z900 RS | Test (deutsch) 2026"" ""videoId"":""H57SbgMv7n4"" ""author"":"""
-2026-04-20 00:33,Channel,Failed,0.543,Timeout or Error
-2026-04-20 00:33,Comments,OK,0.746,"{""commentCount"":10492368 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-20 00:33,Playlist,Failed,0.503,Timeout or Error
-2026-04-20 01:33,Video,Failed,0.558,Timeout or Error
-2026-04-20 01:33,Search,OK,1.01,"[{""type"":""video"" ""title"":""Kawasaki Z900 RS | Test (deutsch) 2026"" ""videoId"":""H57SbgMv7n4"" ""author"":"""
-2026-04-20 01:33,Channel,Failed,0.51,Timeout or Error
-2026-04-20 01:33,Comments,OK,0.846,"{""commentCount"":10492412 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-20 01:33,Playlist,Failed,0.522,Timeout or Error
-2026-04-20 02:31,Video,Failed,0.467,Timeout or Error
-2026-04-20 02:31,Search,OK,0.881,"[{""type"":""video"" ""title"":""Hedge trimmer torture: Dead after 22 hours 😱 (Test hedge trimmers Stiftung"
-2026-04-20 02:31,Channel,Failed,0.398,Timeout or Error
-2026-04-20 02:31,Comments,OK,0.705,"{""commentCount"":10492444 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-20 02:31,Playlist,Failed,0.38,Timeout or Error
 2026-04-20 03:39,Video,Failed,0.534,Timeout or Error
 2026-04-20 03:39,Search,OK,1.067,"[{""type"":""video"" ""title"":""Hedge trimmer torture: Dead after 22 hours 😱 (Test hedge trimmers Stiftung"
 2026-04-20 03:39,Channel,Failed,0.468,Timeout or Error
@@ -1959,3 +1944,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-20 00:21,Channel,Failed,0.343,Timeout or Error
 2026-05-20 00:21,Comments,OK,0.743,"{""commentCount"":10513945 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-20 00:21,Playlist,Failed,0.346,Timeout or Error
+2026-05-20 02:59,Video,Failed,0.898,Timeout or Error
+2026-05-20 02:59,Search,OK,1.021,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-05-20 02:59,Channel,Failed,0.339,Timeout or Error
+2026-05-20 02:59,Comments,OK,0.607,"{""commentCount"":10513796 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-20 02:59,Playlist,Failed,0.328,Timeout or Error
