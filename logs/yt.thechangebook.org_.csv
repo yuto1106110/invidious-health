@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-20 05:30,Video,Failed,0.636,Timeout or Error
-2026-04-20 05:30,Search,Failed,0.87,Timeout or Error
-2026-04-20 05:30,Channel,Failed,0.615,Timeout or Error
-2026-04-20 05:30,Comments,Failed,0.824,Timeout or Error
-2026-04-20 05:30,Playlist,Failed,0.618,Timeout or Error
 2026-04-20 06:30,Video,Failed,0.618,Timeout or Error
 2026-04-20 06:30,Search,Failed,0.867,Timeout or Error
 2026-04-20 06:30,Channel,Failed,0.443,Timeout or Error
@@ -1944,3 +1939,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-20 04:59,Channel,Failed,0.63,Timeout or Error
 2026-05-20 04:59,Comments,Failed,0.685,Timeout or Error
 2026-05-20 04:59,Playlist,Failed,0.593,Timeout or Error
+2026-05-20 06:25,Video,Failed,0.624,Timeout or Error
+2026-05-20 06:25,Search,OK,1.072,"[{""type"":""video"" ""title"":""Temps forts complets | Jour 4 | 2e Test | Bangladesh vs Pakistan | tapmad "
+2026-05-20 06:25,Channel,Failed,0.592,Timeout or Error
+2026-05-20 06:25,Comments,Failed,0.686,Timeout or Error
+2026-05-20 06:25,Playlist,Failed,0.641,Timeout or Error
