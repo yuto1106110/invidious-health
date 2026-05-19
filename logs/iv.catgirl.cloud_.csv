@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-20 06:30,Video,Failed,1.225,Timeout or Error
-2026-04-20 06:30,Search,OK,1.076,"[{""type"":""video"" ""title"":""Test your Gaydar ON 8 People"" ""videoId"":""1MrI68I7DBU"" ""author"":""Wall Of En"
-2026-04-20 06:30,Channel,Failed,1.234,Timeout or Error
-2026-04-20 06:30,Comments,OK,1.087,"{""commentCount"":10492607 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-20 06:30,Playlist,Failed,1.236,Timeout or Error
-2026-04-20 07:29,Video,OK,0.413,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-04-20 07:29,Search,OK,0.408,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-04-20 07:29,Channel,OK,0.416,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-04-20 07:29,Comments,OK,0.753,"{""commentCount"":10492592 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-20 07:29,Playlist,OK,0.394,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-04-20 08:30,Video,OK,0.952,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-04-20 08:30,Search,OK,0.91,"[{""type"":""video"" ""title"":""DO NOT BUY THIS MATTER! 😳 Real review"" ""videoId"":""fGfva52fBDY"" ""author"":""O"
 2026-04-20 08:30,Channel,Failed,0.424,Timeout or Error
@@ -1944,3 +1934,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-20 06:25,Channel,OK,0.324,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-05-20 06:25,Comments,OK,0.332,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-05-20 06:25,Playlist,OK,0.33,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-20 07:59,Video,OK,0.739,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-20 07:59,Search,OK,0.326,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-20 07:59,Channel,OK,0.324,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-20 07:59,Comments,OK,0.32,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-20 07:59,Playlist,OK,0.324,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
