@@ -1,24 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-19 17:46,Video,Failed,0.313,Timeout or Error
-2026-04-19 17:46,Search,OK,0.815,"[{""type"":""video"" ""title"":""Kawasaki Z900 RS | Test (deutsch) 2026"" ""videoId"":""H57SbgMv7n4"" ""author"":"""
-2026-04-19 17:46,Channel,Failed,0.384,Timeout or Error
-2026-04-19 17:46,Comments,OK,0.642,"{""commentCount"":10492178 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-19 17:46,Playlist,Failed,0.335,Timeout or Error
-2026-04-19 18:41,Video,Failed,0.514,Timeout or Error
-2026-04-19 18:41,Search,OK,1.076,"[{""type"":""video"" ""title"":""Kawasaki Z900 RS | Test (deutsch) 2026"" ""videoId"":""H57SbgMv7n4"" ""author"":"""
-2026-04-19 18:41,Channel,Failed,0.601,Timeout or Error
-2026-04-19 18:41,Comments,OK,0.95,"{""commentCount"":10492198 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-19 18:41,Playlist,Failed,0.545,Timeout or Error
-2026-04-19 19:34,Video,Failed,0.364,Timeout or Error
-2026-04-19 19:34,Search,OK,0.912,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
-2026-04-19 19:34,Channel,Failed,0.382,Timeout or Error
-2026-04-19 19:34,Comments,OK,0.696,"{""commentCount"":10492216 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-19 19:34,Playlist,Failed,0.412,Timeout or Error
-2026-04-19 20:31,Video,Failed,0.405,Timeout or Error
-2026-04-19 20:31,Search,OK,1.161,"[{""type"":""video"" ""title"":""#Stereo: Left and Right Stereo Sound Test"" ""videoId"":""6TWJaFD6R2s"" ""author"
-2026-04-19 20:31,Channel,Failed,0.436,Timeout or Error
-2026-04-19 20:31,Comments,OK,0.796,"{""commentCount"":10492248 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-19 20:31,Playlist,Failed,0.453,Timeout or Error
 2026-04-19 21:50,Video,Failed,0.314,Timeout or Error
 2026-04-19 21:50,Search,OK,1.174,"[{""type"":""video"" ""title"":""OLED TEST HDR 4K 120FPS DOLBY VISION 🏞 4K / 8K Monitor Test Video #BGM"" ""v"
 2026-04-19 21:50,Channel,Failed,0.356,Timeout or Error
@@ -1984,3 +1964,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-19 17:22,Channel,Failed,0.367,Timeout or Error
 2026-05-19 17:22,Comments,OK,0.579,"{""commentCount"":10514013 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-19 17:22,Playlist,Failed,0.484,Timeout or Error
+2026-05-19 20:57,Video,Failed,0.315,Timeout or Error
+2026-05-19 20:57,Search,OK,0.873,"[{""type"":""video"" ""title"":""The Chemical Brothers - The Test (Official Music Video)"" ""videoId"":""yhS9Ln"
+2026-05-19 20:57,Channel,Failed,0.349,Timeout or Error
+2026-05-19 20:57,Comments,OK,0.594,"{""commentCount"":10513858 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-19 20:57,Playlist,Failed,0.366,Timeout or Error

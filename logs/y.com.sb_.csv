@@ -1,24 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-19 17:46,Video,Failed,0.348,Timeout or Error
-2026-04-19 17:46,Search,OK,0.873,"[{""type"":""video"" ""title"":""Kawasaki Z900 RS | Test (deutsch) 2026"" ""videoId"":""H57SbgMv7n4"" ""author"":"""
-2026-04-19 17:46,Channel,Failed,0.328,Timeout or Error
-2026-04-19 17:46,Comments,OK,0.531,"{""commentCount"":10492178 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-19 17:46,Playlist,Failed,0.34,Timeout or Error
-2026-04-19 18:41,Video,Failed,0.547,Timeout or Error
-2026-04-19 18:41,Search,OK,1.01,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
-2026-04-19 18:41,Channel,Failed,0.539,Timeout or Error
-2026-04-19 18:41,Comments,OK,0.84,"{""commentCount"":10492199 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-19 18:41,Playlist,Failed,0.808,Timeout or Error
-2026-04-19 19:34,Video,Failed,0.425,Timeout or Error
-2026-04-19 19:34,Search,OK,0.949,"[{""type"":""video"" ""title"":""Kawasaki Z900 RS | Test (deutsch) 2026"" ""videoId"":""H57SbgMv7n4"" ""author"":"""
-2026-04-19 19:34,Channel,Failed,0.371,Timeout or Error
-2026-04-19 19:34,Comments,OK,1.124,"{""commentCount"":10492216 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-19 19:34,Playlist,Failed,0.37,Timeout or Error
-2026-04-19 20:31,Video,Failed,0.517,Timeout or Error
-2026-04-19 20:31,Search,OK,0.984,"[{""type"":""video"" ""title"":""Kawasaki Z900 RS | Test (deutsch) 2026"" ""videoId"":""H57SbgMv7n4"" ""author"":"""
-2026-04-19 20:31,Channel,Failed,0.472,Timeout or Error
-2026-04-19 20:31,Comments,OK,0.752,"{""commentCount"":10492248 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-19 20:31,Playlist,Failed,0.417,Timeout or Error
 2026-04-19 21:50,Video,Failed,0.487,Timeout or Error
 2026-04-19 21:50,Search,OK,0.854,"[{""type"":""video"" ""title"":""Hedge trimmer torture: Dead after 22 hours 😱 (Test hedge trimmers Stiftung"
 2026-04-19 21:50,Channel,Failed,0.478,Timeout or Error
@@ -1984,3 +1964,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-19 17:22,Channel,Failed,0.348,Timeout or Error
 2026-05-19 17:22,Comments,OK,0.584,"{""commentCount"":10514013 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-19 17:22,Playlist,Failed,0.388,Timeout or Error
+2026-05-19 20:57,Video,Failed,0.304,Timeout or Error
+2026-05-19 20:57,Search,OK,0.896,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-05-19 20:57,Channel,Failed,0.34,Timeout or Error
+2026-05-19 20:57,Comments,OK,0.7,"{""commentCount"":10513858 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-19 20:57,Playlist,Failed,0.334,Timeout or Error
