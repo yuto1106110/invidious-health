@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-20 18:59,Video,Failed,0.372,Timeout or Error
-2026-04-20 18:59,Search,OK,1.242,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
-2026-04-20 18:59,Channel,Failed,0.42,Timeout or Error
-2026-04-20 18:59,Comments,OK,0.627,"{""commentCount"":10492302 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-20 18:59,Playlist,Failed,0.41,Timeout or Error
-2026-04-20 20:24,Video,Failed,1.036,Timeout or Error
-2026-04-20 20:24,Search,OK,0.928,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
-2026-04-20 20:24,Channel,Failed,0.448,Timeout or Error
-2026-04-20 20:24,Comments,OK,0.699,"{""commentCount"":10492326 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-20 20:24,Playlist,Failed,0.407,Timeout or Error
 2026-04-20 22:18,Video,Failed,0.5,Timeout or Error
 2026-04-20 22:18,Search,OK,1.002,"[{""type"":""video"" ""title"":""Pragmata zeigt ENDLICH wieder  was AAA sein sollte! - Test / Review"" ""vide"
 2026-04-20 22:18,Channel,Failed,0.603,Timeout or Error
@@ -1934,3 +1924,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-20 17:30,Channel,Failed,0.549,Timeout or Error
 2026-05-20 17:30,Comments,OK,0.873,"{""commentCount"":10513917 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-20 17:30,Playlist,Failed,0.542,Timeout or Error
+2026-05-20 20:45,Video,Failed,0.374,Timeout or Error
+2026-05-20 20:45,Search,OK,0.885,"[{""type"":""video"" ""title"":""The Chemical Brothers - The Test (Official Music Video)"" ""videoId"":""yhS9Ln"
+2026-05-20 20:45,Channel,Failed,0.385,Timeout or Error
+2026-05-20 20:45,Comments,OK,0.718,"{""commentCount"":10513924 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-20 20:45,Playlist,Failed,0.403,Timeout or Error
