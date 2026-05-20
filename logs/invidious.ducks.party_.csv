@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-21 00:13,Video,Failed,0.312,Timeout or Error
-2026-04-21 00:13,Search,OK,1.101,"[{""type"":""video"" ""title"":""Unfassbar günstig? Tesla Model Y Standard im Pendler Test!"" ""videoId"":""mTE"
-2026-04-21 00:13,Channel,Failed,0.407,Timeout or Error
-2026-04-21 00:13,Comments,OK,0.667,"{""commentCount"":10492341 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-21 00:13,Playlist,Failed,0.408,Timeout or Error
-2026-04-21 01:59,Video,Failed,0.315,Timeout or Error
-2026-04-21 01:59,Search,OK,0.886,"[{""type"":""video"" ""title"":""Pragmata zeigt ENDLICH wieder  was AAA sein sollte! - Test / Review"" ""vide"
-2026-04-21 01:59,Channel,Failed,0.381,Timeout or Error
-2026-04-21 01:59,Comments,OK,0.764,"{""commentCount"":10492361 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-21 01:59,Playlist,Failed,0.395,Timeout or Error
 2026-04-21 03:01,Video,Failed,0.393,Timeout or Error
 2026-04-21 03:01,Search,OK,0.996,"[{""type"":""video"" ""title"":""Pragmata zeigt ENDLICH wieder  was AAA sein sollte! - Test / Review"" ""vide"
 2026-04-21 03:01,Channel,Failed,0.476,Timeout or Error
@@ -1929,3 +1919,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-20 23:48,Channel,Failed,0.555,Timeout or Error
 2026-05-20 23:48,Comments,OK,0.813,"{""commentCount"":10514025 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-20 23:48,Playlist,Failed,0.554,Timeout or Error
+2026-05-21 02:51,Video,Failed,0.319,Timeout or Error
+2026-05-21 02:51,Search,OK,1.174,"[{""type"":""video"" ""title"":""Yamaha Ténéré 700 World Raid | Test Modell 2026 (deutsch)"" ""videoId"":""Z07_"
+2026-05-21 02:51,Channel,Failed,0.384,Timeout or Error
+2026-05-21 02:51,Comments,OK,0.737,"{""commentCount"":10514078 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-21 02:51,Playlist,Failed,0.395,Timeout or Error
