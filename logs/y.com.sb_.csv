@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-20 08:30,Video,Failed,0.406,Timeout or Error
-2026-04-20 08:30,Search,OK,0.831,"[{""type"":""video"" ""title"":""FIBO GRIFFKRAFT TEST 2026 💪🏼🏋🏻"" ""videoId"":""Vz3XRk0JWhA"" ""author"":""Yussef J"
-2026-04-20 08:30,Channel,Failed,0.371,Timeout or Error
-2026-04-20 08:30,Comments,OK,0.606,"{""commentCount"":10492623 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-20 08:30,Playlist,Failed,0.38,Timeout or Error
 2026-04-20 11:07,Video,Failed,0.511,Timeout or Error
 2026-04-20 11:07,Search,OK,0.849,"[{""type"":""video"" ""title"":""Hedge trimmer torture: Dead after 22 hours 😱 (Test hedge trimmers Stiftung"
 2026-04-20 11:07,Channel,Failed,0.461,Timeout or Error
@@ -1939,3 +1934,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-20 07:59,Channel,Failed,0.359,Timeout or Error
 2026-05-20 07:59,Comments,OK,0.62,"{""commentCount"":10513866 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-20 07:59,Playlist,Failed,0.35,Timeout or Error
+2026-05-20 09:11,Video,Failed,0.318,Timeout or Error
+2026-05-20 09:11,Search,OK,0.742,"[{""type"":""video"" ""title"":""Full Highlights | Day 4 | 2nd Test | Bangladesh vs Pakistan | tapmad | PKB"
+2026-05-20 09:11,Channel,Failed,0.337,Timeout or Error
+2026-05-20 09:11,Comments,OK,0.527,"{""commentCount"":10513870 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-20 09:11,Playlist,Failed,0.326,Timeout or Error
