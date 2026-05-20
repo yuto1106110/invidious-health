@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-20 22:18,Video,Failed,0.5,Timeout or Error
-2026-04-20 22:18,Search,OK,1.002,"[{""type"":""video"" ""title"":""Pragmata zeigt ENDLICH wieder  was AAA sein sollte! - Test / Review"" ""vide"
-2026-04-20 22:18,Channel,Failed,0.603,Timeout or Error
-2026-04-20 22:18,Comments,OK,0.808,"{""commentCount"":10492373 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-20 22:18,Playlist,Failed,0.572,Timeout or Error
 2026-04-21 00:13,Video,Failed,0.312,Timeout or Error
 2026-04-21 00:13,Search,OK,1.101,"[{""type"":""video"" ""title"":""Unfassbar günstig? Tesla Model Y Standard im Pendler Test!"" ""videoId"":""mTE"
 2026-04-21 00:13,Channel,Failed,0.407,Timeout or Error
@@ -1929,3 +1924,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-20 20:45,Channel,Failed,0.385,Timeout or Error
 2026-05-20 20:45,Comments,OK,0.718,"{""commentCount"":10513924 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-20 20:45,Playlist,Failed,0.403,Timeout or Error
+2026-05-20 23:48,Video,Failed,0.521,Timeout or Error
+2026-05-20 23:48,Search,OK,1.14,"[{""type"":""video"" ""title"":""Yamaha Ténéré 700 World Raid | Test Modell 2026 (deutsch)"" ""videoId"":""Z07_"
+2026-05-20 23:48,Channel,Failed,0.555,Timeout or Error
+2026-05-20 23:48,Comments,OK,0.813,"{""commentCount"":10514025 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-20 23:48,Playlist,Failed,0.554,Timeout or Error

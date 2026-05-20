@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-20 22:18,Video,Failed,0.552,Timeout or Error
-2026-04-20 22:18,Search,OK,1.21,"[{""type"":""video"" ""title"":""Hedge trimmer torture: Dead after 22 hours 😱 (Test hedge trimmers Stiftung"
-2026-04-20 22:18,Channel,Failed,0.525,Timeout or Error
-2026-04-20 22:18,Comments,OK,0.796,"{""commentCount"":10492373 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-20 22:18,Playlist,Failed,0.531,Timeout or Error
 2026-04-21 00:13,Video,Failed,0.379,Timeout or Error
 2026-04-21 00:13,Search,OK,1.04,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
 2026-04-21 00:13,Channel,Failed,0.352,Timeout or Error
@@ -1929,3 +1924,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-20 20:45,Channel,Failed,0.397,Timeout or Error
 2026-05-20 20:45,Comments,OK,0.652,"{""commentCount"":10513924 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-20 20:45,Playlist,Failed,0.405,Timeout or Error
+2026-05-20 23:48,Video,Failed,0.496,Timeout or Error
+2026-05-20 23:48,Search,OK,1.264,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-05-20 23:48,Channel,Failed,0.562,Timeout or Error
+2026-05-20 23:48,Comments,OK,0.864,"{""commentCount"":10514025 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-20 23:48,Playlist,Failed,0.538,Timeout or Error
