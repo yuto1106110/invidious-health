@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-21 03:01,Video,Failed,0.629,Timeout or Error
-2026-04-21 03:01,Search,Failed,1.187,Timeout or Error
-2026-04-21 03:01,Channel,Failed,0.681,Timeout or Error
-2026-04-21 03:01,Comments,Failed,1.089,Timeout or Error
-2026-04-21 03:01,Playlist,Failed,0.596,Timeout or Error
-2026-04-21 04:58,Video,Failed,0.488,Timeout or Error
-2026-04-21 04:58,Search,Failed,1.04,Timeout or Error
-2026-04-21 04:58,Channel,Failed,0.619,Timeout or Error
-2026-04-21 04:58,Comments,Failed,0.659,Timeout or Error
-2026-04-21 04:58,Playlist,Failed,0.589,Timeout or Error
 2026-04-21 05:51,Video,Failed,0.495,Timeout or Error
 2026-04-21 05:51,Search,Failed,1.186,Timeout or Error
 2026-04-21 05:51,Channel,Failed,0.61,Timeout or Error
@@ -1924,3 +1914,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-21 02:51,Channel,Failed,0.347,Timeout or Error
 2026-05-21 02:51,Comments,Failed,0.772,Timeout or Error
 2026-05-21 02:51,Playlist,Failed,0.584,Timeout or Error
+2026-05-21 05:06,Video,Failed,0.671,Timeout or Error
+2026-05-21 05:06,Search,OK,0.849,"[{""type"":""video"" ""title"":""🅱🅰🅽🅶🅻🅰🆆🅰🆂🅷! 𝐇𝐈𝐆𝐇𝐋𝐈𝐆𝐇𝐓𝐒 | 𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡 𝐯𝐬 𝐏𝐚𝐤𝐢𝐬𝐭𝐚𝐧  𝟐𝐧𝐝 𝐓𝐞𝐬𝐭 | 𝐃𝐚𝐲 5 | 𝐏𝐚𝐤𝐢𝐬𝐭"
+2026-05-21 05:06,Channel,Failed,0.485,Timeout or Error
+2026-05-21 05:06,Comments,Failed,0.881,Timeout or Error
+2026-05-21 05:06,Playlist,Failed,0.365,Timeout or Error
