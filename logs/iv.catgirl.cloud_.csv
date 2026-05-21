@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-21 11:03,Video,Failed,0.474,Timeout or Error
-2026-04-21 11:03,Search,OK,0.781,"[{""type"":""video"" ""title"":""Will She Cheat After Doing A Simple Favor For Him? | UDY Loyalty Test"" ""vi"
-2026-04-21 11:03,Channel,OK,0.319,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-04-21 11:03,Comments,OK,0.562,"{""commentCount"":10492583 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-21 11:03,Playlist,OK,0.317,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-04-21 14:22,Video,Failed,0.484,Timeout or Error
 2026-04-21 14:22,Search,OK,0.791,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
 2026-04-21 14:22,Channel,Failed,0.534,Timeout or Error
@@ -1909,3 +1904,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-21 09:02,Channel,OK,0.474,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-05-21 09:02,Comments,OK,0.464,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-05-21 09:02,Playlist,OK,0.506,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-21 14:05,Video,OK,0.627,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-21 14:05,Search,OK,0.32,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-21 14:05,Channel,OK,0.32,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-21 14:05,Comments,OK,0.321,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-05-21 14:05,Playlist,OK,0.326,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
