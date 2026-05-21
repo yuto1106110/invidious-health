@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-21 22:12,Video,Failed,0.368,Timeout or Error
-2026-04-21 22:12,Search,OK,0.852,"[{""type"":""video"" ""title"":""The Chemical Brothers - The Test (Official Music Video)"" ""videoId"":""yhS9Ln"
-2026-04-21 22:12,Channel,Failed,0.402,Timeout or Error
-2026-04-21 22:12,Comments,OK,0.595,"{""commentCount"":10492841 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-21 22:12,Playlist,Failed,0.398,Timeout or Error
-2026-04-22 00:08,Video,Failed,0.314,Timeout or Error
-2026-04-22 00:08,Search,OK,1.135,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
-2026-04-22 00:08,Channel,Failed,0.389,Timeout or Error
-2026-04-22 00:08,Comments,OK,0.739,"{""commentCount"":10492925 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-22 00:08,Playlist,Failed,0.391,Timeout or Error
 2026-04-22 01:54,Video,Failed,0.512,Timeout or Error
 2026-04-22 01:54,Search,OK,0.97,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
 2026-04-22 01:54,Channel,Failed,0.642,Timeout or Error
@@ -1899,3 +1889,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-21 21:41,Channel,Failed,0.35,Timeout or Error
 2026-05-21 21:41,Comments,OK,0.716,"{""commentCount"":10514336 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-21 21:41,Playlist,Failed,0.363,Timeout or Error
+2026-05-22 01:13,Video,Failed,0.507,Timeout or Error
+2026-05-22 01:13,Search,OK,1.154,"[{""type"":""video"" ""title"":""Apple iPhone 17e Review: Verdict After 2 Weeks"" ""videoId"":""AgTEJKDnSZs"" ""a"
+2026-05-22 01:13,Channel,Failed,0.597,Timeout or Error
+2026-05-22 01:13,Comments,OK,0.814,"{""commentCount"":10514383 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-22 01:13,Playlist,Failed,0.525,Timeout or Error
