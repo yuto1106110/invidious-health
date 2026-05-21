@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-21 07:38,Video,OK,0.438,
-2026-04-21 07:38,Search,OK,1.387,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-04-21 07:38,Channel,Failed,0.626,Timeout or Error
-2026-04-21 07:38,Comments,OK,0.636,"{""commentCount"":10492551 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-21 07:38,Playlist,Failed,0.352,Timeout or Error
-2026-04-21 08:37,Video,Failed,1.483,Timeout or Error
-2026-04-21 08:37,Search,OK,1.124,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-04-21 08:37,Channel,Failed,0.609,Timeout or Error
-2026-04-21 08:37,Comments,OK,1.014,"{""commentCount"":10492559 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-21 08:37,Playlist,Failed,0.358,Timeout or Error
 2026-04-21 11:03,Video,Failed,1.53,Timeout or Error
 2026-04-21 11:03,Search,OK,1.26,"[{""type"":""video"" ""title"":""Will She Cheat After Doing A Simple Favor For Him? | UDY Loyalty Test"" ""vi"
 2026-04-21 11:03,Channel,Failed,0.562,Timeout or Error
@@ -1914,3 +1904,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-21 07:21,Channel,Failed,1.213,Timeout or Error
 2026-05-21 07:21,Comments,OK,0.887,"{""commentCount"":10514233 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-21 07:21,Playlist,Failed,0.324,Timeout or Error
+2026-05-21 09:02,Video,OK,1.528,
+2026-05-21 09:02,Search,OK,1.888,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-05-21 09:02,Channel,Failed,0.567,Timeout or Error
+2026-05-21 09:02,Comments,OK,1.747,"{""commentCount"":10514264 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-21 09:02,Playlist,Failed,0.586,Timeout or Error
