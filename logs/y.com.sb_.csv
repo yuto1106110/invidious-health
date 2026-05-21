@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-21 20:01,Video,Failed,1.212,Timeout or Error
-2026-04-21 20:01,Search,OK,0.937,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
-2026-04-21 20:01,Channel,Failed,0.366,Timeout or Error
-2026-04-21 20:01,Comments,OK,0.578,"{""commentCount"":10492745 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-21 20:01,Playlist,Failed,1.211,Timeout or Error
 2026-04-21 22:12,Video,Failed,0.975,Timeout or Error
 2026-04-21 22:12,Search,OK,0.859,"[{""type"":""video"" ""title"":""Ice cube test reveals the true character of dogs"" ""videoId"":""NkwOx-LeuLc"" "
 2026-04-21 22:12,Channel,Failed,0.378,Timeout or Error
@@ -1899,3 +1894,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-21 18:28,Channel,Failed,0.447,Timeout or Error
 2026-05-21 18:28,Comments,OK,0.918,"{""commentCount"":10514289 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-21 18:28,Playlist,Failed,0.468,Timeout or Error
+2026-05-21 21:41,Video,Failed,0.312,Timeout or Error
+2026-05-21 21:41,Search,OK,0.942,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-05-21 21:41,Channel,Failed,0.365,Timeout or Error
+2026-05-21 21:41,Comments,OK,0.609,"{""commentCount"":10514337 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-21 21:41,Playlist,Failed,0.343,Timeout or Error
