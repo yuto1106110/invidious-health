@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-23 04:09,Video,Failed,0.401,Timeout or Error
-2026-04-23 04:09,Search,OK,0.873,"[{""type"":""video"" ""title"":""Xpeng G6: Das erste große Update im Test – Endlich besser?"" ""videoId"":""T7O"
-2026-04-23 04:09,Channel,Failed,0.382,Timeout or Error
-2026-04-23 04:09,Comments,OK,0.672,"{""commentCount"":10493363 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-23 04:09,Playlist,Failed,0.375,Timeout or Error
 2026-04-23 05:48,Video,Failed,0.55,Timeout or Error
 2026-04-23 05:48,Search,OK,1.021,"[{""type"":""video"" ""title"":""Xpeng G6: Das erste große Update im Test – Endlich besser?"" ""videoId"":""T7O"
 2026-04-23 05:48,Channel,Failed,0.558,Timeout or Error
@@ -1864,3 +1859,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-23 03:50,Channel,Failed,0.427,Timeout or Error
 2026-05-23 03:50,Comments,OK,0.673,"{""commentCount"":10514664 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-23 03:50,Playlist,Failed,0.425,Timeout or Error
+2026-05-23 05:29,Video,Failed,0.401,Timeout or Error
+2026-05-23 05:29,Search,OK,0.806,"[{""type"":""video"" ""title"":""Cupra TAVASCAN VZ im harten Real-Life-Test - Nur PERFORMANCE oder auch EFF"
+2026-05-23 05:29,Channel,Failed,0.333,Timeout or Error
+2026-05-23 05:29,Comments,OK,0.589,"{""commentCount"":10514693 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-23 05:29,Playlist,Failed,0.349,Timeout or Error
