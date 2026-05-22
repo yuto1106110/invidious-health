@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-22 23:43,Video,Failed,0.311,Timeout or Error
-2026-04-22 23:43,Search,OK,0.994,"[{""type"":""video"" ""title"":""The Chemical Brothers - The Test (Official Music Video)"" ""videoId"":""yhS9Ln"
-2026-04-22 23:43,Channel,Failed,0.347,Timeout or Error
-2026-04-22 23:43,Comments,OK,0.646,"{""commentCount"":10493430 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-22 23:43,Playlist,Failed,0.387,Timeout or Error
-2026-04-23 01:05,Video,Failed,0.393,Timeout or Error
-2026-04-23 01:05,Search,OK,1.173,"[{""type"":""video"" ""title"":""kinder: Tris im Test"" ""videoId"":""hHvK2PQLiwc"" ""author"":""FoodSchau"" ""author"
-2026-04-23 01:05,Channel,Failed,0.464,Timeout or Error
-2026-04-23 01:05,Comments,OK,0.792,"{""commentCount"":10493478 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-23 01:05,Playlist,Failed,0.547,Timeout or Error
 2026-04-23 02:56,Video,Failed,1.266,Timeout or Error
 2026-04-23 02:56,Search,OK,1.043,"[{""type"":""video"" ""title"":""Absolutely the Best OLED HDR Test Ever | Dolby Vision 16K HDR 240fps (8K/4"
 2026-04-23 02:56,Channel,Failed,0.478,Timeout or Error
@@ -1869,3 +1859,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-22 22:27,Channel,Failed,0.414,Timeout or Error
 2026-05-22 22:27,Comments,OK,0.724,"{""commentCount"":10514565 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-22 22:27,Playlist,Failed,0.428,Timeout or Error
+2026-05-23 01:20,Video,Failed,0.44,Timeout or Error
+2026-05-23 01:20,Search,OK,1.01,"[{""type"":""video"" ""title"":""Cupra TAVASCAN VZ im harten Real-Life-Test - Nur PERFORMANCE oder auch EFF"
+2026-05-23 01:20,Channel,Failed,0.393,Timeout or Error
+2026-05-23 01:20,Comments,OK,0.892,"{""commentCount"":10514595 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-23 01:20,Playlist,Failed,0.399,Timeout or Error
