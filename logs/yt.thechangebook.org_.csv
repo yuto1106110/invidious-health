@@ -1849,3 +1849,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-23 20:05,Channel,Failed,0.396,Timeout or Error
 2026-05-23 20:05,Comments,Failed,0.714,Timeout or Error
 2026-05-23 20:05,Playlist,Failed,0.41,Timeout or Error
+2026-05-23 22:12,Video,Failed,0.53,Timeout or Error
+2026-05-23 22:12,Search,OK,1.06,"[{""type"":""video"" ""title"":""QUIZ Culture Générale 🧠 : 100 Questions pour tester votre niveau"" ""videoId"
+2026-05-23 22:12,Channel,Failed,0.536,Timeout or Error
+2026-05-23 22:12,Comments,Failed,1.048,Timeout or Error
+2026-05-23 22:12,Playlist,Failed,0.666,Timeout or Error
