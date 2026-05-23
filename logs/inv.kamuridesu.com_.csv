@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-23 20:03,Video,Failed,0.28,Timeout or Error
-2026-04-23 20:03,Search,OK,0.791,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-04-23 20:03,Channel,Failed,0.376,Timeout or Error
-2026-04-23 20:03,Comments,OK,0.598,"{""commentCount"":10493677 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-23 20:03,Playlist,Failed,0.372,Timeout or Error
-2026-04-23 20:03,Video,Failed,0.303,Timeout or Error
-2026-04-23 20:03,Search,OK,0.903,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-04-23 20:03,Channel,Failed,0.355,Timeout or Error
-2026-04-23 20:03,Comments,OK,0.608,"{""commentCount"":10493678 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-23 20:03,Playlist,Failed,0.35,Timeout or Error
 2026-04-23 22:14,Video,Failed,0.307,Timeout or Error
 2026-04-23 22:14,Search,OK,1.017,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-04-23 22:14,Channel,Failed,0.402,Timeout or Error
@@ -3699,3 +3689,13 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-23 18:45,Channel,Failed,0.38,Timeout or Error
 2026-05-23 18:45,Comments,OK,0.546,"{""commentCount"":10514803 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-23 18:45,Playlist,Failed,0.436,Timeout or Error
+2026-05-23 20:05,Video,Failed,0.284,Timeout or Error
+2026-05-23 20:05,Search,OK,0.883,"[{""type"":""video"" ""title"":""🔴 FREE FIRE LIVE👻GARENA FREE FIRE💀GUILD TEST LIVE !! GAMING NINJA #fflive "
+2026-05-23 20:05,Channel,Failed,0.334,Timeout or Error
+2026-05-23 20:05,Comments,OK,0.497,"{""commentCount"":10514845 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-23 20:05,Playlist,Failed,0.337,Timeout or Error
+2026-05-23 20:05,Video,Failed,0.275,Timeout or Error
+2026-05-23 20:05,Search,OK,0.866,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-05-23 20:05,Channel,Failed,0.34,Timeout or Error
+2026-05-23 20:05,Comments,OK,0.512,"{""commentCount"":10514845 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-23 20:05,Playlist,Failed,0.341,Timeout or Error
