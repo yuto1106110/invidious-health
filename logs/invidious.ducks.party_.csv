@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-24 05:45,Video,Failed,0.568,Timeout or Error
-2026-04-24 05:45,Search,OK,1.053,"[{""type"":""video"" ""title"":""The Chemical Brothers - The Test (Official Music Video)"" ""videoId"":""yhS9Ln"
-2026-04-24 05:45,Channel,Failed,0.588,Timeout or Error
-2026-04-24 05:45,Comments,OK,0.805,"{""commentCount"":10494777 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-24 05:45,Playlist,Failed,0.582,Timeout or Error
-2026-04-24 06:40,Video,Failed,0.364,Timeout or Error
-2026-04-24 06:40,Search,OK,0.742,"[{""type"":""video"" ""title"":""The Chemical Brothers - The Test (Official Music Video)"" ""videoId"":""yhS9Ln"
-2026-04-24 06:40,Channel,Failed,0.36,Timeout or Error
-2026-04-24 06:40,Comments,OK,0.595,"{""commentCount"":10494877 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-24 06:40,Playlist,Failed,0.377,Timeout or Error
 2026-04-24 07:38,Video,Failed,0.489,Timeout or Error
 2026-04-24 07:38,Search,OK,0.893,"[{""type"":""video"" ""title"":""The Chemical Brothers - The Test (Official Music Video)"" ""videoId"":""yhS9Ln"
 2026-04-24 07:38,Channel,Failed,0.512,Timeout or Error
@@ -1859,3 +1849,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-24 05:41,Channel,Failed,0.486,Timeout or Error
 2026-05-24 05:41,Comments,OK,0.788,"{""commentCount"":10515157 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-24 05:41,Playlist,Failed,0.507,Timeout or Error
+2026-05-24 06:49,Video,Failed,0.709,Timeout or Error
+2026-05-24 06:49,Search,OK,0.866,"[{""type"":""video"" ""title"":""I took Donald Trump's cognitive test - Can I answer all the questions corr"
+2026-05-24 06:49,Channel,Failed,0.398,Timeout or Error
+2026-05-24 06:49,Comments,OK,0.668,"{""commentCount"":10515197 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-24 06:49,Playlist,Failed,0.385,Timeout or Error

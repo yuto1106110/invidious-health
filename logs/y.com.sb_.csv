@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-24 05:45,Video,OK,0.878,
-2026-04-24 05:45,Search,OK,0.977,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-04-24 05:45,Channel,Failed,0.56,Timeout or Error
-2026-04-24 05:45,Comments,OK,0.823,"{""commentCount"":10494777 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-24 05:45,Playlist,Failed,0.524,Timeout or Error
-2026-04-24 06:40,Video,Failed,0.297,Timeout or Error
-2026-04-24 06:40,Search,OK,0.973,"[{""type"":""video"" ""title"":""5.1 Surround Sound Test PCM | Dolby Digital 5.1 Test | 4K"" ""videoId"":""4FEz"
-2026-04-24 06:40,Channel,Failed,0.429,Timeout or Error
-2026-04-24 06:40,Comments,OK,1.011,"{""commentCount"":10494877 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-24 06:40,Playlist,Failed,0.703,Timeout or Error
 2026-04-24 07:38,Video,Failed,0.292,Timeout or Error
 2026-04-24 07:38,Search,Failed,0.289,Timeout or Error
 2026-04-24 07:38,Channel,Failed,0.468,Timeout or Error
@@ -1859,3 +1849,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-24 05:41,Channel,Failed,0.488,Timeout or Error
 2026-05-24 05:41,Comments,OK,0.694,"{""commentCount"":10515157 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-24 05:41,Playlist,Failed,0.586,Timeout or Error
+2026-05-24 06:49,Video,Failed,0.244,Timeout or Error
+2026-05-24 06:49,Search,OK,0.823,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-05-24 06:49,Channel,Failed,0.377,Timeout or Error
+2026-05-24 06:49,Comments,OK,0.624,"{""commentCount"":10515197 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-24 06:49,Playlist,Failed,0.406,Timeout or Error
