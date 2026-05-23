@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-24 08:39,Video,Failed,0.481,Timeout or Error
-2026-04-24 08:39,Search,OK,0.842,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
-2026-04-24 08:39,Channel,Failed,0.491,Timeout or Error
-2026-04-24 08:39,Comments,OK,0.705,"{""commentCount"":10495166 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-24 08:39,Playlist,Failed,0.478,Timeout or Error
 2026-04-24 11:06,Video,Failed,0.352,Timeout or Error
 2026-04-24 11:06,Search,OK,0.763,"[{""type"":""video"" ""title"":""Qualität chinesischer Motorräder | Welche Erfahrungen habt Ihr mit der Qua"
 2026-04-24 11:06,Channel,Failed,0.371,Timeout or Error
@@ -1854,3 +1849,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-24 07:46,Channel,Failed,0.372,Timeout or Error
 2026-05-24 07:46,Comments,OK,0.624,"{""commentCount"":10515189 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-24 07:46,Playlist,Failed,0.377,Timeout or Error
+2026-05-24 08:52,Video,Failed,0.374,Timeout or Error
+2026-05-24 08:52,Search,OK,0.785,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-05-24 08:52,Channel,Failed,0.332,Timeout or Error
+2026-05-24 08:52,Comments,OK,0.628,"{""commentCount"":10515207 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-24 08:52,Playlist,Failed,0.352,Timeout or Error
