@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-23 14:25,Video,Failed,0.413,Timeout or Error
-2026-04-23 14:25,Search,OK,0.881,"[{""type"":""video"" ""title"":""Xpeng G6: Das erste große Update im Test – Endlich besser?"" ""videoId"":""T7O"
-2026-04-23 14:25,Channel,Failed,0.413,Timeout or Error
-2026-04-23 14:25,Comments,OK,0.616,"{""commentCount"":10493648 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-23 14:25,Playlist,Failed,0.428,Timeout or Error
 2026-04-23 16:28,Video,Failed,0.489,Timeout or Error
 2026-04-23 16:28,Search,OK,0.911,"[{""type"":""video"" ""title"":""The Chemical Brothers - The Test (Official Music Video)"" ""videoId"":""yhS9Ln"
 2026-04-23 16:28,Channel,Failed,0.46,Timeout or Error
@@ -1854,3 +1849,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-23 13:34,Channel,Failed,0.336,Timeout or Error
 2026-05-23 13:34,Comments,OK,0.526,"{""commentCount"":10514811 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-23 13:34,Playlist,Failed,0.339,Timeout or Error
+2026-05-23 16:27,Video,Failed,0.389,Timeout or Error
+2026-05-23 16:27,Search,OK,0.857,"[{""type"":""video"" ""title"":""Electric Fendt e107 Tested | landwirt-media.com"" ""videoId"":""bbkYlXqn7EY"" """
+2026-05-23 16:27,Channel,Failed,0.354,Timeout or Error
+2026-05-23 16:27,Comments,OK,0.629,"{""commentCount"":10514761 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-23 16:27,Playlist,Failed,0.354,Timeout or Error
