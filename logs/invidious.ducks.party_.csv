@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-23 22:14,Video,Failed,0.434,Timeout or Error
-2026-04-23 22:14,Search,OK,0.909,"[{""type"":""video"" ""title"":""The Chemical Brothers - The Test (Official Music Video)"" ""videoId"":""yhS9Ln"
-2026-04-23 22:14,Channel,Failed,0.415,Timeout or Error
-2026-04-23 22:14,Comments,OK,0.586,"{""commentCount"":10493874 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-23 22:14,Playlist,Failed,0.407,Timeout or Error
 2026-04-24 00:47,Video,Failed,0.412,Timeout or Error
 2026-04-24 00:47,Search,OK,0.912,"[{""type"":""video"" ""title"":""Qualität chinesischer Motorräder | Welche Erfahrungen habt Ihr mit der Qua"
 2026-04-24 00:47,Channel,Failed,0.425,Timeout or Error
@@ -1854,3 +1849,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-23 22:12,Channel,Failed,0.526,Timeout or Error
 2026-05-23 22:12,Comments,OK,0.803,"{""commentCount"":10514906 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-23 22:12,Playlist,Failed,0.529,Timeout or Error
+2026-05-23 23:56,Video,Failed,0.496,Timeout or Error
+2026-05-23 23:56,Search,OK,0.823,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-05-23 23:56,Channel,Failed,0.347,Timeout or Error
+2026-05-23 23:56,Comments,OK,0.658,"{""commentCount"":10514963 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-23 23:56,Playlist,Failed,0.388,Timeout or Error
