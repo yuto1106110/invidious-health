@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-24 07:38,Video,Failed,0.292,Timeout or Error
-2026-04-24 07:38,Search,Failed,0.289,Timeout or Error
-2026-04-24 07:38,Channel,Failed,0.468,Timeout or Error
-2026-04-24 07:38,Comments,Failed,0.283,Timeout or Error
-2026-04-24 07:38,Playlist,Failed,0.519,Timeout or Error
 2026-04-24 08:39,Video,Failed,0.282,Timeout or Error
 2026-04-24 08:39,Search,OK,0.938,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-04-24 08:39,Channel,Failed,0.466,Timeout or Error
@@ -1854,3 +1849,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-24 06:49,Channel,Failed,0.377,Timeout or Error
 2026-05-24 06:49,Comments,OK,0.624,"{""commentCount"":10515197 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-24 06:49,Playlist,Failed,0.406,Timeout or Error
+2026-05-24 07:46,Video,Failed,0.342,Timeout or Error
+2026-05-24 07:46,Search,OK,0.738,"[{""type"":""video"" ""title"":""I took Donald Trump's cognitive test - Can I answer all the questions corr"
+2026-05-24 07:46,Channel,Failed,0.367,Timeout or Error
+2026-05-24 07:46,Comments,OK,0.661,"{""commentCount"":10515189 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-24 07:46,Playlist,Failed,0.376,Timeout or Error

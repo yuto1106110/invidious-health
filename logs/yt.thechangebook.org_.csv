@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-24 07:38,Video,Failed,0.747,Timeout or Error
-2026-04-24 07:38,Search,Failed,1.128,Timeout or Error
-2026-04-24 07:38,Channel,Failed,0.429,Timeout or Error
-2026-04-24 07:38,Comments,Failed,0.69,Timeout or Error
-2026-04-24 07:38,Playlist,Failed,0.438,Timeout or Error
 2026-04-24 08:39,Video,Failed,0.536,Timeout or Error
 2026-04-24 08:39,Search,Failed,1.408,Timeout or Error
 2026-04-24 08:39,Channel,Failed,0.502,Timeout or Error
@@ -1854,3 +1849,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-24 06:49,Channel,Failed,0.471,Timeout or Error
 2026-05-24 06:49,Comments,Failed,0.624,Timeout or Error
 2026-05-24 06:49,Playlist,Failed,0.465,Timeout or Error
+2026-05-24 07:46,Video,Failed,0.37,Timeout or Error
+2026-05-24 07:46,Search,OK,0.83,"[{""type"":""video"" ""title"":""QUIZ Culture Générale 🧠 : 100 Questions pour tester votre niveau"" ""videoId"
+2026-05-24 07:46,Channel,Failed,0.468,Timeout or Error
+2026-05-24 07:46,Comments,Failed,0.691,Timeout or Error
+2026-05-24 07:46,Playlist,Failed,0.475,Timeout or Error

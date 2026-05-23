@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-24 07:38,Video,Failed,0.489,Timeout or Error
-2026-04-24 07:38,Search,OK,0.893,"[{""type"":""video"" ""title"":""The Chemical Brothers - The Test (Official Music Video)"" ""videoId"":""yhS9Ln"
-2026-04-24 07:38,Channel,Failed,0.512,Timeout or Error
-2026-04-24 07:38,Comments,OK,0.742,"{""commentCount"":10495002 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-24 07:38,Playlist,Failed,0.498,Timeout or Error
 2026-04-24 08:39,Video,Failed,0.481,Timeout or Error
 2026-04-24 08:39,Search,OK,0.842,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
 2026-04-24 08:39,Channel,Failed,0.491,Timeout or Error
@@ -1854,3 +1849,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-24 06:49,Channel,Failed,0.398,Timeout or Error
 2026-05-24 06:49,Comments,OK,0.668,"{""commentCount"":10515197 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-24 06:49,Playlist,Failed,0.385,Timeout or Error
+2026-05-24 07:46,Video,Failed,0.4,Timeout or Error
+2026-05-24 07:46,Search,OK,0.841,"[{""type"":""video"" ""title"":""Electric Fendt e107 Tested | landwirt-media.com"" ""videoId"":""bbkYlXqn7EY"" """
+2026-05-24 07:46,Channel,Failed,0.372,Timeout or Error
+2026-05-24 07:46,Comments,OK,0.624,"{""commentCount"":10515189 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-24 07:46,Playlist,Failed,0.377,Timeout or Error
