@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-23 11:05,Video,Failed,0.349,Timeout or Error
-2026-04-23 11:05,Search,OK,0.726,"[{""type"":""video"" ""title"":""kinder: Tris im Test"" ""videoId"":""hHvK2PQLiwc"" ""author"":""FoodSchau"" ""author"
-2026-04-23 11:05,Channel,Failed,0.331,Timeout or Error
-2026-04-23 11:05,Comments,OK,0.532,"{""commentCount"":10493523 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-23 11:05,Playlist,Failed,0.337,Timeout or Error
 2026-04-23 14:25,Video,Failed,0.413,Timeout or Error
 2026-04-23 14:25,Search,OK,0.881,"[{""type"":""video"" ""title"":""Xpeng G6: Das erste große Update im Test – Endlich besser?"" ""videoId"":""T7O"
 2026-04-23 14:25,Channel,Failed,0.413,Timeout or Error
@@ -1854,3 +1849,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-23 09:00,Channel,Failed,0.462,Timeout or Error
 2026-05-23 09:00,Comments,OK,0.665,"{""commentCount"":10514762 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-23 09:00,Playlist,Failed,0.474,Timeout or Error
+2026-05-23 13:34,Video,Failed,0.376,Timeout or Error
+2026-05-23 13:34,Search,OK,0.808,"[{""type"":""video"" ""title"":""Electric Fendt e107 Tested | landwirt-media.com"" ""videoId"":""bbkYlXqn7EY"" """
+2026-05-23 13:34,Channel,Failed,0.336,Timeout or Error
+2026-05-23 13:34,Comments,OK,0.526,"{""commentCount"":10514811 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-23 13:34,Playlist,Failed,0.339,Timeout or Error
