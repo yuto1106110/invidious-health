@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-25 01:49,Video,Failed,0.557,Timeout or Error
-2026-04-25 01:49,Search,OK,1.085,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-04-25 01:49,Channel,Failed,0.535,Timeout or Error
-2026-04-25 01:49,Comments,OK,0.805,"{""commentCount"":10497920 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-25 01:49,Playlist,Failed,0.572,Timeout or Error
-2026-04-25 02:45,Video,Failed,0.398,Timeout or Error
-2026-04-25 02:45,Search,OK,1.129,"[{""type"":""video"" ""title"":""Saros ist der beste Shooter des Jahres! | Test/Review"" ""videoId"":""byinWhSB"
-2026-04-25 02:45,Channel,Failed,0.445,Timeout or Error
-2026-04-25 02:45,Comments,OK,0.773,"{""commentCount"":10498059 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-25 02:45,Playlist,Failed,0.42,Timeout or Error
 2026-04-25 03:41,Video,Failed,0.443,Timeout or Error
 2026-04-25 03:41,Search,OK,1.068,"[{""type"":""video"" ""title"":""Saros ist der beste Shooter des Jahres! | Test/Review"" ""videoId"":""byinWhSB"
 2026-04-25 03:41,Channel,Failed,0.425,Timeout or Error
@@ -1854,3 +1844,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-25 01:02,Channel,Failed,0.528,Timeout or Error
 2026-05-25 01:02,Comments,OK,0.883,"{""commentCount"":10515471 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-25 01:02,Playlist,Failed,0.539,Timeout or Error
+2026-05-25 02:54,Video,Failed,0.65,Timeout or Error
+2026-05-25 02:54,Search,OK,1.074,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-05-25 02:54,Channel,Failed,0.523,Timeout or Error
+2026-05-25 02:54,Comments,OK,0.869,"{""commentCount"":10515513 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-25 02:54,Playlist,Failed,0.508,Timeout or Error
