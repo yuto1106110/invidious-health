@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-24 22:10,Video,Failed,0.631,Timeout or Error
-2026-04-24 22:10,Search,OK,1.059,"[{""type"":""video"" ""title"":""Samsung Galaxy S26 Ultra review: Our conclusion after 2 months!"" ""videoId"""
-2026-04-24 22:10,Channel,Failed,0.551,Timeout or Error
-2026-04-24 22:10,Comments,OK,0.864,"{""commentCount"":10497405 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-24 22:10,Playlist,Failed,0.524,Timeout or Error
 2026-04-25 00:03,Video,Failed,0.496,Timeout or Error
 2026-04-25 00:03,Search,OK,1.007,"[{""type"":""video"" ""title"":""Saros ist der beste Shooter des Jahres! | Test/Review"" ""videoId"":""byinWhSB"
 2026-04-25 00:03,Channel,Failed,0.469,Timeout or Error
@@ -1849,3 +1844,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-24 20:11,Channel,Failed,0.388,Timeout or Error
 2026-05-24 20:11,Comments,OK,0.626,"{""commentCount"":10515324 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-24 20:11,Playlist,Failed,0.343,Timeout or Error
+2026-05-24 22:12,Video,Failed,0.556,Timeout or Error
+2026-05-24 22:12,Search,OK,0.973,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-05-24 22:12,Channel,Failed,0.513,Timeout or Error
+2026-05-24 22:12,Comments,OK,0.758,"{""commentCount"":10515371 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-24 22:12,Playlist,Failed,0.513,Timeout or Error
