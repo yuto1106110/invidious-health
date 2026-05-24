@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-24 16:53,Video,Failed,0.276,Timeout or Error
-2026-04-24 16:53,Search,Failed,0.278,Timeout or Error
-2026-04-24 16:53,Channel,Failed,0.287,Timeout or Error
-2026-04-24 16:53,Comments,Failed,0.294,Timeout or Error
-2026-04-24 16:53,Playlist,Failed,0.276,Timeout or Error
 2026-04-24 18:26,Video,Failed,1.238,Timeout or Error
 2026-04-24 18:26,Search,OK,0.844,"[{""type"":""video"" ""title"":""Saros ist der beste Shooter des Jahres! | Test/Review"" ""videoId"":""byinWhSB"
 2026-04-24 18:26,Channel,Failed,0.329,Timeout or Error
@@ -1854,3 +1849,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-24 15:32,Channel,Failed,0.387,Timeout or Error
 2026-05-24 15:32,Comments,OK,0.591,"{""commentCount"":10515235 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-24 15:32,Playlist,Failed,0.367,Timeout or Error
+2026-05-24 18:17,Video,Failed,0.298,Timeout or Error
+2026-05-24 18:17,Search,OK,0.776,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-05-24 18:17,Channel,Failed,0.345,Timeout or Error
+2026-05-24 18:17,Comments,OK,0.562,"{""commentCount"":10515269 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-24 18:17,Playlist,Failed,0.331,Timeout or Error
