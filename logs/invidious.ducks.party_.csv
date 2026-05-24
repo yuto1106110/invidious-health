@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-24 18:26,Video,Failed,0.372,Timeout or Error
-2026-04-24 18:26,Search,OK,0.827,"[{""type"":""video"" ""title"":""Saros ist der beste Shooter des Jahres! | Test/Review"" ""videoId"":""byinWhSB"
-2026-04-24 18:26,Channel,Failed,0.401,Timeout or Error
-2026-04-24 18:26,Comments,OK,0.75,"{""commentCount"":10496733 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-24 18:26,Playlist,Failed,0.391,Timeout or Error
-2026-04-24 20:02,Video,Failed,0.366,Timeout or Error
-2026-04-24 20:02,Search,OK,0.868,"[{""type"":""video"" ""title"":""Saros ist der beste Shooter des Jahres! | Test/Review"" ""videoId"":""byinWhSB"
-2026-04-24 20:02,Channel,Failed,0.342,Timeout or Error
-2026-04-24 20:02,Comments,OK,0.643,"{""commentCount"":10496992 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-24 20:02,Playlist,Failed,0.38,Timeout or Error
 2026-04-24 22:10,Video,Failed,0.631,Timeout or Error
 2026-04-24 22:10,Search,OK,1.059,"[{""type"":""video"" ""title"":""Samsung Galaxy S26 Ultra review: Our conclusion after 2 months!"" ""videoId"""
 2026-04-24 22:10,Channel,Failed,0.551,Timeout or Error
@@ -1854,3 +1844,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-24 18:17,Channel,Failed,0.36,Timeout or Error
 2026-05-24 18:17,Comments,OK,0.577,"{""commentCount"":10515269 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-24 18:17,Playlist,Failed,0.348,Timeout or Error
+2026-05-24 20:11,Video,Failed,0.393,Timeout or Error
+2026-05-24 20:11,Search,OK,0.928,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-05-24 20:11,Channel,Failed,0.388,Timeout or Error
+2026-05-24 20:11,Comments,OK,0.626,"{""commentCount"":10515324 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-24 20:11,Playlist,Failed,0.343,Timeout or Error
