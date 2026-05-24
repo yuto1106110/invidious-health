@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-24 14:29,Video,Failed,0.551,Timeout or Error
-2026-04-24 14:29,Search,OK,0.933,"[{""type"":""video"" ""title"":""Qualität chinesischer Motorräder | Welche Erfahrungen habt Ihr mit der Qua"
-2026-04-24 14:29,Channel,Failed,0.589,Timeout or Error
-2026-04-24 14:29,Comments,OK,0.783,"{""commentCount"":10496161 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-24 14:29,Playlist,Failed,0.571,Timeout or Error
 2026-04-24 16:53,Video,Failed,0.519,Timeout or Error
 2026-04-24 16:53,Search,OK,0.945,"[{""type"":""video"" ""title"":""Saros ist der beste Shooter des Jahres! | Test/Review"" ""videoId"":""byinWhSB"
 2026-04-24 16:53,Channel,Failed,0.525,Timeout or Error
@@ -1854,3 +1849,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-24 11:43,Channel,Failed,0.513,Timeout or Error
 2026-05-24 11:43,Comments,OK,0.656,"{""commentCount"":10515174 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-24 11:43,Playlist,Failed,0.501,Timeout or Error
+2026-05-24 15:32,Video,Failed,0.42,Timeout or Error
+2026-05-24 15:32,Search,OK,0.817,"[{""type"":""video"" ""title"":""I took Donald Trump's cognitive test - Can I answer all the questions corr"
+2026-05-24 15:32,Channel,Failed,0.381,Timeout or Error
+2026-05-24 15:32,Comments,OK,0.612,"{""commentCount"":10515235 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-24 15:32,Playlist,Failed,0.383,Timeout or Error
