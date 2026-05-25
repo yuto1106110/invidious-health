@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-25 21:52,Video,Failed,0.49,Timeout or Error
-2026-04-25 21:52,Search,OK,0.813,"[{""type"":""video"" ""title"":""KTM 1390 Super Adventure S Evo | Test (deutsch)"" ""videoId"":""oM9G_k91Eb8"" """
-2026-04-25 21:52,Channel,Failed,0.403,Timeout or Error
-2026-04-25 21:52,Comments,OK,0.583,"{""commentCount"":10499341 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-25 21:52,Playlist,Failed,0.393,Timeout or Error
-2026-04-25 23:00,Video,Failed,0.609,Timeout or Error
-2026-04-25 23:00,Search,OK,0.929,"[{""type"":""video"" ""title"":""KTM 1390 Super Adventure S Evo | Test (deutsch)"" ""videoId"":""oM9G_k91Eb8"" """
-2026-04-25 23:00,Channel,Failed,0.564,Timeout or Error
-2026-04-25 23:00,Comments,OK,0.819,"{""commentCount"":10499432 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-25 23:00,Playlist,Failed,1.068,Timeout or Error
 2026-04-26 00:35,Video,Failed,0.564,Timeout or Error
 2026-04-26 00:35,Search,OK,1.012,"[{""type"":""video"" ""title"":""KTM 1390 Super Adventure S Evo | Test (deutsch)"" ""videoId"":""oM9G_k91Eb8"" """
 2026-04-26 00:35,Channel,Failed,0.478,Timeout or Error
@@ -1824,3 +1814,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-25 20:48,Channel,Failed,0.331,Timeout or Error
 2026-05-25 20:48,Comments,OK,0.623,"{""commentCount"":10515683 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-25 20:48,Playlist,Failed,0.219,Timeout or Error
+2026-05-25 23:43,Video,Failed,0.41,Timeout or Error
+2026-05-25 23:43,Search,Failed,0.286,Timeout or Error
+2026-05-25 23:43,Channel,Failed,0.468,Timeout or Error
+2026-05-25 23:43,Comments,OK,0.896,"{""commentCount"":10515733 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-25 23:43,Playlist,Failed,0.417,Timeout or Error
