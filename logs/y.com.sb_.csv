@@ -1,19 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-27 03:42,Video,Failed,0.39,Timeout or Error
-2026-04-27 03:42,Search,OK,1.06,"[{""type"":""video"" ""title"":""Wonderful OLED TEST 16K Video | Dolby Vision HDR 120FPS (8K/4K Video TV)"" "
-2026-04-27 03:42,Channel,Failed,0.338,Timeout or Error
-2026-04-27 03:42,Comments,OK,0.753,"{""commentCount"":10500935 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-27 03:42,Playlist,Failed,0.373,Timeout or Error
-2026-04-27 04:41,Video,Failed,0.432,Timeout or Error
-2026-04-27 04:41,Search,OK,0.964,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-04-27 04:41,Channel,Failed,0.373,Timeout or Error
-2026-04-27 04:41,Comments,OK,0.682,"{""commentCount"":10501045 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-27 04:41,Playlist,Failed,0.377,Timeout or Error
-2026-04-27 05:33,Video,Failed,0.542,Timeout or Error
-2026-04-27 05:33,Search,OK,0.983,"[{""type"":""video"" ""title"":""The Chemical Brothers - The Test (Official Music Video)"" ""videoId"":""yhS9Ln"
-2026-04-27 05:33,Channel,Failed,0.556,Timeout or Error
-2026-04-27 05:33,Comments,OK,0.749,"{""commentCount"":10501114 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-27 05:33,Playlist,Failed,0.524,Timeout or Error
 2026-04-27 06:33,Video,Failed,0.358,Timeout or Error
 2026-04-27 06:33,Search,OK,0.698,"[{""type"":""video"" ""title"":""Gregor testet SAROS ✰ Das PS5-Exclusive im ultimativen REVIEW (Test)"" ""vid"
 2026-04-27 06:33,Channel,Failed,0.328,Timeout or Error
@@ -1759,3 +1744,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-27 03:21,Channel,Failed,0.472,Timeout or Error
 2026-05-27 03:21,Comments,Failed,0.302,Timeout or Error
 2026-05-27 03:21,Playlist,Failed,0.289,Timeout or Error
+2026-05-27 05:51,Video,Failed,0.375,Timeout or Error
+2026-05-27 05:51,Search,OK,0.874,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-05-27 05:51,Channel,Failed,0.379,Timeout or Error
+2026-05-27 05:51,Comments,OK,0.83,"{""commentCount"":10516385 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-27 05:51,Playlist,Failed,0.248,Timeout or Error

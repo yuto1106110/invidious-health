@@ -1,19 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-27 03:42,Video,Failed,0.388,Timeout or Error
-2026-04-27 03:42,Search,OK,0.832,"[{""type"":""video"" ""title"":""The FAMAS under test: Theory & then the shock at the shooting range"" ""vide"
-2026-04-27 03:42,Channel,Failed,0.414,Timeout or Error
-2026-04-27 03:42,Comments,OK,0.749,"{""commentCount"":10500934 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-27 03:42,Playlist,Failed,0.367,Timeout or Error
-2026-04-27 04:41,Video,Failed,0.431,Timeout or Error
-2026-04-27 04:41,Search,OK,1.106,"[{""type"":""video"" ""title"":""The FAMAS under test: Theory & then the shock at the shooting range"" ""vide"
-2026-04-27 04:41,Channel,Failed,0.43,Timeout or Error
-2026-04-27 04:41,Comments,OK,0.82,"{""commentCount"":10501045 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-27 04:41,Playlist,Failed,0.436,Timeout or Error
-2026-04-27 05:33,Video,Failed,0.565,Timeout or Error
-2026-04-27 05:33,Search,OK,1.071,"[{""type"":""video"" ""title"":""The FAMAS under test: Theory & then the shock at the shooting range"" ""vide"
-2026-04-27 05:33,Channel,Failed,0.583,Timeout or Error
-2026-04-27 05:33,Comments,OK,0.792,"{""commentCount"":10501114 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-27 05:33,Playlist,Failed,0.555,Timeout or Error
 2026-04-27 06:33,Video,Failed,0.365,Timeout or Error
 2026-04-27 06:33,Search,OK,0.9,"[{""type"":""video"" ""title"":""Gregor testet SAROS ✰ Das PS5-Exclusive im ultimativen REVIEW (Test)"" ""vid"
 2026-04-27 06:33,Channel,Failed,0.336,Timeout or Error
@@ -1759,3 +1744,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-27 03:21,Channel,Failed,0.532,Timeout or Error
 2026-05-27 03:21,Comments,OK,0.799,"{""commentCount"":10516321 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-27 03:21,Playlist,Failed,0.52,Timeout or Error
+2026-05-27 05:51,Video,Failed,0.429,Timeout or Error
+2026-05-27 05:51,Search,OK,0.871,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
+2026-05-27 05:51,Channel,Failed,0.4,Timeout or Error
+2026-05-27 05:51,Comments,OK,0.596,"{""commentCount"":10516385 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-27 05:51,Playlist,Failed,0.392,Timeout or Error
