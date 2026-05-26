@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-26 08:32,Video,Failed,0.35,Timeout or Error
-2026-04-26 08:32,Search,OK,0.755,"[{""type"":""video"" ""title"":""How strong are welds? Hydraulic Press Test"" ""videoId"":""XgPWsOwYRf4"" ""autho"
-2026-04-26 08:32,Channel,Failed,0.362,Timeout or Error
-2026-04-26 08:32,Comments,OK,0.538,"{""commentCount"":10500086 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-26 08:32,Playlist,Failed,0.359,Timeout or Error
 2026-04-26 11:09,Video,Failed,0.469,Timeout or Error
 2026-04-26 11:09,Search,OK,0.85,"[{""type"":""video"" ""title"":""KTM 1390 Super Adventure S Evo | Test (deutsch)"" ""videoId"":""oM9G_k91Eb8"" """
 2026-04-26 11:09,Channel,Failed,0.467,Timeout or Error
@@ -1799,3 +1794,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-26 07:54,Channel,Failed,0.521,Timeout or Error
 2026-05-26 07:54,Comments,OK,0.788,"{""commentCount"":10515963 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-26 07:54,Playlist,Failed,0.542,Timeout or Error
+2026-05-26 09:00,Video,Failed,0.425,Timeout or Error
+2026-05-26 09:00,Search,OK,0.79,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-05-26 09:00,Channel,Failed,0.373,Timeout or Error
+2026-05-26 09:00,Comments,OK,0.562,"{""commentCount"":10515977 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-26 09:00,Playlist,Failed,0.387,Timeout or Error
