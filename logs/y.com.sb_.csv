@@ -1,39 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-26 17:54,Video,Failed,0.371,Timeout or Error
-2026-04-26 17:54,Search,OK,0.846,"[{""type"":""video"" ""title"":""5.1 Surround Sound Test PCM | Dolby Digital 5.1 Test | 4K"" ""videoId"":""4FEz"
-2026-04-26 17:54,Channel,Failed,0.355,Timeout or Error
-2026-04-26 17:54,Comments,OK,0.62,"{""commentCount"":10500446 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-26 17:54,Playlist,Failed,0.346,Timeout or Error
-2026-04-26 18:49,Video,Failed,0.421,Timeout or Error
-2026-04-26 18:49,Search,OK,0.796,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-04-26 18:49,Channel,Failed,0.407,Timeout or Error
-2026-04-26 18:49,Comments,OK,0.685,"{""commentCount"":10500487 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-26 18:49,Playlist,Failed,0.388,Timeout or Error
-2026-04-26 19:40,Video,Failed,0.518,Timeout or Error
-2026-04-26 19:40,Search,OK,1.031,"[{""type"":""video"" ""title"":""The Chemical Brothers - The Test (Official Music Video)"" ""videoId"":""yhS9Ln"
-2026-04-26 19:40,Channel,Failed,0.465,Timeout or Error
-2026-04-26 19:40,Comments,OK,0.774,"{""commentCount"":10500527 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-26 19:40,Playlist,Failed,0.482,Timeout or Error
-2026-04-26 20:35,Video,Failed,0.371,Timeout or Error
-2026-04-26 20:35,Search,OK,0.775,"[{""type"":""video"" ""title"":""The Chemical Brothers - The Test (Official Music Video)"" ""videoId"":""yhS9Ln"
-2026-04-26 20:35,Channel,Failed,0.336,Timeout or Error
-2026-04-26 20:35,Comments,OK,0.521,"{""commentCount"":10500576 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-26 20:35,Playlist,Failed,0.368,Timeout or Error
-2026-04-26 21:54,Video,Failed,1.266,Timeout or Error
-2026-04-26 21:54,Search,OK,0.953,"[{""type"":""video"" ""title"":""NIU NQiX 150 im Test: Dieser E-Roller ist 2026 ständig ausverkauft! 🛵 WARU"
-2026-04-26 21:54,Channel,Failed,1.011,Timeout or Error
-2026-04-26 21:54,Comments,OK,0.651,"{""commentCount"":10500666 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-26 21:54,Playlist,Failed,0.466,Timeout or Error
-2026-04-26 23:02,Video,Failed,0.61,Timeout or Error
-2026-04-26 23:02,Search,OK,1.081,"[{""type"":""video"" ""title"":""NIU NQiX 150 im Test: Dieser E-Roller ist 2026 ständig ausverkauft! 🛵 WARU"
-2026-04-26 23:02,Channel,Failed,0.505,Timeout or Error
-2026-04-26 23:02,Comments,OK,0.825,"{""commentCount"":10500727 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-26 23:02,Playlist,Failed,0.586,Timeout or Error
-2026-04-27 00:37,Video,Failed,0.424,Timeout or Error
-2026-04-27 00:37,Search,OK,1.031,"[{""type"":""video"" ""title"":""780 Euro für einen enttäuschenden Mähroboter"" ""videoId"":""bF1OCfkmOi0"" ""aut"
-2026-04-27 00:37,Channel,Failed,0.425,Timeout or Error
-2026-04-27 00:37,Comments,OK,0.691,"{""commentCount"":10500845 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-27 00:37,Playlist,Failed,0.383,Timeout or Error
 2026-04-27 01:36,Video,Failed,0.494,Timeout or Error
 2026-04-27 01:36,Search,OK,0.977,"[{""type"":""video"" ""title"":""Wonderful OLED TEST 16K Video | Dolby Vision HDR 120FPS (8K/4K Video TV)"" "
 2026-04-27 01:36,Channel,Failed,0.449,Timeout or Error
@@ -1794,3 +1759,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-26 17:33,Channel,Failed,0.349,Timeout or Error
 2026-05-26 17:33,Comments,OK,0.646,"{""commentCount"":10516070 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-26 17:33,Playlist,Failed,0.213,Timeout or Error
+2026-05-27 00:50,Video,Failed,0.508,Timeout or Error
+2026-05-27 00:50,Search,OK,1.011,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-05-27 00:50,Channel,Failed,0.36,Timeout or Error
+2026-05-27 00:50,Comments,Failed,0.347,Timeout or Error
+2026-05-27 00:50,Playlist,Failed,0.332,Timeout or Error
