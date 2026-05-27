@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-28 05:56,Video,Failed,0.608,Timeout or Error
-2026-04-28 05:56,Search,OK,0.983,"[{""type"":""video"" ""title"":""50 QUESTIONS pour TESTER TON SAVOIR 🧠🤯 | Quiz Culture Générale"" ""videoId"":"
-2026-04-28 05:56,Channel,Failed,0.408,Timeout or Error
-2026-04-28 05:56,Comments,Failed,0.757,Timeout or Error
-2026-04-28 05:56,Playlist,Failed,0.579,Timeout or Error
 2026-04-28 06:54,Video,Failed,0.662,Timeout or Error
 2026-04-28 06:54,Search,Failed,1.083,Timeout or Error
 2026-04-28 06:54,Channel,Failed,0.365,Timeout or Error
@@ -1724,3 +1719,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-28 04:19,Channel,Failed,0.615,Timeout or Error
 2026-05-28 04:19,Comments,Failed,0.771,Timeout or Error
 2026-05-28 04:19,Playlist,Failed,0.313,Timeout or Error
+2026-05-28 06:48,Video,Failed,0.823,Timeout or Error
+2026-05-28 06:48,Search,OK,1.031,"[{""type"":""video"" ""title"":""Devine 36 CHANSONS de MICHAEL JACKSON 👑🎶 | Blind Test Michael Jackson"" ""vi"
+2026-05-28 06:48,Channel,Failed,0.652,Timeout or Error
+2026-05-28 06:48,Comments,Failed,0.925,Timeout or Error
+2026-05-28 06:48,Playlist,Failed,0.523,Timeout or Error
