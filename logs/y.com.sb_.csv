@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-27 14:48,Video,Failed,0.504,Timeout or Error
-2026-04-27 14:48,Search,OK,0.944,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-04-27 14:48,Channel,Failed,0.47,Timeout or Error
-2026-04-27 14:48,Comments,OK,0.661,"{""commentCount"":10501472 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-27 14:48,Playlist,Failed,1.874,Timeout or Error
-2026-04-27 17:12,Video,Failed,0.497,Timeout or Error
-2026-04-27 17:12,Search,OK,0.957,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
-2026-04-27 17:12,Channel,Failed,0.469,Timeout or Error
-2026-04-27 17:12,Comments,OK,0.739,"{""commentCount"":10501588 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-27 17:12,Playlist,Failed,0.448,Timeout or Error
 2026-04-27 19:58,Video,Failed,0.441,Timeout or Error
 2026-04-27 19:58,Search,OK,0.799,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-04-27 19:58,Channel,Failed,0.384,Timeout or Error
@@ -1744,3 +1734,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-27 13:24,Channel,Failed,0.496,Timeout or Error
 2026-05-27 13:24,Comments,OK,0.748,"{""commentCount"":10516480 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-27 13:24,Playlist,Failed,0.561,Timeout or Error
+2026-05-27 17:36,Video,Failed,0.437,Timeout or Error
+2026-05-27 17:36,Search,OK,0.968,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-05-27 17:36,Channel,Failed,0.468,Timeout or Error
+2026-05-27 17:36,Comments,OK,0.727,"{""commentCount"":10516530 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-27 17:36,Playlist,Failed,0.59,Timeout or Error
