@@ -1,19 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-27 19:58,Video,Failed,0.428,Timeout or Error
-2026-04-27 19:58,Search,OK,0.754,"[{""type"":""video"" ""title"":""The Chemical Brothers - The Test (Official Music Video)"" ""videoId"":""yhS9Ln"
-2026-04-27 19:58,Channel,Failed,0.387,Timeout or Error
-2026-04-27 19:58,Comments,OK,0.775,"{""commentCount"":10501730 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-27 19:58,Playlist,Failed,0.384,Timeout or Error
-2026-04-27 21:20,Video,Failed,0.434,Timeout or Error
-2026-04-27 21:20,Search,OK,0.996,"[{""type"":""video"" ""title"":""The Chemical Brothers - The Test (Official Music Video)"" ""videoId"":""yhS9Ln"
-2026-04-27 21:20,Channel,Failed,0.399,Timeout or Error
-2026-04-27 21:20,Comments,OK,0.665,"{""commentCount"":10501820 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-27 21:20,Playlist,Failed,0.413,Timeout or Error
-2026-04-28 00:02,Video,Failed,0.571,Timeout or Error
-2026-04-28 00:02,Search,OK,1.248,"[{""type"":""video"" ""title"":""It really is that good! Cupra Born 2026 put to the test. More range  perfo"
-2026-04-28 00:02,Channel,Failed,0.535,Timeout or Error
-2026-04-28 00:02,Comments,OK,0.884,"{""commentCount"":10502040 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-28 00:02,Playlist,Failed,0.567,Timeout or Error
 2026-04-28 02:16,Video,Failed,0.398,Timeout or Error
 2026-04-28 02:16,Search,OK,0.94,"[{""type"":""video"" ""title"":""Mikrofasertuch statt Schwammbrett? Fugen abwaschen im Test."" ""videoId"":""As"
 2026-04-28 02:16,Channel,Failed,0.386,Timeout or Error
@@ -1739,3 +1724,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-27 17:36,Channel,Failed,0.513,Timeout or Error
 2026-05-27 17:36,Comments,OK,0.771,"{""commentCount"":10516530 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-27 17:36,Playlist,Failed,0.504,Timeout or Error
+2026-05-28 01:33,Video,Failed,0.397,Timeout or Error
+2026-05-28 01:33,Search,OK,1.246,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-05-28 01:33,Channel,Failed,0.457,Timeout or Error
+2026-05-28 01:33,Comments,OK,0.976,"{""commentCount"":10516706 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-28 01:33,Playlist,Failed,0.467,Timeout or Error

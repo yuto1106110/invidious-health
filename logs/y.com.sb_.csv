@@ -1,19 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-27 19:58,Video,Failed,0.441,Timeout or Error
-2026-04-27 19:58,Search,OK,0.799,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-04-27 19:58,Channel,Failed,0.384,Timeout or Error
-2026-04-27 19:58,Comments,OK,0.669,"{""commentCount"":10501730 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-27 19:58,Playlist,Failed,0.366,Timeout or Error
-2026-04-27 21:20,Video,Failed,0.401,Timeout or Error
-2026-04-27 21:20,Search,OK,0.813,"[{""type"":""video"" ""title"":""The Chemical Brothers - The Test (Official Music Video)"" ""videoId"":""yhS9Ln"
-2026-04-27 21:20,Channel,Failed,0.381,Timeout or Error
-2026-04-27 21:20,Comments,OK,0.759,"{""commentCount"":10501820 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-27 21:20,Playlist,Failed,0.385,Timeout or Error
-2026-04-28 00:02,Video,Failed,0.538,Timeout or Error
-2026-04-28 00:02,Search,OK,0.974,"[{""type"":""video"" ""title"":""It really is that good! Cupra Born 2026 put to the test. More range  perfo"
-2026-04-28 00:02,Channel,Failed,0.547,Timeout or Error
-2026-04-28 00:02,Comments,OK,0.758,"{""commentCount"":10502040 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-28 00:02,Playlist,Failed,0.561,Timeout or Error
 2026-04-28 02:16,Video,Failed,0.213,Timeout or Error
 2026-04-28 02:16,Search,OK,0.924,"[{""type"":""video"" ""title"":""The Chemical Brothers - The Test (Official Music Video)"" ""videoId"":""yhS9Ln"
 2026-04-28 02:16,Channel,Failed,0.348,Timeout or Error
@@ -1739,3 +1724,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-27 17:36,Channel,Failed,0.468,Timeout or Error
 2026-05-27 17:36,Comments,OK,0.727,"{""commentCount"":10516530 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-27 17:36,Playlist,Failed,0.59,Timeout or Error
+2026-05-28 01:33,Video,Failed,10.015,Timeout or Error
+2026-05-28 01:33,Search,Failed,10.014,Timeout or Error
+2026-05-28 01:33,Channel,Failed,10.014,Timeout or Error
+2026-05-28 01:33,Comments,Failed,15.034,Timeout or Error
+2026-05-28 01:33,Playlist,Failed,10.018,Timeout or Error
