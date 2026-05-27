@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-28 02:16,Video,Failed,0.213,Timeout or Error
-2026-04-28 02:16,Search,OK,0.924,"[{""type"":""video"" ""title"":""The Chemical Brothers - The Test (Official Music Video)"" ""videoId"":""yhS9Ln"
-2026-04-28 02:16,Channel,Failed,0.348,Timeout or Error
-2026-04-28 02:16,Comments,OK,0.577,"{""commentCount"":10502370 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-28 02:16,Playlist,Failed,0.341,Timeout or Error
-2026-04-28 04:10,Video,Failed,0.371,Timeout or Error
-2026-04-28 04:10,Search,OK,0.762,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-04-28 04:10,Channel,Failed,0.371,Timeout or Error
-2026-04-28 04:10,Comments,OK,0.591,"{""commentCount"":10502440 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-28 04:10,Playlist,Failed,0.341,Timeout or Error
 2026-04-28 05:56,Video,Failed,0.358,Timeout or Error
 2026-04-28 05:56,Search,OK,0.812,"[{""type"":""video"" ""title"":""Mikrofasertuch statt Schwammbrett? Fugen abwaschen im Test."" ""videoId"":""As"
 2026-04-28 05:56,Channel,Failed,0.323,Timeout or Error
@@ -1729,3 +1719,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-28 01:33,Channel,Failed,10.014,Timeout or Error
 2026-05-28 01:33,Comments,Failed,15.034,Timeout or Error
 2026-05-28 01:33,Playlist,Failed,10.018,Timeout or Error
+2026-05-28 04:19,Video,Failed,0.368,Timeout or Error
+2026-05-28 04:19,Search,OK,0.805,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-05-28 04:19,Channel,Failed,0.332,Timeout or Error
+2026-05-28 04:19,Comments,OK,0.609,"{""commentCount"":10516846 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-28 04:19,Playlist,Failed,0.318,Timeout or Error
