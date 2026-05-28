@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-29 00:23,Video,Failed,0.711,Timeout or Error
-2026-04-29 00:23,Search,OK,1.061,"[{""type"":""video"" ""title"":""It's 2026  Slide Hammers are Push Button Now! Let's Test 'em"" ""videoId"":""p"
-2026-04-29 00:23,Channel,Failed,0.438,Timeout or Error
-2026-04-29 00:23,Comments,OK,0.696,"{""commentCount"":10502985 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-29 00:23,Playlist,Failed,0.431,Timeout or Error
-2026-04-29 02:42,Video,Failed,0.444,Timeout or Error
-2026-04-29 02:42,Search,OK,0.841,"[{""type"":""video"" ""title"":""Sudden Strike 5 bringt das Freitags-Gefühl zurück! - Test / Review zur Wel"
-2026-04-29 02:42,Channel,Failed,0.479,Timeout or Error
-2026-04-29 02:42,Comments,OK,0.81,"{""commentCount"":10503115 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-29 02:42,Playlist,Failed,0.435,Timeout or Error
 2026-04-29 04:25,Video,Failed,1.039,Timeout or Error
 2026-04-29 04:25,Search,OK,1.196,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
 2026-04-29 04:25,Channel,Failed,0.649,Timeout or Error
@@ -1709,3 +1699,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-28 23:33,Channel,Failed,0.406,Timeout or Error
 2026-05-28 23:33,Comments,OK,0.77,"{""commentCount"":10517283 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-28 23:33,Playlist,Failed,0.421,Timeout or Error
+2026-05-29 03:01,Video,Failed,0.454,Timeout or Error
+2026-05-29 03:01,Search,OK,1.07,"[{""type"":""video"" ""title"":""ICH MACHE EINEN ... TEST"" ""videoId"":""bNwF5s9ObwI"" ""author"":""LetsHugo Live"""
+2026-05-29 03:01,Channel,Failed,0.501,Timeout or Error
+2026-05-29 03:01,Comments,OK,0.766,"{""commentCount"":10517369 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-29 03:01,Playlist,Failed,0.5,Timeout or Error

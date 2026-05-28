@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-29 00:23,Video,Failed,0.421,Timeout or Error
-2026-04-29 00:23,Search,OK,0.832,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-04-29 00:23,Channel,Failed,0.402,Timeout or Error
-2026-04-29 00:23,Comments,OK,0.679,"{""commentCount"":10502985 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-29 00:23,Playlist,Failed,0.457,Timeout or Error
-2026-04-29 02:42,Video,Failed,0.4,Timeout or Error
-2026-04-29 02:42,Search,OK,0.955,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-04-29 02:42,Channel,Failed,0.399,Timeout or Error
-2026-04-29 02:42,Comments,OK,0.657,"{""commentCount"":10503115 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-29 02:42,Playlist,Failed,0.504,Timeout or Error
 2026-04-29 04:25,Video,Failed,0.587,Timeout or Error
 2026-04-29 04:25,Search,OK,1.09,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-04-29 04:25,Channel,Failed,0.544,Timeout or Error
@@ -1709,3 +1699,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-28 23:33,Channel,Failed,0.419,Timeout or Error
 2026-05-28 23:33,Comments,OK,0.682,"{""commentCount"":10517283 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-28 23:33,Playlist,Failed,0.447,Timeout or Error
+2026-05-29 03:01,Video,Failed,0.427,Timeout or Error
+2026-05-29 03:01,Search,OK,1.103,"[{""type"":""video"" ""title"":""ICH MACHE EINEN KOMISCHEN TEST.."" ""videoId"":""bNwF5s9ObwI"" ""author"":""LetsHu"
+2026-05-29 03:01,Channel,Failed,0.433,Timeout or Error
+2026-05-29 03:01,Comments,OK,0.935,"{""commentCount"":10517369 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-29 03:01,Playlist,Failed,0.493,Timeout or Error
