@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-28 14:53,Video,Failed,0.434,Timeout or Error
-2026-04-28 14:53,Search,OK,0.775,"[{""type"":""video"" ""title"":""The Chemical Brothers - The Test (Official Music Video)"" ""videoId"":""yhS9Ln"
-2026-04-28 14:53,Channel,Failed,0.406,Timeout or Error
-2026-04-28 14:53,Comments,OK,0.664,"{""commentCount"":10502679 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-28 14:53,Playlist,Failed,0.401,Timeout or Error
 2026-04-28 17:14,Video,Failed,0.554,Timeout or Error
 2026-04-28 17:14,Search,OK,0.973,"[{""type"":""video"" ""title"":""Tesla Model Y bestellt? Stornier es. | XPENG G9 Test"" ""videoId"":""WqDPUZyQf"
 2026-04-28 17:14,Channel,Failed,0.564,Timeout or Error
@@ -1714,3 +1709,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-28 11:38,Channel,Failed,0.455,Timeout or Error
 2026-05-28 11:38,Comments,OK,0.637,"{""commentCount"":10517036 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-28 11:38,Playlist,Failed,0.468,Timeout or Error
+2026-05-28 15:50,Video,Failed,0.447,Timeout or Error
+2026-05-28 15:50,Search,OK,0.935,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-05-28 15:50,Channel,Failed,0.48,Timeout or Error
+2026-05-28 15:50,Comments,OK,0.779,"{""commentCount"":10517100 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-28 15:50,Playlist,Failed,0.54,Timeout or Error
