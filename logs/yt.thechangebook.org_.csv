@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-29 07:51,Video,Failed,0.574,Timeout or Error
-2026-04-29 07:51,Search,Failed,0.978,Timeout or Error
-2026-04-29 07:51,Channel,Failed,0.555,Timeout or Error
-2026-04-29 07:51,Comments,Failed,0.595,Timeout or Error
-2026-04-29 07:51,Playlist,Failed,0.312,Timeout or Error
 2026-04-29 08:50,Video,Failed,0.691,Timeout or Error
 2026-04-29 08:50,Search,Failed,0.993,Timeout or Error
 2026-04-29 08:50,Channel,Failed,0.801,Timeout or Error
@@ -1699,3 +1694,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-29 06:04,Channel,Failed,0.324,Timeout or Error
 2026-05-29 06:04,Comments,Failed,0.742,Timeout or Error
 2026-05-29 06:04,Playlist,Failed,0.316,Timeout or Error
+2026-05-29 08:09,Video,Failed,0.722,Timeout or Error
+2026-05-29 08:09,Search,OK,1.026,"[{""type"":""video"" ""title"":""TEST 007 FIRST LIGHT : James Bond technologique ou James bon pour la casse"
+2026-05-29 08:09,Channel,Failed,0.564,Timeout or Error
+2026-05-29 08:09,Comments,Failed,0.789,Timeout or Error
+2026-05-29 08:09,Playlist,Failed,0.803,Timeout or Error
