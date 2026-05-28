@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-28 08:47,Video,Failed,0.363,Timeout or Error
-2026-04-28 08:47,Search,OK,0.815,"[{""type"":""video"" ""title"":""Mikrofasertuch statt Schwammbrett? Fugen abwaschen im Test."" ""videoId"":""As"
-2026-04-28 08:47,Channel,Failed,0.328,Timeout or Error
-2026-04-28 08:47,Comments,OK,0.479,"{""commentCount"":10502563 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-28 08:47,Playlist,Failed,0.322,Timeout or Error
-2026-04-28 11:27,Video,Failed,0.439,Timeout or Error
-2026-04-28 11:27,Search,OK,0.836,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-04-28 11:27,Channel,Failed,0.368,Timeout or Error
-2026-04-28 11:27,Comments,OK,0.524,"{""commentCount"":10502591 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-28 11:27,Playlist,Failed,0.376,Timeout or Error
 2026-04-28 14:53,Video,Failed,0.433,Timeout or Error
 2026-04-28 14:53,Search,OK,0.846,"[{""type"":""video"" ""title"":""It's 2026  Slide Hammers are Push Button Now! Let's Test 'em"" ""videoId"":""p"
 2026-04-28 14:53,Channel,Failed,0.382,Timeout or Error
@@ -1719,3 +1709,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-28 08:12,Channel,Failed,0.491,Timeout or Error
 2026-05-28 08:12,Comments,OK,0.774,"{""commentCount"":10516932 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-28 08:12,Playlist,Failed,0.496,Timeout or Error
+2026-05-28 11:38,Video,Failed,0.463,Timeout or Error
+2026-05-28 11:38,Search,OK,0.868,"[{""type"":""video"" ""title"":""Zontes 703 RR | Test (deutsch)"" ""videoId"":""guRPUtpJ_UM"" ""author"":""Motorrad"
+2026-05-28 11:38,Channel,Failed,0.44,Timeout or Error
+2026-05-28 11:38,Comments,Failed,0.571,Timeout or Error
+2026-05-28 11:38,Playlist,Failed,0.439,Timeout or Error
