@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-28 19:59,Video,Failed,0.564,Timeout or Error
-2026-04-28 19:59,Search,OK,1.201,"[{""type"":""video"" ""title"":""Finger weg vom Tesla Model Y! (Bis du das gesehen hast) | XPENG G9"" ""video"
-2026-04-28 19:59,Channel,Failed,0.549,Timeout or Error
-2026-04-28 19:59,Comments,OK,0.741,"{""commentCount"":10502818 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-28 19:59,Playlist,Failed,0.531,Timeout or Error
-2026-04-28 21:26,Video,Failed,0.372,Timeout or Error
-2026-04-28 21:26,Search,OK,0.925,"[{""type"":""video"" ""title"":""The Chemical Brothers - The Test (Official Music Video)"" ""videoId"":""yhS9Ln"
-2026-04-28 21:26,Channel,Failed,0.338,Timeout or Error
-2026-04-28 21:26,Comments,OK,0.63,"{""commentCount"":10502857 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-28 21:26,Playlist,Failed,0.341,Timeout or Error
 2026-04-29 00:23,Video,Failed,0.711,Timeout or Error
 2026-04-29 00:23,Search,OK,1.061,"[{""type"":""video"" ""title"":""It's 2026  Slide Hammers are Push Button Now! Let's Test 'em"" ""videoId"":""p"
 2026-04-29 00:23,Channel,Failed,0.438,Timeout or Error
@@ -1714,3 +1704,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-28 19:50,Channel,Failed,0.507,Timeout or Error
 2026-05-28 19:50,Comments,OK,0.909,"{""commentCount"":10517208 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-28 19:50,Playlist,Failed,0.528,Timeout or Error
+2026-05-28 23:33,Video,Failed,0.378,Timeout or Error
+2026-05-28 23:33,Search,OK,1.051,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-05-28 23:33,Channel,Failed,0.406,Timeout or Error
+2026-05-28 23:33,Comments,OK,0.77,"{""commentCount"":10517283 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-28 23:33,Playlist,Failed,0.421,Timeout or Error
