@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-30 00:07,Video,Failed,0.456,Timeout or Error
-2026-04-30 00:07,Search,OK,1.087,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-04-30 00:07,Channel,Failed,0.427,Timeout or Error
-2026-04-30 00:07,Comments,OK,0.725,"{""commentCount"":10503505 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-30 00:07,Playlist,Failed,0.38,Timeout or Error
-2026-04-30 02:22,Video,Failed,0.441,Timeout or Error
-2026-04-30 02:22,Search,Failed,1.251,Timeout or Error
-2026-04-30 02:22,Channel,Failed,0.425,Timeout or Error
-2026-04-30 02:22,Comments,OK,0.831,"{""commentCount"":10503612 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-30 02:22,Playlist,Failed,0.42,Timeout or Error
 2026-04-30 04:16,Video,Failed,0.437,Timeout or Error
 2026-04-30 04:16,Search,OK,0.979,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-04-30 04:16,Channel,Failed,0.385,Timeout or Error
@@ -1689,3 +1679,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-29 22:54,Channel,Failed,0.342,Timeout or Error
 2026-05-29 22:54,Comments,OK,0.571,"{""commentCount"":10517580 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-29 22:54,Playlist,Failed,0.351,Timeout or Error
+2026-05-30 02:30,Video,Failed,0.485,Timeout or Error
+2026-05-30 02:30,Search,OK,0.996,"[{""type"":""video"" ""title"":""2026 Renault Clio: It’s Simply Beautiful! - Review  Test"" ""videoId"":""3FSoP"
+2026-05-30 02:30,Channel,Failed,0.565,Timeout or Error
+2026-05-30 02:30,Comments,OK,0.861,"{""commentCount"":10517829 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-30 02:30,Playlist,Failed,0.501,Timeout or Error

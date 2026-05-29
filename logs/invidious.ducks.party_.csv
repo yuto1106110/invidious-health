@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-30 00:07,Video,Failed,0.329,Timeout or Error
-2026-04-30 00:07,Search,OK,1.216,"[{""type"":""video"" ""title"":""Saros ist der beste Shooter des Jahres! | Test/Review"" ""videoId"":""byinWhSB"
-2026-04-30 00:07,Channel,Failed,0.365,Timeout or Error
-2026-04-30 00:07,Comments,OK,0.588,"{""commentCount"":10503505 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-30 00:07,Playlist,Failed,0.393,Timeout or Error
-2026-04-30 02:22,Video,Failed,0.383,Timeout or Error
-2026-04-30 02:22,Search,OK,1.258,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
-2026-04-30 02:22,Channel,Failed,0.527,Timeout or Error
-2026-04-30 02:22,Comments,OK,0.987,"{""commentCount"":10503612 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-30 02:22,Playlist,Failed,0.492,Timeout or Error
 2026-04-30 04:16,Video,Failed,0.365,Timeout or Error
 2026-04-30 04:16,Search,OK,0.876,"[{""type"":""video"" ""title"":""MotoGP 26 - Test: Mikrotransaktionen?"" ""videoId"":""W5vN3vmuFek"" ""author"":""G"
 2026-04-30 04:16,Channel,Failed,0.446,Timeout or Error
@@ -1689,3 +1679,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-29 22:54,Channel,Failed,0.519,Timeout or Error
 2026-05-29 22:54,Comments,OK,0.72,"{""commentCount"":10517580 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-29 22:54,Playlist,Failed,0.36,Timeout or Error
+2026-05-30 02:30,Video,Failed,0.493,Timeout or Error
+2026-05-30 02:30,Search,OK,1.038,"[{""type"":""video"" ""title"":""2026 Renault Clio: It’s Simply Beautiful! - Review  Test"" ""videoId"":""3FSoP"
+2026-05-30 02:30,Channel,Failed,0.511,Timeout or Error
+2026-05-30 02:30,Comments,OK,0.835,"{""commentCount"":10517829 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-30 02:30,Playlist,Failed,0.532,Timeout or Error
