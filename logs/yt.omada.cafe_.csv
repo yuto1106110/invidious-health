@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-30 05:57,Video,OK,0.443,
-2026-04-30 05:57,Search,OK,1.153,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-04-30 05:57,Channel,Failed,0.472,Timeout or Error
-2026-04-30 05:57,Comments,OK,0.676,"{""commentCount"":10503742 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-30 05:57,Playlist,Failed,0.341,Timeout or Error
-2026-04-30 06:59,Video,OK,0.824,
-2026-04-30 06:59,Search,OK,1.508,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-04-30 06:59,Channel,Failed,0.565,Timeout or Error
-2026-04-30 06:59,Comments,OK,1.445,"{""commentCount"":10503762 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-30 06:59,Playlist,Failed,0.967,Timeout or Error
 2026-04-30 08:01,Video,OK,0.222,
 2026-04-30 08:01,Search,OK,0.946,"[{""type"":""video"" ""title"":""Day 2 Highlights | 2026 Indianapolis 500 Open Test"" ""videoId"":""T_IwJooX7qQ"
 2026-04-30 08:01,Channel,Failed,0.277,Timeout or Error
@@ -1684,3 +1674,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-30 05:12,Channel,Failed,0.493,Timeout or Error
 2026-05-30 05:12,Comments,OK,1.184,"{""commentCount"":10518038 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-30 05:12,Playlist,Failed,0.875,Timeout or Error
+2026-05-30 07:24,Video,OK,0.274,
+2026-05-30 07:24,Search,OK,1.075,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-05-30 07:24,Channel,Failed,0.499,Timeout or Error
+2026-05-30 07:24,Comments,OK,0.968,"{""commentCount"":10518181 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-30 07:24,Playlist,Failed,0.814,Timeout or Error
