@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-30 04:16,Video,Failed,0.365,Timeout or Error
-2026-04-30 04:16,Search,OK,0.876,"[{""type"":""video"" ""title"":""MotoGP 26 - Test: Mikrotransaktionen?"" ""videoId"":""W5vN3vmuFek"" ""author"":""G"
-2026-04-30 04:16,Channel,Failed,0.446,Timeout or Error
-2026-04-30 04:16,Comments,OK,0.763,"{""commentCount"":10503690 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-30 04:16,Playlist,Failed,0.449,Timeout or Error
 2026-04-30 05:57,Video,Failed,0.349,Timeout or Error
 2026-04-30 05:57,Search,OK,0.811,"[{""type"":""video"" ""title"":""MotoGP 26 - Test: Mikrotransaktionen?"" ""videoId"":""W5vN3vmuFek"" ""author"":""G"
 2026-04-30 05:57,Channel,Failed,0.411,Timeout or Error
@@ -1684,3 +1679,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-30 02:30,Channel,Failed,0.511,Timeout or Error
 2026-05-30 02:30,Comments,OK,0.835,"{""commentCount"":10517829 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-30 02:30,Playlist,Failed,0.532,Timeout or Error
+2026-05-30 05:12,Video,Failed,0.328,Timeout or Error
+2026-05-30 05:12,Search,OK,0.767,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-05-30 05:12,Channel,Failed,0.503,Timeout or Error
+2026-05-30 05:12,Comments,OK,0.679,"{""commentCount"":10518039 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-30 05:12,Playlist,Failed,0.356,Timeout or Error
