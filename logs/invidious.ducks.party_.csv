@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-29 19:50,Video,Failed,0.377,Timeout or Error
-2026-04-29 19:50,Search,OK,0.885,"[{""type"":""video"" ""title"":""Saros ist der beste Shooter des Jahres! | Test/Review"" ""videoId"":""byinWhSB"
-2026-04-29 19:50,Channel,Failed,0.44,Timeout or Error
-2026-04-29 19:50,Comments,OK,0.7,"{""commentCount"":10503456 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-29 19:50,Playlist,Failed,0.421,Timeout or Error
-2026-04-29 21:13,Video,Failed,0.331,Timeout or Error
-2026-04-29 21:13,Search,OK,1.025,"[{""type"":""video"" ""title"":""Sudden Strike 5 bringt das Freitags-Gefühl zurück! - Test / Review zur Wel"
-2026-04-29 21:13,Channel,Failed,0.372,Timeout or Error
-2026-04-29 21:13,Comments,OK,0.828,"{""commentCount"":10503480 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-29 21:13,Playlist,Failed,0.44,Timeout or Error
 2026-04-30 00:07,Video,Failed,0.329,Timeout or Error
 2026-04-30 00:07,Search,OK,1.216,"[{""type"":""video"" ""title"":""Saros ist der beste Shooter des Jahres! | Test/Review"" ""videoId"":""byinWhSB"
 2026-04-30 00:07,Channel,Failed,0.365,Timeout or Error
@@ -1694,3 +1684,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-29 19:40,Channel,Failed,0.353,Timeout or Error
 2026-05-29 19:40,Comments,OK,0.768,"{""commentCount"":10517581 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-29 19:40,Playlist,Failed,0.348,Timeout or Error
+2026-05-29 22:54,Video,Failed,0.324,Timeout or Error
+2026-05-29 22:54,Search,OK,0.864,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-05-29 22:54,Channel,Failed,0.519,Timeout or Error
+2026-05-29 22:54,Comments,OK,0.72,"{""commentCount"":10517580 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-29 22:54,Playlist,Failed,0.36,Timeout or Error
