@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-29 14:49,Video,Failed,0.527,Timeout or Error
-2026-04-29 14:49,Search,OK,0.99,"[{""type"":""video"" ""title"":""Test Toyota Rally1 WRC 2027 | Juho Hänninen [Song Passats]"" ""videoId"":""YMy"
-2026-04-29 14:49,Channel,Failed,0.575,Timeout or Error
-2026-04-29 14:49,Comments,OK,0.823,"{""commentCount"":10503463 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-29 14:49,Playlist,Failed,0.551,Timeout or Error
 2026-04-29 17:07,Video,Failed,0.396,Timeout or Error
 2026-04-29 17:07,Search,OK,0.91,"[{""type"":""video"" ""title"":""Test Toyota Rally1 WRC 2027 | Juho Hänninen [Song Passats]"" ""videoId"":""YMy"
 2026-04-29 17:07,Channel,Failed,0.428,Timeout or Error
@@ -1694,3 +1689,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-29 11:41,Channel,Failed,0.339,Timeout or Error
 2026-05-29 11:41,Comments,OK,0.545,"{""commentCount"":10517476 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-29 11:41,Playlist,Failed,0.346,Timeout or Error
+2026-05-29 15:49,Video,Failed,0.475,Timeout or Error
+2026-05-29 15:49,Search,OK,1.069,"[{""type"":""video"" ""title"":""ICH MACHE EINEN ... TEST"" ""videoId"":""bNwF5s9ObwI"" ""author"":""LetsHugo Live"""
+2026-05-29 15:49,Channel,Failed,0.513,Timeout or Error
+2026-05-29 15:49,Comments,OK,0.764,"{""commentCount"":10517509 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-29 15:49,Playlist,Failed,0.518,Timeout or Error
