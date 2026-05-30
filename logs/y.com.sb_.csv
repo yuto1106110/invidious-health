@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-01 07:47,Video,Failed,0.553,Timeout or Error
-2026-05-01 07:47,Search,OK,0.914,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-05-01 07:47,Channel,Failed,0.541,Timeout or Error
-2026-05-01 07:47,Comments,OK,0.722,"{""commentCount"":10503898 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-01 07:47,Playlist,Failed,0.585,Timeout or Error
 2026-05-01 08:46,Video,Failed,0.426,Timeout or Error
 2026-05-01 08:46,Search,OK,0.814,"[{""type"":""video"" ""title"":""5.1 Atmos Jungle Surround Sound Test - Dolby 4K HDR"" ""videoId"":""VVvlSyhS6D"
 2026-05-01 08:46,Channel,Failed,0.386,Timeout or Error
@@ -1679,3 +1674,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-31 06:55,Channel,Failed,0.319,Timeout or Error
 2026-05-31 06:55,Comments,OK,0.597,"{""commentCount"":10519609 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-31 06:55,Playlist,Failed,0.325,Timeout or Error
+2026-05-31 07:55,Video,Failed,0.438,Timeout or Error
+2026-05-31 07:55,Search,OK,0.928,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-05-31 07:55,Channel,Failed,0.458,Timeout or Error
+2026-05-31 07:55,Comments,OK,0.666,"{""commentCount"":10519762 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-31 07:55,Playlist,Failed,0.472,Timeout or Error
