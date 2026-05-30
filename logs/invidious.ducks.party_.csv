@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-01 04:11,Video,Failed,0.405,Timeout or Error
-2026-05-01 04:11,Search,OK,1.244,"[{""type"":""video"" ""title"":""CHINA-AUTO SCHOCKIERT IM TEST! Omid VERGLEICHT Xiaomi YU7 mit Ferrari Puro"
-2026-05-01 04:11,Channel,Failed,0.464,Timeout or Error
-2026-05-01 04:11,Comments,OK,0.718,"{""commentCount"":10503841 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-01 04:11,Playlist,Failed,0.45,Timeout or Error
 2026-05-01 05:54,Video,Failed,0.316,Timeout or Error
 2026-05-01 05:54,Search,OK,0.759,"[{""type"":""video"" ""title"":""CHINA-AUTO SCHOCKIERT IM TEST! Omid VERGLEICHT Xiaomi YU7 mit Ferrari Puro"
 2026-05-01 05:54,Channel,Failed,0.375,Timeout or Error
@@ -1684,3 +1679,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-31 03:00,Channel,Failed,0.461,Timeout or Error
 2026-05-31 03:00,Comments,OK,0.763,"{""commentCount"":10519325 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-31 03:00,Playlist,Failed,0.453,Timeout or Error
+2026-05-31 05:04,Video,Failed,0.502,Timeout or Error
+2026-05-31 05:04,Search,OK,1.056,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-05-31 05:04,Channel,Failed,0.52,Timeout or Error
+2026-05-31 05:04,Comments,OK,0.948,"{""commentCount"":10519499 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-31 05:04,Playlist,Failed,0.517,Timeout or Error
