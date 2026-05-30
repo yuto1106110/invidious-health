@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-04-30 08:01,Video,Failed,0.311,Timeout or Error
-2026-04-30 08:01,Search,OK,0.738,"[{""type"":""video"" ""title"":""MotoGP 26 - Test: Mikrotransaktionen?"" ""videoId"":""W5vN3vmuFek"" ""author"":""G"
-2026-04-30 08:01,Channel,Failed,0.334,Timeout or Error
-2026-04-30 08:01,Comments,OK,0.485,"{""commentCount"":10503770 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-04-30 08:01,Playlist,Failed,0.335,Timeout or Error
 2026-04-30 11:28,Video,Failed,0.37,Timeout or Error
 2026-04-30 11:28,Search,OK,0.775,"[{""type"":""video"" ""title"":""MotoGP 26 - Test: Mikrotransaktionen?"" ""videoId"":""W5vN3vmuFek"" ""author"":""G"
 2026-04-30 11:28,Channel,Failed,0.386,Timeout or Error
@@ -1679,3 +1674,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-30 07:24,Channel,Failed,0.366,Timeout or Error
 2026-05-30 07:24,Comments,OK,0.641,"{""commentCount"":10518183 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-30 07:24,Playlist,Failed,0.369,Timeout or Error
+2026-05-30 09:04,Video,Failed,0.354,Timeout or Error
+2026-05-30 09:04,Search,OK,0.785,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
+2026-05-30 09:04,Channel,Failed,0.374,Timeout or Error
+2026-05-30 09:04,Comments,OK,0.573,"{""commentCount"":10518242 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-30 09:04,Playlist,Failed,0.383,Timeout or Error
