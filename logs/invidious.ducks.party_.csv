@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-01 15:10,Video,Failed,0.364,Timeout or Error
-2026-05-01 15:10,Search,OK,0.793,"[{""type"":""video"" ""title"":""Yamaha XSR900 Test 2026 - Retro Look  brutale Performance!"" ""videoId"":""93Y"
-2026-05-01 15:10,Channel,Failed,0.411,Timeout or Error
-2026-05-01 15:10,Comments,OK,0.614,"{""commentCount"":10504000 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-01 15:10,Playlist,Failed,0.405,Timeout or Error
 2026-05-01 17:56,Video,Failed,0.308,Timeout or Error
 2026-05-01 17:56,Search,OK,0.931,"[{""type"":""video"" ""title"":""Honest TASTE TEST…👀☕️"" ""videoId"":""gDSy4oPfDUQ"" ""author"":""Chrissis.Chaoskit"
 2026-05-01 17:56,Channel,Failed,0.337,Timeout or Error
@@ -1679,3 +1674,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-31 12:54,Channel,Failed,0.512,Timeout or Error
 2026-05-31 12:54,Comments,OK,0.717,"{""commentCount"":10519927 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-31 12:54,Playlist,Failed,0.497,Timeout or Error
+2026-05-31 16:40,Video,Failed,0.309,Timeout or Error
+2026-05-31 16:40,Search,OK,0.718,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-05-31 16:40,Channel,Failed,0.359,Timeout or Error
+2026-05-31 16:40,Comments,OK,0.664,"{""commentCount"":10520050 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-31 16:40,Playlist,Failed,0.346,Timeout or Error

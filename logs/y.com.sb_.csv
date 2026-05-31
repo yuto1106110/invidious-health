@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-01 15:10,Video,Failed,0.409,Timeout or Error
-2026-05-01 15:10,Search,OK,0.842,"[{""type"":""video"" ""title"":""IELTS LISTENING PRACTICE TEST 2026 WITH ANSWERS | 01.05.2026"" ""videoId"":""9"
-2026-05-01 15:10,Channel,Failed,0.381,Timeout or Error
-2026-05-01 15:10,Comments,Failed,2.397,Timeout or Error
-2026-05-01 15:10,Playlist,Failed,0.383,Timeout or Error
 2026-05-01 17:56,Video,Failed,0.381,Timeout or Error
 2026-05-01 17:56,Search,OK,0.897,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-05-01 17:56,Channel,Failed,0.355,Timeout or Error
@@ -1679,3 +1674,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-05-31 12:54,Channel,Failed,0.474,Timeout or Error
 2026-05-31 12:54,Comments,OK,0.695,"{""commentCount"":10519927 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-05-31 12:54,Playlist,Failed,0.456,Timeout or Error
+2026-05-31 16:40,Video,Failed,0.299,Timeout or Error
+2026-05-31 16:40,Search,OK,0.801,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-05-31 16:40,Channel,Failed,0.319,Timeout or Error
+2026-05-31 16:40,Comments,OK,0.616,"{""commentCount"":10520051 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-05-31 16:40,Playlist,Failed,0.33,Timeout or Error
