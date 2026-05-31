@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-02 05:43,Video,Failed,0.744,Timeout or Error
-2026-05-02 05:43,Search,Failed,1.214,Timeout or Error
-2026-05-02 05:43,Channel,Failed,0.533,Timeout or Error
-2026-05-02 05:43,Comments,Failed,1.19,Timeout or Error
-2026-05-02 05:43,Playlist,Failed,0.719,Timeout or Error
 2026-05-02 06:47,Video,Failed,0.684,Timeout or Error
 2026-05-02 06:47,Search,Failed,1.195,Timeout or Error
 2026-05-02 06:47,Channel,Failed,0.533,Timeout or Error
@@ -1664,3 +1659,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-01 04:13,Channel,Failed,0.618,Timeout or Error
 2026-06-01 04:13,Comments,Failed,0.959,Timeout or Error
 2026-06-01 04:13,Playlist,Failed,1.462,Timeout or Error
+2026-06-01 05:53,Video,Failed,0.692,Timeout or Error
+2026-06-01 05:53,Search,OK,1.194,"[{""type"":""video"" ""title"":""45 Questions sur les Animaux 🐼🐦🐍 | Quiz de Culture Générale"" ""videoId"":""2M"
+2026-06-01 05:53,Channel,Failed,0.723,Timeout or Error
+2026-06-01 05:53,Comments,Failed,0.821,Timeout or Error
+2026-06-01 05:53,Playlist,Failed,0.687,Timeout or Error
