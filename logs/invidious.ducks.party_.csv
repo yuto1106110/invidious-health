@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-03 06:34,Video,Failed,0.332,Timeout or Error
-2026-05-03 06:34,Search,OK,0.732,"[{""type"":""video"" ""title"":""The Chemical Brothers - The Test (Official Music Video)"" ""videoId"":""yhS9Ln"
-2026-05-03 06:34,Channel,Failed,0.361,Timeout or Error
-2026-05-03 06:34,Comments,OK,0.774,"{""commentCount"":10504730 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-03 06:34,Playlist,Failed,1.504,Timeout or Error
-2026-05-03 07:34,Video,Failed,0.503,Timeout or Error
-2026-05-03 07:34,Search,OK,0.868,"[{""type"":""video"" ""title"":""The Power of Perfect Color | 8K Dolby Vision HDR 60fps OLED TEST"" ""videoId"
-2026-05-03 07:34,Channel,Failed,0.524,Timeout or Error
-2026-05-03 07:34,Comments,OK,0.73,"{""commentCount"":10504666 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-03 07:34,Playlist,Failed,0.547,Timeout or Error
 2026-05-03 08:37,Video,Failed,0.309,Timeout or Error
 2026-05-03 08:37,Search,OK,0.749,"[{""type"":""video"" ""title"":""The Power of Perfect Color | 8K Dolby Vision HDR 60fps OLED TEST"" ""videoId"
 2026-05-03 08:37,Channel,Failed,0.335,Timeout or Error
@@ -1614,3 +1604,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-02 06:24,Channel,Failed,0.528,Timeout or Error
 2026-06-02 06:24,Comments,OK,0.794,"{""commentCount"":10521417 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-06-02 06:24,Playlist,Failed,0.543,Timeout or Error
+2026-06-02 08:23,Video,Failed,0.461,Timeout or Error
+2026-06-02 08:23,Search,OK,0.897,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-06-02 08:23,Channel,Failed,0.483,Timeout or Error
+2026-06-02 08:23,Comments,OK,0.677,"{""commentCount"":10521709 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-06-02 08:23,Playlist,Failed,0.471,Timeout or Error
