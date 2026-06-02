@@ -1,19 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-04 02:41,Video,Failed,0.532,Timeout or Error
-2026-05-04 02:41,Search,OK,1.219,"[{""type"":""video"" ""title"":""🚨 Bernd Zehner put to the test: Hype or quality?"" ""videoId"":""CnU7hgJYT2Y"" "
-2026-05-04 02:41,Channel,Failed,0.561,Timeout or Error
-2026-05-04 02:41,Comments,OK,0.871,"{""commentCount"":10501851 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-04 02:41,Playlist,Failed,0.59,Timeout or Error
-2026-05-04 03:51,Video,Failed,0.391,Timeout or Error
-2026-05-04 03:51,Search,OK,0.863,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-05-04 03:51,Channel,Failed,0.462,Timeout or Error
-2026-05-04 03:51,Comments,OK,0.946,"{""commentCount"":10503624 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-04 03:51,Playlist,Failed,0.442,Timeout or Error
-2026-05-04 04:50,Video,Failed,0.517,Timeout or Error
-2026-05-04 04:50,Search,OK,0.967,"[{""type"":""video"" ""title"":""🚨 Bernd Zehner put to the test: Hype or quality?"" ""videoId"":""CnU7hgJYT2Y"" "
-2026-05-04 04:50,Channel,Failed,0.522,Timeout or Error
-2026-05-04 04:50,Comments,OK,0.843,"{""commentCount"":10503650 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-04 04:50,Playlist,Failed,0.551,Timeout or Error
 2026-05-04 05:36,Video,Failed,0.307,Timeout or Error
 2026-05-04 05:36,Search,OK,0.747,"[{""type"":""video"" ""title"":""🚨 Bernd Zehner put to the test: Hype or quality?"" ""videoId"":""CnU7hgJYT2Y"" "
 2026-05-04 05:36,Channel,Failed,0.342,Timeout or Error
@@ -1574,3 +1559,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-03 01:48,Channel,Failed,0.449,Timeout or Error
 2026-06-03 01:48,Comments,OK,0.786,"{""commentCount"":10522385 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-06-03 01:48,Playlist,Failed,0.445,Timeout or Error
+2026-06-03 05:04,Video,Failed,0.359,Timeout or Error
+2026-06-03 05:04,Search,OK,1.038,"[{""type"":""video"" ""title"":""Dolby Atmos 5.1 Surround Sound Test"" ""videoId"":""iTHtXgnhqfM"" ""author"":""JD "
+2026-06-03 05:04,Channel,Failed,0.424,Timeout or Error
+2026-06-03 05:04,Comments,OK,0.705,"{""commentCount"":10522552 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-06-03 05:04,Playlist,Failed,0.395,Timeout or Error
