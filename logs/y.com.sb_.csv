@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-05 02:28,Video,Failed,1.397,Timeout or Error
-2026-05-05 02:28,Search,OK,1.117,"[{""type"":""video"" ""title"":""BEST Vivid OLED HDR TEST | 16K HDR Nature Video | Dolby Vision 120FPS (8K/"
-2026-05-05 02:28,Channel,Failed,0.632,Timeout or Error
-2026-05-05 02:28,Comments,OK,0.984,"{""commentCount"":10504084 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-05 02:28,Playlist,Failed,0.697,Timeout or Error
-2026-05-05 04:21,Video,OK,0.518,
-2026-05-05 04:21,Search,OK,1.182,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-05-05 04:21,Channel,Failed,0.581,Timeout or Error
-2026-05-05 04:21,Comments,OK,0.936,"{""commentCount"":10504142 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-05 04:21,Playlist,Failed,0.63,Timeout or Error
 2026-05-05 06:02,Video,Failed,0.302,Timeout or Error
 2026-05-05 06:02,Search,OK,0.892,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-05-05 06:02,Channel,Failed,0.401,Timeout or Error
@@ -1539,3 +1529,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-04 01:26,Channel,Failed,0.449,Timeout or Error
 2026-06-04 01:26,Comments,OK,0.68,"{""commentCount"":10523135 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-06-04 01:26,Playlist,Failed,0.256,Timeout or Error
+2026-06-04 05:14,Video,Failed,0.297,Timeout or Error
+2026-06-04 05:14,Search,OK,0.817,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-06-04 05:14,Channel,Failed,0.337,Timeout or Error
+2026-06-04 05:14,Comments,OK,0.599,"{""commentCount"":10523357 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-06-04 05:14,Playlist,Failed,0.323,Timeout or Error
