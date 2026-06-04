@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-05 14:37,Video,Failed,0.32,Timeout or Error
-2026-05-05 14:37,Search,OK,0.779,"[{""type"":""video"" ""title"":""Personality TEST 👆"" ""videoId"":""HrjscnBVDV0"" ""author"":""Moore Wellness"" ""aut"
-2026-05-05 14:37,Channel,Failed,0.379,Timeout or Error
-2026-05-05 14:37,Comments,OK,0.625,"{""commentCount"":10504103 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-05 14:37,Playlist,Failed,0.375,Timeout or Error
-2026-05-05 17:00,Video,Failed,0.449,Timeout or Error
-2026-05-05 17:00,Search,OK,0.973,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-05-05 17:00,Channel,Failed,0.483,Timeout or Error
-2026-05-05 17:00,Comments,OK,0.761,"{""commentCount"":10504093 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-05 17:00,Playlist,Failed,0.499,Timeout or Error
 2026-05-05 19:29,Video,Failed,0.447,Timeout or Error
 2026-05-05 19:29,Search,OK,1.028,"[{""type"":""video"" ""title"":""Personality TEST 👆"" ""videoId"":""HrjscnBVDV0"" ""author"":""Moore Wellness"" ""aut"
 2026-05-05 19:29,Channel,Failed,0.469,Timeout or Error
@@ -1524,3 +1514,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-04 12:28,Channel,Failed,0.335,Timeout or Error
 2026-06-04 12:28,Comments,OK,0.515,"{""commentCount"":10521894 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-06-04 12:28,Playlist,Failed,0.342,Timeout or Error
+2026-06-04 17:14,Video,Failed,0.393,Timeout or Error
+2026-06-04 17:14,Search,OK,0.895,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-06-04 17:14,Channel,Failed,0.406,Timeout or Error
+2026-06-04 17:14,Comments,OK,0.714,"{""commentCount"":10521990 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-06-04 17:14,Playlist,Failed,0.455,Timeout or Error
