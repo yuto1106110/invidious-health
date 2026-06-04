@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-05 19:29,Video,Failed,0.463,Timeout or Error
-2026-05-05 19:29,Search,Failed,0.814,Timeout or Error
-2026-05-05 19:29,Channel,Failed,0.463,Timeout or Error
-2026-05-05 19:29,Comments,Failed,0.7,Timeout or Error
-2026-05-05 19:29,Playlist,Failed,0.475,Timeout or Error
 2026-05-05 20:56,Video,Failed,0.504,Timeout or Error
 2026-05-05 20:56,Search,Failed,1.272,Timeout or Error
 2026-05-05 20:56,Channel,Failed,0.732,Timeout or Error
@@ -1519,3 +1514,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-04 17:14,Channel,Failed,0.586,Timeout or Error
 2026-06-04 17:14,Comments,Failed,0.676,Timeout or Error
 2026-06-04 17:14,Playlist,Failed,0.555,Timeout or Error
+2026-06-04 20:47,Video,Failed,0.686,Timeout or Error
+2026-06-04 20:47,Search,OK,1.256,"[{""type"":""video"" ""title"":""BLIND TEST TOUTES GÉNÉRATIONS Spécial MUSIQUES DES ANNÉES 1960 À 2025"" ""vi"
+2026-06-04 20:47,Channel,Failed,0.651,Timeout or Error
+2026-06-04 20:47,Comments,Failed,1.062,Timeout or Error
+2026-06-04 20:47,Playlist,Failed,0.506,Timeout or Error

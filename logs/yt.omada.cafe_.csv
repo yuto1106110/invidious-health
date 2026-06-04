@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-05 19:29,Video,OK,1.391,
-2026-05-05 19:29,Search,OK,1.41,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-05-05 19:29,Channel,Failed,0.547,Timeout or Error
-2026-05-05 19:29,Comments,OK,0.857,"{""commentCount"":10504124 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-05 19:29,Playlist,Failed,0.473,Timeout or Error
 2026-05-05 20:56,Video,OK,0.571,
 2026-05-05 20:56,Search,OK,1.155,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-05-05 20:56,Channel,Failed,0.633,Timeout or Error
@@ -1519,3 +1514,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-04 17:14,Channel,Failed,0.58,Timeout or Error
 2026-06-04 17:14,Comments,OK,1.514,"{""commentCount"":10521990 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-06-04 17:14,Playlist,Failed,0.505,Timeout or Error
+2026-06-04 20:47,Video,OK,0.55,
+2026-06-04 20:47,Search,OK,1.66,"[{""type"":""video"" ""title"":""We Take An IQ Test"" ""videoId"":""15vch5fgCRM"" ""author"":""Smosh Games"" ""author"
+2026-06-04 20:47,Channel,Failed,1.375,Timeout or Error
+2026-06-04 20:47,Comments,OK,1.343,"{""commentCount"":10521943 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-06-04 20:47,Playlist,Failed,1.016,Timeout or Error
