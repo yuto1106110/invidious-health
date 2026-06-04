@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-06 07:00,Video,Failed,0.452,Timeout or Error
-2026-05-06 07:00,Search,Failed,1.227,Timeout or Error
-2026-05-06 07:00,Channel,Failed,0.677,Timeout or Error
-2026-05-06 07:00,Comments,Failed,0.882,Timeout or Error
-2026-05-06 07:00,Playlist,Failed,0.386,Timeout or Error
 2026-05-06 08:42,Video,Failed,0.511,Timeout or Error
 2026-05-06 08:42,Search,Failed,0.964,Timeout or Error
 2026-05-06 08:42,Channel,Failed,0.5,Timeout or Error
@@ -1514,3 +1509,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-05 06:41,Channel,Failed,0.337,Timeout or Error
 2026-06-05 06:41,Comments,Failed,0.94,Timeout or Error
 2026-06-05 06:41,Playlist,Failed,0.332,Timeout or Error
+2026-06-05 08:04,Video,Failed,0.539,Timeout or Error
+2026-06-05 08:04,Search,OK,0.844,"[{""type"":""video"" ""title"":""Quel Age Ont Vos Oreilles ? Test Auditif"" ""videoId"":""2_bdA_R7yyc"" ""author"""
+2026-06-05 08:04,Channel,Failed,0.655,Timeout or Error
+2026-06-05 08:04,Comments,Failed,0.873,Timeout or Error
+2026-06-05 08:04,Playlist,Failed,0.612,Timeout or Error

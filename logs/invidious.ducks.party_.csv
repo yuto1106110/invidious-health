@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-06 07:00,Video,Failed,0.362,Timeout or Error
-2026-05-06 07:00,Search,OK,0.94,"[{""type"":""video"" ""title"":""SUZUKI GSX 8T 2026 MOTORRAD TEST!"" ""videoId"":""fJCSZ92s9nM"" ""author"":""Motoc"
-2026-05-06 07:00,Channel,Failed,0.423,Timeout or Error
-2026-05-06 07:00,Comments,OK,0.643,"{""commentCount"":10504521 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-06 07:00,Playlist,Failed,0.416,Timeout or Error
 2026-05-06 08:42,Video,Failed,0.37,Timeout or Error
 2026-05-06 08:42,Search,OK,0.831,"[{""type"":""video"" ""title"":""The Chemical Brothers - The Test (Official Music Video)"" ""videoId"":""yhS9Ln"
 2026-05-06 08:42,Channel,Failed,0.42,Timeout or Error
@@ -1514,3 +1509,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-05 06:41,Channel,Failed,0.394,Timeout or Error
 2026-06-05 06:41,Comments,OK,0.597,"{""commentCount"":10522243 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-06-05 06:41,Playlist,Failed,0.348,Timeout or Error
+2026-06-05 08:04,Video,Failed,0.363,Timeout or Error
+2026-06-05 08:04,Search,OK,0.832,"[{""type"":""video"" ""title"":""16 Wickets an Tag 1 gefallen | Highlights - England gegen Neuseeland | Rot"
+2026-06-05 08:04,Channel,Failed,0.383,Timeout or Error
+2026-06-05 08:04,Comments,OK,0.587,"{""commentCount"":10522265 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-06-05 08:04,Playlist,Failed,0.391,Timeout or Error
