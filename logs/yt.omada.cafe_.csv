@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-07 02:45,Video,Failed,1.79,Timeout or Error
-2026-05-07 02:45,Search,OK,2.135,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-05-07 02:45,Channel,Failed,1.295,Timeout or Error
-2026-05-07 02:45,Comments,OK,1.441,"{""commentCount"":10505127 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-07 02:45,Playlist,Failed,1.005,Timeout or Error
-2026-05-07 04:29,Video,OK,0.629,
-2026-05-07 04:29,Search,OK,1.5,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-05-07 04:29,Channel,Failed,0.611,Timeout or Error
-2026-05-07 04:29,Comments,OK,0.911,"{""commentCount"":10505190 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-07 04:29,Playlist,Failed,0.52,Timeout or Error
 2026-05-07 06:06,Video,OK,0.468,
 2026-05-07 06:06,Search,OK,1.473,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-05-07 06:06,Channel,Failed,0.722,Timeout or Error
@@ -1504,3 +1494,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-06 02:11,Channel,Failed,0.443,Timeout or Error
 2026-06-06 02:11,Comments,OK,0.827,"{""commentCount"":10522628 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-06-06 02:11,Playlist,Failed,1.095,Timeout or Error
+2026-06-06 04:46,Video,Failed,1.213,Timeout or Error
+2026-06-06 04:46,Search,OK,1.135,"[{""type"":""video"" ""title"":""Gay Hits Debut 50 as 17 More Wickets Fall! | Highlights - England v New Ze"
+2026-06-06 04:46,Channel,Failed,0.719,Timeout or Error
+2026-06-06 04:46,Comments,OK,0.684,"{""commentCount"":10522780 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-06-06 04:46,Playlist,Failed,1.502,Timeout or Error

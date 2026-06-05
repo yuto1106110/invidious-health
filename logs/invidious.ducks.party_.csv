@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-07 02:45,Video,Failed,0.529,Timeout or Error
-2026-05-07 02:45,Search,OK,1.272,"[{""type"":""video"" ""title"":""KAWASAKI Z900 RS 2026 MOTORRAD TEST!"" ""videoId"":""dX8JDkRv50c"" ""author"":""Mo"
-2026-05-07 02:45,Channel,Failed,0.59,Timeout or Error
-2026-05-07 02:45,Comments,OK,0.803,"{""commentCount"":10505127 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-07 02:45,Playlist,Failed,0.643,Timeout or Error
-2026-05-07 04:29,Video,Failed,0.31,Timeout or Error
-2026-05-07 04:29,Search,OK,0.961,"[{""type"":""video"" ""title"":""Ultra Massive Details OLED HDR TEST | 16K HDR Nature Video | Dolby Vision "
-2026-05-07 04:29,Channel,Failed,0.393,Timeout or Error
-2026-05-07 04:29,Comments,OK,0.72,"{""commentCount"":10505190 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-07 04:29,Playlist,Failed,0.414,Timeout or Error
 2026-05-07 06:06,Video,Failed,0.363,Timeout or Error
 2026-05-07 06:06,Search,OK,0.812,"[{""type"":""video"" ""title"":""KAWASAKI Z900 RS 2026 MOTORRAD TEST!"" ""videoId"":""dX8JDkRv50c"" ""author"":""Mo"
 2026-05-07 06:06,Channel,Failed,0.426,Timeout or Error
@@ -1504,3 +1494,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-06 02:11,Channel,Failed,0.396,Timeout or Error
 2026-06-06 02:11,Comments,OK,0.658,"{""commentCount"":10522628 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-06-06 02:11,Playlist,Failed,0.512,Timeout or Error
+2026-06-06 04:46,Video,Failed,0.36,Timeout or Error
+2026-06-06 04:46,Search,OK,0.922,"[{""type"":""video"" ""title"":""Das Gothic Remake macht's uns im Test nicht leicht!"" ""videoId"":""kh0BIKyQ9o"
+2026-06-06 04:46,Channel,Failed,0.413,Timeout or Error
+2026-06-06 04:46,Comments,OK,0.635,"{""commentCount"":10522780 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-06-06 04:46,Playlist,Failed,0.409,Timeout or Error
