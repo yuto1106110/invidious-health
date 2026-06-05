@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-06 17:14,Video,Failed,0.31,Timeout or Error
-2026-05-06 17:14,Search,OK,0.902,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-05-06 17:14,Channel,Failed,0.371,Timeout or Error
-2026-05-06 17:14,Comments,OK,0.731,"{""commentCount"":10504625 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-06 17:14,Playlist,Failed,0.342,Timeout or Error
-2026-05-06 20:01,Video,Failed,0.406,Timeout or Error
-2026-05-06 20:01,Search,OK,0.926,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-05-06 20:01,Channel,Failed,0.435,Timeout or Error
-2026-05-06 20:01,Comments,OK,0.934,"{""commentCount"":10504733 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-06 20:01,Playlist,Failed,0.479,Timeout or Error
 2026-05-06 22:54,Video,Failed,0.451,Timeout or Error
 2026-05-06 22:54,Search,OK,0.97,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-05-06 22:54,Channel,Failed,0.52,Timeout or Error
@@ -1509,3 +1499,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-05 16:03,Channel,Failed,0.393,Timeout or Error
 2026-06-05 16:03,Comments,OK,0.611,"{""commentCount"":10522376 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-06-05 16:03,Playlist,Failed,0.379,Timeout or Error
+2026-06-05 20:21,Video,Failed,0.316,Timeout or Error
+2026-06-05 20:21,Search,OK,0.858,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-06-05 20:21,Channel,Failed,0.381,Timeout or Error
+2026-06-05 20:21,Comments,OK,0.625,"{""commentCount"":10522416 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-06-05 20:21,Playlist,Failed,0.351,Timeout or Error
