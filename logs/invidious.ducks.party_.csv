@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-06 22:54,Video,Failed,0.451,Timeout or Error
-2026-05-06 22:54,Search,OK,0.97,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-05-06 22:54,Channel,Failed,0.52,Timeout or Error
-2026-05-06 22:54,Comments,OK,0.713,"{""commentCount"":10504906 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-06 22:54,Playlist,Failed,0.498,Timeout or Error
 2026-05-07 00:59,Video,Failed,0.53,Timeout or Error
 2026-05-07 00:59,Search,OK,1.229,"[{""type"":""video"" ""title"":""Legal mit 3600W? Dieser E-Scooter vernichtet jeden Berg! RCB D7 MAX"" ""vide"
 2026-05-07 00:59,Channel,Failed,0.606,Timeout or Error
@@ -1504,3 +1499,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-05 20:21,Channel,Failed,0.381,Timeout or Error
 2026-06-05 20:21,Comments,OK,0.625,"{""commentCount"":10522416 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-06-05 20:21,Playlist,Failed,0.351,Timeout or Error
+2026-06-05 23:35,Video,Failed,0.372,Timeout or Error
+2026-06-05 23:35,Search,OK,1.054,"[{""type"":""video"" ""title"":""The Chemical Brothers - The Test (Official Music Video)"" ""videoId"":""yhS9Ln"
+2026-06-05 23:35,Channel,Failed,0.402,Timeout or Error
+2026-06-05 23:35,Comments,OK,0.673,"{""commentCount"":10522522 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-06-05 23:35,Playlist,Failed,0.413,Timeout or Error
