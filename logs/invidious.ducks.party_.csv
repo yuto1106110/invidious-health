@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-07 06:06,Video,Failed,0.363,Timeout or Error
-2026-05-07 06:06,Search,OK,0.812,"[{""type"":""video"" ""title"":""KAWASAKI Z900 RS 2026 MOTORRAD TEST!"" ""videoId"":""dX8JDkRv50c"" ""author"":""Mo"
-2026-05-07 06:06,Channel,Failed,0.426,Timeout or Error
-2026-05-07 06:06,Comments,OK,0.676,"{""commentCount"":10505216 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-07 06:06,Playlist,Failed,0.427,Timeout or Error
 2026-05-07 07:43,Video,Failed,0.311,Timeout or Error
 2026-05-07 07:43,Search,OK,0.795,"[{""type"":""video"" ""title"":""KAWASAKI Z900 RS 2026 MOTORRAD TEST!"" ""videoId"":""dX8JDkRv50c"" ""author"":""Mo"
 2026-05-07 07:43,Channel,Failed,0.369,Timeout or Error
@@ -1499,3 +1494,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-06 04:46,Channel,Failed,0.413,Timeout or Error
 2026-06-06 04:46,Comments,OK,0.635,"{""commentCount"":10522780 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-06-06 04:46,Playlist,Failed,0.409,Timeout or Error
+2026-06-06 06:20,Video,Failed,0.353,Timeout or Error
+2026-06-06 06:20,Search,OK,0.836,"[{""type"":""video"" ""title"":""Gothic Remake im PC-Test: Eine würdige Neuauflage (4K  GERMAN)"" ""videoId"":"
+2026-06-06 06:20,Channel,Failed,0.395,Timeout or Error
+2026-06-06 06:20,Comments,OK,0.662,"{""commentCount"":10522854 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-06-06 06:20,Playlist,Failed,0.41,Timeout or Error
