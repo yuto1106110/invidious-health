@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-09 02:08,Video,Failed,0.41,Timeout or Error
-2026-05-09 02:08,Search,OK,1.215,"[{""type"":""video"" ""title"":""Hedge trimmer torture: Dead after 22 hours 😱 (Test hedge trimmers Stiftung"
-2026-05-09 02:08,Channel,Failed,0.46,Timeout or Error
-2026-05-09 02:08,Comments,OK,0.713,"{""commentCount"":10507066 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-09 02:08,Playlist,Failed,0.466,Timeout or Error
 2026-05-09 04:09,Video,Failed,0.429,Timeout or Error
 2026-05-09 04:09,Search,OK,1.104,"[{""type"":""video"" ""title"":""Amazon verarscht dich: 19€ Akkuschrauber im knallharten Test"" ""videoId"":""L"
 2026-05-09 04:09,Channel,Failed,0.519,Timeout or Error
@@ -1484,3 +1479,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-08 00:20,Channel,Failed,0.392,Timeout or Error
 2026-06-08 00:20,Comments,OK,0.692,"{""commentCount"":10524785 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-06-08 00:20,Playlist,Failed,0.523,Timeout or Error
+2026-06-08 02:08,Video,Failed,0.511,Timeout or Error
+2026-06-08 02:08,Search,OK,1.231,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-06-08 02:08,Channel,Failed,0.714,Timeout or Error
+2026-06-08 02:08,Comments,OK,1.149,"{""commentCount"":10524972 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-06-08 02:08,Playlist,Failed,0.553,Timeout or Error
