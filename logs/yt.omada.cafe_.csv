@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-08 07:56,Video,OK,0.939,
-2026-05-08 07:56,Search,OK,1.165,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-05-08 07:56,Channel,Failed,0.501,Timeout or Error
-2026-05-08 07:56,Comments,OK,0.769,"{""commentCount"":10506139 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-08 07:56,Playlist,Failed,0.518,Timeout or Error
-2026-05-08 08:50,Video,OK,1.128,
-2026-05-08 08:50,Search,OK,0.846,"[{""type"":""video"" ""title"":""Reacting to *FUNNY* KID TEST ANSWERS!"" ""videoId"":""jj5xrwQ18vo"" ""author"":""M"
-2026-05-08 08:50,Channel,Failed,0.414,Timeout or Error
-2026-05-08 08:50,Comments,OK,0.57,"{""commentCount"":10506149 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-08 08:50,Playlist,Failed,0.424,Timeout or Error
 2026-05-08 11:33,Video,OK,0.977,
 2026-05-08 11:33,Search,OK,1.371,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-05-08 11:33,Channel,Failed,0.607,Timeout or Error
@@ -1499,3 +1489,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-07 07:03,Channel,Failed,0.299,Timeout or Error
 2026-06-07 07:03,Comments,OK,0.742,"{""commentCount"":10524243 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-06-07 07:03,Playlist,Failed,0.577,Timeout or Error
+2026-06-07 08:59,Video,OK,0.402,
+2026-06-07 08:59,Search,OK,0.888,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-06-07 08:59,Channel,Failed,0.599,Timeout or Error
+2026-06-07 08:59,Comments,OK,0.663,"{""commentCount"":10524243 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-06-07 08:59,Playlist,Failed,0.395,Timeout or Error
