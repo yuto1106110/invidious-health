@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-08 20:07,Video,Failed,0.274,Timeout or Error
-2026-05-08 20:07,Search,Failed,0.264,Timeout or Error
-2026-05-08 20:07,Channel,Failed,0.25,Timeout or Error
-2026-05-08 20:07,Comments,Failed,0.272,Timeout or Error
-2026-05-08 20:07,Playlist,Failed,0.258,Timeout or Error
-2026-05-08 22:19,Video,Failed,0.219,Timeout or Error
-2026-05-08 22:19,Search,Failed,0.751,Timeout or Error
-2026-05-08 22:19,Channel,Failed,0.221,Timeout or Error
-2026-05-08 22:19,Comments,Failed,0.241,Timeout or Error
-2026-05-08 22:19,Playlist,Failed,0.226,Timeout or Error
 2026-05-09 00:16,Video,Failed,0.296,Timeout or Error
 2026-05-09 00:16,Search,Failed,0.301,Timeout or Error
 2026-05-09 00:16,Channel,Failed,0.302,Timeout or Error
@@ -1489,3 +1479,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-07 20:04,Channel,Failed,0.495,Timeout or Error
 2026-06-07 20:04,Comments,OK,1.029,"{""commentCount"":10524453 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-06-07 20:04,Playlist,Failed,0.564,Timeout or Error
+2026-06-07 22:29,Video,Failed,0.454,Timeout or Error
+2026-06-07 22:29,Search,OK,0.993,"[{""type"":""video"" ""title"":""Atkinson Takes Another 5 Wicket Haul! | Highlights - England v New Zealand"
+2026-06-07 22:29,Channel,Failed,0.472,Timeout or Error
+2026-06-07 22:29,Comments,OK,0.912,"{""commentCount"":10524727 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-06-07 22:29,Playlist,Failed,0.488,Timeout or Error

@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-08 20:07,Video,Failed,1.26,Timeout or Error
-2026-05-08 20:07,Search,OK,1.164,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-05-08 20:07,Channel,Failed,0.498,Timeout or Error
-2026-05-08 20:07,Comments,OK,1.851,"{""commentCount"":10506688 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-08 20:07,Playlist,Failed,0.523,Timeout or Error
-2026-05-08 22:19,Video,Failed,1.551,Timeout or Error
-2026-05-08 22:19,Search,OK,1.229,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-05-08 22:19,Channel,Failed,0.772,Timeout or Error
-2026-05-08 22:19,Comments,OK,1.084,"{""commentCount"":10506812 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-08 22:19,Playlist,Failed,0.497,Timeout or Error
 2026-05-09 00:16,Video,OK,1.328,
 2026-05-09 00:16,Search,OK,1.533,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-05-09 00:16,Channel,Failed,1.0,Timeout or Error
@@ -1489,3 +1479,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-07 20:04,Channel,Failed,0.893,Timeout or Error
 2026-06-07 20:04,Comments,OK,1.199,"{""commentCount"":10524453 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-06-07 20:04,Playlist,Failed,0.712,Timeout or Error
+2026-06-07 22:29,Video,Failed,1.61,Timeout or Error
+2026-06-07 22:29,Search,OK,1.583,"[{""type"":""video"" ""title"":""Atkinson Takes Another 5 Wicket Haul! | Highlights - England v New Zealand"
+2026-06-07 22:29,Channel,Failed,0.741,Timeout or Error
+2026-06-07 22:29,Comments,OK,1.293,"{""commentCount"":10524727 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-06-07 22:29,Playlist,Failed,1.19,Timeout or Error
