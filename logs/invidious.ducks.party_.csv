@@ -1,19 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-09 14:43,Video,Failed,0.364,Timeout or Error
-2026-05-09 14:43,Search,OK,0.84,"[{""type"":""video"" ""title"":""The Chemical Brothers - The Test (Official Music Video)"" ""videoId"":""yhS9Ln"
-2026-05-09 14:43,Channel,Failed,0.387,Timeout or Error
-2026-05-09 14:43,Comments,OK,0.629,"{""commentCount"":10507365 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-09 14:43,Playlist,Failed,0.391,Timeout or Error
-2026-05-09 16:48,Video,Failed,0.53,Timeout or Error
-2026-05-09 16:48,Search,OK,1.005,"[{""type"":""video"" ""title"":""EPA Test BW Typ2 Western"" ""videoId"":""BB5rGnZM7lo"" ""author"":""3thedward"" ""au"
-2026-05-09 16:48,Channel,Failed,0.538,Timeout or Error
-2026-05-09 16:48,Comments,OK,0.842,"{""commentCount"":10507823 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-09 16:48,Playlist,Failed,0.553,Timeout or Error
-2026-05-09 18:13,Video,Failed,0.312,Timeout or Error
-2026-05-09 18:13,Search,OK,0.898,"[{""type"":""video"" ""title"":""Hedge trimmer torture: Dead after 22 hours 😱 (Test hedge trimmers Stiftung"
-2026-05-09 18:13,Channel,Failed,0.337,Timeout or Error
-2026-05-09 18:13,Comments,OK,0.592,"{""commentCount"":10507886 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-09 18:13,Playlist,Failed,0.374,Timeout or Error
 2026-05-09 19:52,Video,Failed,0.37,Timeout or Error
 2026-05-09 19:52,Search,OK,0.934,"[{""type"":""video"" ""title"":""The Chemical Brothers - The Test (Official Music Video)"" ""videoId"":""yhS9Ln"
 2026-05-09 19:52,Channel,Failed,0.333,Timeout or Error
@@ -1479,3 +1464,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-08 14:26,Channel,Failed,0.499,Timeout or Error
 2026-06-08 14:26,Comments,OK,0.79,"{""commentCount"":10525601 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-06-08 14:26,Playlist,Failed,0.551,Timeout or Error
+2026-06-08 19:25,Video,Failed,0.551,Timeout or Error
+2026-06-08 19:25,Search,OK,0.957,"[{""type"":""video"" ""title"":""The Chemical Brothers - The Test (Official Music Video)"" ""videoId"":""yhS9Ln"
+2026-06-08 19:25,Channel,Failed,0.419,Timeout or Error
+2026-06-08 19:25,Comments,OK,0.705,"{""commentCount"":10525635 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-06-08 19:25,Playlist,Failed,0.654,Timeout or Error

@@ -1,19 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-09 14:43,Video,Failed,0.687,Timeout or Error
-2026-05-09 14:43,Search,OK,0.992,"[{""type"":""video"" ""title"":""QUIZ : 100 Questions de Culture Générale #4 - Testez votre niveau"" ""videoI"
-2026-05-09 14:43,Channel,Failed,0.541,Timeout or Error
-2026-05-09 14:43,Comments,Failed,0.9,Timeout or Error
-2026-05-09 14:43,Playlist,Failed,0.406,Timeout or Error
-2026-05-09 16:48,Video,Failed,0.7,Timeout or Error
-2026-05-09 16:48,Search,OK,1.115,"[{""type"":""video"" ""title"":""4K Test Monitor Color / Monitor-Farbtest (RGB and CMYK)"" ""videoId"":""IVdyt2"
-2026-05-09 16:48,Channel,Failed,0.693,Timeout or Error
-2026-05-09 16:48,Comments,Failed,0.957,Timeout or Error
-2026-05-09 16:48,Playlist,Failed,0.56,Timeout or Error
-2026-05-09 18:13,Video,Failed,0.483,Timeout or Error
-2026-05-09 18:13,Search,OK,1.064,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-05-09 18:13,Channel,Failed,0.312,Timeout or Error
-2026-05-09 18:13,Comments,Failed,0.802,Timeout or Error
-2026-05-09 18:13,Playlist,Failed,0.423,Timeout or Error
 2026-05-09 19:52,Video,Failed,0.345,Timeout or Error
 2026-05-09 19:52,Search,Failed,0.991,Timeout or Error
 2026-05-09 19:52,Channel,Failed,0.529,Timeout or Error
@@ -1479,3 +1464,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-08 14:26,Channel,Failed,0.493,Timeout or Error
 2026-06-08 14:26,Comments,Failed,0.835,Timeout or Error
 2026-06-08 14:26,Playlist,Failed,0.491,Timeout or Error
+2026-06-08 19:25,Video,Failed,0.572,Timeout or Error
+2026-06-08 19:25,Search,OK,1.069,"[{""type"":""video"" ""title"":""OLED TEST HDR 4K 120FPS DOLBY VISION 🏞 4K / 8K Monitor Test Video #BGM"" ""v"
+2026-06-08 19:25,Channel,Failed,0.656,Timeout or Error
+2026-06-08 19:25,Comments,Failed,0.801,Timeout or Error
+2026-06-08 19:25,Playlist,Failed,0.416,Timeout or Error
