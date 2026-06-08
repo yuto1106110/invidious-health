@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-10 03:52,Video,Failed,0.388,Timeout or Error
-2026-05-10 03:52,Search,OK,1.044,"[{""type"":""video"" ""title"":""Hedge trimmer torture: Dead after 22 hours 😱 (Test hedge trimmers Stiftung"
-2026-05-10 03:52,Channel,Failed,0.473,Timeout or Error
-2026-05-10 03:52,Comments,OK,0.725,"{""commentCount"":10508227 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-10 03:52,Playlist,Failed,0.446,Timeout or Error
-2026-05-10 04:53,Video,Failed,0.31,Timeout or Error
-2026-05-10 04:53,Search,OK,0.846,"[{""type"":""video"" ""title"":""Hedge trimmer torture: Dead after 22 hours 😱 (Test hedge trimmers Stiftung"
-2026-05-10 04:53,Channel,Failed,0.389,Timeout or Error
-2026-05-10 04:53,Comments,OK,0.79,"{""commentCount"":10508313 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-10 04:53,Playlist,Failed,0.405,Timeout or Error
 2026-05-10 05:38,Video,Failed,0.317,Timeout or Error
 2026-05-10 05:38,Search,OK,0.909,"[{""type"":""video"" ""title"":""Highlights des 2. Testspieltags | Bangladesch gegen Pakistan | ICC World T"
 2026-05-10 05:38,Channel,Failed,0.389,Timeout or Error
@@ -1444,3 +1434,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-09 02:47,Channel,Failed,0.352,Timeout or Error
 2026-06-09 02:47,Comments,OK,0.766,"{""commentCount"":10526085 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-06-09 02:47,Playlist,Failed,0.357,Timeout or Error
+2026-06-09 05:06,Video,Failed,0.309,Timeout or Error
+2026-06-09 05:06,Search,OK,0.849,"[{""type"":""video"" ""title"":""The Chemical Brothers - The Test (Official Music Video)"" ""videoId"":""yhS9Ln"
+2026-06-09 05:06,Channel,Failed,0.337,Timeout or Error
+2026-06-09 05:06,Comments,OK,0.62,"{""commentCount"":10526230 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-06-09 05:06,Playlist,Failed,0.354,Timeout or Error
