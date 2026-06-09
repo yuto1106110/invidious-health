@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-11 05:42,Video,Failed,0.496,Timeout or Error
-2026-05-11 05:42,Search,OK,1.009,"[{""type"":""video"" ""title"":""How to Answer Any Question on a Test"" ""videoId"":""imJFJTXJX48"" ""author"":""Go"
-2026-05-11 05:42,Channel,Failed,0.57,Timeout or Error
-2026-05-11 05:42,Comments,OK,0.844,"{""commentCount"":10507713 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-11 05:42,Playlist,Failed,0.566,Timeout or Error
-2026-05-11 06:41,Video,Failed,0.307,Timeout or Error
-2026-05-11 06:41,Search,OK,0.851,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-05-11 06:41,Channel,Failed,0.378,Timeout or Error
-2026-05-11 06:41,Comments,OK,0.622,"{""commentCount"":10507737 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-11 06:41,Playlist,Failed,0.375,Timeout or Error
 2026-05-11 07:40,Video,Failed,0.468,Timeout or Error
 2026-05-11 07:40,Search,OK,0.898,"[{""type"":""video"" ""title"":""Grilling ANYWHERE for €50?! 😳 Camping Gas Grill Test"" ""videoId"":""jivU7M8Ea"
 2026-05-11 07:40,Channel,Failed,0.501,Timeout or Error
@@ -1399,3 +1389,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-10 05:00,Channel,Failed,0.411,Timeout or Error
 2026-06-10 05:00,Comments,OK,0.681,"{""commentCount"":10526621 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-06-10 05:00,Playlist,Failed,0.396,Timeout or Error
+2026-06-10 07:18,Video,Failed,0.317,Timeout or Error
+2026-06-10 07:18,Search,OK,0.849,"[{""type"":""video"" ""title"":""The Chemical Brothers - The Test (Official Music Video)"" ""videoId"":""yhS9Ln"
+2026-06-10 07:18,Channel,Failed,0.339,Timeout or Error
+2026-06-10 07:18,Comments,OK,0.551,"{""commentCount"":10526768 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-06-10 07:18,Playlist,Failed,0.337,Timeout or Error
