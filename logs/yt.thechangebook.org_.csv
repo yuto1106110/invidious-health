@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-12 07:01,Video,Failed,0.511,Timeout or Error
-2026-05-12 07:01,Search,OK,1.086,"[{""type"":""video"" ""title"":""𝐇𝐈𝐆𝐇𝐋𝐈𝐆𝐇𝐓𝐒 | 𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡 𝐯𝐬 𝐏𝐚𝐤𝐢𝐬𝐭𝐚𝐧  𝟏𝐬𝐭 𝐓𝐞𝐬𝐭 | 𝐃𝐚𝐲 𝟒 | 𝐏𝐚𝐤𝐢𝐬𝐭𝐚𝐧 𝐭𝐨𝐮𝐫 𝐨𝐟 𝐁"
-2026-05-12 07:01,Channel,Failed,0.805,Timeout or Error
-2026-05-12 07:01,Comments,Failed,0.739,Timeout or Error
-2026-05-12 07:01,Playlist,Failed,0.497,Timeout or Error
 2026-05-12 08:52,Video,Failed,0.732,Timeout or Error
 2026-05-12 08:52,Search,OK,1.147,"[{""type"":""video"" ""title"":""𝐇𝐈𝐆𝐇𝐋𝐈𝐆𝐇𝐓𝐒 | 𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡 𝐯𝐬 𝐏𝐚𝐤𝐢𝐬𝐭𝐚𝐧  𝟏𝐬𝐭 𝐓𝐞𝐬𝐭 | 𝐃𝐚𝐲 𝟒 | 𝐏𝐚𝐤𝐢𝐬𝐭𝐚𝐧 𝐭𝐨𝐮𝐫 𝐨𝐟 𝐁"
 2026-05-12 08:52,Channel,Failed,0.453,Timeout or Error
@@ -1384,3 +1379,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-11 06:53,Channel,Failed,0.683,Timeout or Error
 2026-06-11 06:53,Comments,Failed,0.965,Timeout or Error
 2026-06-11 06:53,Playlist,Failed,0.57,Timeout or Error
+2026-06-11 08:21,Video,Failed,0.694,Timeout or Error
+2026-06-11 08:21,Search,Failed,0.978,Timeout or Error
+2026-06-11 08:21,Channel,Failed,0.717,Timeout or Error
+2026-06-11 08:21,Comments,Failed,0.536,Timeout or Error
+2026-06-11 08:21,Playlist,Failed,0.585,Timeout or Error
