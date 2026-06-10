@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-11 07:40,Video,Failed,0.468,Timeout or Error
-2026-05-11 07:40,Search,OK,0.898,"[{""type"":""video"" ""title"":""Grilling ANYWHERE for €50?! 😳 Camping Gas Grill Test"" ""videoId"":""jivU7M8Ea"
-2026-05-11 07:40,Channel,Failed,0.501,Timeout or Error
-2026-05-11 07:40,Comments,OK,0.683,"{""commentCount"":10507773 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-11 07:40,Playlist,Failed,0.525,Timeout or Error
-2026-05-11 08:44,Video,Failed,0.311,Timeout or Error
-2026-05-11 08:44,Search,OK,0.791,"[{""type"":""video"" ""title"":""Hedge trimmer torture: Dead after 22 hours 😱 (Test hedge trimmers Stiftung"
-2026-05-11 08:44,Channel,Failed,0.336,Timeout or Error
-2026-05-11 08:44,Comments,OK,0.608,"{""commentCount"":10507797 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-11 08:44,Playlist,Failed,0.333,Timeout or Error
 2026-05-11 11:37,Video,Failed,0.319,Timeout or Error
 2026-05-11 11:37,Search,OK,0.71,"[{""type"":""video"" ""title"":""Hedge trimmer torture: Dead after 22 hours 😱 (Test hedge trimmers Stiftung"
 2026-05-11 11:37,Channel,Failed,0.339,Timeout or Error
@@ -1394,3 +1384,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-10 07:18,Channel,Failed,0.339,Timeout or Error
 2026-06-10 07:18,Comments,OK,0.551,"{""commentCount"":10526768 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-06-10 07:18,Playlist,Failed,0.337,Timeout or Error
+2026-06-10 09:06,Video,Failed,1.324,Timeout or Error
+2026-06-10 09:06,Search,Failed,2.221,Timeout or Error
+2026-06-10 09:06,Channel,Failed,1.326,Timeout or Error
+2026-06-10 09:06,Comments,Failed,2.191,Timeout or Error
+2026-06-10 09:06,Playlist,Failed,1.323,Timeout or Error
