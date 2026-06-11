@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-13 04:42,Video,Failed,0.514,Timeout or Error
-2026-05-13 04:42,Search,OK,1.097,"[{""type"":""video"" ""title"":""Hedge trimmer torture: Dead after 22 hours 😱 (Test hedge trimmers Stiftung"
-2026-05-13 04:42,Channel,Failed,0.561,Timeout or Error
-2026-05-13 04:42,Comments,OK,0.88,"{""commentCount"":10508929 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-13 04:42,Playlist,Failed,0.594,Timeout or Error
-2026-05-13 06:13,Video,Failed,0.371,Timeout or Error
-2026-05-13 06:13,Search,OK,0.931,"[{""type"":""video"" ""title"":""1st Test Day 5 Full Highlights | Bangladesh vs Pakistan |  ICC World Test "
-2026-05-13 06:13,Channel,Failed,0.432,Timeout or Error
-2026-05-13 06:13,Comments,OK,0.792,"{""commentCount"":10509036 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-13 06:13,Playlist,Failed,0.433,Timeout or Error
 2026-05-13 07:54,Video,Failed,0.514,Timeout or Error
 2026-05-13 07:54,Search,OK,0.955,"[{""type"":""video"" ""title"":""Hedge trimmer torture: Dead after 22 hours 😱 (Test hedge trimmers Stiftung"
 2026-05-13 07:54,Channel,Failed,0.553,Timeout or Error
@@ -1374,3 +1364,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-12 04:30,Channel,Failed,1.504,Timeout or Error
 2026-06-12 04:30,Comments,Failed,1.504,Timeout or Error
 2026-06-12 04:30,Playlist,Failed,1.786,Timeout or Error
+2026-06-12 06:56,Video,Failed,1.504,Timeout or Error
+2026-06-12 06:56,Search,Failed,1.504,Timeout or Error
+2026-06-12 06:56,Channel,Failed,1.504,Timeout or Error
+2026-06-12 06:56,Comments,Failed,1.504,Timeout or Error
+2026-06-12 06:56,Playlist,Failed,1.504,Timeout or Error
