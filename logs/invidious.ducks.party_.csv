@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-13 02:05,Video,Failed,0.32,Timeout or Error
-2026-05-13 02:05,Search,OK,0.873,"[{""type"":""video"" ""title"":""Hyla  Miele  Kärcher: Staubsauger vs. Wasserstaubsauger im Test 🧐 | Der Ha"
-2026-05-13 02:05,Channel,Failed,0.381,Timeout or Error
-2026-05-13 02:05,Comments,OK,0.81,"{""commentCount"":10508801 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-13 02:05,Playlist,Failed,0.399,Timeout or Error
 2026-05-13 04:42,Video,Failed,0.514,Timeout or Error
 2026-05-13 04:42,Search,OK,1.097,"[{""type"":""video"" ""title"":""Hedge trimmer torture: Dead after 22 hours 😱 (Test hedge trimmers Stiftung"
 2026-05-13 04:42,Channel,Failed,0.561,Timeout or Error
@@ -1374,3 +1369,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-12 01:47,Channel,Failed,1.504,Timeout or Error
 2026-06-12 01:47,Comments,Failed,1.504,Timeout or Error
 2026-06-12 01:47,Playlist,Failed,1.504,Timeout or Error
+2026-06-12 04:30,Video,Failed,1.504,Timeout or Error
+2026-06-12 04:30,Search,Failed,1.738,Timeout or Error
+2026-06-12 04:30,Channel,Failed,1.504,Timeout or Error
+2026-06-12 04:30,Comments,Failed,1.504,Timeout or Error
+2026-06-12 04:30,Playlist,Failed,1.786,Timeout or Error

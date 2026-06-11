@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-13 02:05,Video,Failed,0.588,Timeout or Error
-2026-05-13 02:05,Search,OK,0.901,"[{""type"":""video"" ""title"":""50 QUESTIONS pour TESTER TON SAVOIR 🧠🤯 | Quiz Culture Générale"" ""videoId"":"
-2026-05-13 02:05,Channel,Failed,0.419,Timeout or Error
-2026-05-13 02:05,Comments,Failed,0.685,Timeout or Error
-2026-05-13 02:05,Playlist,Failed,0.629,Timeout or Error
 2026-05-13 04:42,Video,Failed,0.769,Timeout or Error
 2026-05-13 04:42,Search,OK,1.137,"[{""type"":""video"" ""title"":""1st Test Day 5 Full Highlights | Bangladesh vs Pakistan |  ICC World Test "
 2026-05-13 04:42,Channel,Failed,0.652,Timeout or Error
@@ -1374,3 +1369,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-12 01:47,Channel,Failed,0.683,Timeout or Error
 2026-06-12 01:47,Comments,Failed,1.045,Timeout or Error
 2026-06-12 01:47,Playlist,Failed,0.611,Timeout or Error
+2026-06-12 04:30,Video,Failed,0.756,Timeout or Error
+2026-06-12 04:30,Search,OK,1.054,"[{""type"":""video"" ""title"":""BLIND TEST TOUTES GÉNÉRATIONS (80 extraits)"" ""videoId"":""dlZN-lRgmfw"" ""auth"
+2026-06-12 04:30,Channel,Failed,0.687,Timeout or Error
+2026-06-12 04:30,Comments,Failed,1.017,Timeout or Error
+2026-06-12 04:30,Playlist,Failed,0.541,Timeout or Error
