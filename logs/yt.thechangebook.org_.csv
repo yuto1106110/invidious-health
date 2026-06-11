@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-12 08:52,Video,Failed,0.732,Timeout or Error
-2026-05-12 08:52,Search,OK,1.147,"[{""type"":""video"" ""title"":""𝐇𝐈𝐆𝐇𝐋𝐈𝐆𝐇𝐓𝐒 | 𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡 𝐯𝐬 𝐏𝐚𝐤𝐢𝐬𝐭𝐚𝐧  𝟏𝐬𝐭 𝐓𝐞𝐬𝐭 | 𝐃𝐚𝐲 𝟒 | 𝐏𝐚𝐤𝐢𝐬𝐭𝐚𝐧 𝐭𝐨𝐮𝐫 𝐨𝐟 𝐁"
-2026-05-12 08:52,Channel,Failed,0.453,Timeout or Error
-2026-05-12 08:52,Comments,Failed,0.739,Timeout or Error
-2026-05-12 08:52,Playlist,Failed,0.695,Timeout or Error
-2026-05-12 11:30,Video,Failed,0.801,Timeout or Error
-2026-05-12 11:30,Search,OK,0.851,"[{""type"":""video"" ""title"":""50 QUESTIONS pour TESTER TON SAVOIR 🧠🤯 | Quiz Culture Générale"" ""videoId"":"
-2026-05-12 11:30,Channel,Failed,0.764,Timeout or Error
-2026-05-12 11:30,Comments,Failed,0.817,Timeout or Error
-2026-05-12 11:30,Playlist,Failed,0.65,Timeout or Error
 2026-05-12 15:09,Video,Failed,0.675,Timeout or Error
 2026-05-12 15:09,Search,OK,1.03,"[{""type"":""video"" ""title"":""OLED TEST HDR 4K 120FPS DOLBY VISION 🏞 4K / 8K Monitor Test Video #BGM"" ""v"
 2026-05-12 15:09,Channel,Failed,0.561,Timeout or Error
@@ -1384,3 +1374,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-11 08:21,Channel,Failed,0.717,Timeout or Error
 2026-06-11 08:21,Comments,Failed,0.536,Timeout or Error
 2026-06-11 08:21,Playlist,Failed,0.585,Timeout or Error
+2026-06-11 12:21,Video,Failed,0.609,Timeout or Error
+2026-06-11 12:21,Search,OK,1.011,"[{""type"":""video"" ""title"":""I never should have done this science test"" ""videoId"":""a0_H2mZ1jLA"" ""autho"
+2026-06-11 12:21,Channel,Failed,0.326,Timeout or Error
+2026-06-11 12:21,Comments,Failed,0.597,Timeout or Error
+2026-06-11 12:21,Playlist,Failed,0.426,Timeout or Error
