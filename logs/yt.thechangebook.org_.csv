@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-13 20:58,Video,Failed,0.546,Timeout or Error
-2026-05-13 20:58,Search,Failed,0.869,Timeout or Error
-2026-05-13 20:58,Channel,Failed,0.487,Timeout or Error
-2026-05-13 20:58,Comments,Failed,0.889,Timeout or Error
-2026-05-13 20:58,Playlist,Failed,0.588,Timeout or Error
-2026-05-13 23:44,Video,Failed,0.78,Timeout or Error
-2026-05-13 23:44,Search,OK,1.216,"[{""type"":""video"" ""title"":""Sony Xperia 1 VIII | Pro Photographer TEST"" ""videoId"":""LD-ksHJaXYc"" ""autho"
-2026-05-13 23:44,Channel,Failed,0.966,Timeout or Error
-2026-05-13 23:44,Comments,Failed,1.036,Timeout or Error
-2026-05-13 23:44,Playlist,Failed,0.566,Timeout or Error
 2026-05-14 02:12,Video,Failed,0.734,Timeout or Error
 2026-05-14 02:12,Search,Failed,1.611,Timeout or Error
 2026-05-14 02:12,Channel,Failed,0.556,Timeout or Error
@@ -1364,3 +1354,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-12 20:40,Channel,Failed,0.517,Timeout or Error
 2026-06-12 20:40,Comments,Failed,0.952,Timeout or Error
 2026-06-12 20:40,Playlist,Failed,0.679,Timeout or Error
+2026-06-12 23:45,Video,Failed,1.48,Timeout or Error
+2026-06-12 23:45,Search,Failed,1.469,Timeout or Error
+2026-06-12 23:45,Channel,Failed,0.594,Timeout or Error
+2026-06-12 23:45,Comments,Failed,0.884,Timeout or Error
+2026-06-12 23:45,Playlist,Failed,0.831,Timeout or Error
