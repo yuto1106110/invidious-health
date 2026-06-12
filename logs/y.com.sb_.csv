@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-13 08:55,Video,Failed,0.339,Timeout or Error
-2026-05-13 08:55,Search,OK,0.806,"[{""type"":""video"" ""title"":""1st Test Day 5 Full Highlights | Bangladesh vs Pakistan |  ICC World Test "
-2026-05-13 08:55,Channel,Failed,0.358,Timeout or Error
-2026-05-13 08:55,Comments,OK,0.563,"{""commentCount"":10509103 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-13 08:55,Playlist,Failed,0.375,Timeout or Error
-2026-05-13 11:38,Video,Failed,0.299,Timeout or Error
-2026-05-13 11:38,Search,OK,0.767,"[{""type"":""video"" ""title"":""1st Test Day 5 Full Highlights | Bangladesh vs Pakistan |  ICC World Test "
-2026-05-13 11:38,Channel,Failed,0.339,Timeout or Error
-2026-05-13 11:38,Comments,OK,0.508,"{""commentCount"":10509168 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-13 11:38,Playlist,Failed,0.327,Timeout or Error
 2026-05-13 15:22,Video,Failed,0.321,Timeout or Error
 2026-05-13 15:22,Search,OK,1.087,"[{""type"":""video"" ""title"":""1st Test Day 5 Full Highlights | Bangladesh vs Pakistan |  ICC World Test "
 2026-05-13 15:22,Channel,Failed,0.331,Timeout or Error
@@ -1369,3 +1359,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-12 08:18,Channel,Failed,1.288,Timeout or Error
 2026-06-12 08:18,Comments,Failed,1.279,Timeout or Error
 2026-06-12 08:18,Playlist,Failed,1.287,Timeout or Error
+2026-06-12 11:56,Video,Failed,1.236,Timeout or Error
+2026-06-12 11:56,Search,Failed,1.233,Timeout or Error
+2026-06-12 11:56,Channel,Failed,1.234,Timeout or Error
+2026-06-12 11:56,Comments,Failed,1.243,Timeout or Error
+2026-06-12 11:56,Playlist,Failed,1.241,Timeout or Error

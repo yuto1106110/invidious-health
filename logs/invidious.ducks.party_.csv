@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-13 08:55,Video,Failed,0.365,Timeout or Error
-2026-05-13 08:55,Search,OK,0.793,"[{""type"":""video"" ""title"":""✅ BUG Listening Device Audio Surveillance via SIM GF 07 TEST"" ""videoId"":""q"
-2026-05-13 08:55,Channel,Failed,0.389,Timeout or Error
-2026-05-13 08:55,Comments,OK,0.549,"{""commentCount"":10509103 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-13 08:55,Playlist,Failed,0.384,Timeout or Error
-2026-05-13 11:38,Video,Failed,0.308,Timeout or Error
-2026-05-13 11:38,Search,OK,0.704,"[{""type"":""video"" ""title"":""ERRATE DIE SPRACHE PER AUDIO 💬 | Geographie-Quiz"" ""videoId"":""V16oh3eJ620"" "
-2026-05-13 11:38,Channel,Failed,0.335,Timeout or Error
-2026-05-13 11:38,Comments,OK,0.552,"{""commentCount"":10509168 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-13 11:38,Playlist,Failed,0.335,Timeout or Error
 2026-05-13 15:22,Video,Failed,0.31,Timeout or Error
 2026-05-13 15:22,Search,OK,0.876,"[{""type"":""video"" ""title"":""Dolby Atmos 5.1 Surround Sound Test"" ""videoId"":""iTHtXgnhqfM"" ""author"":""JD "
 2026-05-13 15:22,Channel,Failed,0.33,Timeout or Error
@@ -1369,3 +1359,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-12 08:18,Channel,Failed,1.503,Timeout or Error
 2026-06-12 08:18,Comments,Failed,1.503,Timeout or Error
 2026-06-12 08:18,Playlist,Failed,1.503,Timeout or Error
+2026-06-12 11:56,Video,Failed,1.504,Timeout or Error
+2026-06-12 11:56,Search,Failed,1.504,Timeout or Error
+2026-06-12 11:56,Channel,Failed,1.504,Timeout or Error
+2026-06-12 11:56,Comments,Failed,1.504,Timeout or Error
+2026-06-12 11:56,Playlist,Failed,1.504,Timeout or Error
