@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-15 07:05,Video,Failed,0.391,Timeout or Error
-2026-05-15 07:05,Search,OK,0.903,"[{""type"":""video"" ""title"":""Subnautica 2 ist jetzt schon ein Unterwasser-Traum! - Test / Review"" ""vide"
-2026-05-15 07:05,Channel,Failed,0.436,Timeout or Error
-2026-05-15 07:05,Comments,OK,0.65,"{""commentCount"":10511478 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-15 07:05,Playlist,Failed,0.453,Timeout or Error
 2026-05-15 08:53,Video,Failed,0.311,Timeout or Error
 2026-05-15 08:53,Search,OK,0.805,"[{""type"":""video"" ""title"":""Forza Horizon 6 im Test: Die Spitze der Open World-Racer?"" ""videoId"":""8mSG"
 2026-05-15 08:53,Channel,Failed,0.338,Timeout or Error
@@ -1359,3 +1354,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-14 06:08,Channel,Failed,0.349,Timeout or Error
 2026-06-14 06:08,Comments,OK,0.702,"{""commentCount"":10528222 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-06-14 06:08,Playlist,Failed,0.345,Timeout or Error
+2026-06-14 07:58,Video,Failed,0.362,Timeout or Error
+2026-06-14 07:58,Search,OK,0.94,"[{""type"":""video"" ""title"":""The Chemical Brothers - The Test (Official Music Video)"" ""videoId"":""yhS9Ln"
+2026-06-14 07:58,Channel,Failed,0.389,Timeout or Error
+2026-06-14 07:58,Comments,OK,0.59,"{""commentCount"":10528262 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-06-14 07:58,Playlist,Failed,0.397,Timeout or Error
