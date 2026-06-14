@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-15 18:42,Video,Failed,0.661,Timeout or Error
-2026-05-15 18:42,Search,OK,0.831,"[{""type"":""video"" ""title"":""TEST SUBNAUTICA 2 : Le grand retour dans les abysses  mais à plusieurs ! 🔵"
-2026-05-15 18:42,Channel,Failed,0.42,Timeout or Error
-2026-05-15 18:42,Comments,Failed,0.742,Timeout or Error
-2026-05-15 18:42,Playlist,Failed,0.432,Timeout or Error
-2026-05-15 20:50,Video,Failed,0.606,Timeout or Error
-2026-05-15 20:50,Search,OK,1.088,"[{""type"":""video"" ""title"":""TEST SUBNAUTICA 2 : Le grand retour dans les abysses  mais à plusieurs ! 🔵"
-2026-05-15 20:50,Channel,Failed,0.566,Timeout or Error
-2026-05-15 20:50,Comments,Failed,0.823,Timeout or Error
-2026-05-15 20:50,Playlist,Failed,0.656,Timeout or Error
 2026-05-15 22:52,Video,Failed,0.621,Timeout or Error
 2026-05-15 22:52,Search,OK,1.262,"[{""type"":""video"" ""title"":""TEST SUBNAUTICA 2 : Fascinant  magnifique et toujours aussi terrifiant 🔵 T"
 2026-05-15 22:52,Channel,Failed,0.413,Timeout or Error
@@ -1359,3 +1349,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-14 18:24,Channel,Failed,0.389,Timeout or Error
 2026-06-14 18:24,Comments,Failed,0.604,Timeout or Error
 2026-06-14 18:24,Playlist,Failed,0.459,Timeout or Error
+2026-06-14 20:51,Video,Failed,0.788,Timeout or Error
+2026-06-14 20:51,Search,OK,1.35,"[{""type"":""video"" ""title"":""#TEST - THE ANTARCTIC ON YOUR WRIST with a Diver's Watch"" ""videoId"":""j3TgD"
+2026-06-14 20:51,Channel,Failed,0.876,Timeout or Error
+2026-06-14 20:51,Comments,Failed,1.049,Timeout or Error
+2026-06-14 20:51,Playlist,Failed,0.557,Timeout or Error
