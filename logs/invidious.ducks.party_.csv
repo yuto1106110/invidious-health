@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-15 15:28,Video,Failed,0.443,Timeout or Error
-2026-05-15 15:28,Search,OK,0.919,"[{""type"":""video"" ""title"":""Forza Horizon 6 im Test: Die Spitze der Open World-Racer?"" ""videoId"":""8mSG"
-2026-05-15 15:28,Channel,Failed,0.47,Timeout or Error
-2026-05-15 15:28,Comments,OK,0.752,"{""commentCount"":10511619 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-15 15:28,Playlist,Failed,0.475,Timeout or Error
 2026-05-15 18:42,Video,Failed,0.309,Timeout or Error
 2026-05-15 18:42,Search,OK,0.77,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-05-15 18:42,Channel,Failed,0.348,Timeout or Error
@@ -1359,3 +1354,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-14 14:27,Channel,Failed,0.339,Timeout or Error
 2026-06-14 14:27,Comments,OK,0.593,"{""commentCount"":10528435 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-06-14 14:27,Playlist,Failed,0.342,Timeout or Error
+2026-06-14 18:24,Video,Failed,0.317,Timeout or Error
+2026-06-14 18:24,Search,OK,0.993,"[{""type"":""video"" ""title"":""The Chemical Brothers - The Test (Official Music Video)"" ""videoId"":""yhS9Ln"
+2026-06-14 18:24,Channel,Failed,0.346,Timeout or Error
+2026-06-14 18:24,Comments,OK,0.566,"{""commentCount"":10528436 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-06-14 18:24,Playlist,Failed,0.35,Timeout or Error
