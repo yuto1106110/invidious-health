@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-15 22:52,Video,Failed,0.311,Timeout or Error
-2026-05-15 22:52,Search,OK,1.034,"[{""type"":""video"" ""title"":""Hedge trimmer torture: Dead after 22 hours 😱 (Test hedge trimmers Stiftung"
-2026-05-15 22:52,Channel,Failed,0.368,Timeout or Error
-2026-05-15 22:52,Comments,OK,0.714,"{""commentCount"":10511832 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-15 22:52,Playlist,Failed,0.413,Timeout or Error
 2026-05-16 01:00,Video,Failed,0.311,Timeout or Error
 2026-05-16 01:00,Search,OK,1.16,"[{""type"":""video"" ""title"":""Hedge trimmer torture: Dead after 22 hours 😱 (Test hedge trimmers Stiftung"
 2026-05-16 01:00,Channel,Failed,0.336,Timeout or Error
@@ -1359,3 +1354,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-14 22:49,Channel,Failed,0.526,Timeout or Error
 2026-06-14 22:49,Comments,OK,0.784,"{""commentCount"":10528562 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-06-14 22:49,Playlist,Failed,0.528,Timeout or Error
+2026-06-15 00:45,Video,Failed,0.425,Timeout or Error
+2026-06-15 00:45,Search,OK,1.125,"[{""type"":""video"" ""title"":""The Chemical Brothers - The Test (Official Music Video)"" ""videoId"":""yhS9Ln"
+2026-06-15 00:45,Channel,Failed,0.462,Timeout or Error
+2026-06-15 00:45,Comments,OK,0.787,"{""commentCount"":10528602 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-06-15 00:45,Playlist,Failed,0.628,Timeout or Error

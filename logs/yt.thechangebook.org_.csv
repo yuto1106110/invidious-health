@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-15 22:52,Video,Failed,0.621,Timeout or Error
-2026-05-15 22:52,Search,OK,1.262,"[{""type"":""video"" ""title"":""TEST SUBNAUTICA 2 : Fascinant  magnifique et toujours aussi terrifiant 🔵 T"
-2026-05-15 22:52,Channel,Failed,0.413,Timeout or Error
-2026-05-15 22:52,Comments,Failed,1.302,Timeout or Error
-2026-05-15 22:52,Playlist,Failed,0.35,Timeout or Error
 2026-05-16 01:00,Video,Failed,0.599,Timeout or Error
 2026-05-16 01:00,Search,OK,0.994,"[{""type"":""video"" ""title"":""TEST SUBNAUTICA 2 : Magistral  sompteux et addictif 🔵 TEST"" ""videoId"":""e27"
 2026-05-16 01:00,Channel,Failed,0.736,Timeout or Error
@@ -1359,3 +1354,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-14 22:49,Channel,Failed,0.68,Timeout or Error
 2026-06-14 22:49,Comments,Failed,0.973,Timeout or Error
 2026-06-14 22:49,Playlist,Failed,0.549,Timeout or Error
+2026-06-15 00:45,Video,Failed,0.543,Timeout or Error
+2026-06-15 00:45,Search,Failed,1.254,Timeout or Error
+2026-06-15 00:45,Channel,Failed,0.609,Timeout or Error
+2026-06-15 00:45,Comments,Failed,1.016,Timeout or Error
+2026-06-15 00:45,Playlist,Failed,0.77,Timeout or Error
