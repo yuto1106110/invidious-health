@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-16 05:11,Video,Failed,0.677,Timeout or Error
-2026-05-16 05:11,Search,Failed,0.976,Timeout or Error
-2026-05-16 05:11,Channel,Failed,0.416,Timeout or Error
-2026-05-16 05:11,Comments,Failed,1.003,Timeout or Error
-2026-05-16 05:11,Playlist,Failed,0.569,Timeout or Error
 2026-05-16 06:54,Video,Failed,0.588,Timeout or Error
 2026-05-16 06:54,Search,OK,1.133,"[{""type"":""video"" ""title"":""50 QUESTIONS pour TESTER TON SAVOIR 🧠🤯 | Quiz Culture Générale"" ""videoId"":"
 2026-05-16 06:54,Channel,Failed,0.566,Timeout or Error
@@ -1359,3 +1354,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-15 04:16,Channel,Failed,0.694,Timeout or Error
 2026-06-15 04:16,Comments,Failed,0.995,Timeout or Error
 2026-06-15 04:16,Playlist,Failed,0.533,Timeout or Error
+2026-06-15 06:04,Video,Failed,0.504,Timeout or Error
+2026-06-15 06:04,Search,OK,0.892,"[{""type"":""video"" ""title"":""TEST OF TRUTH / Nigerian Movies 2026 Latest Full movies"" ""videoId"":""xycE2o"
+2026-06-15 06:04,Channel,Failed,0.836,Timeout or Error
+2026-06-15 06:04,Comments,Failed,0.781,Timeout or Error
+2026-06-15 06:04,Playlist,Failed,0.889,Timeout or Error

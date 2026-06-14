@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-16 05:11,Video,Failed,0.311,Timeout or Error
-2026-05-16 05:11,Search,OK,0.952,"[{""type"":""video"" ""title"":""Royal Enfield Bullet 350 | Test (deutsch)"" ""videoId"":""dsw7X6kKG7I"" ""author"
-2026-05-16 05:11,Channel,Failed,0.375,Timeout or Error
-2026-05-16 05:11,Comments,OK,0.672,"{""commentCount"":10512025 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-16 05:11,Playlist,Failed,0.388,Timeout or Error
 2026-05-16 06:54,Video,Failed,0.311,Timeout or Error
 2026-05-16 06:54,Search,OK,0.96,"[{""type"":""video"" ""title"":""Royal Enfield Bullet 350 | Test (deutsch)"" ""videoId"":""dsw7X6kKG7I"" ""author"
 2026-05-16 06:54,Channel,Failed,0.378,Timeout or Error
@@ -1359,3 +1354,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-15 04:16,Channel,Failed,0.417,Timeout or Error
 2026-06-15 04:16,Comments,OK,0.782,"{""commentCount"":10528672 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-06-15 04:16,Playlist,Failed,0.388,Timeout or Error
+2026-06-15 06:04,Video,Failed,0.436,Timeout or Error
+2026-06-15 06:04,Search,OK,1.355,"[{""type"":""video"" ""title"":""Audi A8 Test Drive"" ""videoId"":""_20ARSA6MVU"" ""author"":""Rust Bucket Motorspo"
+2026-06-15 06:04,Channel,Failed,0.466,Timeout or Error
+2026-06-15 06:04,Comments,OK,0.806,"{""commentCount"":10528802 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-06-15 06:04,Playlist,Failed,0.46,Timeout or Error
