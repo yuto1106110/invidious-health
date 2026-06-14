@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-16 01:00,Video,Failed,0.311,Timeout or Error
-2026-05-16 01:00,Search,OK,1.16,"[{""type"":""video"" ""title"":""Hedge trimmer torture: Dead after 22 hours 😱 (Test hedge trimmers Stiftung"
-2026-05-16 01:00,Channel,Failed,0.336,Timeout or Error
-2026-05-16 01:00,Comments,OK,0.656,"{""commentCount"":10511901 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-16 01:00,Playlist,Failed,0.361,Timeout or Error
 2026-05-16 03:18,Video,Failed,0.447,Timeout or Error
 2026-05-16 03:18,Search,OK,1.109,"[{""type"":""video"" ""title"":""Dolby Atmos Sound Test"" ""videoId"":""FLH1aARTpMg"" ""author"":""Bits and Pieces"""
 2026-05-16 03:18,Channel,Failed,0.516,Timeout or Error
@@ -1359,3 +1354,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-15 00:45,Channel,Failed,0.462,Timeout or Error
 2026-06-15 00:45,Comments,OK,0.787,"{""commentCount"":10528602 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-06-15 00:45,Playlist,Failed,0.628,Timeout or Error
+2026-06-15 02:14,Video,Failed,0.315,Timeout or Error
+2026-06-15 02:14,Search,OK,0.926,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-06-15 02:14,Channel,Failed,0.363,Timeout or Error
+2026-06-15 02:14,Comments,OK,0.757,"{""commentCount"":10528616 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-06-15 02:14,Playlist,Failed,0.349,Timeout or Error

@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-16 01:00,Video,Failed,0.599,Timeout or Error
-2026-05-16 01:00,Search,OK,0.994,"[{""type"":""video"" ""title"":""TEST SUBNAUTICA 2 : Magistral  sompteux et addictif 🔵 TEST"" ""videoId"":""e27"
-2026-05-16 01:00,Channel,Failed,0.736,Timeout or Error
-2026-05-16 01:00,Comments,Failed,0.695,Timeout or Error
-2026-05-16 01:00,Playlist,Failed,0.44,Timeout or Error
 2026-05-16 03:18,Video,Failed,0.657,Timeout or Error
 2026-05-16 03:18,Search,OK,1.033,"[{""type"":""video"" ""title"":""TEST SUBNAUTICA 2 : Magistral  sompteux et addictif 🔵 TEST"" ""videoId"":""e27"
 2026-05-16 03:18,Channel,Failed,0.448,Timeout or Error
@@ -1359,3 +1354,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-15 00:45,Channel,Failed,0.609,Timeout or Error
 2026-06-15 00:45,Comments,Failed,1.016,Timeout or Error
 2026-06-15 00:45,Playlist,Failed,0.77,Timeout or Error
+2026-06-15 02:14,Video,Failed,0.659,Timeout or Error
+2026-06-15 02:14,Search,Failed,0.999,Timeout or Error
+2026-06-15 02:14,Channel,Failed,0.483,Timeout or Error
+2026-06-15 02:14,Comments,Failed,0.921,Timeout or Error
+2026-06-15 02:14,Playlist,Failed,0.729,Timeout or Error
