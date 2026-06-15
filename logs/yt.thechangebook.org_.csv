@@ -1,24 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-17 00:52,Video,Failed,0.751,Timeout or Error
-2026-05-17 00:52,Search,Failed,1.321,Timeout or Error
-2026-05-17 00:52,Channel,Failed,0.489,Timeout or Error
-2026-05-17 00:52,Comments,Failed,1.062,Timeout or Error
-2026-05-17 00:52,Playlist,Failed,0.525,Timeout or Error
-2026-05-17 01:52,Video,Failed,0.361,Timeout or Error
-2026-05-17 01:52,Search,Failed,0.968,Timeout or Error
-2026-05-17 01:52,Channel,Failed,0.52,Timeout or Error
-2026-05-17 01:52,Comments,Failed,0.592,Timeout or Error
-2026-05-17 01:52,Playlist,Failed,0.65,Timeout or Error
-2026-05-17 02:51,Video,Failed,0.751,Timeout or Error
-2026-05-17 02:51,Search,OK,1.187,"[{""type"":""video"" ""title"":""2nd Test Day 1 Full Highlights | Ban vs Pak | 2nd Test | Day 1 | ICC World"
-2026-05-17 02:51,Channel,Failed,0.644,Timeout or Error
-2026-05-17 02:51,Comments,Failed,0.991,Timeout or Error
-2026-05-17 02:51,Playlist,Failed,0.666,Timeout or Error
-2026-05-17 03:56,Video,Failed,0.666,Timeout or Error
-2026-05-17 03:56,Search,Failed,1.199,Timeout or Error
-2026-05-17 03:56,Channel,Failed,0.451,Timeout or Error
-2026-05-17 03:56,Comments,Failed,0.702,Timeout or Error
-2026-05-17 03:56,Playlist,Failed,0.431,Timeout or Error
 2026-05-17 05:00,Video,Failed,0.836,Timeout or Error
 2026-05-17 05:00,Search,OK,1.204,"[{""type"":""video"" ""title"":""2nd Test Day 1 Full Highlights | Ban vs Pak | 2nd Test | Day 1 | ICC World"
 2026-05-17 05:00,Channel,Failed,0.7,Timeout or Error
@@ -1324,3 +1304,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-16 00:42,Channel,Failed,0.671,Timeout or Error
 2026-06-16 00:42,Comments,Failed,1.139,Timeout or Error
 2026-06-16 00:42,Playlist,Failed,0.561,Timeout or Error
+2026-06-16 04:41,Video,Failed,1.464,Timeout or Error
+2026-06-16 04:41,Search,OK,1.165,"[{""type"":""video"" ""title"":""Un Test de QI Rigolo Pour les Petits Génies"" ""videoId"":""73YG0olNXWo"" ""auth"
+2026-06-16 04:41,Channel,Failed,0.629,Timeout or Error
+2026-06-16 04:41,Comments,Failed,0.761,Timeout or Error
+2026-06-16 04:41,Playlist,Failed,0.43,Timeout or Error
