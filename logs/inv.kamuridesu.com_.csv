@@ -1,34 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-16 14:49,Video,Failed,0.358,Timeout or Error
-2026-05-16 14:49,Search,OK,1.0,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-05-16 14:49,Channel,Failed,0.433,Timeout or Error
-2026-05-16 14:49,Comments,OK,0.658,"{""commentCount"":10512311 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-16 14:49,Playlist,Failed,0.442,Timeout or Error
-2026-05-16 14:49,Video,Failed,0.358,Timeout or Error
-2026-05-16 14:49,Search,OK,0.882,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-05-16 14:49,Channel,Failed,0.472,Timeout or Error
-2026-05-16 14:49,Comments,OK,0.646,"{""commentCount"":10512311 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-16 14:49,Playlist,Failed,0.429,Timeout or Error
-2026-05-16 16:55,Video,Failed,0.307,Timeout or Error
-2026-05-16 16:55,Search,OK,0.909,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-05-16 16:55,Channel,Failed,0.393,Timeout or Error
-2026-05-16 16:55,Comments,OK,0.562,"{""commentCount"":10512352 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-16 16:55,Playlist,Failed,0.394,Timeout or Error
-2026-05-16 16:55,Video,Failed,0.319,Timeout or Error
-2026-05-16 16:55,Search,OK,0.88,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-05-16 16:55,Channel,Failed,0.382,Timeout or Error
-2026-05-16 16:55,Comments,OK,0.562,"{""commentCount"":10512352 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-16 16:55,Playlist,Failed,0.4,Timeout or Error
-2026-05-16 18:26,Video,Failed,0.298,Timeout or Error
-2026-05-16 18:26,Search,OK,1.025,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-05-16 18:26,Channel,Failed,0.368,Timeout or Error
-2026-05-16 18:26,Comments,OK,0.554,"{""commentCount"":10512358 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-16 18:26,Playlist,Failed,0.34,Timeout or Error
-2026-05-16 18:26,Video,Failed,0.27,Timeout or Error
-2026-05-16 18:26,Search,OK,0.838,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-05-16 18:26,Channel,Failed,0.348,Timeout or Error
-2026-05-16 18:26,Comments,OK,0.527,"{""commentCount"":10512357 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-16 18:26,Playlist,Failed,0.359,Timeout or Error
 2026-05-16 19:57,Video,Failed,0.415,Timeout or Error
 2026-05-16 19:57,Search,OK,1.024,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-05-16 19:57,Channel,Failed,0.492,Timeout or Error
@@ -2699,3 +2669,13 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-15 12:35,Channel,Failed,0.423,Timeout or Error
 2026-06-15 12:35,Comments,OK,0.647,"{""commentCount"":10528950 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-06-15 12:35,Playlist,Failed,0.453,Timeout or Error
+2026-06-15 18:55,Video,Failed,0.293,Timeout or Error
+2026-06-15 18:55,Search,OK,0.874,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-06-15 18:55,Channel,Failed,0.367,Timeout or Error
+2026-06-15 18:55,Comments,OK,0.548,"{""commentCount"":10529053 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-06-15 18:55,Playlist,Failed,0.34,Timeout or Error
+2026-06-15 18:55,Video,Failed,0.266,Timeout or Error
+2026-06-15 18:55,Search,OK,0.804,"[{""type"":""video"" ""title"":""Johnny Test em 3D | Johnny Test Português⚡| Desenho animado para crianças"""
+2026-06-15 18:55,Channel,Failed,0.349,Timeout or Error
+2026-06-15 18:55,Comments,OK,0.53,"{""commentCount"":10529053 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-06-15 18:55,Playlist,Failed,0.358,Timeout or Error
