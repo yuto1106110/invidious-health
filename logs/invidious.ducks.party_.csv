@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-16 08:51,Video,Failed,0.363,Timeout or Error
-2026-05-16 08:51,Search,OK,0.803,"[{""type"":""video"" ""title"":""Royal Enfield Bullet 350 | Test (deutsch)"" ""videoId"":""dsw7X6kKG7I"" ""author"
-2026-05-16 08:51,Channel,Failed,0.385,Timeout or Error
-2026-05-16 08:51,Comments,OK,0.554,"{""commentCount"":10512163 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-16 08:51,Playlist,Failed,0.388,Timeout or Error
-2026-05-16 11:28,Video,Failed,0.516,Timeout or Error
-2026-05-16 11:28,Search,OK,0.944,"[{""type"":""video"" ""title"":""Royal Enfield Bullet 350 | Test (deutsch)"" ""videoId"":""dsw7X6kKG7I"" ""author"
-2026-05-16 11:28,Channel,Failed,0.53,Timeout or Error
-2026-05-16 11:28,Comments,OK,0.752,"{""commentCount"":10512239 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-16 11:28,Playlist,Failed,0.528,Timeout or Error
 2026-05-16 14:49,Video,Failed,0.434,Timeout or Error
 2026-05-16 14:49,Search,OK,0.933,"[{""type"":""video"" ""title"":""Royal Enfield Bullet 350 | Test (deutsch)"" ""videoId"":""dsw7X6kKG7I"" ""author"
 2026-05-16 14:49,Channel,Failed,0.471,Timeout or Error
@@ -1354,3 +1344,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-15 08:02,Channel,Failed,0.516,Timeout or Error
 2026-06-15 08:02,Comments,OK,0.708,"{""commentCount"":10528868 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-06-15 08:02,Playlist,Failed,0.515,Timeout or Error
+2026-06-15 12:35,Video,Failed,0.404,Timeout or Error
+2026-06-15 12:35,Search,OK,0.868,"[{""type"":""video"" ""title"":""Audi A8 Test Drive"" ""videoId"":""_20ARSA6MVU"" ""author"":""Rust Bucket Motorspo"
+2026-06-15 12:35,Channel,Failed,0.433,Timeout or Error
+2026-06-15 12:35,Comments,OK,0.628,"{""commentCount"":10528952 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-06-15 12:35,Playlist,Failed,0.428,Timeout or Error
