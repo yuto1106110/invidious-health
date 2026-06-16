@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-18 04:00,Video,Failed,0.315,Timeout or Error
-2026-05-18 04:00,Search,OK,0.934,"[{""type"":""video"" ""title"":""Impossible Quality OLED HDR Test | Dolby Vision 16K Video Ultra HD 240fps "
-2026-05-18 04:00,Channel,Failed,0.368,Timeout or Error
-2026-05-18 04:00,Comments,OK,0.599,"{""commentCount"":10513727 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-18 04:00,Playlist,Failed,0.372,Timeout or Error
-2026-05-18 05:41,Video,Failed,0.3,Timeout or Error
-2026-05-18 05:41,Search,OK,0.805,"[{""type"":""video"" ""title"":""Full Highlights | Bangladesh vs Pakistan | 2nd Test  Day 2 | ICC WTC | M9I"
-2026-05-18 05:41,Channel,Failed,0.352,Timeout or Error
-2026-05-18 05:41,Comments,OK,0.559,"{""commentCount"":10513665 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-18 05:41,Playlist,Failed,0.337,Timeout or Error
 2026-05-18 06:50,Video,Failed,0.303,Timeout or Error
 2026-05-18 06:50,Search,OK,0.818,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-05-18 06:50,Channel,Failed,0.323,Timeout or Error
@@ -1269,3 +1259,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-17 02:58,Channel,Failed,0.245,Timeout or Error
 2026-06-17 02:58,Comments,Failed,0.272,Timeout or Error
 2026-06-17 02:58,Playlist,Failed,0.247,Timeout or Error
+2026-06-17 05:57,Video,Failed,0.211,Timeout or Error
+2026-06-17 05:57,Search,Failed,0.205,Timeout or Error
+2026-06-17 05:57,Channel,Failed,0.204,Timeout or Error
+2026-06-17 05:57,Comments,Failed,0.21,Timeout or Error
+2026-06-17 05:57,Playlist,Failed,0.205,Timeout or Error
