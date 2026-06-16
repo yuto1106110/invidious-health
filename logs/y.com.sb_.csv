@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-17 07:39,Video,Failed,1.15,Timeout or Error
-2026-05-17 07:39,Search,OK,1.156,"[{""type"":""video"" ""title"":""HIGHLIGHTS | Bangladesh vs Pakistan  2nd Test | Day 1 | Pakistan tour of B"
-2026-05-17 07:39,Channel,Failed,0.338,Timeout or Error
-2026-05-17 07:39,Comments,OK,0.566,"{""commentCount"":10512847 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-17 07:39,Playlist,Failed,0.381,Timeout or Error
-2026-05-17 08:45,Video,Failed,0.415,Timeout or Error
-2026-05-17 08:45,Search,OK,0.98,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-05-17 08:45,Channel,Failed,0.429,Timeout or Error
-2026-05-17 08:45,Comments,OK,0.638,"{""commentCount"":10512872 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-17 08:45,Playlist,Failed,0.444,Timeout or Error
 2026-05-17 11:35,Video,Failed,0.389,Timeout or Error
 2026-05-17 11:35,Search,OK,0.857,"[{""type"":""video"" ""title"":""HIGHLIGHTS | Bangladesh vs Pakistan  2nd Test | Day 1 | Pakistan tour of B"
 2026-05-17 11:35,Channel,Failed,0.404,Timeout or Error
@@ -1304,3 +1294,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-16 07:13,Channel,Failed,0.323,Timeout or Error
 2026-06-16 07:13,Comments,Failed,0.321,Timeout or Error
 2026-06-16 07:13,Playlist,Failed,0.324,Timeout or Error
+2026-06-16 09:26,Video,Failed,0.205,Timeout or Error
+2026-06-16 09:26,Search,Failed,0.205,Timeout or Error
+2026-06-16 09:26,Channel,Failed,0.204,Timeout or Error
+2026-06-16 09:26,Comments,Failed,0.207,Timeout or Error
+2026-06-16 09:26,Playlist,Failed,0.204,Timeout or Error
