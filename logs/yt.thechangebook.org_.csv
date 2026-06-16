@@ -1,24 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-17 23:23,Video,Failed,0.598,Timeout or Error
-2026-05-17 23:23,Search,OK,1.069,"[{""type"":""video"" ""title"":""QUIZ Culture Générale 🧠 : 100 Questions pour tester votre niveau"" ""videoId"
-2026-05-17 23:23,Channel,Failed,0.309,Timeout or Error
-2026-05-17 23:23,Comments,Failed,0.981,Timeout or Error
-2026-05-17 23:23,Playlist,Failed,0.325,Timeout or Error
-2026-05-18 00:54,Video,Failed,0.708,Timeout or Error
-2026-05-18 00:54,Search,OK,1.391,"[{""type"":""video"" ""title"":""HIGHLIGHTS | Bangladesh vs Pakistan  2nd Test | Day 2 | T Sports"" ""videoId"
-2026-05-18 00:54,Channel,Failed,0.725,Timeout or Error
-2026-05-18 00:54,Comments,Failed,0.964,Timeout or Error
-2026-05-18 00:54,Playlist,Failed,0.699,Timeout or Error
-2026-05-18 01:51,Video,Failed,0.773,Timeout or Error
-2026-05-18 01:51,Search,OK,0.919,"[{""type"":""video"" ""title"":""QUIZ Culture Générale 🧠 : 100 Questions pour tester votre niveau"" ""videoId"
-2026-05-18 01:51,Channel,Failed,0.416,Timeout or Error
-2026-05-18 01:51,Comments,Failed,0.539,Timeout or Error
-2026-05-18 01:51,Playlist,Failed,0.318,Timeout or Error
-2026-05-18 02:54,Video,Failed,0.629,Timeout or Error
-2026-05-18 02:54,Search,OK,1.209,"[{""type"":""video"" ""title"":""QUIZ Culture Générale 🧠 : 100 Questions pour tester votre niveau"" ""videoId"
-2026-05-18 02:54,Channel,Failed,0.504,Timeout or Error
-2026-05-18 02:54,Comments,Failed,0.781,Timeout or Error
-2026-05-18 02:54,Playlist,Failed,0.375,Timeout or Error
 2026-05-18 04:00,Video,Failed,0.452,Timeout or Error
 2026-05-18 04:00,Search,Failed,1.29,Timeout or Error
 2026-05-18 04:00,Channel,Failed,0.615,Timeout or Error
@@ -1284,3 +1264,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-16 21:07,Channel,Failed,0.437,Timeout or Error
 2026-06-16 21:07,Comments,Failed,0.76,Timeout or Error
 2026-06-16 21:07,Playlist,Failed,0.531,Timeout or Error
+2026-06-17 02:58,Video,Failed,1.508,Timeout or Error
+2026-06-17 02:58,Search,Failed,1.497,Timeout or Error
+2026-06-17 02:58,Channel,Failed,0.689,Timeout or Error
+2026-06-17 02:58,Comments,Failed,0.95,Timeout or Error
+2026-06-17 02:58,Playlist,Failed,0.56,Timeout or Error
