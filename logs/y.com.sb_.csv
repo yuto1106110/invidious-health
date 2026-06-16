@@ -1,19 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-17 18:00,Video,Failed,0.504,Timeout or Error
-2026-05-17 18:00,Search,OK,1.144,"[{""type"":""video"" ""title"":""1st Session Highlights | Ban vs Pak | 2nd Test | Day 2 | ICC World Test Ch"
-2026-05-17 18:00,Channel,Failed,0.535,Timeout or Error
-2026-05-17 18:00,Comments,OK,0.778,"{""commentCount"":10513239 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-17 18:00,Playlist,Failed,0.56,Timeout or Error
-2026-05-17 19:59,Video,Failed,0.381,Timeout or Error
-2026-05-17 19:59,Search,OK,1.11,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-05-17 19:59,Channel,Failed,0.425,Timeout or Error
-2026-05-17 19:59,Comments,Failed,0.279,Timeout or Error
-2026-05-17 19:59,Playlist,Failed,0.437,Timeout or Error
-2026-05-17 21:02,Video,Failed,0.322,Timeout or Error
-2026-05-17 21:02,Search,OK,1.037,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-05-17 21:02,Channel,Failed,0.348,Timeout or Error
-2026-05-17 21:02,Comments,OK,0.6,"{""commentCount"":10513364 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-17 21:02,Playlist,Failed,0.348,Timeout or Error
 2026-05-17 23:23,Video,Failed,0.331,Timeout or Error
 2026-05-17 23:23,Search,Failed,1.219,Timeout or Error
 2026-05-17 23:23,Channel,Failed,0.68,Timeout or Error
@@ -1294,3 +1279,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-16 15:28,Channel,Failed,0.204,Timeout or Error
 2026-06-16 15:28,Comments,Failed,0.223,Timeout or Error
 2026-06-16 15:28,Playlist,Failed,0.204,Timeout or Error
+2026-06-16 21:07,Video,Failed,0.293,Timeout or Error
+2026-06-16 21:07,Search,Failed,0.478,Timeout or Error
+2026-06-16 21:07,Channel,Failed,0.237,Timeout or Error
+2026-06-16 21:07,Comments,Failed,0.236,Timeout or Error
+2026-06-16 21:07,Playlist,Failed,0.246,Timeout or Error
