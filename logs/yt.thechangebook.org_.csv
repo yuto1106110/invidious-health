@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-17 11:35,Video,Failed,0.58,Timeout or Error
-2026-05-17 11:35,Search,OK,0.868,"[{""type"":""video"" ""title"":""50 QUESTIONS pour TESTER TON SAVOIR 🧠🤯 | Quiz Culture Générale"" ""videoId"":"
-2026-05-17 11:35,Channel,Failed,0.687,Timeout or Error
-2026-05-17 11:35,Comments,Failed,0.699,Timeout or Error
-2026-05-17 11:35,Playlist,Failed,0.417,Timeout or Error
-2026-05-17 15:17,Video,Failed,0.598,Timeout or Error
-2026-05-17 15:17,Search,Failed,1.009,Timeout or Error
-2026-05-17 15:17,Channel,Failed,0.472,Timeout or Error
-2026-05-17 15:17,Comments,Failed,0.825,Timeout or Error
-2026-05-17 15:17,Playlist,Failed,0.372,Timeout or Error
 2026-05-17 18:00,Video,Failed,0.694,Timeout or Error
 2026-05-17 18:00,Search,OK,1.187,"[{""type"":""video"" ""title"":""1st Session Highlights | Ban vs Pak | 2nd Test | Day 2 | ICC World Test Ch"
 2026-05-17 18:00,Channel,Failed,0.64,Timeout or Error
@@ -1299,3 +1289,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-16 09:26,Channel,Failed,1.45,Timeout or Error
 2026-06-16 09:26,Comments,Failed,0.797,Timeout or Error
 2026-06-16 09:26,Playlist,Failed,0.334,Timeout or Error
+2026-06-16 15:28,Video,Failed,0.59,Timeout or Error
+2026-06-16 15:28,Search,OK,1.051,"[{""type"":""video"" ""title"":""Quel Age Ont Vos Oreilles ? Test Auditif"" ""videoId"":""2_bdA_R7yyc"" ""author"""
+2026-06-16 15:28,Channel,Failed,1.372,Timeout or Error
+2026-06-16 15:28,Comments,Failed,0.569,Timeout or Error
+2026-06-16 15:28,Playlist,Failed,1.286,Timeout or Error
