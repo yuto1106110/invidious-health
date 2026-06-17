@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-19 06:05,Video,Failed,0.593,Timeout or Error
-2026-05-19 06:05,Search,OK,1.105,"[{""type"":""video"" ""title"":""50 QUESTIONS pour TESTER TON SAVOIR 🧠🤯 | Quiz Culture Générale"" ""videoId"":"
-2026-05-19 06:05,Channel,Failed,0.551,Timeout or Error
-2026-05-19 06:05,Comments,Failed,0.65,Timeout or Error
-2026-05-19 06:05,Playlist,Failed,0.483,Timeout or Error
 2026-05-19 07:54,Video,Failed,0.688,Timeout or Error
 2026-05-19 07:54,Search,OK,0.858,"[{""type"":""video"" ""title"":""LEGO Batman (Arkham) TEST ❤️ Le GOTY 2026 ? (Review PS5)"" ""videoId"":""uO221"
 2026-05-19 07:54,Channel,Failed,0.365,Timeout or Error
@@ -1254,3 +1249,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-18 05:05,Channel,Failed,0.626,Timeout or Error
 2026-06-18 05:05,Comments,Failed,1.446,Timeout or Error
 2026-06-18 05:05,Playlist,Failed,1.45,Timeout or Error
+2026-06-18 07:42,Video,Failed,0.638,Timeout or Error
+2026-06-18 07:42,Search,OK,1.082,"[{""type"":""video"" ""title"":""QUIZ Culture Générale 🧠 : 100 Questions pour tester votre niveau"" ""videoId"
+2026-06-18 07:42,Channel,Failed,0.615,Timeout or Error
+2026-06-18 07:42,Comments,Failed,0.572,Timeout or Error
+2026-06-18 07:42,Playlist,Failed,0.353,Timeout or Error
