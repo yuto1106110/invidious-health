@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-18 11:45,Video,Failed,0.493,Timeout or Error
-2026-05-18 11:45,Search,OK,0.837,"[{""type"":""video"" ""title"":""50 QUESTIONS pour TESTER TON SAVOIR 🧠🤯 | Quiz Culture Générale"" ""videoId"":"
-2026-05-18 11:45,Channel,Failed,0.35,Timeout or Error
-2026-05-18 11:45,Comments,Failed,0.798,Timeout or Error
-2026-05-18 11:45,Playlist,Failed,0.369,Timeout or Error
 2026-05-18 15:51,Video,Failed,0.55,Timeout or Error
 2026-05-18 15:51,Search,OK,0.993,"[{""type"":""video"" ""title"":""TEST FORZA HORIZON 6 : Tout simplement le meilleur jeu de la série 🔵 TEST "
 2026-05-18 15:51,Channel,Failed,0.545,Timeout or Error
@@ -1259,3 +1254,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-17 09:12,Channel,Failed,0.468,Timeout or Error
 2026-06-17 09:12,Comments,Failed,0.585,Timeout or Error
 2026-06-17 09:12,Playlist,Failed,0.626,Timeout or Error
+2026-06-17 15:05,Video,Failed,0.776,Timeout or Error
+2026-06-17 15:05,Search,OK,1.048,"[{""type"":""video"" ""title"":""50 QUESTIONS pour TESTER TON SAVOIR 🧠🤯 | Quiz Culture Générale"" ""videoId"":"
+2026-06-17 15:05,Channel,Failed,0.471,Timeout or Error
+2026-06-17 15:05,Comments,Failed,0.661,Timeout or Error
+2026-06-17 15:05,Playlist,Failed,0.506,Timeout or Error

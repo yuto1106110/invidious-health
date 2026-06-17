@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-18 11:45,Video,Failed,0.365,Timeout or Error
-2026-05-18 11:45,Search,OK,0.771,"[{""type"":""video"" ""title"":""Ketchup XXL Test: Diesen Gewinner hätte wir NIE erwartet! 🍅🍟"" ""videoId"":""T"
-2026-05-18 11:45,Channel,Failed,0.382,Timeout or Error
-2026-05-18 11:45,Comments,OK,0.565,"{""commentCount"":10513789 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-18 11:45,Playlist,Failed,0.388,Timeout or Error
 2026-05-18 15:51,Video,Failed,0.392,Timeout or Error
 2026-05-18 15:51,Search,OK,0.85,"[{""type"":""video"" ""title"":""Hedge trimmer torture: Dead after 22 hours 😱 (Test hedge trimmers Stiftung"
 2026-05-18 15:51,Channel,Failed,0.462,Timeout or Error
@@ -1259,3 +1254,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-17 09:12,Channel,Failed,0.34,Timeout or Error
 2026-06-17 09:12,Comments,OK,0.555,"{""commentCount"":10530188 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-06-17 09:12,Playlist,Failed,0.344,Timeout or Error
+2026-06-17 15:05,Video,Failed,0.433,Timeout or Error
+2026-06-17 15:05,Search,OK,0.968,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-06-17 15:05,Channel,Failed,0.466,Timeout or Error
+2026-06-17 15:05,Comments,OK,0.785,"{""commentCount"":10530436 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-06-17 15:05,Playlist,Failed,0.466,Timeout or Error
