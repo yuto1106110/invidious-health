@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-18 08:53,Video,Failed,0.406,Timeout or Error
-2026-05-18 08:53,Search,OK,0.886,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-05-18 08:53,Channel,Failed,0.427,Timeout or Error
-2026-05-18 08:53,Comments,OK,0.636,"{""commentCount"":10513750 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-18 08:53,Playlist,Failed,0.429,Timeout or Error
 2026-05-18 11:45,Video,Failed,0.34,Timeout or Error
 2026-05-18 11:45,Search,OK,0.858,"[{""type"":""video"" ""title"":""2nd Test  Day 2  Full Highlights | Bangladesh vs Pakistan | 2nd Test | Day"
 2026-05-18 11:45,Channel,Failed,0.356,Timeout or Error
@@ -1259,3 +1254,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-17 07:52,Channel,Failed,0.328,Timeout or Error
 2026-06-17 07:52,Comments,Failed,0.328,Timeout or Error
 2026-06-17 07:52,Playlist,Failed,0.34,Timeout or Error
+2026-06-17 09:12,Video,Failed,0.391,Timeout or Error
+2026-06-17 09:12,Search,Failed,0.282,Timeout or Error
+2026-06-17 09:12,Channel,Failed,0.204,Timeout or Error
+2026-06-17 09:12,Comments,Failed,0.514,Timeout or Error
+2026-06-17 09:12,Playlist,Failed,0.218,Timeout or Error
