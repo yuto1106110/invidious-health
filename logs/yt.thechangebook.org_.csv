@@ -1254,3 +1254,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-17 20:42,Channel,Failed,0.49,Timeout or Error
 2026-06-17 20:42,Comments,Failed,1.064,Timeout or Error
 2026-06-17 20:42,Playlist,Failed,0.607,Timeout or Error
+2026-06-18 00:00,Video,Failed,0.415,Timeout or Error
+2026-06-18 00:00,Search,OK,1.183,"[{""type"":""video"" ""title"":""50 QUESTIONS pour TESTER TON SAVOIR 🧠🤯 | Quiz Culture Générale"" ""videoId"":"
+2026-06-18 00:00,Channel,Failed,0.464,Timeout or Error
+2026-06-18 00:00,Comments,Failed,0.886,Timeout or Error
+2026-06-18 00:00,Playlist,Failed,0.359,Timeout or Error
