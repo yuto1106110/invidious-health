@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-19 07:54,Video,Failed,0.688,Timeout or Error
-2026-05-19 07:54,Search,OK,0.858,"[{""type"":""video"" ""title"":""LEGO Batman (Arkham) TEST ❤️ Le GOTY 2026 ? (Review PS5)"" ""videoId"":""uO221"
-2026-05-19 07:54,Channel,Failed,0.365,Timeout or Error
-2026-05-19 07:54,Comments,Failed,0.606,Timeout or Error
-2026-05-19 07:54,Playlist,Failed,0.63,Timeout or Error
-2026-05-19 09:00,Video,Failed,0.456,Timeout or Error
-2026-05-19 09:00,Search,OK,0.707,"[{""type"":""video"" ""title"":""QUIZ Culture Générale 🧠 : 100 Questions pour tester votre niveau"" ""videoId"
-2026-05-19 09:00,Channel,Failed,0.307,Timeout or Error
-2026-05-19 09:00,Comments,Failed,0.756,Timeout or Error
-2026-05-19 09:00,Playlist,Failed,0.323,Timeout or Error
 2026-05-19 13:55,Video,Failed,0.414,Timeout or Error
 2026-05-19 13:55,Search,OK,0.839,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-05-19 13:55,Channel,Failed,0.651,Timeout or Error
@@ -1254,3 +1244,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-18 07:42,Channel,Failed,0.615,Timeout or Error
 2026-06-18 07:42,Comments,Failed,0.572,Timeout or Error
 2026-06-18 07:42,Playlist,Failed,0.353,Timeout or Error
+2026-06-18 09:13,Video,Failed,0.316,Timeout or Error
+2026-06-18 09:13,Search,OK,1.017,"[{""type"":""video"" ""title"":""OLED TEST HDR 4K 120FPS DOLBY VISION 🏞 4K / 8K Monitor Test Video #BGM"" ""v"
+2026-06-18 09:13,Channel,Failed,0.398,Timeout or Error
+2026-06-18 09:13,Comments,Failed,0.582,Timeout or Error
+2026-06-18 09:13,Playlist,Failed,0.561,Timeout or Error
