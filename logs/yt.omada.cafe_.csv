@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-20 02:59,Video,OK,0.303,
-2026-05-20 02:59,Search,OK,1.022,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-05-20 02:59,Channel,Failed,0.527,Timeout or Error
-2026-05-20 02:59,Comments,OK,0.582,"{""commentCount"":10513796 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-20 02:59,Playlist,Failed,0.289,Timeout or Error
-2026-05-20 04:59,Video,Failed,1.495,Timeout or Error
-2026-05-20 04:59,Search,OK,0.942,"[{""type"":""video"" ""title"":""Full Highlights | Day 4 | 2nd Test | Bangladesh vs Pakistan | tapmad | PKB"
-2026-05-20 04:59,Channel,Failed,0.638,Timeout or Error
-2026-05-20 04:59,Comments,OK,0.857,"{""commentCount"":10513821 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-20 04:59,Playlist,Failed,0.677,Timeout or Error
 2026-05-20 06:25,Video,OK,0.226,
 2026-05-20 06:25,Search,OK,1.146,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-05-20 06:25,Channel,Failed,0.421,Timeout or Error
@@ -1249,3 +1239,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-19 02:56,Channel,Failed,1.967,Timeout or Error
 2026-06-19 02:56,Comments,Failed,1.603,Timeout or Error
 2026-06-19 02:56,Playlist,Failed,2.448,Timeout or Error
+2026-06-19 05:23,Video,OK,1.506,
+2026-06-19 05:23,Search,OK,1.139,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-06-19 05:23,Channel,Failed,0.424,Timeout or Error
+2026-06-19 05:23,Comments,OK,0.688,"{""commentCount"":10526160 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-06-19 05:23,Playlist,Failed,0.451,Timeout or Error

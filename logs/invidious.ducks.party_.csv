@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-20 02:59,Video,Failed,0.311,Timeout or Error
-2026-05-20 02:59,Search,OK,1.077,"[{""type"":""video"" ""title"":""The Chemical Brothers - The Test (Official Music Video)"" ""videoId"":""yhS9Ln"
-2026-05-20 02:59,Channel,Failed,0.357,Timeout or Error
-2026-05-20 02:59,Comments,OK,0.635,"{""commentCount"":10513796 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-20 02:59,Playlist,Failed,0.341,Timeout or Error
-2026-05-20 04:59,Video,Failed,0.317,Timeout or Error
-2026-05-20 04:59,Search,OK,0.944,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-05-20 04:59,Channel,Failed,0.373,Timeout or Error
-2026-05-20 04:59,Comments,OK,0.628,"{""commentCount"":10513821 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-20 04:59,Playlist,Failed,0.396,Timeout or Error
 2026-05-20 06:25,Video,Failed,0.307,Timeout or Error
 2026-05-20 06:25,Search,OK,0.697,"[{""type"":""video"" ""title"":""Highlights in voller Länge | Tag 4 | 2. Test | Bangladesch gegen Pakistan "
 2026-05-20 06:25,Channel,Failed,0.349,Timeout or Error
@@ -1249,3 +1239,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-19 02:56,Channel,Failed,0.46,Timeout or Error
 2026-06-19 02:56,Comments,OK,0.677,"{""commentCount"":10525978 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-06-19 02:56,Playlist,Failed,0.489,Timeout or Error
+2026-06-19 05:23,Video,Failed,0.314,Timeout or Error
+2026-06-19 05:23,Search,OK,0.863,"[{""type"":""video"" ""title"":""17 Degree Airflow WITHOUT an Exhaust Hose! Affordable AC Alternative Teste"
+2026-06-19 05:23,Channel,Failed,0.35,Timeout or Error
+2026-06-19 05:23,Comments,OK,0.691,"{""commentCount"":10526159 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-06-19 05:23,Playlist,Failed,0.351,Timeout or Error
