@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-20 06:25,Video,Failed,0.307,Timeout or Error
-2026-05-20 06:25,Search,OK,0.697,"[{""type"":""video"" ""title"":""Highlights in voller Länge | Tag 4 | 2. Test | Bangladesch gegen Pakistan "
-2026-05-20 06:25,Channel,Failed,0.349,Timeout or Error
-2026-05-20 06:25,Comments,OK,0.551,"{""commentCount"":10513845 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-20 06:25,Playlist,Failed,0.379,Timeout or Error
 2026-05-20 07:59,Video,Failed,0.318,Timeout or Error
 2026-05-20 07:59,Search,OK,0.732,"[{""type"":""video"" ""title"":""The Chemical Brothers - The Test (Official Music Video)"" ""videoId"":""yhS9Ln"
 2026-05-20 07:59,Channel,Failed,0.336,Timeout or Error
@@ -1244,3 +1239,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-19 05:23,Channel,Failed,0.35,Timeout or Error
 2026-06-19 05:23,Comments,OK,0.691,"{""commentCount"":10526159 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-06-19 05:23,Playlist,Failed,0.351,Timeout or Error
+2026-06-19 07:53,Video,Failed,0.362,Timeout or Error
+2026-06-19 07:53,Search,OK,0.771,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-06-19 07:53,Channel,Failed,0.384,Timeout or Error
+2026-06-19 07:53,Comments,OK,0.618,"{""commentCount"":10526312 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-06-19 07:53,Playlist,Failed,0.403,Timeout or Error
