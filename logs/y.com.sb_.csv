@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-20 20:45,Video,Failed,0.355,Timeout or Error
-2026-05-20 20:45,Search,OK,1.151,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-05-20 20:45,Channel,Failed,0.397,Timeout or Error
-2026-05-20 20:45,Comments,OK,0.652,"{""commentCount"":10513924 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-20 20:45,Playlist,Failed,0.405,Timeout or Error
-2026-05-20 23:48,Video,Failed,0.496,Timeout or Error
-2026-05-20 23:48,Search,OK,1.264,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-05-20 23:48,Channel,Failed,0.562,Timeout or Error
-2026-05-20 23:48,Comments,OK,0.864,"{""commentCount"":10514025 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-20 23:48,Playlist,Failed,0.538,Timeout or Error
 2026-05-21 02:51,Video,Failed,0.312,Timeout or Error
 2026-05-21 02:51,Search,OK,0.904,"[{""type"":""video"" ""title"":""2nd Test  Day 5  Full Highlights | Bangladesh vs Pakistan | 2nd Test | ICC"
 2026-05-21 02:51,Channel,Failed,0.374,Timeout or Error
@@ -1239,3 +1229,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-19 20:16,Channel,Failed,1.207,Timeout or Error
 2026-06-19 20:16,Comments,Failed,1.205,Timeout or Error
 2026-06-19 20:16,Playlist,Failed,1.203,Timeout or Error
+2026-06-19 23:51,Video,Failed,1.238,Timeout or Error
+2026-06-19 23:51,Search,Failed,1.234,Timeout or Error
+2026-06-19 23:51,Channel,Failed,1.233,Timeout or Error
+2026-06-19 23:51,Comments,Failed,0.247,Timeout or Error
+2026-06-19 23:51,Playlist,Failed,1.241,Timeout or Error

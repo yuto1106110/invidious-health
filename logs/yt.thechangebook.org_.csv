@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-20 20:45,Video,Failed,0.571,Timeout or Error
-2026-05-20 20:45,Search,OK,1.169,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-05-20 20:45,Channel,Failed,0.488,Timeout or Error
-2026-05-20 20:45,Comments,Failed,0.868,Timeout or Error
-2026-05-20 20:45,Playlist,Failed,0.362,Timeout or Error
-2026-05-20 23:48,Video,Failed,0.716,Timeout or Error
-2026-05-20 23:48,Search,OK,1.39,"[{""type"":""video"" ""title"":""50 QUESTIONS pour TESTER TON SAVOIR 🧠🤯 | Quiz Culture Générale"" ""videoId"":"
-2026-05-20 23:48,Channel,Failed,0.549,Timeout or Error
-2026-05-20 23:48,Comments,Failed,1.072,Timeout or Error
-2026-05-20 23:48,Playlist,Failed,0.676,Timeout or Error
 2026-05-21 02:51,Video,Failed,0.659,Timeout or Error
 2026-05-21 02:51,Search,OK,1.332,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-05-21 02:51,Channel,Failed,0.347,Timeout or Error
@@ -1239,3 +1229,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-19 20:16,Channel,Failed,1.293,Timeout or Error
 2026-06-19 20:16,Comments,Failed,1.463,Timeout or Error
 2026-06-19 20:16,Playlist,Failed,0.613,Timeout or Error
+2026-06-19 23:51,Video,Failed,0.522,Timeout or Error
+2026-06-19 23:51,Search,OK,1.344,"[{""type"":""video"" ""title"":""Quel Age Ont Vos Oreilles ? Test Auditif"" ""videoId"":""2_bdA_R7yyc"" ""author"""
+2026-06-19 23:51,Channel,Failed,0.37,Timeout or Error
+2026-06-19 23:51,Comments,Failed,0.758,Timeout or Error
+2026-06-19 23:51,Playlist,Failed,0.402,Timeout or Error
