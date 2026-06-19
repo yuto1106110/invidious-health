@@ -1234,3 +1234,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-19 23:51,Channel,Failed,0.37,Timeout or Error
 2026-06-19 23:51,Comments,Failed,0.758,Timeout or Error
 2026-06-19 23:51,Playlist,Failed,0.402,Timeout or Error
+2026-06-20 02:13,Video,Failed,0.718,Timeout or Error
+2026-06-20 02:13,Search,OK,1.311,"[{""type"":""video"" ""title"":""Incredible 4K Video HDR Clarity | Real 60FPS Dolby Vision OLED TEST (8K/4K"
+2026-06-20 02:13,Channel,Failed,0.687,Timeout or Error
+2026-06-20 02:13,Comments,Failed,0.795,Timeout or Error
+2026-06-20 02:13,Playlist,Failed,0.831,Timeout or Error
