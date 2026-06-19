@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-21 07:21,Video,Failed,0.364,Timeout or Error
-2026-05-21 07:21,Search,OK,0.822,"[{""type"":""video"" ""title"":""Yamaha Ténéré 700 World Raid | Test Modell 2026 (deutsch)"" ""videoId"":""Z07_"
-2026-05-21 07:21,Channel,Failed,0.383,Timeout or Error
-2026-05-21 07:21,Comments,OK,0.609,"{""commentCount"":10514234 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-21 07:21,Playlist,Failed,0.396,Timeout or Error
 2026-05-21 09:02,Video,Failed,0.465,Timeout or Error
 2026-05-21 09:02,Search,OK,0.905,"[{""type"":""video"" ""title"":""Yamaha Ténéré 700 World Raid | Test Modell 2026 (deutsch)"" ""videoId"":""Z07_"
 2026-05-21 09:02,Channel,Failed,0.489,Timeout or Error
@@ -1239,3 +1234,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-20 06:04,Channel,Failed,1.504,Timeout or Error
 2026-06-20 06:04,Comments,Failed,1.504,Timeout or Error
 2026-06-20 06:04,Playlist,Failed,1.504,Timeout or Error
+2026-06-20 07:50,Video,Failed,1.504,Timeout or Error
+2026-06-20 07:50,Search,Failed,1.504,Timeout or Error
+2026-06-20 07:50,Channel,Failed,1.504,Timeout or Error
+2026-06-20 07:50,Comments,Failed,1.504,Timeout or Error
+2026-06-20 07:50,Playlist,Failed,1.504,Timeout or Error

@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-21 07:21,Video,Failed,0.321,Timeout or Error
-2026-05-21 07:21,Search,Failed,1.039,Timeout or Error
-2026-05-21 07:21,Channel,Failed,0.423,Timeout or Error
-2026-05-21 07:21,Comments,OK,0.677,"{""commentCount"":10514234 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-21 07:21,Playlist,Failed,0.395,Timeout or Error
-2026-05-21 07:21,Video,Failed,0.301,Timeout or Error
-2026-05-21 07:21,Search,Failed,1.029,Timeout or Error
-2026-05-21 07:21,Channel,Failed,0.381,Timeout or Error
-2026-05-21 07:21,Comments,OK,0.678,"{""commentCount"":10514234 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-21 07:21,Playlist,Failed,0.409,Timeout or Error
 2026-05-21 09:02,Video,Failed,0.425,Timeout or Error
 2026-05-21 09:02,Search,Failed,1.045,Timeout or Error
 2026-05-21 09:02,Channel,Failed,0.555,Timeout or Error
@@ -2479,3 +2469,13 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-20 06:04,Channel,Failed,0.406,Timeout or Error
 2026-06-20 06:04,Comments,OK,0.672,"{""commentCount"":10527766 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-06-20 06:04,Playlist,Failed,0.45,Timeout or Error
+2026-06-20 07:50,Video,Failed,0.4,Timeout or Error
+2026-06-20 07:50,Search,OK,1.016,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-06-20 07:50,Channel,Failed,0.519,Timeout or Error
+2026-06-20 07:50,Comments,OK,0.713,"{""commentCount"":10528049 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-06-20 07:50,Playlist,Failed,0.566,Timeout or Error
+2026-06-20 07:50,Video,Failed,0.42,Timeout or Error
+2026-06-20 07:50,Search,Failed,1.028,Timeout or Error
+2026-06-20 07:50,Channel,Failed,0.468,Timeout or Error
+2026-06-20 07:50,Comments,OK,0.778,"{""commentCount"":10528049 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-06-20 07:50,Playlist,Failed,0.468,Timeout or Error
