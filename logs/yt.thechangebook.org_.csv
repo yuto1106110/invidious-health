@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-20 13:59,Video,Failed,0.533,Timeout or Error
-2026-05-20 13:59,Search,OK,1.212,"[{""type"":""video"" ""title"":""Temps forts complets | Jour 4 | 2e Test | Bangladesh vs Pakistan | tapmad "
-2026-05-20 13:59,Channel,Failed,0.574,Timeout or Error
-2026-05-20 13:59,Comments,Failed,0.762,Timeout or Error
-2026-05-20 13:59,Playlist,Failed,0.408,Timeout or Error
 2026-05-20 17:30,Video,Failed,0.726,Timeout or Error
 2026-05-20 17:30,Search,OK,1.037,"[{""type"":""video"" ""title"":""1st Session Highlights | Bangladesh vs Pakistan | 2nd Test  Day 5 | ICC WT"
 2026-05-20 17:30,Channel,Failed,0.652,Timeout or Error
@@ -1239,3 +1234,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-19 09:21,Channel,Failed,0.665,Timeout or Error
 2026-06-19 09:21,Comments,Failed,0.761,Timeout or Error
 2026-06-19 09:21,Playlist,Failed,0.581,Timeout or Error
+2026-06-19 15:11,Video,Failed,0.649,Timeout or Error
+2026-06-19 15:11,Search,OK,1.373,"[{""type"":""video"" ""title"":""OLED TEST HDR 4K 120FPS DOLBY VISION 🏞 4K / 8K Monitor Test Video #BGM"" ""v"
+2026-06-19 15:11,Channel,Failed,0.451,Timeout or Error
+2026-06-19 15:11,Comments,Failed,0.586,Timeout or Error
+2026-06-19 15:11,Playlist,Failed,1.452,Timeout or Error

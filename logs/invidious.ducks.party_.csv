@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-20 13:59,Video,Failed,0.311,Timeout or Error
-2026-05-20 13:59,Search,OK,0.766,"[{""type"":""video"" ""title"":""The Chemical Brothers - The Test (Official Music Video)"" ""videoId"":""yhS9Ln"
-2026-05-20 13:59,Channel,Failed,0.339,Timeout or Error
-2026-05-20 13:59,Comments,OK,0.506,"{""commentCount"":10513917 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-20 13:59,Playlist,Failed,0.358,Timeout or Error
 2026-05-20 17:30,Video,Failed,0.512,Timeout or Error
 2026-05-20 17:30,Search,OK,1.001,"[{""type"":""video"" ""title"":""1st Session Highlights | Bangladesh vs Pakistan | 2nd Test  Day 5 | ICC WT"
 2026-05-20 17:30,Channel,Failed,0.549,Timeout or Error
@@ -1239,3 +1234,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-19 09:21,Channel,Failed,0.35,Timeout or Error
 2026-06-19 09:21,Comments,OK,0.504,"{""commentCount"":10526393 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-06-19 09:21,Playlist,Failed,0.342,Timeout or Error
+2026-06-19 15:11,Video,Failed,0.315,Timeout or Error
+2026-06-19 15:11,Search,OK,0.81,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-06-19 15:11,Channel,Failed,0.338,Timeout or Error
+2026-06-19 15:11,Comments,OK,0.612,"{""commentCount"":10526700 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-06-19 15:11,Playlist,Failed,0.348,Timeout or Error
