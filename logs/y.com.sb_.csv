@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-22 01:13,Video,Failed,0.5,Timeout or Error
-2026-05-22 01:13,Search,OK,1.084,"[{""type"":""video"" ""title"":""Apple iPhone 17e Review: Verdict After 2 Weeks"" ""videoId"":""AgTEJKDnSZs"" ""a"
-2026-05-22 01:13,Channel,Failed,0.525,Timeout or Error
-2026-05-22 01:13,Comments,OK,0.98,"{""commentCount"":10514383 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-22 01:13,Playlist,Failed,0.539,Timeout or Error
 2026-05-22 03:56,Video,Failed,0.524,Timeout or Error
 2026-05-22 03:56,Search,OK,1.188,"[{""type"":""video"" ""title"":""Hedge trimmer torture: Dead after 22 hours 😱 (Test hedge trimmers Stiftung"
 2026-05-22 03:56,Channel,Failed,0.515,Timeout or Error
@@ -1249,3 +1244,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-21 00:42,Channel,Failed,0.206,Timeout or Error
 2026-06-21 00:42,Comments,Failed,0.612,Timeout or Error
 2026-06-21 00:42,Playlist,Failed,0.439,Timeout or Error
+2026-06-21 02:20,Video,Failed,0.328,Timeout or Error
+2026-06-21 02:20,Search,Failed,0.323,Timeout or Error
+2026-06-21 02:20,Channel,Failed,0.321,Timeout or Error
+2026-06-21 02:20,Comments,Failed,0.323,Timeout or Error
+2026-06-21 02:20,Playlist,Failed,0.358,Timeout or Error
