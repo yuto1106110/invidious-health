@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-21 09:02,Video,Failed,0.465,Timeout or Error
-2026-05-21 09:02,Search,OK,0.905,"[{""type"":""video"" ""title"":""Yamaha Ténéré 700 World Raid | Test Modell 2026 (deutsch)"" ""videoId"":""Z07_"
-2026-05-21 09:02,Channel,Failed,0.489,Timeout or Error
-2026-05-21 09:02,Comments,OK,0.676,"{""commentCount"":10514265 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-21 09:02,Playlist,Failed,0.492,Timeout or Error
 2026-05-21 14:05,Video,Failed,0.306,Timeout or Error
 2026-05-21 14:05,Search,OK,0.764,"[{""type"":""video"" ""title"":""The Chemical Brothers - The Test (Official Music Video)"" ""videoId"":""yhS9Ln"
 2026-05-21 14:05,Channel,Failed,0.331,Timeout or Error
@@ -1239,3 +1234,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-20 07:50,Channel,Failed,1.504,Timeout or Error
 2026-06-20 07:50,Comments,Failed,1.504,Timeout or Error
 2026-06-20 07:50,Playlist,Failed,1.504,Timeout or Error
+2026-06-20 09:03,Video,Failed,1.504,Timeout or Error
+2026-06-20 09:03,Search,Failed,1.504,Timeout or Error
+2026-06-20 09:03,Channel,Failed,1.504,Timeout or Error
+2026-06-20 09:03,Comments,Failed,1.504,Timeout or Error
+2026-06-20 09:03,Playlist,Failed,1.504,Timeout or Error
