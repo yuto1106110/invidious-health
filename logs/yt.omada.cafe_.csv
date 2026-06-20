@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-21 18:28,Video,OK,0.769,
-2026-05-21 18:28,Search,OK,1.216,"[{""type"":""video"" ""title"":""Is He Cheating With His Ex Girlfriend? | UDY Loyalty Test"" ""videoId"":""28L8"
-2026-05-21 18:28,Channel,Failed,0.982,Timeout or Error
-2026-05-21 18:28,Comments,OK,0.766,"{""commentCount"":10514289 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-21 18:28,Playlist,Failed,0.474,Timeout or Error
 2026-05-21 21:41,Video,OK,0.685,
 2026-05-21 21:41,Search,OK,1.374,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-05-21 21:41,Channel,Failed,0.573,Timeout or Error
@@ -1244,3 +1239,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-20 17:46,Channel,Failed,1.063,Timeout or Error
 2026-06-20 17:46,Comments,OK,1.379,"{""commentCount"":10528577 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-06-20 17:46,Playlist,Failed,1.003,Timeout or Error
+2026-06-20 20:11,Video,OK,0.855,
+2026-06-20 20:11,Search,OK,1.48,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-06-20 20:11,Channel,Failed,0.707,Timeout or Error
+2026-06-20 20:11,Comments,OK,1.191,"{""commentCount"":10528718 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-06-20 20:11,Playlist,Failed,0.784,Timeout or Error
