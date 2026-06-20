@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-21 14:05,Video,Failed,0.306,Timeout or Error
-2026-05-21 14:05,Search,OK,0.764,"[{""type"":""video"" ""title"":""The Chemical Brothers - The Test (Official Music Video)"" ""videoId"":""yhS9Ln"
-2026-05-21 14:05,Channel,Failed,0.331,Timeout or Error
-2026-05-21 14:05,Comments,OK,0.562,"{""commentCount"":10514259 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-21 14:05,Playlist,Failed,0.34,Timeout or Error
 2026-05-21 18:28,Video,Failed,0.443,Timeout or Error
 2026-05-21 18:28,Search,OK,0.926,"[{""type"":""video"" ""title"":""Volvo EX60 im Test - kann er wirklich BMW iX3 und Mercedes GLC EQ schlagen"
 2026-05-21 18:28,Channel,Failed,0.471,Timeout or Error
@@ -1239,3 +1234,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-20 09:03,Channel,Failed,1.504,Timeout or Error
 2026-06-20 09:03,Comments,Failed,1.504,Timeout or Error
 2026-06-20 09:03,Playlist,Failed,1.504,Timeout or Error
+2026-06-20 14:07,Video,Failed,1.504,Timeout or Error
+2026-06-20 14:07,Search,Failed,1.504,Timeout or Error
+2026-06-20 14:07,Channel,Failed,1.504,Timeout or Error
+2026-06-20 14:07,Comments,Failed,1.505,Timeout or Error
+2026-06-20 14:07,Playlist,Failed,1.504,Timeout or Error
