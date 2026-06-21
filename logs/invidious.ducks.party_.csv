@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-22 08:57,Video,Failed,0.503,Timeout or Error
-2026-05-22 08:57,Search,OK,0.89,"[{""type"":""video"" ""title"":""Apple iPhone 17e Review: Verdict After 2 Weeks"" ""videoId"":""AgTEJKDnSZs"" ""a"
-2026-05-22 08:57,Channel,Failed,0.528,Timeout or Error
-2026-05-22 08:57,Comments,OK,0.699,"{""commentCount"":10513597 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-22 08:57,Playlist,Failed,0.529,Timeout or Error
 2026-05-22 12:38,Video,Failed,0.507,Timeout or Error
 2026-05-22 12:38,Search,OK,0.953,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-05-22 12:38,Channel,Failed,0.54,Timeout or Error
@@ -1249,3 +1244,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-21 08:01,Channel,Failed,1.504,Timeout or Error
 2026-06-21 08:01,Comments,Failed,1.504,Timeout or Error
 2026-06-21 08:01,Playlist,Failed,1.504,Timeout or Error
+2026-06-21 12:31,Video,Failed,1.504,Timeout or Error
+2026-06-21 12:31,Search,Failed,1.504,Timeout or Error
+2026-06-21 12:31,Channel,Failed,1.504,Timeout or Error
+2026-06-21 12:31,Comments,Failed,1.504,Timeout or Error
+2026-06-21 12:31,Playlist,Failed,1.504,Timeout or Error
