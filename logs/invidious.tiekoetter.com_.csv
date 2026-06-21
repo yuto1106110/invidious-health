@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-22 22:27,Video,Failed,0.425,Timeout or Error
-2026-05-22 22:27,Search,Failed,0.413,Timeout or Error
-2026-05-22 22:27,Channel,Failed,0.425,Timeout or Error
-2026-05-22 22:27,Comments,OK,0.41,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
-2026-05-22 22:27,Playlist,OK,0.389,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
 2026-05-23 01:20,Video,Failed,0.358,Timeout or Error
 2026-05-23 01:20,Search,Failed,0.363,Timeout or Error
 2026-05-23 01:20,Channel,Failed,0.357,Timeout or Error
@@ -1244,3 +1239,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-21 20:40,Channel,Failed,0.308,Timeout or Error
 2026-06-21 20:40,Comments,OK,0.306,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
 2026-06-21 20:40,Playlist,OK,0.307,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
+2026-06-21 22:56,Video,Failed,0.307,Timeout or Error
+2026-06-21 22:56,Search,Failed,0.306,Timeout or Error
+2026-06-21 22:56,Channel,Failed,0.307,Timeout or Error
+2026-06-21 22:56,Comments,OK,0.305,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
+2026-06-21 22:56,Playlist,OK,0.308,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
