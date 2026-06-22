@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-23 13:34,Video,Failed,0.376,Timeout or Error
-2026-05-23 13:34,Search,OK,0.808,"[{""type"":""video"" ""title"":""Electric Fendt e107 Tested | landwirt-media.com"" ""videoId"":""bbkYlXqn7EY"" """
-2026-05-23 13:34,Channel,Failed,0.336,Timeout or Error
-2026-05-23 13:34,Comments,OK,0.526,"{""commentCount"":10514811 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-23 13:34,Playlist,Failed,0.339,Timeout or Error
-2026-05-23 16:27,Video,Failed,0.389,Timeout or Error
-2026-05-23 16:27,Search,OK,0.857,"[{""type"":""video"" ""title"":""Electric Fendt e107 Tested | landwirt-media.com"" ""videoId"":""bbkYlXqn7EY"" """
-2026-05-23 16:27,Channel,Failed,0.354,Timeout or Error
-2026-05-23 16:27,Comments,OK,0.629,"{""commentCount"":10514761 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-23 16:27,Playlist,Failed,0.354,Timeout or Error
 2026-05-23 18:45,Video,Failed,0.433,Timeout or Error
 2026-05-23 18:45,Search,OK,0.979,"[{""type"":""video"" ""title"":""Electric Fendt e107 Tested | landwirt-media.com"" ""videoId"":""bbkYlXqn7EY"" """
 2026-05-23 18:45,Channel,Failed,0.389,Timeout or Error
@@ -1249,3 +1239,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-22 12:36,Channel,Failed,1.504,Timeout or Error
 2026-06-22 12:36,Comments,Failed,1.504,Timeout or Error
 2026-06-22 12:36,Playlist,Failed,1.504,Timeout or Error
+2026-06-22 18:42,Video,Failed,0.46,Timeout or Error
+2026-06-22 18:42,Search,OK,1.06,"[{""type"":""video"" ""title"":""DEUTSCHLAND￼ in den Boden gerammt | ZEEKR 7GT"" ""videoId"":""hAtquNHKP0I"" ""au"
+2026-06-22 18:42,Channel,Failed,0.54,Timeout or Error
+2026-06-22 18:42,Comments,OK,0.772,"{""commentCount"":10530993 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-06-22 18:42,Playlist,Failed,0.48,Timeout or Error
