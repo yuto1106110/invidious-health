@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-24 23:58,Video,Failed,0.384,Timeout or Error
-2026-05-24 23:58,Search,OK,0.781,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-05-24 23:58,Channel,Failed,0.373,Timeout or Error
-2026-05-24 23:58,Comments,OK,0.768,"{""commentCount"":10515416 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-24 23:58,Playlist,Failed,0.341,Timeout or Error
-2026-05-25 01:02,Video,Failed,0.566,Timeout or Error
-2026-05-25 01:02,Search,OK,1.1,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-05-25 01:02,Channel,Failed,0.528,Timeout or Error
-2026-05-25 01:02,Comments,OK,0.883,"{""commentCount"":10515471 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-25 01:02,Playlist,Failed,0.539,Timeout or Error
 2026-05-25 02:54,Video,Failed,0.65,Timeout or Error
 2026-05-25 02:54,Search,OK,1.074,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-05-25 02:54,Channel,Failed,0.523,Timeout or Error
@@ -1204,3 +1194,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-23 22:40,Channel,Failed,0.476,Timeout or Error
 2026-06-23 22:40,Comments,OK,0.917,"{""commentCount"":10531753 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-06-23 22:40,Playlist,Failed,0.504,Timeout or Error
+2026-06-24 01:24,Video,Failed,0.372,Timeout or Error
+2026-06-24 01:24,Search,OK,0.889,"[{""type"":""video"" ""title"":""Aldi: Chicken Stripes Hot - Spicy und Garlic Pepper im Test #chickenstrips"
+2026-06-24 01:24,Channel,Failed,0.385,Timeout or Error
+2026-06-24 01:24,Comments,OK,0.799,"{""commentCount"":10531930 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-06-24 01:24,Playlist,Failed,0.447,Timeout or Error
