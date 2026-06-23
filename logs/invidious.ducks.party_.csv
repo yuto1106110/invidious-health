@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-24 11:43,Video,Failed,0.538,Timeout or Error
-2026-05-24 11:43,Search,OK,0.85,"[{""type"":""video"" ""title"":""I took Donald Trump's cognitive test - Can I answer all the questions corr"
-2026-05-24 11:43,Channel,Failed,0.513,Timeout or Error
-2026-05-24 11:43,Comments,OK,0.656,"{""commentCount"":10515174 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-24 11:43,Playlist,Failed,0.501,Timeout or Error
-2026-05-24 15:32,Video,Failed,0.42,Timeout or Error
-2026-05-24 15:32,Search,OK,0.817,"[{""type"":""video"" ""title"":""I took Donald Trump's cognitive test - Can I answer all the questions corr"
-2026-05-24 15:32,Channel,Failed,0.381,Timeout or Error
-2026-05-24 15:32,Comments,OK,0.612,"{""commentCount"":10515235 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-24 15:32,Playlist,Failed,0.383,Timeout or Error
 2026-05-24 18:17,Video,Failed,0.391,Timeout or Error
 2026-05-24 18:17,Search,OK,0.818,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-05-24 18:17,Channel,Failed,0.36,Timeout or Error
@@ -1214,3 +1204,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-23 11:41,Channel,Failed,0.413,Timeout or Error
 2026-06-23 11:41,Comments,OK,0.561,"{""commentCount"":10531418 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-06-23 11:41,Playlist,Failed,0.399,Timeout or Error
+2026-06-23 15:43,Video,Failed,0.322,Timeout or Error
+2026-06-23 15:43,Search,OK,0.872,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
+2026-06-23 15:43,Channel,Failed,0.345,Timeout or Error
+2026-06-23 15:43,Comments,OK,0.608,"{""commentCount"":10531591 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-06-23 15:43,Playlist,Failed,0.351,Timeout or Error
