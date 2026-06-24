@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-26 04:21,Video,Failed,0.5,Timeout or Error
-2026-05-26 04:21,Search,OK,1.009,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-05-26 04:21,Channel,Failed,0.466,Timeout or Error
-2026-05-26 04:21,Comments,Failed,0.651,Timeout or Error
-2026-05-26 04:21,Playlist,Failed,0.48,Timeout or Error
 2026-05-26 06:00,Video,Failed,0.43,Timeout or Error
 2026-05-26 06:00,Search,OK,0.926,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-05-26 06:00,Channel,Failed,0.326,Timeout or Error
@@ -1189,3 +1184,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-25 03:47,Channel,Failed,0.587,Timeout or Error
 2026-06-25 03:47,Comments,Failed,0.631,Timeout or Error
 2026-06-25 03:47,Playlist,Failed,0.627,Timeout or Error
+2026-06-25 05:43,Video,Failed,0.628,Timeout or Error
+2026-06-25 05:43,Search,OK,1.006,"[{""type"":""video"" ""title"":""TEST STAR FOX : Espérons que Zelda Ocarina of Time soit meilleur que ça..."
+2026-06-25 05:43,Channel,Failed,0.457,Timeout or Error
+2026-06-25 05:43,Comments,Failed,0.927,Timeout or Error
+2026-06-25 05:43,Playlist,Failed,0.342,Timeout or Error
