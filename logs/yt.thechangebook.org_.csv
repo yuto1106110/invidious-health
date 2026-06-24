@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-26 06:00,Video,Failed,0.43,Timeout or Error
-2026-05-26 06:00,Search,OK,0.926,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-05-26 06:00,Channel,Failed,0.326,Timeout or Error
-2026-05-26 06:00,Comments,Failed,0.666,Timeout or Error
-2026-05-26 06:00,Playlist,Failed,0.414,Timeout or Error
 2026-05-26 07:54,Video,Failed,0.653,Timeout or Error
 2026-05-26 07:54,Search,OK,1.046,"[{""type"":""video"" ""title"":""QUIZ Culture Générale 🧠 : 100 Questions pour tester votre niveau"" ""videoId"
 2026-05-26 07:54,Channel,Failed,0.65,Timeout or Error
@@ -1189,3 +1184,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-25 05:43,Channel,Failed,0.457,Timeout or Error
 2026-06-25 05:43,Comments,Failed,0.927,Timeout or Error
 2026-06-25 05:43,Playlist,Failed,0.342,Timeout or Error
+2026-06-25 07:11,Video,Failed,0.651,Timeout or Error
+2026-06-25 07:11,Search,Failed,1.201,Timeout or Error
+2026-06-25 07:11,Channel,Failed,0.615,Timeout or Error
+2026-06-25 07:11,Comments,Failed,0.582,Timeout or Error
+2026-06-25 07:11,Playlist,Failed,0.353,Timeout or Error

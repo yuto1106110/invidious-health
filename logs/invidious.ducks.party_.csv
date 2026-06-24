@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-26 06:00,Video,Failed,0.379,Timeout or Error
-2026-05-26 06:00,Search,OK,0.867,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-05-26 06:00,Channel,Failed,0.386,Timeout or Error
-2026-05-26 06:00,Comments,OK,0.754,"{""commentCount"":10515926 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-26 06:00,Playlist,Failed,0.378,Timeout or Error
 2026-05-26 07:54,Video,Failed,0.557,Timeout or Error
 2026-05-26 07:54,Search,OK,0.885,"[{""type"":""video"" ""title"":""HONDA TRANSALP 2026 MOTORCYCLE REVIEW!"" ""videoId"":""Zay_AMEWIKw"" ""author"":"""
 2026-05-26 07:54,Channel,Failed,0.521,Timeout or Error
@@ -1189,3 +1184,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-25 05:43,Channel,Failed,0.337,Timeout or Error
 2026-06-25 05:43,Comments,OK,0.665,"{""commentCount"":10532262 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-06-25 05:43,Playlist,Failed,0.348,Timeout or Error
+2026-06-25 07:11,Video,Failed,0.313,Timeout or Error
+2026-06-25 07:11,Search,OK,0.742,"[{""type"":""video"" ""title"":""The Chemical Brothers - The Test (Official Music Video)"" ""videoId"":""yhS9Ln"
+2026-06-25 07:11,Channel,Failed,0.342,Timeout or Error
+2026-06-25 07:11,Comments,OK,0.583,"{""commentCount"":10532307 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-06-25 07:11,Playlist,Failed,0.342,Timeout or Error
