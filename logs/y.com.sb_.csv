@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-26 07:54,Video,Failed,0.469,Timeout or Error
-2026-05-26 07:54,Search,OK,1.007,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-05-26 07:54,Channel,Failed,0.503,Timeout or Error
-2026-05-26 07:54,Comments,Failed,0.35,Timeout or Error
-2026-05-26 07:54,Playlist,Failed,0.486,Timeout or Error
-2026-05-26 09:00,Video,Failed,0.235,Timeout or Error
-2026-05-26 09:00,Search,OK,0.708,"[{""type"":""video"" ""title"":""HONDA TRANSALP 2026 MOTORCYCLE REVIEW!"" ""videoId"":""Zay_AMEWIKw"" ""author"":"""
-2026-05-26 09:00,Channel,Failed,0.241,Timeout or Error
-2026-05-26 09:00,Comments,OK,0.532,"{""commentCount"":10515977 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-26 09:00,Playlist,Failed,0.362,Timeout or Error
 2026-05-26 13:58,Video,Failed,0.216,Timeout or Error
 2026-05-26 13:58,Search,Failed,0.226,Timeout or Error
 2026-05-26 13:58,Channel,Failed,0.209,Timeout or Error
@@ -1189,3 +1179,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-25 07:11,Channel,Failed,0.212,Timeout or Error
 2026-06-25 07:11,Comments,Failed,0.223,Timeout or Error
 2026-06-25 07:11,Playlist,Failed,0.229,Timeout or Error
+2026-06-25 09:03,Video,Failed,0.356,Timeout or Error
+2026-06-25 09:03,Search,Failed,0.631,Timeout or Error
+2026-06-25 09:03,Channel,Failed,0.404,Timeout or Error
+2026-06-25 09:03,Comments,Failed,0.474,Timeout or Error
+2026-06-25 09:03,Playlist,Failed,0.542,Timeout or Error
