@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-26 17:33,Video,Failed,0.438,Timeout or Error
-2026-05-26 17:33,Search,OK,0.804,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-05-26 17:33,Channel,Failed,0.324,Timeout or Error
-2026-05-26 17:33,Comments,Failed,0.697,Timeout or Error
-2026-05-26 17:33,Playlist,Failed,0.427,Timeout or Error
 2026-05-27 00:50,Video,Failed,0.562,Timeout or Error
 2026-05-27 00:50,Search,OK,1.089,"[{""type"":""video"" ""title"":""007 First Light REVIEW: I BEAT THE GAME! Both INCREDIBLE and FLAWED ⭐️"" ""v"
 2026-05-27 00:50,Channel,Failed,0.692,Timeout or Error
@@ -1189,3 +1184,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-25 17:26,Channel,Failed,0.62,Timeout or Error
 2026-06-25 17:26,Comments,Failed,0.834,Timeout or Error
 2026-06-25 17:26,Playlist,Failed,0.566,Timeout or Error
+2026-06-25 20:35,Video,Failed,0.825,Timeout or Error
+2026-06-25 20:35,Search,Failed,1.486,Timeout or Error
+2026-06-25 20:35,Channel,Failed,0.673,Timeout or Error
+2026-06-25 20:35,Comments,Failed,1.156,Timeout or Error
+2026-06-25 20:35,Playlist,Failed,0.565,Timeout or Error
