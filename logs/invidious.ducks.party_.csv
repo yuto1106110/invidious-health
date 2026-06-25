@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-27 03:21,Video,Failed,0.524,Timeout or Error
-2026-05-27 03:21,Search,OK,1.082,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-05-27 03:21,Channel,Failed,0.532,Timeout or Error
-2026-05-27 03:21,Comments,OK,0.799,"{""commentCount"":10516321 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-27 03:21,Playlist,Failed,0.52,Timeout or Error
 2026-05-27 05:51,Video,Failed,0.429,Timeout or Error
 2026-05-27 05:51,Search,OK,0.871,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
 2026-05-27 05:51,Channel,Failed,0.4,Timeout or Error
@@ -1194,3 +1189,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-26 02:07,Channel,Failed,0.464,Timeout or Error
 2026-06-26 02:07,Comments,OK,0.84,"{""commentCount"":10532631 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-06-26 02:07,Playlist,Failed,0.499,Timeout or Error
+2026-06-26 04:50,Video,Failed,0.442,Timeout or Error
+2026-06-26 04:50,Search,OK,0.968,"[{""type"":""video"" ""title"":""XREAL 1S im Test – Endlich eine AR-Brille  die wirklich Sinn macht?"" ""vide"
+2026-06-26 04:50,Channel,Failed,0.467,Timeout or Error
+2026-06-26 04:50,Comments,OK,0.693,"{""commentCount"":10532755 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-06-26 04:50,Playlist,Failed,0.588,Timeout or Error
