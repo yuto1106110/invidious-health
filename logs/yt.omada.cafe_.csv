@@ -1184,3 +1184,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-25 13:59,Channel,Failed,1.688,Timeout or Error
 2026-06-25 13:59,Comments,Failed,1.644,Timeout or Error
 2026-06-25 13:59,Playlist,Failed,1.56,Timeout or Error
+2026-06-25 17:26,Video,Failed,0.652,Timeout or Error
+2026-06-25 17:26,Search,OK,1.994,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-06-25 17:26,Channel,Failed,1.006,Timeout or Error
+2026-06-25 17:26,Comments,OK,1.075,"{""commentCount"":10532504 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-06-25 17:26,Playlist,Failed,0.586,Timeout or Error
