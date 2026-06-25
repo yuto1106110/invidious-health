@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-27 00:50,Video,Failed,0.562,Timeout or Error
-2026-05-27 00:50,Search,OK,1.089,"[{""type"":""video"" ""title"":""007 First Light REVIEW: I BEAT THE GAME! Both INCREDIBLE and FLAWED ⭐️"" ""v"
-2026-05-27 00:50,Channel,Failed,0.692,Timeout or Error
-2026-05-27 00:50,Comments,Failed,0.901,Timeout or Error
-2026-05-27 00:50,Playlist,Failed,0.681,Timeout or Error
 2026-05-27 03:21,Video,Failed,0.906,Timeout or Error
 2026-05-27 03:21,Search,OK,1.38,"[{""type"":""video"" ""title"":""007 FIRST LIGHT REVIEW 🌟 The BEST JAMES BOND GAME EVER !!!"" ""videoId"":""SIC"
 2026-05-27 03:21,Channel,Failed,0.518,Timeout or Error
@@ -1194,3 +1189,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-25 23:13,Channel,Failed,0.478,Timeout or Error
 2026-06-25 23:13,Comments,Failed,0.747,Timeout or Error
 2026-06-25 23:13,Playlist,Failed,0.453,Timeout or Error
+2026-06-26 02:07,Video,Failed,0.537,Timeout or Error
+2026-06-26 02:07,Search,OK,1.224,"[{""type"":""video"" ""title"":""OLED TEST HDR 4K 120FPS DOLBY VISION 🏞 4K / 8K Monitor Test Video #BGM"" ""v"
+2026-06-26 02:07,Channel,Failed,0.641,Timeout or Error
+2026-06-26 02:07,Comments,Failed,0.912,Timeout or Error
+2026-06-26 02:07,Playlist,Failed,0.514,Timeout or Error
