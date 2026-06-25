@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-27 05:51,Video,Failed,0.661,Timeout or Error
-2026-05-27 05:51,Search,OK,1.303,"[{""type"":""video"" ""title"":""TEST 007 FIRST LIGHT : James Bond technologique ou James bon pour la casse"
-2026-05-27 05:51,Channel,Failed,0.504,Timeout or Error
-2026-05-27 05:51,Comments,Failed,0.804,Timeout or Error
-2026-05-27 05:51,Playlist,Failed,0.349,Timeout or Error
 2026-05-27 07:16,Video,Failed,0.504,Timeout or Error
 2026-05-27 07:16,Search,OK,0.899,"[{""type"":""video"" ""title"":""TEST 007 FIRST LIGHT : James Bond technologique ou James bon pour la casse"
 2026-05-27 07:16,Channel,Failed,0.35,Timeout or Error
@@ -1194,3 +1189,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-26 04:50,Channel,Failed,0.461,Timeout or Error
 2026-06-26 04:50,Comments,Failed,0.784,Timeout or Error
 2026-06-26 04:50,Playlist,Failed,0.486,Timeout or Error
+2026-06-26 06:26,Video,Failed,0.632,Timeout or Error
+2026-06-26 06:26,Search,OK,0.917,"[{""type"":""video"" ""title"":""50 QUESTIONS pour TESTER TON SAVOIR 🧠🤯 | Quiz Culture Générale"" ""videoId"":"
+2026-06-26 06:26,Channel,Failed,0.609,Timeout or Error
+2026-06-26 06:26,Comments,Failed,0.7,Timeout or Error
+2026-06-26 06:26,Playlist,Failed,0.48,Timeout or Error
