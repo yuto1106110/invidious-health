@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-27 07:16,Video,Failed,0.504,Timeout or Error
-2026-05-27 07:16,Search,OK,0.899,"[{""type"":""video"" ""title"":""TEST 007 FIRST LIGHT : James Bond technologique ou James bon pour la casse"
-2026-05-27 07:16,Channel,Failed,0.35,Timeout or Error
-2026-05-27 07:16,Comments,Failed,0.572,Timeout or Error
-2026-05-27 07:16,Playlist,Failed,0.455,Timeout or Error
 2026-05-27 08:59,Video,Failed,0.807,Timeout or Error
 2026-05-27 08:59,Search,OK,1.11,"[{""type"":""video"" ""title"":""007 FIRST LIGHT REVIEW 🌟 The BEST JAMES BOND GAME EVER !!!"" ""videoId"":""SIC"
 2026-05-27 08:59,Channel,Failed,0.514,Timeout or Error
@@ -1194,3 +1189,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-26 06:26,Channel,Failed,0.609,Timeout or Error
 2026-06-26 06:26,Comments,Failed,0.7,Timeout or Error
 2026-06-26 06:26,Playlist,Failed,0.48,Timeout or Error
+2026-06-26 08:11,Video,Failed,0.646,Timeout or Error
+2026-06-26 08:11,Search,OK,1.008,"[{""type"":""video"" ""title"":""50 QUESTIONS pour TESTER TON SAVOIR 🧠🤯 | Quiz Culture Générale"" ""videoId"":"
+2026-06-26 08:11,Channel,Failed,0.596,Timeout or Error
+2026-06-26 08:11,Comments,Failed,0.805,Timeout or Error
+2026-06-26 08:11,Playlist,Failed,0.589,Timeout or Error
