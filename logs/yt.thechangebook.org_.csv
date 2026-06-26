@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-27 08:59,Video,Failed,0.807,Timeout or Error
-2026-05-27 08:59,Search,OK,1.11,"[{""type"":""video"" ""title"":""007 FIRST LIGHT REVIEW 🌟 The BEST JAMES BOND GAME EVER !!!"" ""videoId"":""SIC"
-2026-05-27 08:59,Channel,Failed,0.514,Timeout or Error
-2026-05-27 08:59,Comments,Failed,0.727,Timeout or Error
-2026-05-27 08:59,Playlist,Failed,0.636,Timeout or Error
 2026-05-27 13:24,Video,Failed,0.67,Timeout or Error
 2026-05-27 13:24,Search,OK,1.169,"[{""type"":""video"" ""title"":""007 FIRST LIGHT REVIEW 🌟 The BEST JAMES BOND GAME EVER !!!"" ""videoId"":""SIC"
 2026-05-27 13:24,Channel,Failed,0.479,Timeout or Error
@@ -1194,3 +1189,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-26 08:11,Channel,Failed,0.596,Timeout or Error
 2026-06-26 08:11,Comments,Failed,0.805,Timeout or Error
 2026-06-26 08:11,Playlist,Failed,0.589,Timeout or Error
+2026-06-26 11:47,Video,Failed,1.057,Timeout or Error
+2026-06-26 11:47,Search,OK,1.144,"[{""type"":""video"" ""title"":""50 QUESTIONS pour TESTER TON SAVOIR 🧠🤯 | Quiz Culture Générale"" ""videoId"":"
+2026-06-26 11:47,Channel,Failed,0.743,Timeout or Error
+2026-06-26 11:47,Comments,Failed,0.777,Timeout or Error
+2026-06-26 11:47,Playlist,Failed,0.465,Timeout or Error

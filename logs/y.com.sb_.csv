@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-27 08:59,Video,Failed,0.487,Timeout or Error
-2026-05-27 08:59,Search,Failed,0.307,Timeout or Error
-2026-05-27 08:59,Channel,Failed,0.476,Timeout or Error
-2026-05-27 08:59,Comments,OK,0.646,"{""commentCount"":10516411 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-27 08:59,Playlist,Failed,0.3,Timeout or Error
 2026-05-27 13:24,Video,Failed,0.484,Timeout or Error
 2026-05-27 13:24,Search,OK,0.94,"[{""type"":""video"" ""title"":""199€ Klimaanlage schlägt Midea PortaSplit?! Der Test überrascht!"" ""videoId"
 2026-05-27 13:24,Channel,Failed,0.496,Timeout or Error
@@ -1194,3 +1189,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-26 08:11,Channel,Failed,0.205,Timeout or Error
 2026-06-26 08:11,Comments,Failed,0.2,Timeout or Error
 2026-06-26 08:11,Playlist,Failed,0.188,Timeout or Error
+2026-06-26 11:47,Video,Failed,1.079,Timeout or Error
+2026-06-26 11:47,Search,Failed,0.808,Timeout or Error
+2026-06-26 11:47,Channel,Failed,0.31,Timeout or Error
+2026-06-26 11:47,Comments,Failed,0.639,Timeout or Error
+2026-06-26 11:47,Playlist,Failed,0.608,Timeout or Error
