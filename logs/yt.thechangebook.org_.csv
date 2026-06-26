@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-28 06:48,Video,Failed,0.823,Timeout or Error
-2026-05-28 06:48,Search,OK,1.031,"[{""type"":""video"" ""title"":""Devine 36 CHANSONS de MICHAEL JACKSON 👑🎶 | Blind Test Michael Jackson"" ""vi"
-2026-05-28 06:48,Channel,Failed,0.652,Timeout or Error
-2026-05-28 06:48,Comments,Failed,0.925,Timeout or Error
-2026-05-28 06:48,Playlist,Failed,0.523,Timeout or Error
 2026-05-28 08:12,Video,Failed,0.65,Timeout or Error
 2026-05-28 08:12,Search,OK,1.005,"[{""type"":""video"" ""title"":""Devine 36 CHANSONS de MICHAEL JACKSON 👑🎶 | Blind Test Michael Jackson"" ""vi"
 2026-05-28 08:12,Channel,Failed,0.802,Timeout or Error
@@ -1204,3 +1199,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-27 05:42,Channel,Failed,0.504,Timeout or Error
 2026-06-27 05:42,Comments,Failed,0.795,Timeout or Error
 2026-06-27 05:42,Playlist,Failed,0.632,Timeout or Error
+2026-06-27 07:06,Video,Failed,0.82,Timeout or Error
+2026-06-27 07:06,Search,Failed,1.272,Timeout or Error
+2026-06-27 07:06,Channel,Failed,0.794,Timeout or Error
+2026-06-27 07:06,Comments,Failed,0.995,Timeout or Error
+2026-06-27 07:06,Playlist,Failed,0.513,Timeout or Error
