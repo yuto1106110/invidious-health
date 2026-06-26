@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-28 04:19,Video,Failed,0.433,Timeout or Error
-2026-05-28 04:19,Search,OK,1.084,"[{""type"":""video"" ""title"":""007 FIRST LIGHT REVIEW 🌟 The BEST JAMES BOND GAME EVER !!!"" ""videoId"":""SIC"
-2026-05-28 04:19,Channel,Failed,0.615,Timeout or Error
-2026-05-28 04:19,Comments,Failed,0.771,Timeout or Error
-2026-05-28 04:19,Playlist,Failed,0.313,Timeout or Error
 2026-05-28 06:48,Video,Failed,0.823,Timeout or Error
 2026-05-28 06:48,Search,OK,1.031,"[{""type"":""video"" ""title"":""Devine 36 CHANSONS de MICHAEL JACKSON 👑🎶 | Blind Test Michael Jackson"" ""vi"
 2026-05-28 06:48,Channel,Failed,0.652,Timeout or Error
@@ -1204,3 +1199,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-27 03:26,Channel,Failed,0.54,Timeout or Error
 2026-06-27 03:26,Comments,Failed,0.8,Timeout or Error
 2026-06-27 03:26,Playlist,Failed,0.551,Timeout or Error
+2026-06-27 05:42,Video,Failed,0.786,Timeout or Error
+2026-06-27 05:42,Search,OK,1.137,"[{""type"":""video"" ""title"":""50 QUESTIONS pour TESTER TON SAVOIR 🧠🤯 | Quiz Culture Générale"" ""videoId"":"
+2026-06-27 05:42,Channel,Failed,0.504,Timeout or Error
+2026-06-27 05:42,Comments,Failed,0.795,Timeout or Error
+2026-06-27 05:42,Playlist,Failed,0.632,Timeout or Error
