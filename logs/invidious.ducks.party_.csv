@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-27 13:24,Video,Failed,0.466,Timeout or Error
-2026-05-27 13:24,Search,OK,0.923,"[{""type"":""video"" ""title"":""199€ Klimaanlage schlägt Midea PortaSplit?! Der Test überrascht!"" ""videoId"
-2026-05-27 13:24,Channel,Failed,0.486,Timeout or Error
-2026-05-27 13:24,Comments,OK,0.746,"{""commentCount"":10516480 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-27 13:24,Playlist,Failed,0.492,Timeout or Error
 2026-05-27 17:36,Video,Failed,0.476,Timeout or Error
 2026-05-27 17:36,Search,OK,0.942,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-05-27 17:36,Channel,Failed,0.513,Timeout or Error
@@ -1194,3 +1189,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-26 11:47,Channel,Failed,0.451,Timeout or Error
 2026-06-26 11:47,Comments,OK,0.637,"{""commentCount"":10532666 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-06-26 11:47,Playlist,Failed,0.463,Timeout or Error
+2026-06-26 15:50,Video,Failed,1.047,Timeout or Error
+2026-06-26 15:50,Search,OK,0.902,"[{""type"":""video"" ""title"":""XREAL 1S im Test – Endlich eine AR-Brille  die wirklich Sinn macht?"" ""vide"
+2026-06-26 15:50,Channel,Failed,0.504,Timeout or Error
+2026-06-26 15:50,Comments,OK,0.74,"{""commentCount"":10532840 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-06-26 15:50,Playlist,Failed,0.555,Timeout or Error
