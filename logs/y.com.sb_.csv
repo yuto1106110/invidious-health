@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-29 06:04,Video,Failed,0.222,Timeout or Error
-2026-05-29 06:04,Search,OK,0.868,"[{""type"":""video"" ""title"":""ICH MACHE EINEN ... TEST"" ""videoId"":""bNwF5s9ObwI"" ""author"":""LetsHugo Live"""
-2026-05-29 06:04,Channel,Failed,0.448,Timeout or Error
-2026-05-29 06:04,Comments,OK,0.76,"{""commentCount"":10517346 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-29 06:04,Playlist,Failed,0.409,Timeout or Error
 2026-05-29 08:09,Video,Failed,0.451,Timeout or Error
 2026-05-29 08:09,Search,OK,0.9,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-05-29 08:09,Channel,Failed,0.439,Timeout or Error
@@ -1224,3 +1219,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-28 05:54,Channel,Failed,0.232,Timeout or Error
 2026-06-28 05:54,Comments,Failed,0.262,Timeout or Error
 2026-06-28 05:54,Playlist,Failed,0.235,Timeout or Error
+2026-06-28 06:58,Video,Failed,0.264,Timeout or Error
+2026-06-28 06:58,Search,Failed,0.259,Timeout or Error
+2026-06-28 06:58,Channel,Failed,0.242,Timeout or Error
+2026-06-28 06:58,Comments,Failed,0.617,Timeout or Error
+2026-06-28 06:58,Playlist,Failed,0.267,Timeout or Error
