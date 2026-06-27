@@ -1209,3 +1209,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-27 20:39,Channel,Failed,0.512,Timeout or Error
 2026-06-27 20:39,Comments,OK,0.748,"{""commentCount"":10533870 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-06-27 20:39,Playlist,Failed,0.548,Timeout or Error
+2026-06-27 22:20,Video,Failed,0.52,Timeout or Error
+2026-06-27 22:20,Search,OK,1.14,"[{""type"":""video"" ""title"":""Der beste Mäher  den niemand braucht: Roborock NaviMow"" ""videoId"":""SQKCrL1"
+2026-06-27 22:20,Channel,Failed,0.516,Timeout or Error
+2026-06-27 22:20,Comments,OK,1.027,"{""commentCount"":10533861 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-06-27 22:20,Playlist,Failed,0.541,Timeout or Error
