@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-29 03:01,Video,Failed,0.454,Timeout or Error
-2026-05-29 03:01,Search,OK,1.07,"[{""type"":""video"" ""title"":""ICH MACHE EINEN ... TEST"" ""videoId"":""bNwF5s9ObwI"" ""author"":""LetsHugo Live"""
-2026-05-29 03:01,Channel,Failed,0.501,Timeout or Error
-2026-05-29 03:01,Comments,OK,0.766,"{""commentCount"":10517369 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-29 03:01,Playlist,Failed,0.5,Timeout or Error
 2026-05-29 06:04,Video,Failed,0.313,Timeout or Error
 2026-05-29 06:04,Search,OK,0.759,"[{""type"":""video"" ""title"":""ICH MACHE EINEN KOMISCHEN TEST.."" ""videoId"":""bNwF5s9ObwI"" ""author"":""LetsHu"
 2026-05-29 06:04,Channel,Failed,0.344,Timeout or Error
@@ -1219,3 +1214,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-28 02:03,Channel,Failed,0.468,Timeout or Error
 2026-06-28 02:03,Comments,OK,0.762,"{""commentCount"":10533931 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-06-28 02:03,Playlist,Failed,0.57,Timeout or Error
+2026-06-28 04:11,Video,Failed,0.497,Timeout or Error
+2026-06-28 04:11,Search,OK,1.036,"[{""type"":""video"" ""title"":""The Chemical Brothers - The Test (Official Music Video)"" ""videoId"":""yhS9Ln"
+2026-06-28 04:11,Channel,Failed,0.521,Timeout or Error
+2026-06-28 04:11,Comments,OK,0.808,"{""commentCount"":10534106 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-06-28 04:11,Playlist,Failed,0.588,Timeout or Error

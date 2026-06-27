@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-29 03:01,Video,Failed,0.388,Timeout or Error
-2026-05-29 03:01,Search,OK,0.978,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-05-29 03:01,Channel,Failed,0.442,Timeout or Error
-2026-05-29 03:01,Comments,OK,0.781,"{""commentCount"":10517370 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-29 03:01,Playlist,Failed,0.463,Timeout or Error
-2026-05-29 03:01,Video,Failed,0.361,Timeout or Error
-2026-05-29 03:01,Search,OK,1.057,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-05-29 03:01,Channel,Failed,0.44,Timeout or Error
-2026-05-29 03:01,Comments,OK,0.737,"{""commentCount"":10517369 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-29 03:01,Playlist,Failed,0.447,Timeout or Error
 2026-05-29 06:04,Video,Failed,0.293,Timeout or Error
 2026-05-29 06:04,Search,OK,0.969,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-05-29 06:04,Channel,Failed,0.39,Timeout or Error
@@ -2439,3 +2429,13 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-28 02:03,Channel,Failed,1.063,Timeout or Error
 2026-06-28 02:03,Comments,OK,0.699,"{""commentCount"":10533931 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-06-28 02:03,Playlist,Failed,1.062,Timeout or Error
+2026-06-28 04:11,Video,Failed,0.424,Timeout or Error
+2026-06-28 04:11,Search,Failed,1.028,Timeout or Error
+2026-06-28 04:11,Channel,Failed,0.571,Timeout or Error
+2026-06-28 04:11,Comments,OK,0.847,"{""commentCount"":10534106 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-06-28 04:11,Playlist,Failed,0.519,Timeout or Error
+2026-06-28 04:11,Video,Failed,0.436,Timeout or Error
+2026-06-28 04:11,Search,Failed,1.027,Timeout or Error
+2026-06-28 04:11,Channel,Failed,0.533,Timeout or Error
+2026-06-28 04:11,Comments,OK,0.781,"{""commentCount"":10534106 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-06-28 04:11,Playlist,Failed,0.641,Timeout or Error
