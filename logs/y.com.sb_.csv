@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-29 19:40,Video,Failed,0.301,Timeout or Error
-2026-05-29 19:40,Search,OK,0.77,"[{""type"":""video"" ""title"":""Dolby Atmos Sound Test"" ""videoId"":""FLH1aARTpMg"" ""author"":""Bits and Pieces"""
-2026-05-29 19:40,Channel,Failed,1.476,Timeout or Error
-2026-05-29 19:40,Comments,OK,0.635,"{""commentCount"":10517581 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-29 19:40,Playlist,Failed,0.362,Timeout or Error
 2026-05-29 22:54,Video,Failed,0.349,Timeout or Error
 2026-05-29 22:54,Search,OK,0.872,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-05-29 22:54,Channel,Failed,0.342,Timeout or Error
@@ -1229,3 +1224,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-28 19:05,Channel,Failed,0.434,Timeout or Error
 2026-06-28 19:05,Comments,OK,0.877,"{""commentCount"":10534445 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-06-28 19:05,Playlist,Failed,0.456,Timeout or Error
+2026-06-28 21:13,Video,Failed,1.311,Timeout or Error
+2026-06-28 21:13,Search,OK,1.139,"[{""type"":""video"" ""title"":""The Chemical Brothers - The Test (Official Music Video)"" ""videoId"":""yhS9Ln"
+2026-06-28 21:13,Channel,Failed,0.483,Timeout or Error
+2026-06-28 21:13,Comments,Failed,0.318,Timeout or Error
+2026-06-28 21:13,Playlist,Failed,0.863,Timeout or Error
