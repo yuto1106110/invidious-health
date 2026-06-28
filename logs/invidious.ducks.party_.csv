@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-30 05:12,Video,Failed,0.328,Timeout or Error
-2026-05-30 05:12,Search,OK,0.767,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-05-30 05:12,Channel,Failed,0.503,Timeout or Error
-2026-05-30 05:12,Comments,OK,0.679,"{""commentCount"":10518039 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-30 05:12,Playlist,Failed,0.356,Timeout or Error
 2026-05-30 07:24,Video,Failed,0.337,Timeout or Error
 2026-05-30 07:24,Search,OK,0.862,"[{""type"":""video"" ""title"":""Dieses Spiel gehört ins Kino - 007 First Light ist Action in Bestform! - T"
 2026-05-30 07:24,Channel,Failed,0.366,Timeout or Error
@@ -1239,3 +1234,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-29 05:08,Channel,Failed,0.386,Timeout or Error
 2026-06-29 05:08,Comments,OK,1.101,"{""commentCount"":10534993 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-06-29 05:08,Playlist,Failed,0.493,Timeout or Error
+2026-06-29 06:58,Video,Failed,1.093,Timeout or Error
+2026-06-29 06:58,Search,OK,0.905,"[{""type"":""video"" ""title"":""The Chemical Brothers - The Test (Official Music Video)"" ""videoId"":""yhS9Ln"
+2026-06-29 06:58,Channel,Failed,0.485,Timeout or Error
+2026-06-29 06:58,Comments,OK,0.742,"{""commentCount"":10534972 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-06-29 06:58,Playlist,Failed,0.603,Timeout or Error
