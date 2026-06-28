@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-30 07:24,Video,Failed,0.457,Timeout or Error
-2026-05-30 07:24,Search,OK,0.87,"[{""type"":""video"" ""title"":""007 FIRST LIGHT : Le meilleur jeu James Bond ? TEST"" ""videoId"":""wBK8WrXyJY"
-2026-05-30 07:24,Channel,Failed,0.595,Timeout or Error
-2026-05-30 07:24,Comments,Failed,0.811,Timeout or Error
-2026-05-30 07:24,Playlist,Failed,0.346,Timeout or Error
 2026-05-30 09:04,Video,Failed,0.499,Timeout or Error
 2026-05-30 09:04,Search,OK,0.782,"[{""type"":""video"" ""title"":""50 QUESTIONS pour TESTER TON SAVOIR 🧠🤯 | Quiz Culture Générale"" ""videoId"":"
 2026-05-30 09:04,Channel,Failed,0.386,Timeout or Error
@@ -1239,3 +1234,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-29 06:58,Channel,Failed,0.505,Timeout or Error
 2026-06-29 06:58,Comments,Failed,1.116,Timeout or Error
 2026-06-29 06:58,Playlist,Failed,0.784,Timeout or Error
+2026-06-29 08:04,Video,Failed,0.804,Timeout or Error
+2026-06-29 08:04,Search,Failed,1.108,Timeout or Error
+2026-06-29 08:04,Channel,Failed,0.531,Timeout or Error
+2026-06-29 08:04,Comments,Failed,1.016,Timeout or Error
+2026-06-29 08:04,Playlist,Failed,0.533,Timeout or Error
