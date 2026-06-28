@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-29 08:09,Video,Failed,0.451,Timeout or Error
-2026-05-29 08:09,Search,OK,0.9,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-05-29 08:09,Channel,Failed,0.439,Timeout or Error
-2026-05-29 08:09,Comments,OK,0.678,"{""commentCount"":10517418 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-29 08:09,Playlist,Failed,0.508,Timeout or Error
-2026-05-29 11:41,Video,Failed,0.319,Timeout or Error
-2026-05-29 11:41,Search,OK,0.746,"[{""type"":""video"" ""title"":""ICH MACHE EINEN KOMISCHEN TEST.."" ""videoId"":""bNwF5s9ObwI"" ""author"":""LetsHu"
-2026-05-29 11:41,Channel,Failed,0.338,Timeout or Error
-2026-05-29 11:41,Comments,OK,0.501,"{""commentCount"":10517476 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-29 11:41,Playlist,Failed,0.343,Timeout or Error
 2026-05-29 15:49,Video,Failed,1.327,Timeout or Error
 2026-05-29 15:49,Search,OK,1.066,"[{""type"":""video"" ""title"":""Dolby Atmos Sound Test"" ""videoId"":""FLH1aARTpMg"" ""author"":""Bits and Pieces"""
 2026-05-29 15:49,Channel,Failed,0.52,Timeout or Error
@@ -1229,3 +1219,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-28 08:04,Channel,Failed,0.397,Timeout or Error
 2026-06-28 08:04,Comments,Failed,0.309,Timeout or Error
 2026-06-28 08:04,Playlist,Failed,0.307,Timeout or Error
+2026-06-28 11:52,Video,Failed,1.279,Timeout or Error
+2026-06-28 11:52,Search,Failed,0.409,Timeout or Error
+2026-06-28 11:52,Channel,Failed,0.187,Timeout or Error
+2026-06-28 11:52,Comments,Failed,0.218,Timeout or Error
+2026-06-28 11:52,Playlist,Failed,0.258,Timeout or Error
