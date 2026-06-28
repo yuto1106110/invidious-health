@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-30 02:30,Video,Failed,0.485,Timeout or Error
-2026-05-30 02:30,Search,OK,0.996,"[{""type"":""video"" ""title"":""2026 Renault Clio: It’s Simply Beautiful! - Review  Test"" ""videoId"":""3FSoP"
-2026-05-30 02:30,Channel,Failed,0.565,Timeout or Error
-2026-05-30 02:30,Comments,OK,0.861,"{""commentCount"":10517829 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-30 02:30,Playlist,Failed,0.501,Timeout or Error
 2026-05-30 05:12,Video,Failed,0.304,Timeout or Error
 2026-05-30 05:12,Search,OK,0.987,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-05-30 05:12,Channel,Failed,0.354,Timeout or Error
@@ -1234,3 +1229,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-29 01:05,Channel,Failed,1.326,Timeout or Error
 2026-06-29 01:05,Comments,Failed,1.329,Timeout or Error
 2026-06-29 01:05,Playlist,Failed,1.326,Timeout or Error
+2026-06-29 03:00,Video,Failed,1.301,Timeout or Error
+2026-06-29 03:00,Search,Failed,1.307,Timeout or Error
+2026-06-29 03:00,Channel,Failed,1.31,Timeout or Error
+2026-06-29 03:00,Comments,Failed,1.3,Timeout or Error
+2026-06-29 03:00,Playlist,Failed,1.3,Timeout or Error

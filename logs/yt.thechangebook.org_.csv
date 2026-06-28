@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-30 02:30,Video,Failed,0.762,Timeout or Error
-2026-05-30 02:30,Search,OK,1.253,"[{""type"":""video"" ""title"":""QUIZ Culture Générale 🧠 : 100 Questions pour tester votre niveau"" ""videoId"
-2026-05-30 02:30,Channel,Failed,0.68,Timeout or Error
-2026-05-30 02:30,Comments,Failed,0.871,Timeout or Error
-2026-05-30 02:30,Playlist,Failed,0.513,Timeout or Error
 2026-05-30 05:12,Video,Failed,0.642,Timeout or Error
 2026-05-30 05:12,Search,OK,1.014,"[{""type"":""video"" ""title"":""TEST 007 FIRST LIGHT : James Bond technologique ou James bon pour la casse"
 2026-05-30 05:12,Channel,Failed,0.473,Timeout or Error
@@ -1234,3 +1229,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-29 01:05,Channel,Failed,0.667,Timeout or Error
 2026-06-29 01:05,Comments,Failed,0.84,Timeout or Error
 2026-06-29 01:05,Playlist,Failed,0.591,Timeout or Error
+2026-06-29 03:00,Video,Failed,0.843,Timeout or Error
+2026-06-29 03:00,Search,OK,1.14,"[{""type"":""video"" ""title"":""ON TESTE LES PROMESSES DE PUBLICITÉS #6"" ""videoId"":""T0aGmpVzFKg"" ""author"":"
+2026-06-29 03:00,Channel,Failed,0.793,Timeout or Error
+2026-06-29 03:00,Comments,Failed,1.079,Timeout or Error
+2026-06-29 03:00,Playlist,Failed,0.518,Timeout or Error
