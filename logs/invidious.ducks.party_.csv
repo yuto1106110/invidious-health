@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-30 09:04,Video,Failed,0.354,Timeout or Error
-2026-05-30 09:04,Search,OK,0.785,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
-2026-05-30 09:04,Channel,Failed,0.374,Timeout or Error
-2026-05-30 09:04,Comments,OK,0.573,"{""commentCount"":10518242 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-30 09:04,Playlist,Failed,0.383,Timeout or Error
 2026-05-30 13:46,Video,Failed,0.361,Timeout or Error
 2026-05-30 13:46,Search,OK,0.758,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-05-30 13:46,Channel,Failed,0.389,Timeout or Error
@@ -1239,3 +1234,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-29 08:04,Channel,Failed,0.52,Timeout or Error
 2026-06-29 08:04,Comments,OK,0.806,"{""commentCount"":10535019 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-06-29 08:04,Playlist,Failed,0.538,Timeout or Error
+2026-06-29 11:53,Video,Failed,0.311,Timeout or Error
+2026-06-29 11:53,Search,OK,0.736,"[{""type"":""video"" ""title"":""The Chemical Brothers - The Test (Official Music Video)"" ""videoId"":""yhS9Ln"
+2026-06-29 11:53,Channel,Failed,0.333,Timeout or Error
+2026-06-29 11:53,Comments,OK,0.577,"{""commentCount"":10535211 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-06-29 11:53,Playlist,Failed,0.407,Timeout or Error
