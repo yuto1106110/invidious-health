@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-30 13:46,Video,Failed,0.361,Timeout or Error
-2026-05-30 13:46,Search,OK,0.758,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-05-30 13:46,Channel,Failed,0.389,Timeout or Error
-2026-05-30 13:46,Comments,OK,0.568,"{""commentCount"":10518538 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-30 13:46,Playlist,Failed,0.385,Timeout or Error
 2026-05-30 16:36,Video,Failed,0.321,Timeout or Error
 2026-05-30 16:36,Search,OK,0.854,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-05-30 16:36,Channel,Failed,0.351,Timeout or Error
@@ -1239,3 +1234,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-29 11:53,Channel,Failed,0.333,Timeout or Error
 2026-06-29 11:53,Comments,OK,0.577,"{""commentCount"":10535211 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-06-29 11:53,Playlist,Failed,0.407,Timeout or Error
+2026-06-29 16:25,Video,Failed,0.312,Timeout or Error
+2026-06-29 16:25,Search,OK,0.8,"[{""type"":""video"" ""title"":""Frozen Pizza Test: This Pizza Beats Your Local Italian Restaurant"" ""videoI"
+2026-06-29 16:25,Channel,Failed,0.348,Timeout or Error
+2026-06-29 16:25,Comments,OK,0.629,"{""commentCount"":10535327 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-06-29 16:25,Playlist,Failed,0.345,Timeout or Error
