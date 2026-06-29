@@ -1,19 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-30 16:36,Video,Failed,0.3,Timeout or Error
-2026-05-30 16:36,Search,Failed,0.209,Timeout or Error
-2026-05-30 16:36,Channel,Failed,0.827,Timeout or Error
-2026-05-30 16:36,Comments,OK,0.527,"{""commentCount"":10518707 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-30 16:36,Playlist,Failed,0.46,Timeout or Error
-2026-05-30 18:53,Video,Failed,0.281,Timeout or Error
-2026-05-30 18:53,Search,Failed,0.278,Timeout or Error
-2026-05-30 18:53,Channel,Failed,0.276,Timeout or Error
-2026-05-30 18:53,Comments,OK,0.845,"{""commentCount"":10518862 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-30 18:53,Playlist,Failed,0.462,Timeout or Error
-2026-05-30 20:15,Video,Failed,1.164,Timeout or Error
-2026-05-30 20:15,Search,OK,0.942,"[{""type"":""video"" ""title"":""SUBWOOFER WARNING BASS TEST | EXTREME HIGH BASS TEST | SOUND CHECK | YOGES"
-2026-05-30 20:15,Channel,Failed,0.205,Timeout or Error
-2026-05-30 20:15,Comments,OK,0.736,"{""commentCount"":10518993 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-05-30 20:15,Playlist,Failed,0.332,Timeout or Error
 2026-05-30 22:15,Video,Failed,0.347,Timeout or Error
 2026-05-30 22:15,Search,OK,0.888,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-05-30 22:15,Channel,Failed,0.374,Timeout or Error
@@ -1239,3 +1224,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-29 16:25,Channel,Failed,0.206,Timeout or Error
 2026-06-29 16:25,Comments,Failed,0.212,Timeout or Error
 2026-06-29 16:25,Playlist,Failed,0.208,Timeout or Error
+2026-06-29 21:25,Video,Failed,0.217,Timeout or Error
+2026-06-29 21:25,Search,Failed,0.216,Timeout or Error
+2026-06-29 21:25,Channel,Failed,0.376,Timeout or Error
+2026-06-29 21:25,Comments,Failed,0.231,Timeout or Error
+2026-06-29 21:25,Playlist,Failed,0.504,Timeout or Error
