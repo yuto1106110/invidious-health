@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-31 05:04,Video,Failed,0.706,Timeout or Error
-2026-05-31 05:04,Search,OK,1.071,"[{""type"":""video"" ""title"":""QUIZ Culture Générale 🧠 : 100 Questions pour tester votre niveau"" ""videoId"
-2026-05-31 05:04,Channel,Failed,0.496,Timeout or Error
-2026-05-31 05:04,Comments,Failed,0.939,Timeout or Error
-2026-05-31 05:04,Playlist,Failed,0.525,Timeout or Error
 2026-05-31 06:55,Video,Failed,0.524,Timeout or Error
 2026-05-31 06:55,Search,OK,1.012,"[{""type"":""video"" ""title"":""QUIZ Culture Générale 🧠 : 100 Questions pour tester votre niveau"" ""videoId"
 2026-05-31 06:55,Channel,Failed,0.319,Timeout or Error
@@ -1219,3 +1214,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-30 04:00,Channel,Failed,0.784,Timeout or Error
 2026-06-30 04:00,Comments,Failed,0.911,Timeout or Error
 2026-06-30 04:00,Playlist,Failed,0.559,Timeout or Error
+2026-06-30 06:20,Video,Failed,0.603,Timeout or Error
+2026-06-30 06:20,Search,Failed,0.964,Timeout or Error
+2026-06-30 06:20,Channel,Failed,0.624,Timeout or Error
+2026-06-30 06:20,Comments,Failed,0.783,Timeout or Error
+2026-06-30 06:20,Playlist,Failed,0.563,Timeout or Error
