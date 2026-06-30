@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-06-01 04:13,Video,Failed,0.648,Timeout or Error
-2026-06-01 04:13,Search,OK,1.324,"[{""type"":""video"" ""title"":""45 Questions sur les Animaux 🐼🐦🐍 | Quiz de Culture Générale"" ""videoId"":""2M"
-2026-06-01 04:13,Channel,Failed,0.618,Timeout or Error
-2026-06-01 04:13,Comments,Failed,0.959,Timeout or Error
-2026-06-01 04:13,Playlist,Failed,1.462,Timeout or Error
-2026-06-01 05:53,Video,Failed,0.692,Timeout or Error
-2026-06-01 05:53,Search,OK,1.194,"[{""type"":""video"" ""title"":""45 Questions sur les Animaux 🐼🐦🐍 | Quiz de Culture Générale"" ""videoId"":""2M"
-2026-06-01 05:53,Channel,Failed,0.723,Timeout or Error
-2026-06-01 05:53,Comments,Failed,0.821,Timeout or Error
-2026-06-01 05:53,Playlist,Failed,0.687,Timeout or Error
 2026-06-01 06:54,Video,Failed,0.602,Timeout or Error
 2026-06-01 06:54,Search,OK,0.928,"[{""type"":""video"" ""title"":""QUIZ Culture Générale 🧠 : 100 Questions pour tester votre niveau"" ""videoId"
 2026-06-01 06:54,Channel,Failed,0.554,Timeout or Error
@@ -1209,3 +1199,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-07-01 03:52,Channel,Failed,0.437,Timeout or Error
 2026-07-01 03:52,Comments,Failed,0.853,Timeout or Error
 2026-07-01 03:52,Playlist,Failed,0.403,Timeout or Error
+2026-07-01 05:54,Video,Failed,0.888,Timeout or Error
+2026-07-01 05:54,Search,OK,1.257,"[{""type"":""video"" ""title"":""50 QUESTIONS pour TESTER TON SAVOIR 🧠🤯 | Quiz Culture Générale"" ""videoId"":"
+2026-07-01 05:54,Channel,Failed,0.613,Timeout or Error
+2026-07-01 05:54,Comments,Failed,1.231,Timeout or Error
+2026-07-01 05:54,Playlist,Failed,0.47,Timeout or Error
