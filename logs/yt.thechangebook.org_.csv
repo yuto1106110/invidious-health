@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-05-31 23:27,Video,Failed,0.575,Timeout or Error
-2026-05-31 23:27,Search,OK,0.907,"[{""type"":""video"" ""title"":""QUIZ Culture Générale 🧠 : 100 Questions pour tester votre niveau"" ""videoId"
-2026-05-31 23:27,Channel,Failed,0.421,Timeout or Error
-2026-05-31 23:27,Comments,Failed,0.836,Timeout or Error
-2026-05-31 23:27,Playlist,Failed,0.563,Timeout or Error
-2026-06-01 01:01,Video,Failed,0.431,Timeout or Error
-2026-06-01 01:01,Search,OK,1.124,"[{""type"":""video"" ""title"":""45 Questions sur les Animaux 🐼🐦🐍 | Quiz de Culture Générale"" ""videoId"":""2M"
-2026-06-01 01:01,Channel,Failed,0.555,Timeout or Error
-2026-06-01 01:01,Comments,Failed,1.037,Timeout or Error
-2026-06-01 01:01,Playlist,Failed,0.312,Timeout or Error
 2026-06-01 02:56,Video,Failed,0.461,Timeout or Error
 2026-06-01 02:56,Search,OK,1.241,"[{""type"":""video"" ""title"":""OLED TEST HDR 4K 120FPS DOLBY VISION 🏞 4K / 8K Monitor Test Video #BGM"" ""v"
 2026-06-01 02:56,Channel,Failed,0.781,Timeout or Error
@@ -1214,3 +1204,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-06-30 22:07,Channel,Failed,0.531,Timeout or Error
 2026-06-30 22:07,Comments,Failed,1.277,Timeout or Error
 2026-06-30 22:07,Playlist,Failed,0.713,Timeout or Error
+2026-07-01 01:20,Video,Failed,0.609,Timeout or Error
+2026-07-01 01:20,Search,Failed,1.092,Timeout or Error
+2026-07-01 01:20,Channel,Failed,0.45,Timeout or Error
+2026-07-01 01:20,Comments,Failed,0.767,Timeout or Error
+2026-07-01 01:20,Playlist,Failed,0.731,Timeout or Error
