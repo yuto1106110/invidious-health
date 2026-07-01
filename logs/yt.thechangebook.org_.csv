@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-06-01 14:56,Video,Failed,0.589,Timeout or Error
-2026-06-01 14:56,Search,OK,0.977,"[{""type"":""video"" ""title"":""We're testing the motorcycle we won at the funfair (with La Boiserie)"" ""vi"
-2026-06-01 14:56,Channel,Failed,0.568,Timeout or Error
-2026-06-01 14:56,Comments,Failed,0.529,Timeout or Error
-2026-06-01 14:56,Playlist,Failed,0.325,Timeout or Error
 2026-06-01 20:28,Video,Failed,0.342,Timeout or Error
 2026-06-01 20:28,Search,OK,1.119,"[{""type"":""video"" ""title"":""OLED TEST HDR 4K 120FPS DOLBY VISION 🏞 4K / 8K Monitor Test Video #BGM"" ""v"
 2026-06-01 20:28,Channel,Failed,0.42,Timeout or Error
@@ -1204,3 +1199,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-07-01 14:17,Channel,Failed,0.645,Timeout or Error
 2026-07-01 14:17,Comments,Failed,0.724,Timeout or Error
 2026-07-01 14:17,Playlist,Failed,0.66,Timeout or Error
+2026-07-01 18:35,Video,Failed,0.491,Timeout or Error
+2026-07-01 18:35,Search,Failed,1.179,Timeout or Error
+2026-07-01 18:35,Channel,Failed,0.632,Timeout or Error
+2026-07-01 18:35,Comments,Failed,0.931,Timeout or Error
+2026-07-01 18:35,Playlist,Failed,0.47,Timeout or Error
