@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-06-02 02:26,Video,OK,1.346,
-2026-06-02 02:26,Search,OK,1.388,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-06-02 02:26,Channel,Failed,0.438,Timeout or Error
-2026-06-02 02:26,Comments,OK,1.554,"{""commentCount"":10521176 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-06-02 02:26,Playlist,Failed,0.707,Timeout or Error
 2026-06-02 06:24,Video,Failed,1.71,Timeout or Error
 2026-06-02 06:24,Search,OK,1.781,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-06-02 06:24,Channel,Failed,0.982,Timeout or Error
@@ -1209,3 +1204,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-07-02 00:36,Channel,Failed,0.789,Timeout or Error
 2026-07-02 00:36,Comments,OK,1.14,"{""commentCount"":10534015 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-07-02 00:36,Playlist,Failed,0.678,Timeout or Error
+2026-07-02 02:49,Video,OK,0.839,
+2026-07-02 02:49,Search,OK,1.553,"[{""type"":""video"" ""title"":""200 of World’s Funniest Kid Test Answers!"" ""videoId"":""MUGc1QAnSmg"" ""author"
+2026-07-02 02:49,Channel,Failed,0.587,Timeout or Error
+2026-07-02 02:49,Comments,OK,0.903,"{""commentCount"":10534149 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-07-02 02:49,Playlist,Failed,1.135,Timeout or Error
