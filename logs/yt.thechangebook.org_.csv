@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-06-04 01:26,Video,Failed,0.657,Timeout or Error
-2026-06-04 01:26,Search,OK,1.061,"[{""type"":""video"" ""title"":""OLED TEST HDR 4K 120FPS DOLBY VISION 🏞 4K / 8K Monitor Test Video #BGM"" ""v"
-2026-06-04 01:26,Channel,Failed,0.623,Timeout or Error
-2026-06-04 01:26,Comments,Failed,0.843,Timeout or Error
-2026-06-04 01:26,Playlist,Failed,0.698,Timeout or Error
 2026-06-04 05:14,Video,Failed,0.662,Timeout or Error
 2026-06-04 05:14,Search,OK,1.199,"[{""type"":""video"" ""title"":""Never-Before-Seen Dolby Vision OLED HDR TEST 120fps | 16K ULTRA HD Nature "
 2026-06-04 05:14,Channel,Failed,0.592,Timeout or Error
@@ -1244,3 +1239,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-07-04 00:04,Channel,Failed,0.475,Timeout or Error
 2026-07-04 00:04,Comments,Failed,0.676,Timeout or Error
 2026-07-04 00:04,Playlist,Failed,0.538,Timeout or Error
+2026-07-04 02:18,Video,Failed,1.492,Timeout or Error
+2026-07-04 02:18,Search,OK,1.599,"[{""type"":""video"" ""title"":""QUIZ : 100 Questions de Culture Générale #4 - Testez votre niveau"" ""videoI"
+2026-07-04 02:18,Channel,Failed,0.737,Timeout or Error
+2026-07-04 02:18,Comments,Failed,1.013,Timeout or Error
+2026-07-04 02:18,Playlist,Failed,0.518,Timeout or Error
