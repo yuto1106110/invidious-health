@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-06-04 08:01,Video,OK,1.329,
-2026-06-04 08:01,Search,OK,1.251,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-06-04 08:01,Channel,Failed,0.419,Timeout or Error
-2026-06-04 08:01,Comments,OK,0.696,"{""commentCount"":10523468 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-06-04 08:01,Playlist,Failed,0.712,Timeout or Error
 2026-06-04 12:28,Video,OK,1.042,
 2026-06-04 12:28,Search,OK,0.939,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-06-04 12:28,Channel,Failed,0.631,Timeout or Error
@@ -1254,3 +1249,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-07-04 07:03,Channel,Failed,0.317,Timeout or Error
 2026-07-04 07:03,Comments,OK,0.994,"{""commentCount"":10533259 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-07-04 07:03,Playlist,Failed,0.55,Timeout or Error
+2026-07-04 08:59,Video,OK,0.845,
+2026-07-04 08:59,Search,OK,1.661,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-07-04 08:59,Channel,Failed,0.717,Timeout or Error
+2026-07-04 08:59,Comments,OK,0.891,"{""commentCount"":10533342 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-07-04 08:59,Playlist,Failed,1.026,Timeout or Error
