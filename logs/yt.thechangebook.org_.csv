@@ -1259,3 +1259,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-07-04 18:18,Channel,Failed,0.46,Timeout or Error
 2026-07-04 18:18,Comments,Failed,0.749,Timeout or Error
 2026-07-04 18:18,Playlist,Failed,0.438,Timeout or Error
+2026-07-04 20:21,Video,Failed,1.231,Timeout or Error
+2026-07-04 20:21,Search,OK,0.833,"[{""type"":""video"" ""title"":""🧠 Devine le LOGO en 3 SECONDES ✅🔥🤔 | 300 Logos Célèbres | Quiz Logos 2024"""
+2026-07-04 20:21,Channel,Failed,0.476,Timeout or Error
+2026-07-04 20:21,Comments,Failed,1.45,Timeout or Error
+2026-07-04 20:21,Playlist,Failed,0.372,Timeout or Error
