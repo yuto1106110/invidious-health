@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-06-04 17:14,Video,Failed,0.594,Timeout or Error
-2026-06-04 17:14,Search,OK,0.998,"[{""type"":""video"" ""title"":""OLED TEST HDR 4K 120FPS DOLBY VISION 🏞 4K / 8K Monitor Test Video #BGM"" ""v"
-2026-06-04 17:14,Channel,Failed,0.586,Timeout or Error
-2026-06-04 17:14,Comments,Failed,0.676,Timeout or Error
-2026-06-04 17:14,Playlist,Failed,0.555,Timeout or Error
 2026-06-04 20:47,Video,Failed,0.686,Timeout or Error
 2026-06-04 20:47,Search,OK,1.256,"[{""type"":""video"" ""title"":""BLIND TEST TOUTES GÉNÉRATIONS Spécial MUSIQUES DES ANNÉES 1960 À 2025"" ""vi"
 2026-06-04 20:47,Channel,Failed,0.651,Timeout or Error
@@ -1259,3 +1254,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-07-04 15:42,Channel,Failed,0.458,Timeout or Error
 2026-07-04 15:42,Comments,Failed,0.596,Timeout or Error
 2026-07-04 15:42,Playlist,Failed,0.345,Timeout or Error
+2026-07-04 18:18,Video,Failed,1.308,Timeout or Error
+2026-07-04 18:18,Search,OK,0.89,"[{""type"":""video"" ""title"":""🧠 Devine le LOGO en 3 SECONDES ✅🔥🤔 | 300 Logos Célèbres | Quiz Logos 2024"""
+2026-07-04 18:18,Channel,Failed,0.46,Timeout or Error
+2026-07-04 18:18,Comments,Failed,0.749,Timeout or Error
+2026-07-04 18:18,Playlist,Failed,0.438,Timeout or Error
