@@ -1269,3 +1269,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-07-05 06:52,Channel,Failed,0.508,Timeout or Error
 2026-07-05 06:52,Comments,OK,0.797,"{""commentCount"":10533501 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-07-05 06:52,Playlist,Failed,0.622,Timeout or Error
+2026-07-05 07:52,Video,Failed,0.351,Timeout or Error
+2026-07-05 07:52,Search,OK,0.805,"[{""type"":""video"" ""title"":""Estonian MRE 8 Years Expired Test"" ""videoId"":""Kkm4ekNA9Kw"" ""author"":""3thed"
+2026-07-05 07:52,Channel,Failed,0.392,Timeout or Error
+2026-07-05 07:52,Comments,OK,0.67,"{""commentCount"":10533524 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-07-05 07:52,Playlist,Failed,0.482,Timeout or Error
