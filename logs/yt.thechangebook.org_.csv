@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-06-05 06:41,Video,Failed,0.616,Timeout or Error
-2026-06-05 06:41,Search,OK,0.901,"[{""type"":""video"" ""title"":""50 QUESTIONS pour TESTER TON SAVOIR 🧠🤯 | Quiz Culture Générale"" ""videoId"":"
-2026-06-05 06:41,Channel,Failed,0.337,Timeout or Error
-2026-06-05 06:41,Comments,Failed,0.94,Timeout or Error
-2026-06-05 06:41,Playlist,Failed,0.332,Timeout or Error
 2026-06-05 08:04,Video,Failed,0.539,Timeout or Error
 2026-06-05 08:04,Search,OK,0.844,"[{""type"":""video"" ""title"":""Quel Age Ont Vos Oreilles ? Test Auditif"" ""videoId"":""2_bdA_R7yyc"" ""author"""
 2026-06-05 08:04,Channel,Failed,0.655,Timeout or Error
@@ -1269,3 +1264,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-07-05 05:05,Channel,Failed,0.45,Timeout or Error
 2026-07-05 05:05,Comments,Failed,0.902,Timeout or Error
 2026-07-05 05:05,Playlist,Failed,0.459,Timeout or Error
+2026-07-05 06:52,Video,Failed,1.498,Timeout or Error
+2026-07-05 06:52,Search,OK,1.241,"[{""type"":""video"" ""title"":""🧠 Devine le LOGO en 3 SECONDES ✅🔥🤔 | 300 Logos Célèbres | Quiz Logos 2024"""
+2026-07-05 06:52,Channel,Failed,0.687,Timeout or Error
+2026-07-05 06:52,Comments,Failed,0.792,Timeout or Error
+2026-07-05 06:52,Playlist,Failed,0.541,Timeout or Error

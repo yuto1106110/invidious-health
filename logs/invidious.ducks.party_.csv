@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-06-05 06:41,Video,Failed,0.367,Timeout or Error
-2026-06-05 06:41,Search,OK,0.73,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-06-05 06:41,Channel,Failed,0.394,Timeout or Error
-2026-06-05 06:41,Comments,OK,0.597,"{""commentCount"":10522243 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-06-05 06:41,Playlist,Failed,0.348,Timeout or Error
 2026-06-05 08:04,Video,Failed,0.363,Timeout or Error
 2026-06-05 08:04,Search,OK,0.832,"[{""type"":""video"" ""title"":""16 Wickets an Tag 1 gefallen | Highlights - England gegen Neuseeland | Rot"
 2026-06-05 08:04,Channel,Failed,0.383,Timeout or Error
@@ -1269,3 +1264,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-07-05 05:05,Channel,Failed,0.351,Timeout or Error
 2026-07-05 05:05,Comments,OK,1.167,"{""commentCount"":10533439 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-07-05 05:05,Playlist,Failed,0.479,Timeout or Error
+2026-07-05 06:52,Video,Failed,0.935,Timeout or Error
+2026-07-05 06:52,Search,OK,1.027,"[{""type"":""video"" ""title"":""Estonian MRE 8 Years Expired Test"" ""videoId"":""Kkm4ekNA9Kw"" ""author"":""3thed"
+2026-07-05 06:52,Channel,Failed,0.508,Timeout or Error
+2026-07-05 06:52,Comments,OK,0.797,"{""commentCount"":10533501 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-07-05 06:52,Playlist,Failed,0.622,Timeout or Error
