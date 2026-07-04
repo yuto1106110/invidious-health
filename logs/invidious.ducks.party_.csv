@@ -1264,3 +1264,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-07-05 00:00,Channel,Failed,0.351,Timeout or Error
 2026-07-05 00:00,Comments,OK,0.583,"{""commentCount"":10533131 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-07-05 00:00,Playlist,Failed,0.452,Timeout or Error
+2026-07-05 01:57,Video,Failed,0.308,Timeout or Error
+2026-07-05 01:57,Search,OK,0.899,"[{""type"":""video"" ""title"":""VW ID.3 NEO im Test: Was ist NEU  was ist BESSER? Ausstattung LIFE mit 79 "
+2026-07-05 01:57,Channel,Failed,0.728,Timeout or Error
+2026-07-05 01:57,Comments,OK,0.714,"{""commentCount"":10533246 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-07-05 01:57,Playlist,Failed,0.49,Timeout or Error
