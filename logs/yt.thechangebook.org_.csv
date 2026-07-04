@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-06-04 20:47,Video,Failed,0.686,Timeout or Error
-2026-06-04 20:47,Search,OK,1.256,"[{""type"":""video"" ""title"":""BLIND TEST TOUTES GÉNÉRATIONS Spécial MUSIQUES DES ANNÉES 1960 À 2025"" ""vi"
-2026-06-04 20:47,Channel,Failed,0.651,Timeout or Error
-2026-06-04 20:47,Comments,Failed,1.062,Timeout or Error
-2026-06-04 20:47,Playlist,Failed,0.506,Timeout or Error
 2026-06-04 23:44,Video,Failed,0.421,Timeout or Error
 2026-06-04 23:44,Search,OK,1.216,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-06-04 23:44,Channel,Failed,1.453,Timeout or Error
@@ -1264,3 +1259,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-07-04 20:21,Channel,Failed,0.476,Timeout or Error
 2026-07-04 20:21,Comments,Failed,1.45,Timeout or Error
 2026-07-04 20:21,Playlist,Failed,0.372,Timeout or Error
+2026-07-04 22:10,Video,Failed,1.517,Timeout or Error
+2026-07-04 22:10,Search,OK,1.294,"[{""type"":""video"" ""title"":""🧠 Devine le LOGO en 3 SECONDES ✅🔥🤔 | 300 Logos Célèbres | Quiz Logos 2024"""
+2026-07-04 22:10,Channel,Failed,0.71,Timeout or Error
+2026-07-04 22:10,Comments,Failed,0.946,Timeout or Error
+2026-07-04 22:10,Playlist,Failed,0.718,Timeout or Error
