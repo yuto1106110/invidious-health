@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-06-07 00:09,Video,Failed,0.439,Timeout or Error
-2026-06-07 00:09,Search,OK,1.109,"[{""type"":""video"" ""title"":""India Vs Afghanistan 1st Test Match Day 1 Highlights 2026 | Ind Vs Afg"" ""v"
-2026-06-07 00:09,Channel,Failed,0.493,Timeout or Error
-2026-06-07 00:09,Comments,OK,0.729,"{""commentCount"":10523920 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-06-07 00:09,Playlist,Failed,0.49,Timeout or Error
-2026-06-07 02:05,Video,Failed,0.343,Timeout or Error
-2026-06-07 02:05,Search,OK,0.866,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-06-07 02:05,Channel,Failed,0.409,Timeout or Error
-2026-06-07 02:05,Comments,OK,0.695,"{""commentCount"":10524092 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-06-07 02:05,Playlist,Failed,0.376,Timeout or Error
 2026-06-07 04:11,Video,Failed,0.516,Timeout or Error
 2026-06-07 04:11,Search,OK,1.151,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-06-07 04:11,Channel,Failed,0.522,Timeout or Error
@@ -1284,3 +1274,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-07-06 23:21,Channel,Failed,0.349,Timeout or Error
 2026-07-06 23:21,Comments,OK,0.617,"{""commentCount"":10535031 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-07-06 23:21,Playlist,Failed,0.465,Timeout or Error
+2026-07-07 02:37,Video,OK,0.479,
+2026-07-07 02:37,Search,OK,1.178,"[{""type"":""video"" ""title"":""TEST"" ""videoId"":""YXZH-eBtmqQ"" ""author"":""Stray Kids"" ""authorId"":""UC9rMiEjNa"
+2026-07-07 02:37,Channel,Failed,0.527,Timeout or Error
+2026-07-07 02:37,Comments,OK,0.764,"{""commentCount"":10535139 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-07-07 02:37,Playlist,Failed,0.66,Timeout or Error
