@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-06-06 15:24,Video,Failed,0.303,Timeout or Error
-2026-06-06 15:24,Search,OK,0.714,"[{""type"":""video"" ""title"":""DISTORTED - TEST [Official Music Video] | Original Motion Picture Soundtra"
-2026-06-06 15:24,Channel,Failed,0.636,Timeout or Error
-2026-06-06 15:24,Comments,OK,0.518,"{""commentCount"":10523298 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-06-06 15:24,Playlist,Failed,0.327,Timeout or Error
-2026-06-06 18:21,Video,Failed,0.305,Timeout or Error
-2026-06-06 18:21,Search,OK,0.86,"[{""type"":""video"" ""title"":""DISTORTED - TEST [Official Music Video] | Original Motion Picture Soundtra"
-2026-06-06 18:21,Channel,Failed,0.331,Timeout or Error
-2026-06-06 18:21,Comments,OK,0.702,"{""commentCount"":10523428 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-06-06 18:21,Playlist,Failed,0.206,Timeout or Error
 2026-06-06 20:20,Video,Failed,0.277,Timeout or Error
 2026-06-06 20:20,Search,OK,1.054,"[{""type"":""video"" ""title"":""DISTORTED - TEST [Official Music Video] | Original Motion Picture Soundtra"
 2026-06-06 20:20,Channel,Failed,0.441,Timeout or Error
@@ -1294,3 +1284,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-07-06 14:05,Channel,Failed,0.327,Timeout or Error
 2026-07-06 14:05,Comments,OK,0.782,"{""commentCount"":10534772 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-07-06 14:05,Playlist,Failed,0.467,Timeout or Error
+2026-07-06 19:05,Video,Failed,0.542,Timeout or Error
+2026-07-06 19:05,Search,OK,1.027,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-07-06 19:05,Channel,Failed,1.383,Timeout or Error
+2026-07-06 19:05,Comments,OK,0.899,"{""commentCount"":10534901 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-07-06 19:05,Playlist,Failed,0.607,Timeout or Error
