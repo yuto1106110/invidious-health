@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-06-06 11:37,Video,Failed,0.443,Timeout or Error
-2026-06-06 11:37,Search,OK,0.831,"[{""type"":""video"" ""title"":""Gothic Remake im PC-Test: Eine würdige Neuauflage (4K  GERMAN)"" ""videoId"":"
-2026-06-06 11:37,Channel,Failed,0.468,Timeout or Error
-2026-06-06 11:37,Comments,OK,0.647,"{""commentCount"":10523087 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-06-06 11:37,Playlist,Failed,0.474,Timeout or Error
 2026-06-06 15:24,Video,Failed,0.315,Timeout or Error
 2026-06-06 15:24,Search,OK,0.744,"[{""type"":""video"" ""title"":""Gothic Remake im PC-Test: Eine würdige Neuauflage (4K  GERMAN)"" ""videoId"":"
 2026-06-06 15:24,Channel,Failed,0.341,Timeout or Error
@@ -1294,3 +1289,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-07-06 09:09,Channel,Failed,0.472,Timeout or Error
 2026-07-06 09:09,Comments,OK,0.692,"{""commentCount"":10534567 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-07-06 09:09,Playlist,Failed,0.543,Timeout or Error
+2026-07-06 14:05,Video,Failed,0.307,Timeout or Error
+2026-07-06 14:05,Search,OK,0.805,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-07-06 14:05,Channel,Failed,0.349,Timeout or Error
+2026-07-06 14:05,Comments,OK,0.505,"{""commentCount"":10534772 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-07-06 14:05,Playlist,Failed,0.449,Timeout or Error
