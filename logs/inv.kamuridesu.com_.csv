@@ -1,24 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-06-06 20:20,Video,Failed,0.367,Timeout or Error
-2026-06-06 20:20,Search,OK,0.927,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-06-06 20:20,Channel,Failed,0.423,Timeout or Error
-2026-06-06 20:20,Comments,OK,0.622,"{""commentCount"":10523605 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-06-06 20:20,Playlist,Failed,0.434,Timeout or Error
-2026-06-06 20:20,Video,Failed,0.354,Timeout or Error
-2026-06-06 20:20,Search,OK,0.881,"[{""type"":""video"" ""title"":""⚠️ HIGH BASS SOUND CHECK ⚠️ | 🔊 EXTREME BASS TEST 🔊 | FEEL THE POWER 💀 DJ "
-2026-06-06 20:20,Channel,Failed,0.421,Timeout or Error
-2026-06-06 20:20,Comments,OK,0.584,"{""commentCount"":10523605 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-06-06 20:20,Playlist,Failed,0.448,Timeout or Error
-2026-06-06 22:19,Video,Failed,0.294,Timeout or Error
-2026-06-06 22:19,Search,OK,0.914,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-06-06 22:19,Channel,Failed,0.35,Timeout or Error
-2026-06-06 22:19,Comments,OK,0.587,"{""commentCount"":10523750 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-06-06 22:19,Playlist,Failed,0.352,Timeout or Error
-2026-06-06 22:19,Video,Failed,0.277,Timeout or Error
-2026-06-06 22:19,Search,OK,0.909,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-06-06 22:19,Channel,Failed,0.363,Timeout or Error
-2026-06-06 22:19,Comments,OK,0.631,"{""commentCount"":10523750 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-06-06 22:19,Playlist,Failed,0.371,Timeout or Error
 2026-06-07 00:09,Video,Failed,0.421,Timeout or Error
 2026-06-07 00:09,Search,OK,1.042,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-06-07 00:09,Channel,Failed,0.483,Timeout or Error
@@ -2579,3 +2559,13 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-07-06 19:05,Channel,Failed,0.516,Timeout or Error
 2026-07-06 19:05,Comments,OK,0.702,"{""commentCount"":10534901 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-07-06 19:05,Playlist,Failed,0.647,Timeout or Error
+2026-07-06 23:21,Video,Failed,0.315,Timeout or Error
+2026-07-06 23:21,Search,OK,1.006,"[{""type"":""video"" ""title"":""TEST"" ""videoId"":""YXZH-eBtmqQ"" ""author"":""Stray Kids"" ""authorId"":""UC9rMiEjNa"
+2026-07-06 23:21,Channel,Failed,0.357,Timeout or Error
+2026-07-06 23:21,Comments,OK,0.555,"{""commentCount"":10535031 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-07-06 23:21,Playlist,Failed,0.502,Timeout or Error
+2026-07-06 23:21,Video,Failed,0.285,Timeout or Error
+2026-07-06 23:21,Search,OK,0.781,"[{""type"":""video"" ""title"":""TEST"" ""videoId"":""YXZH-eBtmqQ"" ""author"":""Stray Kids"" ""authorId"":""UC9rMiEjNa"
+2026-07-06 23:21,Channel,Failed,0.35,Timeout or Error
+2026-07-06 23:21,Comments,OK,0.703,"{""commentCount"":10535031 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-07-06 23:21,Playlist,Failed,0.534,Timeout or Error
