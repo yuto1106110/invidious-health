@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-06-07 04:11,Video,Failed,0.75,Timeout or Error
-2026-06-07 04:11,Search,OK,1.21,"[{""type"":""video"" ""title"":""QUIZ Culture Générale 🧠 : 100 Questions pour tester votre niveau"" ""videoId"
-2026-06-07 04:11,Channel,Failed,0.68,Timeout or Error
-2026-06-07 04:11,Comments,Failed,0.848,Timeout or Error
-2026-06-07 04:11,Playlist,Failed,0.53,Timeout or Error
 2026-06-07 05:57,Video,Failed,0.455,Timeout or Error
 2026-06-07 05:57,Search,OK,0.849,"[{""type"":""video"" ""title"":""QUIZ Culture Générale 🧠 : 100 Questions pour tester votre niveau"" ""videoId"
 2026-06-07 05:57,Channel,Failed,0.431,Timeout or Error
@@ -1279,3 +1274,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-07-07 02:37,Channel,Failed,0.8,Timeout or Error
 2026-07-07 02:37,Comments,Failed,0.913,Timeout or Error
 2026-07-07 02:37,Playlist,Failed,0.705,Timeout or Error
+2026-07-07 04:47,Video,Failed,1.425,Timeout or Error
+2026-07-07 04:47,Search,OK,0.922,"[{""type"":""video"" ""title"":""TEST"" ""videoId"":""YXZH-eBtmqQ"" ""author"":""Stray Kids"" ""authorId"":""UC9rMiEjNa"
+2026-07-07 04:47,Channel,Failed,0.623,Timeout or Error
+2026-07-07 04:47,Comments,Failed,0.952,Timeout or Error
+2026-07-07 04:47,Playlist,Failed,0.492,Timeout or Error
