@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-06-07 22:29,Video,Failed,0.454,Timeout or Error
-2026-06-07 22:29,Search,OK,0.993,"[{""type"":""video"" ""title"":""Atkinson Takes Another 5 Wicket Haul! | Highlights - England v New Zealand"
-2026-06-07 22:29,Channel,Failed,0.472,Timeout or Error
-2026-06-07 22:29,Comments,OK,0.912,"{""commentCount"":10524727 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-06-07 22:29,Playlist,Failed,0.488,Timeout or Error
-2026-06-08 00:20,Video,Failed,0.346,Timeout or Error
-2026-06-08 00:20,Search,OK,0.992,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-06-08 00:20,Channel,Failed,0.38,Timeout or Error
-2026-06-08 00:20,Comments,OK,0.67,"{""commentCount"":10524785 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-06-08 00:20,Playlist,Failed,1.239,Timeout or Error
 2026-06-08 02:08,Video,Failed,0.527,Timeout or Error
 2026-06-08 02:08,Search,OK,1.088,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-06-08 02:08,Channel,Failed,0.576,Timeout or Error
@@ -1279,3 +1269,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-07-07 22:13,Channel,Failed,1.216,Timeout or Error
 2026-07-07 22:13,Comments,Failed,1.266,Timeout or Error
 2026-07-07 22:13,Playlist,Failed,1.206,Timeout or Error
+2026-07-08 01:23,Video,OK,1.07,
+2026-07-08 01:23,Search,OK,0.931,"[{""type"":""video"" ""title"":""TEST"" ""videoId"":""YXZH-eBtmqQ"" ""author"":""Stray Kids"" ""authorId"":""UC9rMiEjNa"
+2026-07-08 01:23,Channel,Failed,0.393,Timeout or Error
+2026-07-08 01:23,Comments,OK,0.751,"{""commentCount"":10535448 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-07-08 01:23,Playlist,Failed,0.824,Timeout or Error
