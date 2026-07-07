@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-06-08 04:12,Video,Failed,0.476,Timeout or Error
-2026-06-08 04:12,Search,OK,1.055,"[{""type"":""video"" ""title"":""DER TEST zeigt  was Sache ist! 😳 Für maximale Farbauffrischung gibt es akt"
-2026-06-08 04:12,Channel,Failed,0.506,Timeout or Error
-2026-06-08 04:12,Comments,OK,0.835,"{""commentCount"":10525147 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-06-08 04:12,Playlist,Failed,0.496,Timeout or Error
 2026-06-08 06:05,Video,Failed,0.519,Timeout or Error
 2026-06-08 06:05,Search,OK,1.326,"[{""type"":""video"" ""title"":""DER TEST zeigt  was Sache ist! 😳 Für maximale Farbauffrischung gibt es akt"
 2026-06-08 06:05,Channel,Failed,0.522,Timeout or Error
@@ -1274,3 +1269,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-07-08 03:57,Channel,Failed,1.504,Timeout or Error
 2026-07-08 03:57,Comments,Failed,1.504,Timeout or Error
 2026-07-08 03:57,Playlist,Failed,1.504,Timeout or Error
+2026-07-08 05:49,Video,Failed,1.504,Timeout or Error
+2026-07-08 05:49,Search,Failed,1.504,Timeout or Error
+2026-07-08 05:49,Channel,Failed,1.505,Timeout or Error
+2026-07-08 05:49,Comments,Failed,1.504,Timeout or Error
+2026-07-08 05:49,Playlist,Failed,1.505,Timeout or Error
