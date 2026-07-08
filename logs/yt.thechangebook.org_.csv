@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-06-08 19:25,Video,Failed,0.572,Timeout or Error
-2026-06-08 19:25,Search,OK,1.069,"[{""type"":""video"" ""title"":""OLED TEST HDR 4K 120FPS DOLBY VISION 🏞 4K / 8K Monitor Test Video #BGM"" ""v"
-2026-06-08 19:25,Channel,Failed,0.656,Timeout or Error
-2026-06-08 19:25,Comments,Failed,0.801,Timeout or Error
-2026-06-08 19:25,Playlist,Failed,0.416,Timeout or Error
 2026-06-08 23:44,Video,Failed,0.523,Timeout or Error
 2026-06-08 23:44,Search,OK,1.212,"[{""type"":""video"" ""title"":""50 QUESTIONS pour TESTER TON SAVOIR 🧠🤯 | Quiz Culture Générale"" ""videoId"":"
 2026-06-08 23:44,Channel,Failed,1.471,Timeout or Error
@@ -1279,3 +1274,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-07-08 17:15,Channel,Failed,0.351,Timeout or Error
 2026-07-08 17:15,Comments,Failed,0.744,Timeout or Error
 2026-07-08 17:15,Playlist,Failed,0.439,Timeout or Error
+2026-07-08 19:58,Video,Failed,1.46,Timeout or Error
+2026-07-08 19:58,Search,OK,1.348,"[{""type"":""video"" ""title"":""TEST"" ""videoId"":""YXZH-eBtmqQ"" ""author"":""Stray Kids"" ""authorId"":""UC9rMiEjNa"
+2026-07-08 19:58,Channel,Failed,0.603,Timeout or Error
+2026-07-08 19:58,Comments,Failed,1.277,Timeout or Error
+2026-07-08 19:58,Playlist,Failed,0.664,Timeout or Error
