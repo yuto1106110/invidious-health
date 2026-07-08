@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-06-08 14:26,Video,Failed,0.488,Timeout or Error
-2026-06-08 14:26,Search,OK,1.118,"[{""type"":""video"" ""title"":""Guess the Real Image! 🍎👀 (99% Will Fail This Test)"" ""videoId"":""Gay0qa0CyRY"
-2026-06-08 14:26,Channel,Failed,0.499,Timeout or Error
-2026-06-08 14:26,Comments,OK,0.79,"{""commentCount"":10525601 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-06-08 14:26,Playlist,Failed,0.551,Timeout or Error
 2026-06-08 19:25,Video,Failed,0.551,Timeout or Error
 2026-06-08 19:25,Search,OK,0.957,"[{""type"":""video"" ""title"":""The Chemical Brothers - The Test (Official Music Video)"" ""videoId"":""yhS9Ln"
 2026-06-08 19:25,Channel,Failed,0.419,Timeout or Error
@@ -1274,3 +1269,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-07-08 11:06,Channel,Failed,1.504,Timeout or Error
 2026-07-08 11:06,Comments,Failed,1.504,Timeout or Error
 2026-07-08 11:06,Playlist,Failed,1.504,Timeout or Error
+2026-07-08 14:44,Video,Failed,1.504,Timeout or Error
+2026-07-08 14:44,Search,Failed,1.504,Timeout or Error
+2026-07-08 14:44,Channel,Failed,1.504,Timeout or Error
+2026-07-08 14:44,Comments,Failed,1.504,Timeout or Error
+2026-07-08 14:44,Playlist,Failed,1.504,Timeout or Error
