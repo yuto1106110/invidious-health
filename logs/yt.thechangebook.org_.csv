@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-06-09 20:55,Video,Failed,0.519,Timeout or Error
-2026-06-09 20:55,Search,OK,1.24,"[{""type"":""video"" ""title"":""50 QUESTIONS pour TESTER TON SAVOIR 🧠🤯 | Quiz Culture Générale"" ""videoId"":"
-2026-06-09 20:55,Channel,Failed,0.631,Timeout or Error
-2026-06-09 20:55,Comments,Failed,0.798,Timeout or Error
-2026-06-09 20:55,Playlist,Failed,1.233,Timeout or Error
-2026-06-09 23:41,Video,Failed,0.668,Timeout or Error
-2026-06-09 23:41,Search,OK,1.208,"[{""type"":""video"" ""title"":""ON TESTE DES TECHNOLOGIES DE FAINÉANT (édition voyage) "" ""videoId"":""5REkzn"
-2026-06-09 23:41,Channel,Failed,0.443,Timeout or Error
-2026-06-09 23:41,Comments,Failed,0.883,Timeout or Error
-2026-06-09 23:41,Playlist,Failed,0.457,Timeout or Error
 2026-06-10 02:21,Video,Failed,0.393,Timeout or Error
 2026-06-10 02:21,Search,OK,1.084,"[{""type"":""video"" ""title"":""50 QUESTIONS pour TESTER TON SAVOIR 🧠🤯 | Quiz Culture Générale"" ""videoId"":"
 2026-06-10 02:21,Channel,Failed,0.615,Timeout or Error
@@ -1294,3 +1284,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-07-09 20:51,Channel,Failed,0.54,Timeout or Error
 2026-07-09 20:51,Comments,Failed,0.748,Timeout or Error
 2026-07-09 20:51,Playlist,Failed,0.384,Timeout or Error
+2026-07-09 23:43,Video,Failed,1.43,Timeout or Error
+2026-07-09 23:43,Search,OK,0.918,"[{""type"":""video"" ""title"":""TEST"" ""videoId"":""YXZH-eBtmqQ"" ""author"":""Stray Kids"" ""authorId"":""UC9rMiEjNa"
+2026-07-09 23:43,Channel,Failed,0.536,Timeout or Error
+2026-07-09 23:43,Comments,Failed,0.902,Timeout or Error
+2026-07-09 23:43,Playlist,Failed,0.427,Timeout or Error
