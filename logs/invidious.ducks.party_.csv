@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-06-09 09:00,Video,Failed,0.315,Timeout or Error
-2026-06-09 09:00,Search,OK,0.807,"[{""type"":""video"" ""title"":""Ist teurer wirklich besser? - 8 smarte Matter Steckdosen im Test"" ""videoId"
-2026-06-09 09:00,Channel,Failed,0.338,Timeout or Error
-2026-06-09 09:00,Comments,OK,0.531,"{""commentCount"":10525916 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-06-09 09:00,Playlist,Failed,0.375,Timeout or Error
 2026-06-09 13:59,Video,Failed,0.317,Timeout or Error
 2026-06-09 13:59,Search,OK,0.764,"[{""type"":""video"" ""title"":""Ist teurer wirklich besser? - 8 smarte Matter Steckdosen im Test"" ""videoId"
 2026-06-09 13:59,Channel,Failed,0.337,Timeout or Error
@@ -1289,3 +1284,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-07-09 07:58,Channel,Failed,1.504,Timeout or Error
 2026-07-09 07:58,Comments,Failed,1.504,Timeout or Error
 2026-07-09 07:58,Playlist,Failed,1.504,Timeout or Error
+2026-07-09 09:14,Video,Failed,1.504,Timeout or Error
+2026-07-09 09:14,Search,Failed,1.504,Timeout or Error
+2026-07-09 09:14,Channel,Failed,1.505,Timeout or Error
+2026-07-09 09:14,Comments,Failed,1.504,Timeout or Error
+2026-07-09 09:14,Playlist,Failed,1.504,Timeout or Error
