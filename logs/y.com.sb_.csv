@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-06-10 14:11,Video,Failed,0.205,Timeout or Error
-2026-06-10 14:11,Search,Failed,0.222,Timeout or Error
-2026-06-10 14:11,Channel,Failed,0.212,Timeout or Error
-2026-06-10 14:11,Comments,Failed,0.208,Timeout or Error
-2026-06-10 14:11,Playlist,Failed,0.206,Timeout or Error
 2026-06-10 18:46,Video,Failed,0.355,Timeout or Error
 2026-06-10 18:46,Search,Failed,0.305,Timeout or Error
 2026-06-10 18:46,Channel,Failed,0.321,Timeout or Error
@@ -1294,3 +1289,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-07-10 11:26,Channel,Failed,0.21,Timeout or Error
 2026-07-10 11:26,Comments,Failed,0.21,Timeout or Error
 2026-07-10 11:26,Playlist,Failed,0.227,Timeout or Error
+2026-07-10 15:38,Video,OK,0.498,
+2026-07-10 15:38,Search,OK,1.052,"[{""type"":""video"" ""title"":""Ein FAST perfektes Open-World-Abenteuer! Assassin’s Creed Black Flag Resyn"
+2026-07-10 15:38,Channel,Failed,0.523,Timeout or Error
+2026-07-10 15:38,Comments,OK,0.803,"{""commentCount"":10537617 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-07-10 15:38,Playlist,Failed,0.603,Timeout or Error
