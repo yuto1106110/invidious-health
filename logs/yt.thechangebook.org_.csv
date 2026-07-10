@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-06-11 08:21,Video,Failed,0.694,Timeout or Error
-2026-06-11 08:21,Search,Failed,0.978,Timeout or Error
-2026-06-11 08:21,Channel,Failed,0.717,Timeout or Error
-2026-06-11 08:21,Comments,Failed,0.536,Timeout or Error
-2026-06-11 08:21,Playlist,Failed,0.585,Timeout or Error
 2026-06-11 12:21,Video,Failed,0.609,Timeout or Error
 2026-06-11 12:21,Search,OK,1.011,"[{""type"":""video"" ""title"":""I never should have done this science test"" ""videoId"":""a0_H2mZ1jLA"" ""autho"
 2026-06-11 12:21,Channel,Failed,0.326,Timeout or Error
@@ -1304,3 +1299,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-07-11 07:56,Channel,Failed,0.965,Timeout or Error
 2026-07-11 07:56,Comments,Failed,0.945,Timeout or Error
 2026-07-11 07:56,Playlist,Failed,0.563,Timeout or Error
+2026-07-11 08:55,Video,Failed,1.471,Timeout or Error
+2026-07-11 08:55,Search,Failed,1.038,Timeout or Error
+2026-07-11 08:55,Channel,Failed,0.68,Timeout or Error
+2026-07-11 08:55,Comments,Failed,0.742,Timeout or Error
+2026-07-11 08:55,Playlist,Failed,0.661,Timeout or Error
