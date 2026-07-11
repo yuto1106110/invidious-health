@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-06-12 01:47,Video,Failed,0.941,Timeout or Error
-2026-06-12 01:47,Search,Failed,1.361,Timeout or Error
-2026-06-12 01:47,Channel,Failed,0.683,Timeout or Error
-2026-06-12 01:47,Comments,Failed,1.045,Timeout or Error
-2026-06-12 01:47,Playlist,Failed,0.611,Timeout or Error
 2026-06-12 04:30,Video,Failed,0.756,Timeout or Error
 2026-06-12 04:30,Search,OK,1.054,"[{""type"":""video"" ""title"":""BLIND TEST TOUTES GÉNÉRATIONS (80 extraits)"" ""videoId"":""dlZN-lRgmfw"" ""auth"
 2026-06-12 04:30,Channel,Failed,0.687,Timeout or Error
@@ -1334,3 +1329,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-07-12 00:49,Channel,Failed,0.756,Timeout or Error
 2026-07-12 00:49,Comments,Failed,0.843,Timeout or Error
 2026-07-12 00:49,Playlist,Failed,0.654,Timeout or Error
+2026-07-12 01:49,Video,Failed,1.422,Timeout or Error
+2026-07-12 01:49,Search,OK,0.87,"[{""type"":""video"" ""title"":""TEST"" ""videoId"":""YXZH-eBtmqQ"" ""author"":""Stray Kids"" ""authorId"":""UC9rMiEjNa"
+2026-07-12 01:49,Channel,Failed,0.675,Timeout or Error
+2026-07-12 01:49,Comments,Failed,1.05,Timeout or Error
+2026-07-12 01:49,Playlist,Failed,0.847,Timeout or Error
