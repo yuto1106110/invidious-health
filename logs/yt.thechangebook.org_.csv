@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-06-12 04:30,Video,Failed,0.756,Timeout or Error
-2026-06-12 04:30,Search,OK,1.054,"[{""type"":""video"" ""title"":""BLIND TEST TOUTES GÉNÉRATIONS (80 extraits)"" ""videoId"":""dlZN-lRgmfw"" ""auth"
-2026-06-12 04:30,Channel,Failed,0.687,Timeout or Error
-2026-06-12 04:30,Comments,Failed,1.017,Timeout or Error
-2026-06-12 04:30,Playlist,Failed,0.541,Timeout or Error
 2026-06-12 06:56,Video,Failed,0.648,Timeout or Error
 2026-06-12 06:56,Search,OK,0.928,"[{""type"":""video"" ""title"":""OLED TEST HDR 4K 120FPS DOLBY VISION 🏞 4K / 8K Monitor Test Video #BGM"" ""v"
 2026-06-12 06:56,Channel,Failed,0.448,Timeout or Error
@@ -1344,3 +1339,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-07-12 03:52,Channel,Failed,0.523,Timeout or Error
 2026-07-12 03:52,Comments,Failed,0.653,Timeout or Error
 2026-07-12 03:52,Playlist,Failed,0.524,Timeout or Error
+2026-07-12 05:01,Video,Failed,1.533,Timeout or Error
+2026-07-12 05:01,Search,OK,0.957,"[{""type"":""video"" ""title"":""50 QUESTIONS pour TESTER TON SAVOIR 🧠🤯 | Quiz Culture Générale"" ""videoId"":"
+2026-07-12 05:01,Channel,Failed,0.481,Timeout or Error
+2026-07-12 05:01,Comments,Failed,0.969,Timeout or Error
+2026-07-12 05:01,Playlist,Failed,0.48,Timeout or Error
