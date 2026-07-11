@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-06-12 08:18,Video,Failed,2.255,Timeout or Error
-2026-06-12 08:18,Search,Failed,1.283,Timeout or Error
-2026-06-12 08:18,Channel,Failed,1.288,Timeout or Error
-2026-06-12 08:18,Comments,Failed,1.279,Timeout or Error
-2026-06-12 08:18,Playlist,Failed,1.287,Timeout or Error
 2026-06-12 11:56,Video,Failed,1.236,Timeout or Error
 2026-06-12 11:56,Search,Failed,1.233,Timeout or Error
 2026-06-12 11:56,Channel,Failed,1.234,Timeout or Error
@@ -1349,3 +1344,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-07-12 07:40,Channel,Failed,0.35,Timeout or Error
 2026-07-12 07:40,Comments,OK,0.603,"{""commentCount"":10538698 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-07-12 07:40,Playlist,Failed,0.44,Timeout or Error
+2026-07-12 08:48,Video,OK,0.818,
+2026-07-12 08:48,Search,OK,0.915,"[{""type"":""video"" ""title"":""Ferrari: Madrid-Test dank Regellücke! – FIA prüft neuen „Macarena-Flügel“"""
+2026-07-12 08:48,Channel,Failed,0.439,Timeout or Error
+2026-07-12 08:48,Comments,OK,0.646,"{""commentCount"":10538734 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-07-12 08:48,Playlist,Failed,0.285,Timeout or Error
