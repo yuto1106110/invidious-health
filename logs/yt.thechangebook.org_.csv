@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-06-13 05:01,Video,Failed,0.743,Timeout or Error
-2026-06-13 05:01,Search,OK,1.481,"[{""type"":""video"" ""title"":""Gay  Straight or Bi? (ft. StinkAsher & Scott Kress) Test Your Radar"" ""vide"
-2026-06-13 05:01,Channel,Failed,0.693,Timeout or Error
-2026-06-13 05:01,Comments,Failed,0.885,Timeout or Error
-2026-06-13 05:01,Playlist,Failed,0.507,Timeout or Error
 2026-06-13 07:20,Video,Failed,0.477,Timeout or Error
 2026-06-13 07:20,Search,OK,1.105,"[{""type"":""video"" ""title"":""50 QUESTIONS pour TESTER TON SAVOIR 🧠🤯 | Quiz Culture Générale"" ""videoId"":"
 2026-06-13 07:20,Channel,Failed,0.631,Timeout or Error
@@ -1379,3 +1374,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-07-13 03:57,Channel,Failed,0.543,Timeout or Error
 2026-07-13 03:57,Comments,Failed,0.96,Timeout or Error
 2026-07-13 03:57,Playlist,Failed,0.508,Timeout or Error
+2026-07-13 05:05,Video,Failed,1.382,Timeout or Error
+2026-07-13 05:05,Search,Failed,1.099,Timeout or Error
+2026-07-13 05:05,Channel,Failed,0.426,Timeout or Error
+2026-07-13 05:05,Comments,Failed,0.883,Timeout or Error
+2026-07-13 05:05,Playlist,Failed,0.387,Timeout or Error
