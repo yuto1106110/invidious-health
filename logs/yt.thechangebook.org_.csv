@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-06-12 23:45,Video,Failed,1.48,Timeout or Error
-2026-06-12 23:45,Search,Failed,1.469,Timeout or Error
-2026-06-12 23:45,Channel,Failed,0.594,Timeout or Error
-2026-06-12 23:45,Comments,Failed,0.884,Timeout or Error
-2026-06-12 23:45,Playlist,Failed,0.831,Timeout or Error
 2026-06-13 02:34,Video,Failed,1.297,Timeout or Error
 2026-06-13 02:34,Search,OK,0.984,"[{""type"":""video"" ""title"":""OLED TEST HDR 4K 120FPS DOLBY VISION 🏞 4K / 8K Monitor Test Video #BGM"" ""v"
 2026-06-13 02:34,Channel,Failed,0.649,Timeout or Error
@@ -1364,3 +1359,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-07-12 22:05,Channel,Failed,0.466,Timeout or Error
 2026-07-12 22:05,Comments,Failed,0.664,Timeout or Error
 2026-07-12 22:05,Playlist,Failed,0.385,Timeout or Error
+2026-07-12 23:50,Video,Failed,1.288,Timeout or Error
+2026-07-12 23:50,Search,OK,1.255,"[{""type"":""video"" ""title"":""50 QUESTIONS pour TESTER TON SAVOIR 🧠🤯 | Quiz Culture Générale"" ""videoId"":"
+2026-07-12 23:50,Channel,Failed,0.622,Timeout or Error
+2026-07-12 23:50,Comments,Failed,0.842,Timeout or Error
+2026-07-12 23:50,Playlist,Failed,0.475,Timeout or Error

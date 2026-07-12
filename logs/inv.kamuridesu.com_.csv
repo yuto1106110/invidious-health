@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-06-12 23:45,Video,Failed,0.423,Timeout or Error
-2026-06-12 23:45,Search,Failed,1.028,Timeout or Error
-2026-06-12 23:45,Channel,Failed,0.537,Timeout or Error
-2026-06-12 23:45,Comments,OK,0.702,"{""commentCount"":10527506 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-06-12 23:45,Playlist,Failed,0.974,Timeout or Error
-2026-06-12 23:45,Video,Failed,0.432,Timeout or Error
-2026-06-12 23:45,Search,Failed,1.028,Timeout or Error
-2026-06-12 23:45,Channel,Failed,0.516,Timeout or Error
-2026-06-12 23:45,Comments,OK,0.716,"{""commentCount"":10527507 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-06-12 23:45,Playlist,Failed,0.514,Timeout or Error
 2026-06-13 02:34,Video,Failed,0.3,Timeout or Error
 2026-06-13 02:34,Search,OK,1.026,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-06-13 02:34,Channel,Failed,0.425,Timeout or Error
@@ -2729,3 +2719,13 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-07-12 22:05,Channel,Failed,0.349,Timeout or Error
 2026-07-12 22:05,Comments,OK,0.591,"{""commentCount"":10539259 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-07-12 22:05,Playlist,Failed,0.546,Timeout or Error
+2026-07-12 23:50,Video,Failed,0.302,Timeout or Error
+2026-07-12 23:50,Search,OK,1.007,"[{""type"":""video"" ""title"":""TEST"" ""videoId"":""YXZH-eBtmqQ"" ""author"":""Stray Kids"" ""authorId"":""UC9rMiEjNa"
+2026-07-12 23:50,Channel,Failed,0.349,Timeout or Error
+2026-07-12 23:50,Comments,OK,0.611,"{""commentCount"":10539268 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-07-12 23:50,Playlist,Failed,0.53,Timeout or Error
+2026-07-12 23:50,Video,Failed,0.293,Timeout or Error
+2026-07-12 23:50,Search,OK,0.914,"[{""type"":""video"" ""title"":""TEST"" ""videoId"":""YXZH-eBtmqQ"" ""author"":""Stray Kids"" ""authorId"":""UC9rMiEjNa"
+2026-07-12 23:50,Channel,Failed,0.341,Timeout or Error
+2026-07-12 23:50,Comments,OK,0.596,"{""commentCount"":10539270 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-07-12 23:50,Playlist,Failed,0.497,Timeout or Error
