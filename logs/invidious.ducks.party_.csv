@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-06-13 14:16,Video,Failed,1.504,Timeout or Error
-2026-06-13 14:16,Search,Failed,1.504,Timeout or Error
-2026-06-13 14:16,Channel,Failed,1.504,Timeout or Error
-2026-06-13 14:16,Comments,Failed,1.504,Timeout or Error
-2026-06-13 14:16,Playlist,Failed,1.504,Timeout or Error
 2026-06-13 17:50,Video,Failed,1.504,Timeout or Error
 2026-06-13 17:50,Search,Failed,1.504,Timeout or Error
 2026-06-13 17:50,Channel,Failed,1.504,Timeout or Error
@@ -1389,3 +1384,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-07-13 11:09,Channel,Failed,0.331,Timeout or Error
 2026-07-13 11:09,Comments,OK,0.53,"{""commentCount"":10539243 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-07-13 11:09,Playlist,Failed,0.426,Timeout or Error
+2026-07-13 15:09,Video,Failed,0.455,Timeout or Error
+2026-07-13 15:09,Search,OK,0.969,"[{""type"":""video"" ""title"":""Fastfood NEUHEITEN im Test | (SCHOCK am Ende) 😳🤮"" ""videoId"":""L43V6m3Loyg"" "
+2026-07-13 15:09,Channel,Failed,0.503,Timeout or Error
+2026-07-13 15:09,Comments,OK,0.732,"{""commentCount"":10539349 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-07-13 15:09,Playlist,Failed,0.605,Timeout or Error
