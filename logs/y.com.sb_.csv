@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-06-13 17:50,Video,Failed,0.335,Timeout or Error
-2026-06-13 17:50,Search,Failed,0.33,Timeout or Error
-2026-06-13 17:50,Channel,Failed,0.32,Timeout or Error
-2026-06-13 17:50,Comments,Failed,0.321,Timeout or Error
-2026-06-13 17:50,Playlist,Failed,0.337,Timeout or Error
 2026-06-13 20:10,Video,Failed,0.649,Timeout or Error
 2026-06-13 20:10,Search,Failed,0.287,Timeout or Error
 2026-06-13 20:10,Channel,Failed,0.29,Timeout or Error
@@ -1389,3 +1384,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-07-13 15:09,Channel,Failed,0.469,Timeout or Error
 2026-07-13 15:09,Comments,OK,0.72,"{""commentCount"":10539349 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-07-13 15:09,Playlist,Failed,0.576,Timeout or Error
+2026-07-13 19:18,Video,Failed,1.211,Timeout or Error
+2026-07-13 19:18,Search,OK,0.9,"[{""type"":""video"" ""title"":""SHOW OFF YOUR TV  8K HDR Dolby Vision 60fps Peak Brightness Test"" ""videoId"
+2026-07-13 19:18,Channel,Failed,0.341,Timeout or Error
+2026-07-13 19:18,Comments,OK,0.965,"{""commentCount"":10539420 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-07-13 19:18,Playlist,Failed,0.46,Timeout or Error
