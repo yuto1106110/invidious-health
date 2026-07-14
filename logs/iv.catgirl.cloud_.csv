@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-06-15 06:04,Video,OK,0.663,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-06-15 06:04,Search,OK,0.428,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-06-15 06:04,Channel,OK,0.427,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-06-15 06:04,Comments,OK,0.421,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-06-15 06:04,Playlist,OK,0.428,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-06-15 08:02,Video,OK,0.874,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-06-15 08:02,Search,OK,0.489,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-06-15 08:02,Channel,OK,0.48,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
@@ -1399,3 +1394,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-07-15 05:53,Channel,Failed,2.663,Timeout or Error
 2026-07-15 05:53,Comments,Failed,1.617,Timeout or Error
 2026-07-15 05:53,Playlist,Failed,2.626,Timeout or Error
+2026-07-15 06:52,Video,Failed,1.504,Timeout or Error
+2026-07-15 06:52,Search,Failed,1.504,Timeout or Error
+2026-07-15 06:52,Channel,Failed,1.629,Timeout or Error
+2026-07-15 06:52,Comments,Failed,1.623,Timeout or Error
+2026-07-15 06:52,Playlist,Failed,1.504,Timeout or Error
