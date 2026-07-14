@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-06-15 08:02,Video,Failed,0.503,Timeout or Error
-2026-06-15 08:02,Search,OK,0.969,"[{""type"":""video"" ""title"":""The Chemical Brothers - The Test (Official Music Video)"" ""videoId"":""yhS9Ln"
-2026-06-15 08:02,Channel,Failed,0.516,Timeout or Error
-2026-06-15 08:02,Comments,OK,0.708,"{""commentCount"":10528868 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-06-15 08:02,Playlist,Failed,0.515,Timeout or Error
 2026-06-15 12:35,Video,Failed,0.404,Timeout or Error
 2026-06-15 12:35,Search,OK,0.868,"[{""type"":""video"" ""title"":""Audi A8 Test Drive"" ""videoId"":""_20ARSA6MVU"" ""author"":""Rust Bucket Motorspo"
 2026-06-15 12:35,Channel,Failed,0.433,Timeout or Error
@@ -1404,3 +1399,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-07-15 07:52,Channel,Failed,1.505,Timeout or Error
 2026-07-15 07:52,Comments,Failed,1.504,Timeout or Error
 2026-07-15 07:52,Playlist,Failed,1.504,Timeout or Error
+2026-07-15 08:46,Video,Failed,1.504,Timeout or Error
+2026-07-15 08:46,Search,Failed,1.504,Timeout or Error
+2026-07-15 08:46,Channel,Failed,1.504,Timeout or Error
+2026-07-15 08:46,Comments,Failed,1.504,Timeout or Error
+2026-07-15 08:46,Playlist,Failed,1.504,Timeout or Error
