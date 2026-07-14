@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-06-14 14:27,Video,Failed,0.312,Timeout or Error
-2026-06-14 14:27,Search,OK,0.731,"[{""type"":""video"" ""title"":""The Chemical Brothers - The Test (Official Music Video)"" ""videoId"":""yhS9Ln"
-2026-06-14 14:27,Channel,Failed,0.339,Timeout or Error
-2026-06-14 14:27,Comments,OK,0.593,"{""commentCount"":10528435 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-06-14 14:27,Playlist,Failed,0.342,Timeout or Error
 2026-06-14 18:24,Video,Failed,0.317,Timeout or Error
 2026-06-14 18:24,Search,OK,0.993,"[{""type"":""video"" ""title"":""The Chemical Brothers - The Test (Official Music Video)"" ""videoId"":""yhS9Ln"
 2026-06-14 18:24,Channel,Failed,0.346,Timeout or Error
@@ -1394,3 +1389,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-07-14 13:47,Channel,Failed,0.505,Timeout or Error
 2026-07-14 13:47,Comments,OK,0.891,"{""commentCount"":10540249 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-07-14 13:47,Playlist,Failed,0.605,Timeout or Error
+2026-07-14 16:07,Video,Failed,0.307,Timeout or Error
+2026-07-14 16:07,Search,OK,0.863,"[{""type"":""video"" ""title"":""Dolby Atmos Sound Test"" ""videoId"":""FLH1aARTpMg"" ""author"":""JumpingCloud"" ""a"
+2026-07-14 16:07,Channel,Failed,0.466,Timeout or Error
+2026-07-14 16:07,Comments,OK,0.633,"{""commentCount"":10540323 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-07-14 16:07,Playlist,Failed,0.456,Timeout or Error
