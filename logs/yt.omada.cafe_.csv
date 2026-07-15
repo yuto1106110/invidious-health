@@ -1404,3 +1404,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-07-15 08:46,Channel,Failed,0.397,Timeout or Error
 2026-07-15 08:46,Comments,OK,0.534,"{""commentCount"":10540859 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-07-15 08:46,Playlist,Failed,0.806,Timeout or Error
+2026-07-15 10:52,Video,OK,1.777,
+2026-07-15 10:52,Search,OK,2.023,"[{""type"":""video"" ""title"":""TEST"" ""videoId"":""YXZH-eBtmqQ"" ""author"":""Stray Kids"" ""authorId"":""UC9rMiEjNa"
+2026-07-15 10:52,Channel,Failed,0.971,Timeout or Error
+2026-07-15 10:52,Comments,OK,0.911,"{""commentCount"":10540963 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-07-15 10:52,Playlist,Failed,0.848,Timeout or Error
