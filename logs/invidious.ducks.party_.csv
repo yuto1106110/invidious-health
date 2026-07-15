@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-06-15 12:35,Video,Failed,0.404,Timeout or Error
-2026-06-15 12:35,Search,OK,0.868,"[{""type"":""video"" ""title"":""Audi A8 Test Drive"" ""videoId"":""_20ARSA6MVU"" ""author"":""Rust Bucket Motorspo"
-2026-06-15 12:35,Channel,Failed,0.433,Timeout or Error
-2026-06-15 12:35,Comments,OK,0.628,"{""commentCount"":10528952 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-06-15 12:35,Playlist,Failed,0.428,Timeout or Error
 2026-06-15 18:55,Video,Failed,0.315,Timeout or Error
 2026-06-15 18:55,Search,OK,0.804,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-06-15 18:55,Channel,Failed,0.354,Timeout or Error
@@ -1409,3 +1404,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-07-15 10:52,Channel,Failed,1.504,Timeout or Error
 2026-07-15 10:52,Comments,Failed,1.504,Timeout or Error
 2026-07-15 10:52,Playlist,Failed,1.504,Timeout or Error
+2026-07-15 13:46,Video,Failed,1.504,Timeout or Error
+2026-07-15 13:46,Search,Failed,1.504,Timeout or Error
+2026-07-15 13:46,Channel,Failed,1.504,Timeout or Error
+2026-07-15 13:46,Comments,Failed,1.504,Timeout or Error
+2026-07-15 13:46,Playlist,Failed,1.504,Timeout or Error
