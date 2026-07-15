@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-06-16 04:41,Video,Failed,1.464,Timeout or Error
-2026-06-16 04:41,Search,OK,1.165,"[{""type"":""video"" ""title"":""Un Test de QI Rigolo Pour les Petits Génies"" ""videoId"":""73YG0olNXWo"" ""auth"
-2026-06-16 04:41,Channel,Failed,0.629,Timeout or Error
-2026-06-16 04:41,Comments,Failed,0.761,Timeout or Error
-2026-06-16 04:41,Playlist,Failed,0.43,Timeout or Error
 2026-06-16 07:13,Video,Failed,0.687,Timeout or Error
 2026-06-16 07:13,Search,Failed,1.119,Timeout or Error
 2026-06-16 07:13,Channel,Failed,0.538,Timeout or Error
@@ -1434,3 +1429,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-07-16 04:01,Channel,Failed,0.443,Timeout or Error
 2026-07-16 04:01,Comments,Failed,0.819,Timeout or Error
 2026-07-16 04:01,Playlist,Failed,0.457,Timeout or Error
+2026-07-16 05:53,Video,Failed,1.491,Timeout or Error
+2026-07-16 05:53,Search,OK,1.195,"[{""type"":""video"" ""title"":""50 QUESTIONS pour TESTER TON SAVOIR 🧠🤯 | Quiz Culture Générale"" ""videoId"":"
+2026-07-16 05:53,Channel,Failed,0.706,Timeout or Error
+2026-07-16 05:53,Comments,Failed,0.748,Timeout or Error
+2026-07-16 05:53,Playlist,Failed,0.826,Timeout or Error
