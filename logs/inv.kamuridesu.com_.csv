@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-06-15 18:55,Video,Failed,0.293,Timeout or Error
-2026-06-15 18:55,Search,OK,0.874,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-06-15 18:55,Channel,Failed,0.367,Timeout or Error
-2026-06-15 18:55,Comments,OK,0.548,"{""commentCount"":10529053 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-06-15 18:55,Playlist,Failed,0.34,Timeout or Error
-2026-06-15 18:55,Video,Failed,0.266,Timeout or Error
-2026-06-15 18:55,Search,OK,0.804,"[{""type"":""video"" ""title"":""Johnny Test em 3D | Johnny Test Português⚡| Desenho animado para crianças"""
-2026-06-15 18:55,Channel,Failed,0.349,Timeout or Error
-2026-06-15 18:55,Comments,OK,0.53,"{""commentCount"":10529053 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-06-15 18:55,Playlist,Failed,0.358,Timeout or Error
 2026-06-16 00:42,Video,Failed,0.449,Timeout or Error
 2026-06-16 00:42,Search,Failed,1.049,Timeout or Error
 2026-06-16 00:42,Channel,Failed,0.566,Timeout or Error
@@ -2829,3 +2819,13 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-07-15 16:10,Channel,Failed,0.518,Timeout or Error
 2026-07-15 16:10,Comments,OK,0.694,"{""commentCount"":10540520 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-07-15 16:10,Playlist,Failed,0.635,Timeout or Error
+2026-07-15 18:55,Video,Failed,0.353,Timeout or Error
+2026-07-15 18:55,Search,Failed,1.044,Timeout or Error
+2026-07-15 18:55,Channel,Failed,0.481,Timeout or Error
+2026-07-15 18:55,Comments,OK,0.647,"{""commentCount"":10540623 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-07-15 18:55,Playlist,Failed,0.623,Timeout or Error
+2026-07-15 18:55,Video,Failed,0.373,Timeout or Error
+2026-07-15 18:55,Search,OK,0.992,"[{""type"":""video"" ""title"":""TEST"" ""videoId"":""YXZH-eBtmqQ"" ""author"":""Stray Kids"" ""authorId"":""UC9rMiEjNa"
+2026-07-15 18:55,Channel,Failed,0.468,Timeout or Error
+2026-07-15 18:55,Comments,OK,0.643,"{""commentCount"":10540624 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-07-15 18:55,Playlist,Failed,0.593,Timeout or Error
