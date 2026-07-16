@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-06-16 09:26,Video,Failed,1.451,Timeout or Error
-2026-06-16 09:26,Search,Failed,1.208,Timeout or Error
-2026-06-16 09:26,Channel,Failed,1.45,Timeout or Error
-2026-06-16 09:26,Comments,Failed,0.797,Timeout or Error
-2026-06-16 09:26,Playlist,Failed,0.334,Timeout or Error
 2026-06-16 15:28,Video,Failed,0.59,Timeout or Error
 2026-06-16 15:28,Search,OK,1.051,"[{""type"":""video"" ""title"":""Quel Age Ont Vos Oreilles ? Test Auditif"" ""videoId"":""2_bdA_R7yyc"" ""author"""
 2026-06-16 15:28,Channel,Failed,1.372,Timeout or Error
@@ -1444,3 +1439,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-07-16 08:53,Channel,Failed,0.988,Timeout or Error
 2026-07-16 08:53,Comments,Failed,1.109,Timeout or Error
 2026-07-16 08:53,Playlist,Failed,0.952,Timeout or Error
+2026-07-16 11:02,Video,Failed,1.216,Timeout or Error
+2026-07-16 11:02,Search,OK,0.961,"[{""type"":""video"" ""title"":""50 QUESTIONS pour TESTER TON SAVOIR 🧠🤯 | Quiz Culture Générale"" ""videoId"":"
+2026-07-16 11:02,Channel,Failed,0.597,Timeout or Error
+2026-07-16 11:02,Comments,Failed,0.698,Timeout or Error
+2026-07-16 11:02,Playlist,Failed,0.503,Timeout or Error
