@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-06-17 02:58,Video,Failed,0.358,Timeout or Error
-2026-06-17 02:58,Search,OK,1.169,"[{""type"":""video"" ""title"":""Noctua kann auch Wasser! Die neue AiO im Test"" ""videoId"":""mphhMpuBLgI"" ""au"
-2026-06-17 02:58,Channel,Failed,0.423,Timeout or Error
-2026-06-17 02:58,Comments,OK,0.836,"{""commentCount"":10529845 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-06-17 02:58,Playlist,Failed,0.411,Timeout or Error
 2026-06-17 05:57,Video,Failed,0.31,Timeout or Error
 2026-06-17 05:57,Search,OK,0.776,"[{""type"":""video"" ""title"":""China-Schrott statt Premium-Schweißgerät? – Ich breche den Test ab!"" ""vide"
 2026-06-17 05:57,Channel,Failed,0.342,Timeout or Error
@@ -1464,3 +1459,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-07-17 01:13,Channel,Failed,0.38,Timeout or Error
 2026-07-17 01:13,Comments,OK,0.663,"{""commentCount"":10542087 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-07-17 01:13,Playlist,Failed,0.438,Timeout or Error
+2026-07-17 03:01,Video,Failed,0.308,Timeout or Error
+2026-07-17 03:01,Search,OK,1.204,"[{""type"":""video"" ""title"":""The Chemical Brothers - The Test (Official Music Video)"" ""videoId"":""yhS9Ln"
+2026-07-17 03:01,Channel,Failed,0.38,Timeout or Error
+2026-07-17 03:01,Comments,OK,0.748,"{""commentCount"":10542192 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-07-17 03:01,Playlist,Failed,0.465,Timeout or Error
