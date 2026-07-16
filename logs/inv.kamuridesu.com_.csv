@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-06-17 05:57,Video,Failed,0.309,Timeout or Error
-2026-06-17 05:57,Search,Failed,1.04,Timeout or Error
-2026-06-17 05:57,Channel,Failed,0.385,Timeout or Error
-2026-06-17 05:57,Comments,OK,0.712,"{""commentCount"":10530026 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-06-17 05:57,Playlist,Failed,0.374,Timeout or Error
-2026-06-17 05:57,Video,Failed,0.284,Timeout or Error
-2026-06-17 05:57,Search,OK,1.029,"[{""type"":""video"" ""title"":""BEST HDR OLED TEST 240fps | Epic Nature Animals 4K VIDEO (8K Video ULTRA H"
-2026-06-17 05:57,Channel,Failed,1.037,Timeout or Error
-2026-06-17 05:57,Comments,OK,0.688,"{""commentCount"":10530027 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-06-17 05:57,Playlist,Failed,0.377,Timeout or Error
 2026-06-17 07:52,Video,Failed,0.426,Timeout or Error
 2026-06-17 07:52,Search,Failed,1.032,Timeout or Error
 2026-06-17 07:52,Channel,Failed,0.503,Timeout or Error
@@ -2939,3 +2929,13 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-07-17 04:57,Channel,Failed,0.563,Timeout or Error
 2026-07-17 04:57,Comments,OK,0.81,"{""commentCount"":10542637 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-07-17 04:57,Playlist,Failed,0.706,Timeout or Error
+2026-07-17 05:59,Video,Failed,0.33,Timeout or Error
+2026-07-17 05:59,Search,Failed,1.033,Timeout or Error
+2026-07-17 05:59,Channel,Failed,0.499,Timeout or Error
+2026-07-17 05:59,Comments,OK,0.708,"{""commentCount"":10542720 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-07-17 05:59,Playlist,Failed,0.609,Timeout or Error
+2026-07-17 05:59,Video,Failed,0.314,Timeout or Error
+2026-07-17 05:59,Search,Failed,1.031,Timeout or Error
+2026-07-17 05:59,Channel,Failed,0.447,Timeout or Error
+2026-07-17 05:59,Comments,OK,0.712,"{""commentCount"":10542721 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-07-17 05:59,Playlist,Failed,0.614,Timeout or Error
