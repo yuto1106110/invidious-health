@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-06-17 09:12,Video,Failed,0.391,Timeout or Error
-2026-06-17 09:12,Search,Failed,0.282,Timeout or Error
-2026-06-17 09:12,Channel,Failed,0.204,Timeout or Error
-2026-06-17 09:12,Comments,Failed,0.514,Timeout or Error
-2026-06-17 09:12,Playlist,Failed,0.218,Timeout or Error
 2026-06-17 15:05,Video,Failed,1.287,Timeout or Error
 2026-06-17 15:05,Search,Failed,1.296,Timeout or Error
 2026-06-17 15:05,Channel,Failed,1.285,Timeout or Error
@@ -1474,3 +1469,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-07-17 08:53,Channel,Failed,0.57,Timeout or Error
 2026-07-17 08:53,Comments,OK,0.718,"{""commentCount"":10542979 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-07-17 08:53,Playlist,Failed,0.733,Timeout or Error
+2026-07-17 11:06,Video,Failed,0.297,Timeout or Error
+2026-07-17 11:06,Search,OK,0.789,"[{""type"":""video"" ""title"":""OLED TEST HDR 4K 120FPS DOLBY VISION 🏞 4K / 8K Monitor Test Video #BGM"" ""v"
+2026-07-17 11:06,Channel,Failed,0.324,Timeout or Error
+2026-07-17 11:06,Comments,OK,0.526,"{""commentCount"":10542926 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-07-17 11:06,Playlist,Failed,0.414,Timeout or Error
