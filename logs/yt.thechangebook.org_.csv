@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-06-18 00:00,Video,Failed,0.415,Timeout or Error
-2026-06-18 00:00,Search,OK,1.183,"[{""type"":""video"" ""title"":""50 QUESTIONS pour TESTER TON SAVOIR 🧠🤯 | Quiz Culture Générale"" ""videoId"":"
-2026-06-18 00:00,Channel,Failed,0.464,Timeout or Error
-2026-06-18 00:00,Comments,Failed,0.886,Timeout or Error
-2026-06-18 00:00,Playlist,Failed,0.359,Timeout or Error
 2026-06-18 02:54,Video,Failed,0.61,Timeout or Error
 2026-06-18 02:54,Search,Failed,1.447,Timeout or Error
 2026-06-18 02:54,Channel,Failed,0.627,Timeout or Error
@@ -1489,3 +1484,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-07-17 23:27,Channel,Failed,0.475,Timeout or Error
 2026-07-17 23:27,Comments,Failed,0.845,Timeout or Error
 2026-07-17 23:27,Playlist,Failed,0.498,Timeout or Error
+2026-07-18 01:09,Video,Failed,1.472,Timeout or Error
+2026-07-18 01:09,Search,OK,1.187,"[{""type"":""video"" ""title"":""BLIND TEST TOUTES GÉNÉRATIONS (80 extraits)"" ""videoId"":""nkpvlMBmhLo"" ""auth"
+2026-07-18 01:09,Channel,Failed,0.691,Timeout or Error
+2026-07-18 01:09,Comments,Failed,0.955,Timeout or Error
+2026-07-18 01:09,Playlist,Failed,0.709,Timeout or Error
