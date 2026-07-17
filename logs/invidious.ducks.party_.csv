@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-06-18 02:54,Video,Failed,0.316,Timeout or Error
-2026-06-18 02:54,Search,OK,0.86,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-06-18 02:54,Channel,Failed,0.353,Timeout or Error
-2026-06-18 02:54,Comments,OK,0.634,"{""commentCount"":10530342 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-06-18 02:54,Playlist,Failed,0.357,Timeout or Error
 2026-06-18 05:05,Video,Failed,0.312,Timeout or Error
 2026-06-18 05:05,Search,OK,0.824,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-06-18 05:05,Channel,Failed,0.38,Timeout or Error
@@ -1489,3 +1484,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-07-18 01:09,Channel,Failed,0.564,Timeout or Error
 2026-07-18 01:09,Comments,OK,0.842,"{""commentCount"":10543603 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-07-18 01:09,Playlist,Failed,1.333,Timeout or Error
+2026-07-18 02:59,Video,Failed,0.36,Timeout or Error
+2026-07-18 02:59,Search,OK,1.036,"[{""type"":""video"" ""title"":""Honda XL 750 Transalp E-Clutch | Test Modell 2026 mit E-Clutch"" ""videoId"":"
+2026-07-18 02:59,Channel,Failed,0.611,Timeout or Error
+2026-07-18 02:59,Comments,OK,0.91,"{""commentCount"":10543725 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-07-18 02:59,Playlist,Failed,0.495,Timeout or Error
