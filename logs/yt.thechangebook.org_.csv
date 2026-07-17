@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-06-17 15:05,Video,Failed,0.776,Timeout or Error
-2026-06-17 15:05,Search,OK,1.048,"[{""type"":""video"" ""title"":""50 QUESTIONS pour TESTER TON SAVOIR 🧠🤯 | Quiz Culture Générale"" ""videoId"":"
-2026-06-17 15:05,Channel,Failed,0.471,Timeout or Error
-2026-06-17 15:05,Comments,Failed,0.661,Timeout or Error
-2026-06-17 15:05,Playlist,Failed,0.506,Timeout or Error
 2026-06-17 20:42,Video,Failed,0.654,Timeout or Error
 2026-06-17 20:42,Search,OK,0.888,"[{""type"":""video"" ""title"":""OLED TEST HDR 4K 120FPS DOLBY VISION 🏞 4K / 8K Monitor Test Video #BGM"" ""v"
 2026-06-17 20:42,Channel,Failed,0.49,Timeout or Error
@@ -1479,3 +1474,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-07-17 14:35,Channel,Failed,0.51,Timeout or Error
 2026-07-17 14:35,Comments,Failed,0.711,Timeout or Error
 2026-07-17 14:35,Playlist,Failed,0.526,Timeout or Error
+2026-07-17 16:59,Video,Failed,1.388,Timeout or Error
+2026-07-17 16:59,Search,OK,0.879,"[{""type"":""video"" ""title"":""🧠 Devine le LOGO en 3 SECONDES ✅🔥🤔 | 300 Logos Célèbres | Quiz Logos 2024"""
+2026-07-17 16:59,Channel,Failed,0.437,Timeout or Error
+2026-07-17 16:59,Comments,Failed,0.787,Timeout or Error
+2026-07-17 16:59,Playlist,Failed,0.459,Timeout or Error
