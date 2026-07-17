@@ -1484,3 +1484,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-07-17 21:03,Channel,Failed,0.449,Timeout or Error
 2026-07-17 21:03,Comments,OK,0.945,"{""commentCount"":10543243 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-07-17 21:03,Playlist,Failed,0.472,Timeout or Error
+2026-07-17 23:27,Video,Failed,1.457,Timeout or Error
+2026-07-17 23:27,Search,OK,0.937,"[{""type"":""video"" ""title"":""Honda XL 750 Transalp E-Clutch | Test Modell 2026 mit E-Clutch"" ""videoId"":"
+2026-07-17 23:27,Channel,Failed,0.464,Timeout or Error
+2026-07-17 23:27,Comments,OK,0.97,"{""commentCount"":10543478 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-07-17 23:27,Playlist,Failed,1.072,Timeout or Error
