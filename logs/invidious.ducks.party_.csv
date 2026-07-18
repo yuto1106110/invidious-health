@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-06-18 19:12,Video,Failed,0.314,Timeout or Error
-2026-06-18 19:12,Search,OK,0.946,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-06-18 19:12,Channel,Failed,0.366,Timeout or Error
-2026-06-18 19:12,Comments,OK,0.57,"{""commentCount"":10525332 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-06-18 19:12,Playlist,Failed,0.552,Timeout or Error
 2026-06-18 23:00,Video,Failed,0.324,Timeout or Error
 2026-06-18 23:00,Search,OK,0.994,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-06-18 23:00,Channel,Failed,0.393,Timeout or Error
@@ -1514,3 +1509,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-07-18 17:47,Channel,Failed,0.333,Timeout or Error
 2026-07-18 17:47,Comments,OK,0.63,"{""commentCount"":10544532 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-07-18 17:47,Playlist,Failed,0.45,Timeout or Error
+2026-07-18 19:13,Video,Failed,0.312,Timeout or Error
+2026-07-18 19:13,Search,OK,1.089,"[{""type"":""video"" ""title"":""CUPRA RAVAL im Test: Autobahn | Reichweite | Laden | Preis | Lob + Kritik "
+2026-07-18 19:13,Channel,Failed,0.349,Timeout or Error
+2026-07-18 19:13,Comments,OK,0.753,"{""commentCount"":10544637 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-07-18 19:13,Playlist,Failed,0.766,Timeout or Error

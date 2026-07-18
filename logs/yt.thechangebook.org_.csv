@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-06-18 19:12,Video,Failed,0.505,Timeout or Error
-2026-06-18 19:12,Search,OK,0.875,"[{""type"":""video"" ""title"":""QUIZ Culture Générale 🧠 : 100 Questions pour tester votre niveau"" ""videoId"
-2026-06-18 19:12,Channel,Failed,1.448,Timeout or Error
-2026-06-18 19:12,Comments,Failed,0.69,Timeout or Error
-2026-06-18 19:12,Playlist,Failed,0.352,Timeout or Error
 2026-06-18 23:00,Video,Failed,1.301,Timeout or Error
 2026-06-18 23:00,Search,OK,0.974,"[{""type"":""video"" ""title"":""QUIZ Culture Générale 🧠 : 100 Questions pour tester votre niveau"" ""videoId"
 2026-06-18 23:00,Channel,Failed,0.699,Timeout or Error
@@ -1514,3 +1509,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-07-18 17:47,Channel,Failed,0.449,Timeout or Error
 2026-07-18 17:47,Comments,Failed,0.748,Timeout or Error
 2026-07-18 17:47,Playlist,Failed,0.354,Timeout or Error
+2026-07-18 19:13,Video,Failed,1.301,Timeout or Error
+2026-07-18 19:13,Search,OK,1.24,"[{""type"":""video"" ""title"":""50 QUESTIONS pour TESTER TON SAVOIR 🧠🤯 | Quiz Culture Générale"" ""videoId"":"
+2026-07-18 19:13,Channel,Failed,0.581,Timeout or Error
+2026-07-18 19:13,Comments,Failed,0.821,Timeout or Error
+2026-07-18 19:13,Playlist,Failed,0.548,Timeout or Error
