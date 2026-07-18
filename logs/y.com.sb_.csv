@@ -1529,3 +1529,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-07-19 00:50,Channel,Failed,0.383,Timeout or Error
 2026-07-19 00:50,Comments,OK,0.764,"{""commentCount"":10545086 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-07-19 00:50,Playlist,Failed,0.452,Timeout or Error
+2026-07-19 01:50,Video,Failed,0.299,Timeout or Error
+2026-07-19 01:50,Search,OK,0.798,"[{""type"":""video"" ""title"":""Is Your 5-Year-Old iPhone Still Good Enough? Camera Test vs. Oppo Find X9 "
+2026-07-19 01:50,Channel,Failed,0.362,Timeout or Error
+2026-07-19 01:50,Comments,OK,0.747,"{""commentCount"":10545190 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-07-19 01:50,Playlist,Failed,1.401,Timeout or Error
