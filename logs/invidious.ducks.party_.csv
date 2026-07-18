@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-06-19 05:23,Video,Failed,0.314,Timeout or Error
-2026-06-19 05:23,Search,OK,0.863,"[{""type"":""video"" ""title"":""17 Degree Airflow WITHOUT an Exhaust Hose! Affordable AC Alternative Teste"
-2026-06-19 05:23,Channel,Failed,0.35,Timeout or Error
-2026-06-19 05:23,Comments,OK,0.691,"{""commentCount"":10526159 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-06-19 05:23,Playlist,Failed,0.351,Timeout or Error
 2026-06-19 07:53,Video,Failed,0.362,Timeout or Error
 2026-06-19 07:53,Search,OK,0.771,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-06-19 07:53,Channel,Failed,0.384,Timeout or Error
@@ -1544,3 +1539,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-07-19 05:01,Channel,Failed,0.734,Timeout or Error
 2026-07-19 05:01,Comments,OK,0.8,"{""commentCount"":10545446 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-07-19 05:01,Playlist,Failed,0.612,Timeout or Error
+2026-07-19 06:43,Video,Failed,0.307,Timeout or Error
+2026-07-19 06:43,Search,OK,1.064,"[{""type"":""video"" ""title"":""ULTRA Black OLED Display Test | Dolby Vision HDR 240fps (8K Video ULTRA HD"
+2026-07-19 06:43,Channel,Failed,1.037,Timeout or Error
+2026-07-19 06:43,Comments,OK,0.627,"{""commentCount"":10545582 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-07-19 06:43,Playlist,Failed,0.926,Timeout or Error
