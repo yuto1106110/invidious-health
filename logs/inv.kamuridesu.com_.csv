@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-06-19 09:21,Video,Failed,0.306,Timeout or Error
-2026-06-19 09:21,Search,OK,0.97,"[{""type"":""video"" ""title"":""Vivo X300 Ultra vs OPPO Find X9 Ultra / Xiaomi / Huawei / Samsung / iPhone"
-2026-06-19 09:21,Channel,Failed,0.358,Timeout or Error
-2026-06-19 09:21,Comments,OK,0.633,"{""commentCount"":10526393 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-06-19 09:21,Playlist,Failed,0.394,Timeout or Error
-2026-06-19 09:21,Video,Failed,0.282,Timeout or Error
-2026-06-19 09:21,Search,Failed,1.028,Timeout or Error
-2026-06-19 09:21,Channel,Failed,0.36,Timeout or Error
-2026-06-19 09:21,Comments,OK,0.616,"{""commentCount"":10526393 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-06-19 09:21,Playlist,Failed,0.416,Timeout or Error
 2026-06-19 15:11,Video,Failed,0.292,Timeout or Error
 2026-06-19 15:11,Search,OK,0.85,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-06-19 15:11,Channel,Failed,0.37,Timeout or Error
@@ -3099,3 +3089,13 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-07-19 08:47,Channel,Failed,0.375,Timeout or Error
 2026-07-19 08:47,Comments,OK,0.667,"{""commentCount"":10545738 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-07-19 08:47,Playlist,Failed,0.571,Timeout or Error
+2026-07-19 11:06,Video,Failed,0.35,Timeout or Error
+2026-07-19 11:06,Search,OK,0.949,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-07-19 11:06,Channel,Failed,0.381,Timeout or Error
+2026-07-19 11:06,Comments,OK,0.679,"{""commentCount"":10545001 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-07-19 11:06,Playlist,Failed,0.534,Timeout or Error
+2026-07-19 11:06,Video,Failed,0.316,Timeout or Error
+2026-07-19 11:06,Search,OK,1.016,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-07-19 11:06,Channel,Failed,0.386,Timeout or Error
+2026-07-19 11:06,Comments,OK,0.59,"{""commentCount"":10545001 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-07-19 11:06,Playlist,Failed,0.54,Timeout or Error
