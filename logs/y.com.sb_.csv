@@ -1574,3 +1574,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-07-20 02:53,Channel,Failed,0.398,Timeout or Error
 2026-07-20 02:53,Comments,OK,0.556,"{""commentCount"":10546205 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-07-20 02:53,Playlist,Failed,0.507,Timeout or Error
+2026-07-20 03:57,Video,Failed,0.342,Timeout or Error
+2026-07-20 03:57,Search,OK,0.805,"[{""type"":""video"" ""title"":""Aldi: PIZZ'AH Pizza Ariosa - Margherita  Salami & Verdure im Test #pizza #"
+2026-07-20 03:57,Channel,Failed,0.365,Timeout or Error
+2026-07-20 03:57,Comments,OK,0.597,"{""commentCount"":10546261 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-07-20 03:57,Playlist,Failed,0.444,Timeout or Error
