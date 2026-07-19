@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-06-19 20:16,Video,Failed,1.824,Timeout or Error
-2026-06-19 20:16,Search,Failed,1.833,Timeout or Error
-2026-06-19 20:16,Channel,Failed,1.588,Timeout or Error
-2026-06-19 20:16,Comments,Failed,2.242,Timeout or Error
-2026-06-19 20:16,Playlist,Failed,1.822,Timeout or Error
 2026-06-19 23:51,Video,OK,0.554,
 2026-06-19 23:51,Search,OK,1.229,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-06-19 23:51,Channel,Failed,0.867,Timeout or Error
@@ -1559,3 +1554,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-07-19 19:21,Channel,Failed,1.893,Timeout or Error
 2026-07-19 19:21,Comments,Failed,1.868,Timeout or Error
 2026-07-19 19:21,Playlist,Failed,1.87,Timeout or Error
+2026-07-19 20:51,Video,Failed,1.965,Timeout or Error
+2026-07-19 20:51,Search,Failed,2.055,Timeout or Error
+2026-07-19 20:51,Channel,Failed,1.718,Timeout or Error
+2026-07-19 20:51,Comments,Failed,1.91,Timeout or Error
+2026-07-19 20:51,Playlist,Failed,1.589,Timeout or Error
