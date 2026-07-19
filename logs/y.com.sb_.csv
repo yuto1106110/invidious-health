@@ -1554,3 +1554,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-07-19 17:06,Channel,Failed,0.521,Timeout or Error
 2026-07-19 17:06,Comments,OK,0.862,"{""commentCount"":10545016 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-07-19 17:06,Playlist,Failed,0.592,Timeout or Error
+2026-07-19 19:21,Video,Failed,0.472,Timeout or Error
+2026-07-19 19:21,Search,OK,1.217,"[{""type"":""video"" ""title"":""Royal Enfield Goan Classic 350 | Test (deutsch)"" ""videoId"":""qvizxOWZaeM"" """
+2026-07-19 19:21,Channel,Failed,0.724,Timeout or Error
+2026-07-19 19:21,Comments,OK,0.982,"{""commentCount"":10545135 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-07-19 19:21,Playlist,Failed,1.289,Timeout or Error
