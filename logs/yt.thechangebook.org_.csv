@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-06-20 02:13,Video,Failed,0.718,Timeout or Error
-2026-06-20 02:13,Search,OK,1.311,"[{""type"":""video"" ""title"":""Incredible 4K Video HDR Clarity | Real 60FPS Dolby Vision OLED TEST (8K/4K"
-2026-06-20 02:13,Channel,Failed,0.687,Timeout or Error
-2026-06-20 02:13,Comments,Failed,0.795,Timeout or Error
-2026-06-20 02:13,Playlist,Failed,0.831,Timeout or Error
 2026-06-20 04:41,Video,Failed,0.666,Timeout or Error
 2026-06-20 04:41,Search,OK,1.396,"[{""type"":""video"" ""title"":""50 QUESTIONS pour TESTER TON SAVOIR 🧠🤯 | Quiz Culture Générale"" ""videoId"":"
 2026-06-20 04:41,Channel,Failed,0.467,Timeout or Error
@@ -1574,3 +1569,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-07-20 01:51,Channel,Failed,0.362,Timeout or Error
 2026-07-20 01:51,Comments,Failed,0.755,Timeout or Error
 2026-07-20 01:51,Playlist,Failed,0.987,Timeout or Error
+2026-07-20 02:53,Video,Failed,1.446,Timeout or Error
+2026-07-20 02:53,Search,OK,1.324,"[{""type"":""video"" ""title"":""50 QUESTIONS pour TESTER TON SAVOIR 🧠🤯 | Quiz Culture Générale"" ""videoId"":"
+2026-07-20 02:53,Channel,Failed,0.667,Timeout or Error
+2026-07-20 02:53,Comments,Failed,0.978,Timeout or Error
+2026-07-20 02:53,Playlist,Failed,0.398,Timeout or Error
