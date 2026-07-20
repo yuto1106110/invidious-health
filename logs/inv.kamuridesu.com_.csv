@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-06-20 14:07,Video,Failed,0.406,Timeout or Error
-2026-06-20 14:07,Search,OK,0.963,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-06-20 14:07,Channel,Failed,0.493,Timeout or Error
-2026-06-20 14:07,Comments,OK,0.688,"{""commentCount"":10528420 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-06-20 14:07,Playlist,Failed,0.485,Timeout or Error
-2026-06-20 14:07,Video,Failed,0.409,Timeout or Error
-2026-06-20 14:07,Search,OK,1.024,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-06-20 14:07,Channel,Failed,0.492,Timeout or Error
-2026-06-20 14:07,Comments,OK,0.668,"{""commentCount"":10528420 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-06-20 14:07,Playlist,Failed,0.478,Timeout or Error
 2026-06-20 17:46,Video,Failed,0.413,Timeout or Error
 2026-06-20 17:46,Search,OK,0.923,"[{""type"":""video"" ""title"":""GUILD TEST ON LIVE Annu Play|| Road To 1M || #freefirelive #shortfeed #fem"
 2026-06-20 17:46,Channel,Failed,0.471,Timeout or Error
@@ -3169,3 +3159,13 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-07-20 11:26,Channel,Failed,0.417,Timeout or Error
 2026-07-20 11:26,Comments,OK,0.672,"{""commentCount"":10546014 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-07-20 11:26,Playlist,Failed,0.574,Timeout or Error
+2026-07-20 15:11,Video,Failed,0.305,Timeout or Error
+2026-07-20 15:11,Search,OK,0.958,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-07-20 15:11,Channel,Failed,0.404,Timeout or Error
+2026-07-20 15:11,Comments,OK,0.661,"{""commentCount"":10546277 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-07-20 15:11,Playlist,Failed,0.541,Timeout or Error
+2026-07-20 15:11,Video,Failed,0.285,Timeout or Error
+2026-07-20 15:11,Search,OK,0.945,"[{""type"":""video"" ""title"":""RTX 4090 vs RTX 5090 - Test in 12 Games with New Drivers | 1440p & 4K"" ""vi"
+2026-07-20 15:11,Channel,Failed,0.416,Timeout or Error
+2026-07-20 15:11,Comments,OK,0.566,"{""commentCount"":10546277 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-07-20 15:11,Playlist,Failed,0.578,Timeout or Error
