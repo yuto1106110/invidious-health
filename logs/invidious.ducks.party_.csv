@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-06-21 00:42,Video,Failed,1.504,Timeout or Error
-2026-06-21 00:42,Search,Failed,1.504,Timeout or Error
-2026-06-21 00:42,Channel,Failed,1.504,Timeout or Error
-2026-06-21 00:42,Comments,Failed,1.504,Timeout or Error
-2026-06-21 00:42,Playlist,Failed,1.504,Timeout or Error
-2026-06-21 02:20,Video,Failed,1.504,Timeout or Error
-2026-06-21 02:20,Search,Failed,1.504,Timeout or Error
-2026-06-21 02:20,Channel,Failed,1.504,Timeout or Error
-2026-06-21 02:20,Comments,Failed,1.504,Timeout or Error
-2026-06-21 02:20,Playlist,Failed,1.503,Timeout or Error
 2026-06-21 04:16,Video,Failed,1.504,Timeout or Error
 2026-06-21 04:16,Search,Failed,1.504,Timeout or Error
 2026-06-21 04:16,Channel,Failed,1.504,Timeout or Error
@@ -1584,3 +1574,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-07-21 00:05,Channel,Failed,0.407,Timeout or Error
 2026-07-21 00:05,Comments,OK,0.715,"{""commentCount"":10546674 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-07-21 00:05,Playlist,Failed,0.607,Timeout or Error
+2026-07-21 02:30,Video,Failed,0.945,Timeout or Error
+2026-07-21 02:30,Search,OK,0.885,"[{""type"":""video"" ""title"":""Even More Problems for Big Brands from Walmart"" ""videoId"":""wEfm2h1XP6U"" ""a"
+2026-07-21 02:30,Channel,Failed,0.46,Timeout or Error
+2026-07-21 02:30,Comments,Failed,1.29,Timeout or Error
+2026-07-21 02:30,Playlist,Failed,0.739,Timeout or Error
