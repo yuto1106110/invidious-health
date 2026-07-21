@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-06-22 08:05,Video,Failed,1.504,Timeout or Error
-2026-06-22 08:05,Search,Failed,1.503,Timeout or Error
-2026-06-22 08:05,Channel,Failed,1.504,Timeout or Error
-2026-06-22 08:05,Comments,Failed,1.504,Timeout or Error
-2026-06-22 08:05,Playlist,Failed,1.504,Timeout or Error
 2026-06-22 12:36,Video,Failed,1.504,Timeout or Error
 2026-06-22 12:36,Search,Failed,1.504,Timeout or Error
 2026-06-22 12:36,Channel,Failed,1.504,Timeout or Error
@@ -1594,3 +1589,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-07-22 07:49,Channel,Failed,0.492,Timeout or Error
 2026-07-22 07:49,Comments,OK,0.809,"{""commentCount"":10547773 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-07-22 07:49,Playlist,Failed,1.29,Timeout or Error
+2026-07-22 08:51,Video,Failed,0.52,Timeout or Error
+2026-07-22 08:51,Search,OK,0.91,"[{""type"":""video"" ""title"":""Lidl: Bratwurst Cheeseburger  Peperoni Pizza & Mac 'n' Cheese Style im Tes"
+2026-07-22 08:51,Channel,Failed,0.533,Timeout or Error
+2026-07-22 08:51,Comments,Failed,1.336,Timeout or Error
+2026-07-22 08:51,Playlist,Failed,0.629,Timeout or Error
