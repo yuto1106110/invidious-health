@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-06-22 18:42,Video,OK,0.774,
-2026-06-22 18:42,Search,OK,1.644,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-06-22 18:42,Channel,Failed,0.661,Timeout or Error
-2026-06-22 18:42,Comments,OK,0.973,"{""commentCount"":10530992 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-06-22 18:42,Playlist,Failed,0.619,Timeout or Error
 2026-06-23 00:18,Video,Failed,1.578,Timeout or Error
 2026-06-23 00:18,Search,Failed,1.832,Timeout or Error
 2026-06-23 00:18,Channel,Failed,1.845,Timeout or Error
@@ -1604,3 +1599,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-07-22 17:15,Channel,Failed,0.572,Timeout or Error
 2026-07-22 17:15,Comments,OK,0.941,"{""commentCount"":10547105 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-07-22 17:15,Playlist,Failed,1.004,Timeout or Error
+2026-07-22 20:02,Video,OK,0.677,
+2026-07-22 20:02,Search,OK,1.253,"[{""type"":""video"" ""title"":""I Tested iPhone Shortcut \""Viruses\"""" ""videoId"":""yGAueFvZ8XQ"" ""author"":""Tr"
+2026-07-22 20:02,Channel,Failed,2.133,Timeout or Error
+2026-07-22 20:02,Comments,OK,1.019,"{""commentCount"":10547157 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-07-22 20:02,Playlist,Failed,0.495,Timeout or Error
