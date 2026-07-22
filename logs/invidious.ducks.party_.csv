@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-06-22 12:36,Video,Failed,1.504,Timeout or Error
-2026-06-22 12:36,Search,Failed,1.504,Timeout or Error
-2026-06-22 12:36,Channel,Failed,1.504,Timeout or Error
-2026-06-22 12:36,Comments,Failed,1.504,Timeout or Error
-2026-06-22 12:36,Playlist,Failed,1.504,Timeout or Error
 2026-06-22 18:42,Video,Failed,0.46,Timeout or Error
 2026-06-22 18:42,Search,OK,1.06,"[{""type"":""video"" ""title"":""DEUTSCHLAND￼ in den Boden gerammt | ZEEKR 7GT"" ""videoId"":""hAtquNHKP0I"" ""au"
 2026-06-22 18:42,Channel,Failed,0.54,Timeout or Error
@@ -1599,3 +1594,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-07-22 11:03,Channel,Failed,0.591,Timeout or Error
 2026-07-22 11:03,Comments,OK,0.941,"{""commentCount"":10547062 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-07-22 11:03,Playlist,Failed,1.216,Timeout or Error
+2026-07-22 14:42,Video,Failed,1.21,Timeout or Error
+2026-07-22 14:42,Search,OK,0.867,"[{""type"":""video"" ""title"":""Kopfhörer-Blindtest: 24 Euro vs. 1.000 Euro | Hören wir den Unterschied?"" "
+2026-07-22 14:42,Channel,Failed,0.334,Timeout or Error
+2026-07-22 14:42,Comments,OK,0.614,"{""commentCount"":10547100 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-07-22 14:42,Playlist,Failed,0.438,Timeout or Error
