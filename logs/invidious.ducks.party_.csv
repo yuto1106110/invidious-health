@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-06-23 00:18,Video,Failed,1.504,Timeout or Error
-2026-06-23 00:18,Search,Failed,1.504,Timeout or Error
-2026-06-23 00:18,Channel,Failed,1.504,Timeout or Error
-2026-06-23 00:18,Comments,Failed,1.499,Timeout or Error
-2026-06-23 00:18,Playlist,Failed,1.504,Timeout or Error
 2026-06-23 04:20,Video,Failed,1.504,Timeout or Error
 2026-06-23 04:20,Search,Failed,1.504,Timeout or Error
 2026-06-23 04:20,Channel,Failed,1.504,Timeout or Error
@@ -1609,3 +1604,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-07-22 22:29,Channel,Failed,1.213,Timeout or Error
 2026-07-22 22:29,Comments,OK,0.986,"{""commentCount"":10547016 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-07-22 22:29,Playlist,Failed,1.213,Timeout or Error
+2026-07-23 00:27,Video,Failed,0.415,Timeout or Error
+2026-07-23 00:27,Search,OK,0.911,"[{""type"":""video"" ""title"":""ASMR - TEST YOUR FOCUS 💤"" ""videoId"":""7SeFjsFPOTQ"" ""author"":""Mana ASMR"" ""au"
+2026-07-23 00:27,Channel,Failed,1.213,Timeout or Error
+2026-07-23 00:27,Comments,OK,0.578,"{""commentCount"":10547051 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-07-23 00:27,Playlist,Failed,0.547,Timeout or Error
