@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-06-23 11:41,Video,OK,1.272,
-2026-06-23 11:41,Search,OK,0.789,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-06-23 11:41,Channel,Failed,0.516,Timeout or Error
-2026-06-23 11:41,Comments,OK,0.668,"{""commentCount"":10531417 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-06-23 11:41,Playlist,Failed,0.439,Timeout or Error
 2026-06-23 15:43,Video,OK,0.656,
 2026-06-23 15:43,Search,OK,1.028,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-06-23 15:43,Channel,Failed,1.165,Timeout or Error
@@ -1624,3 +1619,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-07-23 11:38,Channel,Failed,1.574,Timeout or Error
 2026-07-23 11:38,Comments,Failed,1.523,Timeout or Error
 2026-07-23 11:38,Playlist,Failed,1.524,Timeout or Error
+2026-07-23 14:48,Video,OK,1.322,
+2026-07-23 14:48,Search,OK,1.302,"[{""type"":""video"" ""title"":""I Tested AI Life Hacks (Again)"" ""videoId"":""BKTj5pCdbqM"" ""author"":""Sambucha"
+2026-07-23 14:48,Channel,Failed,0.585,Timeout or Error
+2026-07-23 14:48,Comments,OK,0.972,"{""commentCount"":10547212 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-07-23 14:48,Playlist,Failed,0.948,Timeout or Error
