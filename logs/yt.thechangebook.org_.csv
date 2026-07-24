@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-06-25 07:11,Video,Failed,0.651,Timeout or Error
-2026-06-25 07:11,Search,Failed,1.201,Timeout or Error
-2026-06-25 07:11,Channel,Failed,0.615,Timeout or Error
-2026-06-25 07:11,Comments,Failed,0.582,Timeout or Error
-2026-06-25 07:11,Playlist,Failed,0.353,Timeout or Error
 2026-06-25 09:03,Video,Failed,0.793,Timeout or Error
 2026-06-25 09:03,Search,Failed,1.104,Timeout or Error
 2026-06-25 09:03,Channel,Failed,0.515,Timeout or Error
@@ -1649,3 +1644,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-07-25 06:59,Channel,Failed,0.473,Timeout or Error
 2026-07-25 06:59,Comments,Failed,0.857,Timeout or Error
 2026-07-25 06:59,Playlist,Failed,0.473,Timeout or Error
+2026-07-25 08:04,Video,Failed,1.627,Timeout or Error
+2026-07-25 08:04,Search,OK,1.328,"[{""type"":""video"" ""title"":""Test Galaxy Z Fold 8 après 48h : avis honnête sur le format  photo  autono"
+2026-07-25 08:04,Channel,Failed,0.72,Timeout or Error
+2026-07-25 08:04,Comments,Failed,1.209,Timeout or Error
+2026-07-25 08:04,Playlist,Failed,0.569,Timeout or Error
