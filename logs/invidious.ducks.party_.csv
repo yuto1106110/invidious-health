@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-06-25 03:47,Video,Failed,0.311,Timeout or Error
-2026-06-25 03:47,Search,OK,0.985,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-06-25 03:47,Channel,Failed,0.383,Timeout or Error
-2026-06-25 03:47,Comments,OK,0.833,"{""commentCount"":10532168 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-06-25 03:47,Playlist,Failed,0.506,Timeout or Error
 2026-06-25 05:43,Video,Failed,0.313,Timeout or Error
 2026-06-25 05:43,Search,OK,0.889,"[{""type"":""video"" ""title"":""Saphe T im Test: Gefahrenwarner mit Touch-Display und neuen Funktionen"" ""v"
 2026-06-25 05:43,Channel,Failed,0.337,Timeout or Error
@@ -1649,3 +1644,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-07-25 03:13,Channel,Failed,0.588,Timeout or Error
 2026-07-25 03:13,Comments,Failed,0.594,Timeout or Error
 2026-07-25 03:13,Playlist,Failed,0.654,Timeout or Error
+2026-07-25 05:15,Video,Failed,0.551,Timeout or Error
+2026-07-25 05:15,Search,Failed,1.619,Timeout or Error
+2026-07-25 05:15,Channel,Failed,0.576,Timeout or Error
+2026-07-25 05:15,Comments,Failed,1.056,Timeout or Error
+2026-07-25 05:15,Playlist,Failed,1.332,Timeout or Error
