@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-06-24 15:41,Video,Failed,0.628,Timeout or Error
-2026-06-24 15:41,Search,OK,1.089,"[{""type"":""video"" ""title"":""50 QUESTIONS pour TESTER TON SAVOIR 🧠🤯 | Quiz Culture Générale"" ""videoId"":"
-2026-06-24 15:41,Channel,Failed,0.362,Timeout or Error
-2026-06-24 15:41,Comments,Failed,0.885,Timeout or Error
-2026-06-24 15:41,Playlist,Failed,0.37,Timeout or Error
 2026-06-24 19:17,Video,Failed,0.506,Timeout or Error
 2026-06-24 19:17,Search,OK,1.071,"[{""type"":""video"" ""title"":""QUIZ Culture Générale 🧠 : 100 Questions pour tester votre niveau"" ""videoId"
 2026-06-24 19:17,Channel,Failed,0.614,Timeout or Error
@@ -1639,3 +1634,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-07-24 14:43,Channel,Failed,0.56,Timeout or Error
 2026-07-24 14:43,Comments,Failed,0.815,Timeout or Error
 2026-07-24 14:43,Playlist,Failed,0.539,Timeout or Error
+2026-07-24 17:14,Video,Failed,1.481,Timeout or Error
+2026-07-24 17:14,Search,OK,1.19,"[{""type"":""video"" ""title"":""TEST HALO Campaign Evolved : 25 ans après  la version ULTIME ? 🔵 TEST XBOX"
+2026-07-24 17:14,Channel,Failed,0.681,Timeout or Error
+2026-07-24 17:14,Comments,Failed,0.993,Timeout or Error
+2026-07-24 17:14,Playlist,Failed,0.691,Timeout or Error
