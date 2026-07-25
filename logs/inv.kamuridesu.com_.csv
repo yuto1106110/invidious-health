@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-06-25 17:26,Video,Failed,0.396,Timeout or Error
-2026-06-25 17:26,Search,OK,1.021,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-06-25 17:26,Channel,Failed,0.465,Timeout or Error
-2026-06-25 17:26,Comments,OK,0.667,"{""commentCount"":10532504 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-06-25 17:26,Playlist,Failed,0.474,Timeout or Error
-2026-06-25 17:26,Video,Failed,0.407,Timeout or Error
-2026-06-25 17:26,Search,OK,0.96,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-06-25 17:26,Channel,Failed,0.466,Timeout or Error
-2026-06-25 17:26,Comments,OK,0.664,"{""commentCount"":10532505 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-06-25 17:26,Playlist,Failed,0.469,Timeout or Error
 2026-06-25 20:35,Video,Failed,0.393,Timeout or Error
 2026-06-25 20:35,Search,OK,0.817,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-06-25 20:35,Channel,Failed,0.475,Timeout or Error
@@ -3309,3 +3299,13 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-07-25 16:57,Channel,Failed,0.288,Timeout or Error
 2026-07-25 16:57,Comments,Failed,0.27,Timeout or Error
 2026-07-25 16:57,Playlist,Failed,0.267,Timeout or Error
+2026-07-25 18:45,Video,Failed,1.13,Timeout or Error
+2026-07-25 18:45,Search,Failed,0.559,Timeout or Error
+2026-07-25 18:45,Channel,Failed,0.484,Timeout or Error
+2026-07-25 18:45,Comments,Failed,0.537,Timeout or Error
+2026-07-25 18:45,Playlist,Failed,0.507,Timeout or Error
+2026-07-25 18:45,Video,Failed,0.529,Timeout or Error
+2026-07-25 18:45,Search,Failed,0.465,Timeout or Error
+2026-07-25 18:45,Channel,Failed,1.163,Timeout or Error
+2026-07-25 18:45,Comments,Failed,0.465,Timeout or Error
+2026-07-25 18:45,Playlist,Failed,0.474,Timeout or Error
