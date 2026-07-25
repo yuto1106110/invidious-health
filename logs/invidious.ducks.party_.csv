@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-06-25 13:59,Video,Failed,0.36,Timeout or Error
-2026-06-25 13:59,Search,OK,0.835,"[{""type"":""video"" ""title"":""Das schlechteste EPA bisher?! 🇺🇦 Ukrainische Militär-Nahrung im Test!"" ""vi"
-2026-06-25 13:59,Channel,Failed,0.401,Timeout or Error
-2026-06-25 13:59,Comments,OK,0.658,"{""commentCount"":10532437 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-06-25 13:59,Playlist,Failed,0.397,Timeout or Error
 2026-06-25 17:26,Video,Failed,0.498,Timeout or Error
 2026-06-25 17:26,Search,OK,1.011,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-06-25 17:26,Channel,Failed,0.526,Timeout or Error
@@ -1649,3 +1644,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-07-25 11:05,Channel,Failed,1.251,Timeout or Error
 2026-07-25 11:05,Comments,Failed,0.47,Timeout or Error
 2026-07-25 11:05,Playlist,Failed,0.444,Timeout or Error
+2026-07-25 14:37,Video,Failed,0.351,Timeout or Error
+2026-07-25 14:37,Search,Failed,1.211,Timeout or Error
+2026-07-25 14:37,Channel,Failed,1.212,Timeout or Error
+2026-07-25 14:37,Comments,Failed,1.211,Timeout or Error
+2026-07-25 14:37,Playlist,Failed,1.216,Timeout or Error
