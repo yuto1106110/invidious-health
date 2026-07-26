@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-06-27 07:06,Video,Failed,0.825,Timeout or Error
-2026-06-27 07:06,Search,Failed,0.34,Timeout or Error
-2026-06-27 07:06,Channel,Failed,0.331,Timeout or Error
-2026-06-27 07:06,Comments,Failed,0.391,Timeout or Error
-2026-06-27 07:06,Playlist,Failed,0.379,Timeout or Error
 2026-06-27 08:59,Video,Failed,1.669,Timeout or Error
 2026-06-27 08:59,Search,Failed,1.698,Timeout or Error
 2026-06-27 08:59,Channel,Failed,1.699,Timeout or Error
@@ -1699,3 +1694,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-07-27 06:53,Channel,Failed,1.235,Timeout or Error
 2026-07-27 06:53,Comments,Failed,1.237,Timeout or Error
 2026-07-27 06:53,Playlist,Failed,1.237,Timeout or Error
+2026-07-27 07:54,Video,Failed,0.415,Timeout or Error
+2026-07-27 07:54,Search,OK,0.843,"[{""type"":""video"" ""title"":""MÖBELHÄUSER Giganten im TEST (Mit kompletter Enttäuschung) 🤯"" ""videoId"":""f"
+2026-07-27 07:54,Channel,Failed,0.481,Timeout or Error
+2026-07-27 07:54,Comments,Failed,0.688,Timeout or Error
+2026-07-27 07:54,Playlist,Failed,1.465,Timeout or Error
