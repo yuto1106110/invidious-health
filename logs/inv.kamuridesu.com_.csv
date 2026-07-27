@@ -1,24 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-06-27 20:39,Video,Failed,0.362,Timeout or Error
-2026-06-27 20:39,Search,Failed,1.061,Timeout or Error
-2026-06-27 20:39,Channel,Failed,1.063,Timeout or Error
-2026-06-27 20:39,Comments,OK,0.586,"{""commentCount"":10533869 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-06-27 20:39,Playlist,Failed,1.058,Timeout or Error
-2026-06-27 20:39,Video,Failed,0.362,Timeout or Error
-2026-06-27 20:39,Search,OK,0.986,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-06-27 20:39,Channel,Failed,0.603,Timeout or Error
-2026-06-27 20:39,Comments,OK,0.605,"{""commentCount"":10533870 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-06-27 20:39,Playlist,Failed,1.064,Timeout or Error
-2026-06-27 22:20,Video,Failed,0.434,Timeout or Error
-2026-06-27 22:20,Search,Failed,1.03,Timeout or Error
-2026-06-27 22:20,Channel,Failed,1.034,Timeout or Error
-2026-06-27 22:20,Comments,OK,0.704,"{""commentCount"":10533861 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-06-27 22:20,Playlist,Failed,1.028,Timeout or Error
-2026-06-27 22:20,Video,Failed,0.392,Timeout or Error
-2026-06-27 22:20,Search,Failed,1.027,Timeout or Error
-2026-06-27 22:20,Channel,Failed,0.546,Timeout or Error
-2026-06-27 22:20,Comments,OK,0.696,"{""commentCount"":10533861 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-06-27 22:20,Playlist,Failed,0.62,Timeout or Error
 2026-06-28 00:11,Video,Failed,0.416,Timeout or Error
 2026-06-28 00:11,Search,Failed,1.023,Timeout or Error
 2026-06-28 00:11,Channel,Failed,0.5,Timeout or Error
@@ -3399,3 +3379,13 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-07-27 19:36,Channel,Failed,0.404,Timeout or Error
 2026-07-27 19:36,Comments,Failed,0.43,Timeout or Error
 2026-07-27 19:36,Playlist,Failed,0.399,Timeout or Error
+2026-07-27 22:34,Video,Failed,0.407,Timeout or Error
+2026-07-27 22:34,Search,Failed,0.419,Timeout or Error
+2026-07-27 22:34,Channel,Failed,0.394,Timeout or Error
+2026-07-27 22:34,Comments,Failed,0.408,Timeout or Error
+2026-07-27 22:34,Playlist,Failed,0.462,Timeout or Error
+2026-07-27 22:34,Video,Failed,0.406,Timeout or Error
+2026-07-27 22:34,Search,Failed,0.414,Timeout or Error
+2026-07-27 22:34,Channel,Failed,0.454,Timeout or Error
+2026-07-27 22:34,Comments,Failed,0.427,Timeout or Error
+2026-07-27 22:34,Playlist,Failed,0.432,Timeout or Error

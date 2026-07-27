@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-06-27 20:39,Video,Failed,0.43,Timeout or Error
-2026-06-27 20:39,Search,OK,1.112,"[{""type"":""video"" ""title"":""NASA’s X-59 Reaches Quiet Supersonic Test Points for First Time"" ""videoId"""
-2026-06-27 20:39,Channel,Failed,0.512,Timeout or Error
-2026-06-27 20:39,Comments,OK,0.748,"{""commentCount"":10533870 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-06-27 20:39,Playlist,Failed,0.548,Timeout or Error
-2026-06-27 22:20,Video,Failed,0.52,Timeout or Error
-2026-06-27 22:20,Search,OK,1.14,"[{""type"":""video"" ""title"":""Der beste Mäher  den niemand braucht: Roborock NaviMow"" ""videoId"":""SQKCrL1"
-2026-06-27 22:20,Channel,Failed,0.516,Timeout or Error
-2026-06-27 22:20,Comments,OK,1.027,"{""commentCount"":10533861 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-06-27 22:20,Playlist,Failed,0.541,Timeout or Error
 2026-06-28 00:11,Video,Failed,1.542,Timeout or Error
 2026-06-28 00:11,Search,OK,1.066,"[{""type"":""video"" ""title"":""Der beste Mäher  den niemand braucht: Roborock NaviMow"" ""videoId"":""SQKCrL1"
 2026-06-28 00:11,Channel,Failed,0.521,Timeout or Error
@@ -1699,3 +1689,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-07-27 19:36,Channel,Failed,0.566,Timeout or Error
 2026-07-27 19:36,Comments,Failed,2.804,Timeout or Error
 2026-07-27 19:36,Playlist,Failed,0.59,Timeout or Error
+2026-07-27 22:34,Video,Failed,1.055,Timeout or Error
+2026-07-27 22:34,Search,Failed,0.608,Timeout or Error
+2026-07-27 22:34,Channel,Failed,0.602,Timeout or Error
+2026-07-27 22:34,Comments,Failed,0.601,Timeout or Error
+2026-07-27 22:34,Playlist,Failed,0.628,Timeout or Error
