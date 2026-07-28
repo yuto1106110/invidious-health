@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-06-29 06:58,Video,OK,0.733,
-2026-06-29 06:58,Search,OK,1.616,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-06-29 06:58,Channel,Failed,0.802,Timeout or Error
-2026-06-29 06:58,Comments,OK,0.971,"{""commentCount"":10534973 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-06-29 06:58,Playlist,Failed,0.589,Timeout or Error
 2026-06-29 08:04,Video,OK,0.968,
 2026-06-29 08:04,Search,OK,1.729,"[{""type"":""video"" ""title"":""LISA Takes a Lie Detector Test | Vanity Fair"" ""videoId"":""PLzJsIAR8Ns"" ""aut"
 2026-06-29 08:04,Channel,Failed,1.357,Timeout or Error
@@ -1694,3 +1689,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-07-29 06:57,Channel,Failed,0.518,Timeout or Error
 2026-07-29 06:57,Comments,OK,0.939,"{""commentCount"":10550982 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-07-29 06:57,Playlist,Failed,0.534,Timeout or Error
+2026-07-29 07:58,Video,OK,0.369,
+2026-07-29 07:58,Search,OK,1.544,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-07-29 07:58,Channel,Failed,0.443,Timeout or Error
+2026-07-29 07:58,Comments,OK,1.038,"{""commentCount"":10551014 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-07-29 07:58,Playlist,Failed,0.825,Timeout or Error
