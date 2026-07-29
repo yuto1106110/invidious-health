@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-06-29 11:53,Video,Failed,0.73,Timeout or Error
-2026-06-29 11:53,Search,OK,0.751,"[{""type"":""video"" ""title"":""ON TESTE LES PROMESSES DE PUBLICITÉS #6"" ""videoId"":""T0aGmpVzFKg"" ""author"":"
-2026-06-29 11:53,Channel,Failed,0.609,Timeout or Error
-2026-06-29 11:53,Comments,Failed,0.825,Timeout or Error
-2026-06-29 11:53,Playlist,Failed,0.423,Timeout or Error
 2026-06-29 16:25,Video,Failed,0.639,Timeout or Error
 2026-06-29 16:25,Search,OK,0.896,"[{""type"":""video"" ""title"":""50 QUESTIONS pour TESTER TON SAVOIR 🧠🤯 | Quiz Culture Générale"" ""videoId"":"
 2026-06-29 16:25,Channel,Failed,0.658,Timeout or Error
@@ -1694,3 +1689,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-07-29 09:00,Channel,Failed,0.34,Timeout or Error
 2026-07-29 09:00,Comments,Failed,0.59,Timeout or Error
 2026-07-29 09:00,Playlist,Failed,0.333,Timeout or Error
+2026-07-29 12:59,Video,Failed,1.45,Timeout or Error
+2026-07-29 12:59,Search,OK,0.854,"[{""type"":""video"" ""title"":""50 QUESTIONS pour TESTER TON SAVOIR 🧠🤯 | Quiz Culture Générale"" ""videoId"":"
+2026-07-29 12:59,Channel,Failed,0.705,Timeout or Error
+2026-07-29 12:59,Comments,Failed,0.785,Timeout or Error
+2026-07-29 12:59,Playlist,Failed,0.347,Timeout or Error
