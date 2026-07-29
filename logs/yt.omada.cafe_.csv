@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-06-29 08:04,Video,OK,0.968,
-2026-06-29 08:04,Search,OK,1.729,"[{""type"":""video"" ""title"":""LISA Takes a Lie Detector Test | Vanity Fair"" ""videoId"":""PLzJsIAR8Ns"" ""aut"
-2026-06-29 08:04,Channel,Failed,1.357,Timeout or Error
-2026-06-29 08:04,Comments,OK,1.297,"{""commentCount"":10535019 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-06-29 08:04,Playlist,Failed,0.879,Timeout or Error
 2026-06-29 11:53,Video,OK,0.772,
 2026-06-29 11:53,Search,OK,1.504,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-06-29 11:53,Channel,Failed,0.585,Timeout or Error
@@ -1694,3 +1689,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-07-29 07:58,Channel,Failed,0.443,Timeout or Error
 2026-07-29 07:58,Comments,OK,1.038,"{""commentCount"":10551014 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-07-29 07:58,Playlist,Failed,0.825,Timeout or Error
+2026-07-29 09:00,Video,OK,0.501,
+2026-07-29 09:00,Search,OK,1.038,"[{""type"":""video"" ""title"":""Ultimate Military Survival Knife Testing - Fire Craft Skills!"" ""videoId"":"""
+2026-07-29 09:00,Channel,Failed,0.508,Timeout or Error
+2026-07-29 09:00,Comments,OK,0.581,"{""commentCount"":10551078 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-07-29 09:00,Playlist,Failed,0.457,Timeout or Error

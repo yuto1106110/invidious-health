@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-06-29 08:04,Video,Failed,0.804,Timeout or Error
-2026-06-29 08:04,Search,Failed,1.108,Timeout or Error
-2026-06-29 08:04,Channel,Failed,0.531,Timeout or Error
-2026-06-29 08:04,Comments,Failed,1.016,Timeout or Error
-2026-06-29 08:04,Playlist,Failed,0.533,Timeout or Error
 2026-06-29 11:53,Video,Failed,0.73,Timeout or Error
 2026-06-29 11:53,Search,OK,0.751,"[{""type"":""video"" ""title"":""ON TESTE LES PROMESSES DE PUBLICITÉS #6"" ""videoId"":""T0aGmpVzFKg"" ""author"":"
 2026-06-29 11:53,Channel,Failed,0.609,Timeout or Error
@@ -1694,3 +1689,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-07-29 07:58,Channel,Failed,0.44,Timeout or Error
 2026-07-29 07:58,Comments,Failed,0.819,Timeout or Error
 2026-07-29 07:58,Playlist,Failed,0.335,Timeout or Error
+2026-07-29 09:00,Video,Failed,1.448,Timeout or Error
+2026-07-29 09:00,Search,Failed,1.065,Timeout or Error
+2026-07-29 09:00,Channel,Failed,0.34,Timeout or Error
+2026-07-29 09:00,Comments,Failed,0.59,Timeout or Error
+2026-07-29 09:00,Playlist,Failed,0.333,Timeout or Error
