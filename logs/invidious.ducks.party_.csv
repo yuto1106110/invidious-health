@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-06-29 16:25,Video,Failed,0.312,Timeout or Error
-2026-06-29 16:25,Search,OK,0.8,"[{""type"":""video"" ""title"":""Frozen Pizza Test: This Pizza Beats Your Local Italian Restaurant"" ""videoI"
-2026-06-29 16:25,Channel,Failed,0.348,Timeout or Error
-2026-06-29 16:25,Comments,OK,0.629,"{""commentCount"":10535327 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-06-29 16:25,Playlist,Failed,0.345,Timeout or Error
 2026-06-29 21:25,Video,Failed,0.313,Timeout or Error
 2026-06-29 21:25,Search,OK,0.865,"[{""type"":""video"" ""title"":""The Chemical Brothers - The Test (Official Music Video)"" ""videoId"":""yhS9Ln"
 2026-06-29 21:25,Channel,Failed,0.338,Timeout or Error
@@ -1699,3 +1694,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-07-29 15:37,Channel,Failed,0.417,Timeout or Error
 2026-07-29 15:37,Comments,Failed,0.428,Timeout or Error
 2026-07-29 15:37,Playlist,Failed,0.402,Timeout or Error
+2026-07-29 18:33,Video,Failed,1.249,Timeout or Error
+2026-07-29 18:33,Search,Failed,0.498,Timeout or Error
+2026-07-29 18:33,Channel,Failed,0.459,Timeout or Error
+2026-07-29 18:33,Comments,Failed,1.271,Timeout or Error
+2026-07-29 18:33,Playlist,Failed,0.49,Timeout or Error
