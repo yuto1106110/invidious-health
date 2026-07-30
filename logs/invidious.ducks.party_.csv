@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-07-01 03:52,Video,Failed,0.365,Timeout or Error
-2026-07-01 03:52,Search,OK,0.961,"[{""type"":""video"" ""title"":""The Chemical Brothers - The Test (Official Music Video)"" ""videoId"":""yhS9Ln"
-2026-07-01 03:52,Channel,Failed,0.461,Timeout or Error
-2026-07-01 03:52,Comments,OK,0.664,"{""commentCount"":10535683 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-07-01 03:52,Playlist,Failed,0.53,Timeout or Error
 2026-07-01 05:54,Video,Failed,0.432,Timeout or Error
 2026-07-01 05:54,Search,OK,0.949,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-07-01 05:54,Channel,Failed,0.461,Timeout or Error
@@ -1719,3 +1714,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-07-31 02:21,Channel,Failed,0.61,Timeout or Error
 2026-07-31 02:21,Comments,Failed,0.559,Timeout or Error
 2026-07-31 02:21,Playlist,Failed,0.569,Timeout or Error
+2026-07-31 04:15,Video,Failed,0.459,Timeout or Error
+2026-07-31 04:15,Search,Failed,0.807,Timeout or Error
+2026-07-31 04:15,Channel,Failed,0.499,Timeout or Error
+2026-07-31 04:15,Comments,Failed,1.241,Timeout or Error
+2026-07-31 04:15,Playlist,Failed,1.276,Timeout or Error
