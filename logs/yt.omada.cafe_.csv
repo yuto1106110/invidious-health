@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-06-30 08:58,Video,OK,0.841,
-2026-06-30 08:58,Search,OK,1.501,"[{""type"":""video"" ""title"":""selective attention test"" ""videoId"":""vJG698U2Mvo"" ""author"":""Daniel Simons"""
-2026-06-30 08:58,Channel,Failed,0.895,Timeout or Error
-2026-06-30 08:58,Comments,OK,0.832,"{""commentCount"":10535062 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-06-30 08:58,Playlist,Failed,0.793,Timeout or Error
 2026-06-30 12:50,Video,OK,1.505,
 2026-06-30 12:50,Search,OK,1.37,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-06-30 12:50,Channel,Failed,0.511,Timeout or Error
@@ -1714,3 +1709,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-07-30 08:56,Channel,Failed,1.313,Timeout or Error
 2026-07-30 08:56,Comments,OK,1.099,"{""commentCount"":10551909 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-07-30 08:56,Playlist,Failed,0.719,Timeout or Error
+2026-07-30 11:09,Video,OK,1.235,
+2026-07-30 11:09,Search,OK,1.289,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-07-30 11:09,Channel,Failed,0.59,Timeout or Error
+2026-07-30 11:09,Comments,OK,1.095,"{""commentCount"":10551966 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-07-30 11:09,Playlist,Failed,0.595,Timeout or Error
