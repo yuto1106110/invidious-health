@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-06-30 22:07,Video,Failed,0.404,Timeout or Error
-2026-06-30 22:07,Search,OK,0.951,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-06-30 22:07,Channel,Failed,0.462,Timeout or Error
-2026-06-30 22:07,Comments,OK,0.683,"{""commentCount"":10535403 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-06-30 22:07,Playlist,Failed,0.633,Timeout or Error
-2026-06-30 22:07,Video,Failed,0.431,Timeout or Error
-2026-06-30 22:07,Search,Failed,1.044,Timeout or Error
-2026-06-30 22:07,Channel,Failed,0.486,Timeout or Error
-2026-06-30 22:07,Comments,OK,0.685,"{""commentCount"":10535403 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-06-30 22:07,Playlist,Failed,0.604,Timeout or Error
 2026-07-01 01:20,Video,Failed,0.337,Timeout or Error
 2026-07-01 01:20,Search,OK,0.911,"[{""type"":""video"" ""title"":""Johnny a Graus Abaixo de Zero | Johnny Test Português⚡| Desenho animado pa"
 2026-07-01 01:20,Channel,Failed,0.517,Timeout or Error
@@ -3429,3 +3419,13 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-07-30 20:01,Channel,Failed,0.362,Timeout or Error
 2026-07-30 20:01,Comments,Failed,0.363,Timeout or Error
 2026-07-30 20:01,Playlist,Failed,0.377,Timeout or Error
+2026-07-30 22:44,Video,Failed,0.482,Timeout or Error
+2026-07-30 22:44,Search,Failed,0.47,Timeout or Error
+2026-07-30 22:44,Channel,Failed,0.449,Timeout or Error
+2026-07-30 22:44,Comments,Failed,0.406,Timeout or Error
+2026-07-30 22:44,Playlist,Failed,0.418,Timeout or Error
+2026-07-30 22:44,Video,Failed,0.436,Timeout or Error
+2026-07-30 22:44,Search,Failed,0.477,Timeout or Error
+2026-07-30 22:44,Channel,Failed,0.431,Timeout or Error
+2026-07-30 22:44,Comments,Failed,0.443,Timeout or Error
+2026-07-30 22:44,Playlist,Failed,0.471,Timeout or Error
