@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-07-01 14:17,Video,Failed,0.341,Timeout or Error
-2026-07-01 14:17,Search,OK,0.945,"[{""type"":""video"" ""title"":""5.1 Surround Sound Test PCM | Dolby Digital 5.1 Test | 4K"" ""videoId"":""4FEz"
-2026-07-01 14:17,Channel,Failed,0.38,Timeout or Error
-2026-07-01 14:17,Comments,OK,0.551,"{""commentCount"":10536041 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-07-01 14:17,Playlist,Failed,0.542,Timeout or Error
-2026-07-01 14:17,Video,Failed,0.307,Timeout or Error
-2026-07-01 14:17,Search,OK,0.907,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-07-01 14:17,Channel,Failed,0.371,Timeout or Error
-2026-07-01 14:17,Comments,OK,0.578,"{""commentCount"":10536041 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-07-01 14:17,Playlist,Failed,0.52,Timeout or Error
 2026-07-01 18:35,Video,Failed,0.355,Timeout or Error
 2026-07-01 18:35,Search,OK,0.92,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-07-01 18:35,Channel,Failed,0.437,Timeout or Error
@@ -3449,3 +3439,13 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-07-31 13:17,Channel,Failed,0.328,Timeout or Error
 2026-07-31 13:17,Comments,Failed,0.331,Timeout or Error
 2026-07-31 13:17,Playlist,Failed,0.351,Timeout or Error
+2026-07-31 16:46,Video,Failed,0.273,Timeout or Error
+2026-07-31 16:46,Search,Failed,0.275,Timeout or Error
+2026-07-31 16:46,Channel,Failed,0.276,Timeout or Error
+2026-07-31 16:46,Comments,Failed,0.278,Timeout or Error
+2026-07-31 16:46,Playlist,Failed,0.291,Timeout or Error
+2026-07-31 16:46,Video,Failed,0.271,Timeout or Error
+2026-07-31 16:46,Search,Failed,0.27,Timeout or Error
+2026-07-31 16:46,Channel,Failed,0.276,Timeout or Error
+2026-07-31 16:46,Comments,Failed,0.288,Timeout or Error
+2026-07-31 16:46,Playlist,Failed,0.292,Timeout or Error
