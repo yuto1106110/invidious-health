@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-07-01 21:29,Video,Failed,0.442,Timeout or Error
-2026-07-01 21:29,Search,OK,0.984,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-07-01 21:29,Channel,Failed,0.48,Timeout or Error
-2026-07-01 21:29,Comments,OK,0.687,"{""commentCount"":10534877 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-07-01 21:29,Playlist,Failed,0.624,Timeout or Error
-2026-07-01 21:29,Video,Failed,0.421,Timeout or Error
-2026-07-01 21:29,Search,OK,0.99,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-07-01 21:29,Channel,Failed,0.505,Timeout or Error
-2026-07-01 21:29,Comments,OK,0.658,"{""commentCount"":10534877 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-07-01 21:29,Playlist,Failed,0.659,Timeout or Error
 2026-07-02 00:36,Video,Failed,0.364,Timeout or Error
 2026-07-02 00:36,Search,OK,1.063,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-07-02 00:36,Channel,Failed,0.475,Timeout or Error
@@ -3449,3 +3439,13 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-07-31 19:32,Channel,Failed,0.341,Timeout or Error
 2026-07-31 19:32,Comments,Failed,0.366,Timeout or Error
 2026-07-31 19:32,Playlist,Failed,0.368,Timeout or Error
+2026-07-31 21:51,Video,Failed,0.338,Timeout or Error
+2026-07-31 21:51,Search,Failed,0.347,Timeout or Error
+2026-07-31 21:51,Channel,Failed,0.33,Timeout or Error
+2026-07-31 21:51,Comments,Failed,0.344,Timeout or Error
+2026-07-31 21:51,Playlist,Failed,0.35,Timeout or Error
+2026-07-31 21:51,Video,Failed,0.355,Timeout or Error
+2026-07-31 21:51,Search,Failed,0.353,Timeout or Error
+2026-07-31 21:51,Channel,Failed,0.352,Timeout or Error
+2026-07-31 21:51,Comments,Failed,0.351,Timeout or Error
+2026-07-31 21:51,Playlist,Failed,0.367,Timeout or Error
