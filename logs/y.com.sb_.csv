@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-07-02 11:43,Video,Failed,0.809,Timeout or Error
-2026-07-02 11:43,Search,Failed,0.462,Timeout or Error
-2026-07-02 11:43,Channel,Failed,0.325,Timeout or Error
-2026-07-02 11:43,Comments,Failed,0.633,Timeout or Error
-2026-07-02 11:43,Playlist,Failed,0.322,Timeout or Error
 2026-07-02 15:35,Video,Failed,0.237,Timeout or Error
 2026-07-02 15:35,Search,Failed,0.239,Timeout or Error
 2026-07-02 15:35,Channel,Failed,0.238,Timeout or Error
@@ -1734,3 +1729,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-01 11:32,Channel,Failed,0.326,Timeout or Error
 2026-08-01 11:32,Comments,Failed,0.32,Timeout or Error
 2026-08-01 11:32,Playlist,Failed,0.325,Timeout or Error
+2026-08-01 14:49,Video,Failed,0.314,Timeout or Error
+2026-08-01 14:49,Search,OK,0.844,"[{""type"":""video"" ""title"":""3 Kühldecken im Test - welche helfen wirklich?"" ""videoId"":""cghy2RzU-e4"" ""a"
+2026-08-01 14:49,Channel,Failed,1.849,Timeout or Error
+2026-08-01 14:49,Comments,OK,0.508,"{""commentCount"":10554914 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-08-01 14:49,Playlist,Failed,0.424,Timeout or Error
