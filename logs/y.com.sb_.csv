@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-07-03 07:07,Video,Failed,0.319,Timeout or Error
-2026-07-03 07:07,Search,Failed,0.317,Timeout or Error
-2026-07-03 07:07,Channel,Failed,0.317,Timeout or Error
-2026-07-03 07:07,Comments,Failed,0.32,Timeout or Error
-2026-07-03 07:07,Playlist,Failed,0.317,Timeout or Error
 2026-07-03 08:59,Video,Failed,0.685,Timeout or Error
 2026-07-03 08:59,Search,Failed,1.611,Timeout or Error
 2026-07-03 08:59,Channel,Failed,0.395,Timeout or Error
@@ -1754,3 +1749,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-02 06:48,Channel,Failed,0.344,Timeout or Error
 2026-08-02 06:48,Comments,OK,0.736,"{""commentCount"":10555780 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-08-02 06:48,Playlist,Failed,0.453,Timeout or Error
+2026-08-02 07:47,Video,Failed,0.325,Timeout or Error
+2026-08-02 07:47,Search,OK,0.891,"[{""type"":""video"" ""title"":""Yamaha Tricity 300 | Test des 2026er Rollers für Inhaber des Autoführersch"
+2026-08-02 07:47,Channel,Failed,0.314,Timeout or Error
+2026-08-02 07:47,Comments,OK,1.202,"{""commentCount"":10555840 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-08-02 07:47,Playlist,Failed,0.484,Timeout or Error
