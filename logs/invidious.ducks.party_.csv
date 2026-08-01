@@ -1754,3 +1754,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-02 07:47,Channel,Failed,1.212,Timeout or Error
 2026-08-02 07:47,Comments,Failed,1.209,Timeout or Error
 2026-08-02 07:47,Playlist,Failed,1.218,Timeout or Error
+2026-08-02 08:51,Video,Failed,1.793,Timeout or Error
+2026-08-02 08:51,Search,Failed,1.801,Timeout or Error
+2026-08-02 08:51,Channel,Failed,1.33,Timeout or Error
+2026-08-02 08:51,Comments,Failed,1.341,Timeout or Error
+2026-08-02 08:51,Playlist,Failed,1.328,Timeout or Error
