@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-07-03 05:57,Video,Failed,1.283,Timeout or Error
-2026-07-03 05:57,Search,Failed,1.01,Timeout or Error
-2026-07-03 05:57,Channel,Failed,0.446,Timeout or Error
-2026-07-03 05:57,Comments,Failed,0.672,Timeout or Error
-2026-07-03 05:57,Playlist,Failed,0.434,Timeout or Error
 2026-07-03 07:07,Video,Failed,1.469,Timeout or Error
 2026-07-03 07:07,Search,OK,1.178,"[{""type"":""video"" ""title"":""50 QUESTIONS pour TESTER TON SAVOIR 🧠🤯 | Quiz Culture Générale"" ""videoId"":"
 2026-07-03 07:07,Channel,Failed,0.703,Timeout or Error
@@ -1754,3 +1749,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-02 05:42,Channel,Failed,0.794,Timeout or Error
 2026-08-02 05:42,Comments,Failed,0.71,Timeout or Error
 2026-08-02 05:42,Playlist,Failed,0.589,Timeout or Error
+2026-08-02 06:48,Video,Failed,1.421,Timeout or Error
+2026-08-02 06:48,Search,OK,0.911,"[{""type"":""video"" ""title"":""🧠 Devine le LOGO en 3 SECONDES ✅🔥🤔 | 300 Logos Célèbres | Quiz Logos 2024"""
+2026-08-02 06:48,Channel,Failed,0.546,Timeout or Error
+2026-08-02 06:48,Comments,Failed,0.807,Timeout or Error
+2026-08-02 06:48,Playlist,Failed,0.42,Timeout or Error
