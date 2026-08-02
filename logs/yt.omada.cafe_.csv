@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-07-04 00:04,Video,Failed,1.3,Timeout or Error
-2026-07-04 00:04,Search,OK,0.866,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-07-04 00:04,Channel,Failed,0.473,Timeout or Error
-2026-07-04 00:04,Comments,OK,0.551,"{""commentCount"":10533478 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-07-04 00:04,Playlist,Failed,0.774,Timeout or Error
 2026-07-04 02:18,Video,OK,1.591,
 2026-07-04 02:18,Search,OK,1.176,"[{""type"":""video"" ""title"":""I Tested Clickbait Shorts"" ""videoId"":""G3BrjbGicbA"" ""author"":""Sambucha"" ""au"
 2026-07-04 02:18,Channel,Failed,0.956,Timeout or Error
@@ -1769,3 +1764,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-02 23:56,Channel,Failed,0.645,Timeout or Error
 2026-08-02 23:56,Comments,OK,0.873,"{""commentCount"":10556571 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-08-02 23:56,Playlist,Failed,0.909,Timeout or Error
+2026-08-03 00:58,Video,OK,1.446,
+2026-08-03 00:58,Search,OK,1.33,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-08-03 00:58,Channel,Failed,1.075,Timeout or Error
+2026-08-03 00:58,Comments,OK,1.198,"{""commentCount"":10556707 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-08-03 00:58,Playlist,Failed,1.067,Timeout or Error

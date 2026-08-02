@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-07-04 00:04,Video,Failed,0.225,Timeout or Error
-2026-07-04 00:04,Search,Failed,0.207,Timeout or Error
-2026-07-04 00:04,Channel,Failed,0.828,Timeout or Error
-2026-07-04 00:04,Comments,Failed,0.228,Timeout or Error
-2026-07-04 00:04,Playlist,Failed,0.201,Timeout or Error
 2026-07-04 02:18,Video,Failed,0.318,Timeout or Error
 2026-07-04 02:18,Search,Failed,0.325,Timeout or Error
 2026-07-04 02:18,Channel,Failed,0.34,Timeout or Error
@@ -1769,3 +1764,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-02 23:56,Channel,Failed,0.462,Timeout or Error
 2026-08-02 23:56,Comments,OK,0.644,"{""commentCount"":10556577 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-08-02 23:56,Playlist,Failed,0.472,Timeout or Error
+2026-08-03 00:58,Video,Failed,0.425,Timeout or Error
+2026-08-03 00:58,Search,OK,1.013,"[{""type"":""video"" ""title"":""THIS TEST determines your FITNESS LEVEL! 💪 (I was shocked)"" ""videoId"":""yxW"
+2026-08-03 00:58,Channel,Failed,0.519,Timeout or Error
+2026-08-03 00:58,Comments,OK,0.762,"{""commentCount"":10556710 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-08-03 00:58,Playlist,Failed,0.299,Timeout or Error
