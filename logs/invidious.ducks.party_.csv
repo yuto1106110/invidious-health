@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-07-04 05:57,Video,Failed,0.479,Timeout or Error
-2026-07-04 05:57,Search,OK,1.228,"[{""type"":""video"" ""title"":""Gracie Abrams Guesses The Songs On Speed Test"" ""videoId"":""H5W7ebMb8E0"" ""au"
-2026-07-04 05:57,Channel,Failed,0.516,Timeout or Error
-2026-07-04 05:57,Comments,OK,0.925,"{""commentCount"":10533199 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-07-04 05:57,Playlist,Failed,1.325,Timeout or Error
 2026-07-04 07:03,Video,Failed,0.35,Timeout or Error
 2026-07-04 07:03,Search,OK,0.834,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-07-04 07:03,Channel,Failed,0.379,Timeout or Error
@@ -1774,3 +1769,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-03 05:46,Channel,Failed,1.26,Timeout or Error
 2026-08-03 05:46,Comments,Failed,1.248,Timeout or Error
 2026-08-03 05:46,Playlist,Failed,0.477,Timeout or Error
+2026-08-03 06:49,Video,Failed,1.05,Timeout or Error
+2026-08-03 06:49,Search,Failed,1.774,Timeout or Error
+2026-08-03 06:49,Channel,Failed,1.325,Timeout or Error
+2026-08-03 06:49,Comments,Failed,1.62,Timeout or Error
+2026-08-03 06:49,Playlist,Failed,0.587,Timeout or Error
