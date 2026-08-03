@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-07-05 06:52,Video,Failed,0.434,Timeout or Error
-2026-07-05 06:52,Search,Failed,1.03,Timeout or Error
-2026-07-05 06:52,Channel,Failed,0.507,Timeout or Error
-2026-07-05 06:52,Comments,OK,0.753,"{""commentCount"":10533500 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-07-05 06:52,Playlist,Failed,0.67,Timeout or Error
-2026-07-05 06:52,Video,Failed,0.454,Timeout or Error
-2026-07-05 06:52,Search,OK,1.005,"[{""type"":""video"" ""title"":""Teste FONE DE OUVIDO/CAIXAS DE SOM ESQUERDA e DIREITA LR (LEFT RIGHT) | MO"
-2026-07-05 06:52,Channel,Failed,0.481,Timeout or Error
-2026-07-05 06:52,Comments,OK,0.782,"{""commentCount"":10533500 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-07-05 06:52,Playlist,Failed,0.731,Timeout or Error
 2026-07-05 07:52,Video,Failed,0.317,Timeout or Error
 2026-07-05 07:52,Search,OK,1.011,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-07-05 07:52,Channel,Failed,0.398,Timeout or Error
@@ -3529,3 +3519,13 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-04 05:22,Channel,Failed,0.359,Timeout or Error
 2026-08-04 05:22,Comments,Failed,0.369,Timeout or Error
 2026-08-04 05:22,Playlist,Failed,0.331,Timeout or Error
+2026-08-04 07:02,Video,Failed,0.294,Timeout or Error
+2026-08-04 07:02,Search,Failed,0.311,Timeout or Error
+2026-08-04 07:02,Channel,Failed,0.279,Timeout or Error
+2026-08-04 07:02,Comments,Failed,0.273,Timeout or Error
+2026-08-04 07:02,Playlist,Failed,0.296,Timeout or Error
+2026-08-04 07:02,Video,Failed,0.273,Timeout or Error
+2026-08-04 07:02,Search,Failed,0.289,Timeout or Error
+2026-08-04 07:02,Channel,Failed,0.267,Timeout or Error
+2026-08-04 07:02,Comments,Failed,0.289,Timeout or Error
+2026-08-04 07:02,Playlist,Failed,0.3,Timeout or Error
