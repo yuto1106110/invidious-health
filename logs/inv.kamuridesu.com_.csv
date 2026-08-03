@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-07-05 00:00,Video,Failed,0.306,Timeout or Error
-2026-07-05 00:00,Search,OK,0.937,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-07-05 00:00,Channel,Failed,0.352,Timeout or Error
-2026-07-05 00:00,Comments,OK,0.617,"{""commentCount"":10533130 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-07-05 00:00,Playlist,Failed,0.638,Timeout or Error
-2026-07-05 00:00,Video,Failed,0.285,Timeout or Error
-2026-07-05 00:00,Search,OK,0.987,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-07-05 00:00,Channel,Failed,0.38,Timeout or Error
-2026-07-05 00:00,Comments,OK,0.639,"{""commentCount"":10533130 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-07-05 00:00,Playlist,Failed,0.505,Timeout or Error
 2026-07-05 01:57,Video,Failed,0.281,Timeout or Error
 2026-07-05 01:57,Search,OK,0.832,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-07-05 01:57,Channel,Failed,0.412,Timeout or Error
@@ -3539,3 +3529,13 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-03 22:35,Channel,Failed,0.296,Timeout or Error
 2026-08-03 22:35,Comments,Failed,0.274,Timeout or Error
 2026-08-03 22:35,Playlist,Failed,0.302,Timeout or Error
+2026-08-04 01:17,Video,Failed,0.327,Timeout or Error
+2026-08-04 01:17,Search,Failed,0.304,Timeout or Error
+2026-08-04 01:17,Channel,Failed,0.319,Timeout or Error
+2026-08-04 01:17,Comments,Failed,0.294,Timeout or Error
+2026-08-04 01:17,Playlist,Failed,0.321,Timeout or Error
+2026-08-04 01:17,Video,Failed,0.289,Timeout or Error
+2026-08-04 01:17,Search,Failed,0.311,Timeout or Error
+2026-08-04 01:17,Channel,Failed,0.292,Timeout or Error
+2026-08-04 01:17,Comments,Failed,0.312,Timeout or Error
+2026-08-04 01:17,Playlist,Failed,0.303,Timeout or Error
