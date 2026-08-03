@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-07-05 05:05,Video,Failed,0.311,Timeout or Error
-2026-07-05 05:05,Search,OK,1.118,"[{""type"":""video"" ""title"":""Kawasaki Z7 Hybrid | Test 2026 (deutsch)"" ""videoId"":""aBEagC-_UiM"" ""author"""
-2026-07-05 05:05,Channel,Failed,0.351,Timeout or Error
-2026-07-05 05:05,Comments,OK,1.167,"{""commentCount"":10533439 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-07-05 05:05,Playlist,Failed,0.479,Timeout or Error
 2026-07-05 06:52,Video,Failed,0.935,Timeout or Error
 2026-07-05 06:52,Search,OK,1.027,"[{""type"":""video"" ""title"":""Estonian MRE 8 Years Expired Test"" ""videoId"":""Kkm4ekNA9Kw"" ""author"":""3thed"
 2026-07-05 06:52,Channel,Failed,0.508,Timeout or Error
@@ -1764,3 +1759,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-04 03:45,Channel,Failed,0.549,Timeout or Error
 2026-08-04 03:45,Comments,Failed,0.532,Timeout or Error
 2026-08-04 03:45,Playlist,Failed,0.753,Timeout or Error
+2026-08-04 05:22,Video,Failed,0.444,Timeout or Error
+2026-08-04 05:22,Search,Failed,0.84,Timeout or Error
+2026-08-04 05:22,Channel,Failed,1.633,Timeout or Error
+2026-08-04 05:22,Comments,Failed,0.914,Timeout or Error
+2026-08-04 05:22,Playlist,Failed,0.467,Timeout or Error
