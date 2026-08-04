@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-07-05 11:50,Video,OK,0.592,
-2026-07-05 11:50,Search,OK,2.259,"[{""type"":""video"" ""title"":""I Tested Brutal Movie Deaths"" ""videoId"":""wHBenumLrYQ"" ""author"":""Tyler Blan"
-2026-07-05 11:50,Channel,Failed,0.716,Timeout or Error
-2026-07-05 11:50,Comments,OK,0.938,"{""commentCount"":10533561 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-07-05 11:50,Playlist,Failed,0.717,Timeout or Error
 2026-07-05 15:35,Video,OK,0.507,
 2026-07-05 15:35,Search,OK,0.955,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-07-05 15:35,Channel,Failed,0.412,Timeout or Error
@@ -1759,3 +1754,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-04 09:02,Channel,Failed,0.52,Timeout or Error
 2026-08-04 09:02,Comments,OK,0.707,"{""commentCount"":10558097 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-08-04 09:02,Playlist,Failed,0.718,Timeout or Error
+2026-08-04 13:07,Video,OK,0.633,
+2026-08-04 13:07,Search,OK,1.051,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-08-04 13:07,Channel,Failed,2.399,Timeout or Error
+2026-08-04 13:07,Comments,OK,0.77,"{""commentCount"":10558228 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-08-04 13:07,Playlist,Failed,0.854,Timeout or Error
