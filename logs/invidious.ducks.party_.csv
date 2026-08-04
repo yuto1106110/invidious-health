@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-07-05 22:18,Video,Failed,0.496,Timeout or Error
-2026-07-05 22:18,Search,OK,0.927,"[{""type"":""video"" ""title"":""Estonian MRE 8 Years Expired Test"" ""videoId"":""Kkm4ekNA9Kw"" ""author"":""3thed"
-2026-07-05 22:18,Channel,Failed,0.553,Timeout or Error
-2026-07-05 22:18,Comments,OK,0.848,"{""commentCount"":10534022 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-07-05 22:18,Playlist,Failed,0.643,Timeout or Error
-2026-07-06 00:08,Video,Failed,0.462,Timeout or Error
-2026-07-06 00:08,Search,OK,1.262,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-07-06 00:08,Channel,Failed,0.559,Timeout or Error
-2026-07-06 00:08,Comments,OK,0.77,"{""commentCount"":10534093 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-07-06 00:08,Playlist,Failed,0.598,Timeout or Error
 2026-07-06 02:02,Video,Failed,0.44,Timeout or Error
 2026-07-06 02:02,Search,OK,1.066,"[{""type"":""video"" ""title"":""Estonian MRE 8 Years Expired Test"" ""videoId"":""Kkm4ekNA9Kw"" ""author"":""3thed"
 2026-07-06 02:02,Channel,Failed,0.499,Timeout or Error
@@ -1759,3 +1749,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-04 21:54,Channel,Failed,1.323,Timeout or Error
 2026-08-04 21:54,Comments,Failed,1.322,Timeout or Error
 2026-08-04 21:54,Playlist,Failed,1.319,Timeout or Error
+2026-08-05 00:20,Video,Failed,0.687,Timeout or Error
+2026-08-05 00:20,Search,Failed,0.832,Timeout or Error
+2026-08-05 00:20,Channel,Failed,1.456,Timeout or Error
+2026-08-05 00:20,Comments,Failed,0.412,Timeout or Error
+2026-08-05 00:20,Playlist,Failed,1.211,Timeout or Error
