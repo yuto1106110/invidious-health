@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-07-05 20:25,Video,Failed,0.646,Timeout or Error
-2026-07-05 20:25,Search,OK,0.855,"[{""type"":""video"" ""title"":""The Chemical Brothers - The Test (Official Music Video)"" ""videoId"":""yhS9Ln"
-2026-07-05 20:25,Channel,Failed,0.349,Timeout or Error
-2026-07-05 20:25,Comments,OK,0.669,"{""commentCount"":10533969 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-07-05 20:25,Playlist,Failed,0.472,Timeout or Error
 2026-07-05 22:18,Video,Failed,0.496,Timeout or Error
 2026-07-05 22:18,Search,OK,0.927,"[{""type"":""video"" ""title"":""Estonian MRE 8 Years Expired Test"" ""videoId"":""Kkm4ekNA9Kw"" ""author"":""3thed"
 2026-07-05 22:18,Channel,Failed,0.553,Timeout or Error
@@ -1759,3 +1754,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-04 19:30,Channel,Failed,0.489,Timeout or Error
 2026-08-04 19:30,Comments,Failed,0.468,Timeout or Error
 2026-08-04 19:30,Playlist,Failed,0.5,Timeout or Error
+2026-08-04 21:54,Video,Failed,0.552,Timeout or Error
+2026-08-04 21:54,Search,Failed,2.374,Timeout or Error
+2026-08-04 21:54,Channel,Failed,1.323,Timeout or Error
+2026-08-04 21:54,Comments,Failed,1.322,Timeout or Error
+2026-08-04 21:54,Playlist,Failed,1.319,Timeout or Error
