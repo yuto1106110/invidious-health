@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-07-07 08:01,Video,Failed,1.298,Timeout or Error
-2026-07-07 08:01,Search,OK,0.855,"[{""type"":""video"" ""title"":""TEST"" ""videoId"":""YXZH-eBtmqQ"" ""author"":""Stray Kids"" ""authorId"":""UC9rMiEjNa"
-2026-07-07 08:01,Channel,Failed,0.447,Timeout or Error
-2026-07-07 08:01,Comments,Failed,0.708,Timeout or Error
-2026-07-07 08:01,Playlist,Failed,0.339,Timeout or Error
 2026-07-07 11:33,Video,Failed,1.428,Timeout or Error
 2026-07-07 11:33,Search,OK,0.946,"[{""type"":""video"" ""title"":""TEST"" ""videoId"":""YXZH-eBtmqQ"" ""author"":""Stray Kids"" ""authorId"":""UC9rMiEjNa"
 2026-07-07 11:33,Channel,Failed,0.445,Timeout or Error
@@ -1769,3 +1764,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-06 07:52,Channel,Failed,0.68,Timeout or Error
 2026-08-06 07:52,Comments,Failed,0.895,Timeout or Error
 2026-08-06 07:52,Playlist,Failed,0.888,Timeout or Error
+2026-08-06 08:54,Video,Failed,1.708,Timeout or Error
+2026-08-06 08:54,Search,OK,1.295,"[{""type"":""video"" ""title"":""UN TÉLÉPHONE PEUT-IL VRAIMENT SURVIVRE À CES 12 TESTS EXTRÊMES ? 🔥🧊🧱"" ""vid"
+2026-08-06 08:54,Channel,Failed,0.516,Timeout or Error
+2026-08-06 08:54,Comments,Failed,0.927,Timeout or Error
+2026-08-06 08:54,Playlist,Failed,0.678,Timeout or Error
