@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-07-07 22:13,Video,Failed,0.257,Timeout or Error
-2026-07-07 22:13,Search,OK,0.987,"[{""type"":""video"" ""title"":""TEST"" ""videoId"":""YXZH-eBtmqQ"" ""author"":""Stray Kids"" ""authorId"":""UC9rMiEjNa"
-2026-07-07 22:13,Channel,Failed,0.377,Timeout or Error
-2026-07-07 22:13,Comments,OK,0.621,"{""commentCount"":10535331 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-07-07 22:13,Playlist,Failed,0.692,Timeout or Error
 2026-07-08 01:23,Video,OK,0.323,
 2026-07-08 01:23,Search,OK,0.945,"[{""type"":""video"" ""title"":""TEST"" ""videoId"":""YXZH-eBtmqQ"" ""author"":""Stray Kids"" ""authorId"":""UC9rMiEjNa"
 2026-07-08 01:23,Channel,Failed,0.397,Timeout or Error
@@ -1774,3 +1769,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-06 20:15,Channel,Failed,1.25,Timeout or Error
 2026-08-06 20:15,Comments,OK,0.818,"{""commentCount"":10558854 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-08-06 20:15,Playlist,Failed,0.978,Timeout or Error
+2026-08-06 22:50,Video,OK,0.572,
+2026-08-06 22:50,Search,OK,1.548,"[{""type"":""video"" ""title"":""Israel: The Test Of Our Time - Will You Pass It? (Acts 1:6  8  2:43  9:31)"
+2026-08-06 22:50,Channel,Failed,0.46,Timeout or Error
+2026-08-06 22:50,Comments,OK,0.625,"{""commentCount"":10558945 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-08-06 22:50,Playlist,Failed,0.51,Timeout or Error
