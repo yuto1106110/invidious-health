@@ -1,29 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-07-08 01:23,Video,Failed,1.371,Timeout or Error
-2026-07-08 01:23,Search,Failed,1.37,Timeout or Error
-2026-07-08 01:23,Channel,Failed,0.597,Timeout or Error
-2026-07-08 01:23,Comments,Failed,0.795,Timeout or Error
-2026-07-08 01:23,Playlist,Failed,0.588,Timeout or Error
-2026-07-08 03:57,Video,Failed,1.483,Timeout or Error
-2026-07-08 03:57,Search,OK,1.113,"[{""type"":""video"" ""title"":""TEST"" ""videoId"":""YXZH-eBtmqQ"" ""author"":""Stray Kids"" ""authorId"":""UC9rMiEjNa"
-2026-07-08 03:57,Channel,Failed,0.689,Timeout or Error
-2026-07-08 03:57,Comments,Failed,0.965,Timeout or Error
-2026-07-08 03:57,Playlist,Failed,0.543,Timeout or Error
-2026-07-08 05:49,Video,Failed,1.234,Timeout or Error
-2026-07-08 05:49,Search,OK,0.999,"[{""type"":""video"" ""title"":""TEST"" ""videoId"":""YXZH-eBtmqQ"" ""author"":""Stray Kids"" ""authorId"":""UC9rMiEjNa"
-2026-07-08 05:49,Channel,Failed,0.624,Timeout or Error
-2026-07-08 05:49,Comments,Failed,0.858,Timeout or Error
-2026-07-08 05:49,Playlist,Failed,0.401,Timeout or Error
-2026-07-08 07:07,Video,Failed,1.624,Timeout or Error
-2026-07-08 07:07,Search,OK,1.211,"[{""type"":""video"" ""title"":""TEST"" ""videoId"":""YXZH-eBtmqQ"" ""author"":""Stray Kids"" ""authorId"":""UC9rMiEjNa"
-2026-07-08 07:07,Channel,Failed,0.677,Timeout or Error
-2026-07-08 07:07,Comments,Failed,1.006,Timeout or Error
-2026-07-08 07:07,Playlist,Failed,0.529,Timeout or Error
-2026-07-08 08:53,Video,Failed,1.456,Timeout or Error
-2026-07-08 08:53,Search,OK,0.9,"[{""type"":""video"" ""title"":""TEST"" ""videoId"":""YXZH-eBtmqQ"" ""author"":""Stray Kids"" ""authorId"":""UC9rMiEjNa"
-2026-07-08 08:53,Channel,Failed,0.55,Timeout or Error
-2026-07-08 08:53,Comments,Failed,0.719,Timeout or Error
-2026-07-08 08:53,Playlist,Failed,0.659,Timeout or Error
 2026-07-08 11:06,Video,Failed,1.362,Timeout or Error
 2026-07-08 11:06,Search,OK,1.017,"[{""type"":""video"" ""title"":""TEST"" ""videoId"":""YXZH-eBtmqQ"" ""author"":""Stray Kids"" ""authorId"":""UC9rMiEjNa"
 2026-07-08 11:06,Channel,Failed,0.361,Timeout or Error
@@ -1774,3 +1749,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-06 22:50,Channel,Failed,0.39,Timeout or Error
 2026-08-06 22:50,Comments,Failed,0.975,Timeout or Error
 2026-08-06 22:50,Playlist,Failed,0.656,Timeout or Error
+2026-08-07 09:37,Video,Failed,1.49,Timeout or Error
+2026-08-07 09:37,Search,OK,1.092,"[{""type"":""video"" ""title"":""50 QUESTIONS pour TESTER TON SAVOIR 🧠🤯 | Quiz Culture Générale"" ""videoId"":"
+2026-08-07 09:37,Channel,Failed,0.682,Timeout or Error
+2026-08-07 09:37,Comments,Failed,0.848,Timeout or Error
+2026-08-07 09:37,Playlist,Failed,0.656,Timeout or Error
