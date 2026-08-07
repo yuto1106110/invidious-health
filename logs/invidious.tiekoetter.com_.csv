@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-07-08 14:44,Video,Failed,0.301,Timeout or Error
-2026-07-08 14:44,Search,Failed,0.3,Timeout or Error
-2026-07-08 14:44,Channel,Failed,0.301,Timeout or Error
-2026-07-08 14:44,Comments,OK,0.299,"{""commentCount"":10535601 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-07-08 14:44,Playlist,OK,0.308,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
 2026-07-08 17:15,Video,Failed,0.304,Timeout or Error
 2026-07-08 17:15,Search,Failed,0.305,Timeout or Error
 2026-07-08 17:15,Channel,Failed,0.305,Timeout or Error
@@ -1759,3 +1754,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-07 14:31,Channel,Failed,0.476,Timeout or Error
 2026-08-07 14:31,Comments,OK,0.473,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
 2026-08-07 14:31,Playlist,OK,0.471,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
+2026-08-07 16:04,Video,Failed,0.48,Timeout or Error
+2026-08-07 16:04,Search,Failed,0.476,Timeout or Error
+2026-08-07 16:04,Channel,Failed,0.462,Timeout or Error
+2026-08-07 16:04,Comments,OK,0.476,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
+2026-08-07 16:04,Playlist,OK,0.462,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
