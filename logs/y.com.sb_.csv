@@ -1769,3 +1769,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-07 21:49,Channel,Failed,0.662,Timeout or Error
 2026-08-07 21:49,Comments,OK,1.029,"{""commentCount"":10559477 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-08-07 21:49,Playlist,Failed,1.518,Timeout or Error
+2026-08-07 23:07,Video,Failed,0.582,Timeout or Error
+2026-08-07 23:07,Search,OK,1.315,"[{""type"":""video"" ""title"":""Aufkäufer im Test: So viel Geld steckt wirklich in alten Sachen | stern TV"
+2026-08-07 23:07,Channel,Failed,0.679,Timeout or Error
+2026-08-07 23:07,Comments,OK,1.006,"{""commentCount"":10559574 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-08-07 23:07,Playlist,Failed,1.617,Timeout or Error
