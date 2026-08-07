@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-07-09 04:15,Video,Failed,0.365,Timeout or Error
-2026-07-09 04:15,Search,OK,1.048,"[{""type"":""video"" ""title"":""TEST"" ""videoId"":""YXZH-eBtmqQ"" ""author"":""Stray Kids"" ""authorId"":""UC9rMiEjNa"
-2026-07-09 04:15,Channel,Failed,0.516,Timeout or Error
-2026-07-09 04:15,Comments,OK,0.782,"{""commentCount"":10536418 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-07-09 04:15,Playlist,Failed,0.689,Timeout or Error
-2026-07-09 04:15,Video,Failed,0.362,Timeout or Error
-2026-07-09 04:15,Search,Failed,1.057,Timeout or Error
-2026-07-09 04:15,Channel,Failed,0.549,Timeout or Error
-2026-07-09 04:15,Comments,OK,0.697,"{""commentCount"":10536418 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-07-09 04:15,Playlist,Failed,0.642,Timeout or Error
 2026-07-09 06:00,Video,Failed,0.348,Timeout or Error
 2026-07-09 06:00,Search,Failed,1.034,Timeout or Error
 2026-07-09 06:00,Channel,Failed,0.449,Timeout or Error
@@ -3569,3 +3559,13 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-08 03:45,Channel,Failed,0.422,Timeout or Error
 2026-08-08 03:45,Comments,OK,0.728,"{""commentCount"":10559840 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-08-08 03:45,Playlist,Failed,0.576,Timeout or Error
+2026-08-08 04:47,Video,Failed,0.469,Timeout or Error
+2026-08-08 04:47,Search,Failed,1.043,Timeout or Error
+2026-08-08 04:47,Channel,Failed,0.562,Timeout or Error
+2026-08-08 04:47,Comments,OK,0.759,"{""commentCount"":10559878 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-08-08 04:47,Playlist,Failed,0.63,Timeout or Error
+2026-08-08 04:47,Video,Failed,0.353,Timeout or Error
+2026-08-08 04:47,Search,OK,1.048,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-08-08 04:47,Channel,Failed,0.502,Timeout or Error
+2026-08-08 04:47,Comments,OK,0.744,"{""commentCount"":10559878 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-08-08 04:47,Playlist,Failed,0.64,Timeout or Error
