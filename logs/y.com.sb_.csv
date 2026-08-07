@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-07-09 00:13,Video,Failed,0.192,Timeout or Error
-2026-07-09 00:13,Search,OK,0.887,"[{""type"":""video"" ""title"":""TEST"" ""videoId"":""YXZH-eBtmqQ"" ""author"":""Stray Kids"" ""authorId"":""UC9rMiEjNa"
-2026-07-09 00:13,Channel,Failed,0.349,Timeout or Error
-2026-07-09 00:13,Comments,OK,0.901,"{""commentCount"":10536203 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-07-09 00:13,Playlist,Failed,0.473,Timeout or Error
 2026-07-09 02:23,Video,Failed,0.601,Timeout or Error
 2026-07-09 02:23,Search,OK,1.192,"[{""type"":""video"" ""title"":""TEST"" ""videoId"":""YXZH-eBtmqQ"" ""author"":""Stray Kids"" ""authorId"":""UC9rMiEjNa"
 2026-07-09 02:23,Channel,Failed,0.505,Timeout or Error
@@ -1774,3 +1769,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-07 23:07,Channel,Failed,0.679,Timeout or Error
 2026-08-07 23:07,Comments,OK,1.006,"{""commentCount"":10559574 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-08-07 23:07,Playlist,Failed,1.617,Timeout or Error
+2026-08-08 00:50,Video,Failed,0.307,Timeout or Error
+2026-08-08 00:50,Search,OK,0.906,"[{""type"":""video"" ""title"":""05 Xiaomi 17T Pro"" ""videoId"":""aJxENOZdhIw"" ""author"":""sparhandy Studio"" ""au"
+2026-08-08 00:50,Channel,Failed,0.38,Timeout or Error
+2026-08-08 00:50,Comments,OK,0.721,"{""commentCount"":10559688 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-08-08 00:50,Playlist,Failed,1.295,Timeout or Error
