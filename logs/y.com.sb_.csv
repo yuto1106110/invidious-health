@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-07-09 13:50,Video,Failed,0.211,Timeout or Error
-2026-07-09 13:50,Search,Failed,0.226,Timeout or Error
-2026-07-09 13:50,Channel,Failed,0.205,Timeout or Error
-2026-07-09 13:50,Comments,Failed,0.216,Timeout or Error
-2026-07-09 13:50,Playlist,Failed,0.734,Timeout or Error
 2026-07-09 17:22,Video,Failed,0.294,Timeout or Error
 2026-07-09 17:22,Search,Failed,0.322,Timeout or Error
 2026-07-09 17:22,Channel,Failed,0.296,Timeout or Error
@@ -1799,3 +1794,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-08 12:19,Channel,Failed,1.654,Timeout or Error
 2026-08-08 12:19,Comments,Failed,1.701,Timeout or Error
 2026-08-08 12:19,Playlist,Failed,1.655,Timeout or Error
+2026-08-08 13:50,Video,Failed,1.66,Timeout or Error
+2026-08-08 13:50,Search,Failed,1.612,Timeout or Error
+2026-08-08 13:50,Channel,Failed,1.663,Timeout or Error
+2026-08-08 13:50,Comments,Failed,1.616,Timeout or Error
+2026-08-08 13:50,Playlist,Failed,1.657,Timeout or Error
