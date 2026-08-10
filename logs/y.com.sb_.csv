@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-07-11 20:54,Video,OK,1.521,
-2026-07-11 20:54,Search,OK,0.951,"[{""type"":""video"" ""title"":""BAW 212 Autobahn - Test: Was kann er auf der Langstrecke? Top Speed | Verb"
-2026-07-11 20:54,Channel,Failed,0.4,Timeout or Error
-2026-07-11 20:54,Comments,OK,0.709,"{""commentCount"":10538312 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-07-11 20:54,Playlist,Failed,0.539,Timeout or Error
 2026-07-11 22:05,Video,OK,2.675,
 2026-07-11 22:05,Search,OK,1.076,"[{""type"":""video"" ""title"":""TEST"" ""videoId"":""YXZH-eBtmqQ"" ""author"":""Stray Kids"" ""authorId"":""UC9rMiEjNa"
 2026-07-11 22:05,Channel,Failed,0.475,Timeout or Error
@@ -1924,3 +1919,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-10 20:01,Channel,Failed,0.474,Timeout or Error
 2026-08-10 20:01,Comments,OK,0.928,"{""commentCount"":10557849 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-08-10 20:01,Playlist,Failed,0.35,Timeout or Error
+2026-08-10 21:54,Video,Failed,0.389,Timeout or Error
+2026-08-10 21:54,Search,OK,1.165,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-08-10 21:54,Channel,Failed,0.373,Timeout or Error
+2026-08-10 21:54,Comments,OK,0.802,"{""commentCount"":10557984 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-08-10 21:54,Playlist,Failed,0.6,Timeout or Error
