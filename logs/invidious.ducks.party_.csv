@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-07-12 02:50,Video,Failed,0.489,Timeout or Error
-2026-07-12 02:50,Search,OK,1.043,"[{""type"":""video"" ""title"":""The Chemical Brothers - The Test (Official Music Video)"" ""videoId"":""yhS9Ln"
-2026-07-12 02:50,Channel,Failed,0.514,Timeout or Error
-2026-07-12 02:50,Comments,OK,1.154,"{""commentCount"":10538463 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-07-12 02:50,Playlist,Failed,0.677,Timeout or Error
 2026-07-12 03:52,Video,Failed,0.308,Timeout or Error
 2026-07-12 03:52,Search,OK,0.928,"[{""type"":""video"" ""title"":""CFMOTO 675 NK 2026 MOTORCYCLE REVIEW!"" ""videoId"":""WzWvy636Gmc"" ""author"":""M"
 2026-07-12 03:52,Channel,Failed,0.511,Timeout or Error
@@ -1924,3 +1919,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-11 02:45,Channel,Failed,0.636,Timeout or Error
 2026-08-11 02:45,Comments,Failed,0.591,Timeout or Error
 2026-08-11 02:45,Playlist,Failed,0.603,Timeout or Error
+2026-08-11 03:47,Video,Failed,1.295,Timeout or Error
+2026-08-11 03:47,Search,Failed,1.298,Timeout or Error
+2026-08-11 03:47,Channel,Failed,0.843,Timeout or Error
+2026-08-11 03:47,Comments,Failed,1.158,Timeout or Error
+2026-08-11 03:47,Playlist,Failed,0.739,Timeout or Error
