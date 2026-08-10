@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-07-11 16:45,Video,Failed,0.305,Timeout or Error
-2026-07-11 16:45,Search,OK,0.835,"[{""type"":""video"" ""title"":""The Chemical Brothers - The Test (Official Music Video)"" ""videoId"":""yhS9Ln"
-2026-07-11 16:45,Channel,Failed,0.327,Timeout or Error
-2026-07-11 16:45,Comments,OK,0.679,"{""commentCount"":10538171 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-07-11 16:45,Playlist,Failed,0.447,Timeout or Error
 2026-07-11 18:21,Video,Failed,0.496,Timeout or Error
 2026-07-11 18:21,Search,OK,0.927,"[{""type"":""video"" ""title"":""BAW 212 Autobahn - Test: Was kann er auf der Langstrecke? Top Speed | Verb"
 2026-07-11 18:21,Channel,Failed,0.544,Timeout or Error
@@ -1929,3 +1924,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-10 16:18,Channel,Failed,0.42,Timeout or Error
 2026-08-10 16:18,Comments,Failed,0.4,Timeout or Error
 2026-08-10 16:18,Playlist,Failed,0.427,Timeout or Error
+2026-08-10 18:12,Video,Failed,1.33,Timeout or Error
+2026-08-10 18:12,Search,Failed,1.333,Timeout or Error
+2026-08-10 18:12,Channel,Failed,1.33,Timeout or Error
+2026-08-10 18:12,Comments,Failed,1.33,Timeout or Error
+2026-08-10 18:12,Playlist,Failed,1.33,Timeout or Error
