@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-07-11 14:34,Video,OK,1.013,
-2026-07-11 14:34,Search,OK,1.03,"[{""type"":""video"" ""title"":""TEST"" ""videoId"":""YXZH-eBtmqQ"" ""author"":""Stray Kids"" ""authorId"":""UC9rMiEjNa"
-2026-07-11 14:34,Channel,Failed,0.489,Timeout or Error
-2026-07-11 14:34,Comments,OK,0.78,"{""commentCount"":10538100 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-07-11 14:34,Playlist,Failed,0.616,Timeout or Error
 2026-07-11 16:45,Video,Failed,1.209,Timeout or Error
 2026-07-11 16:45,Search,Failed,0.298,Timeout or Error
 2026-07-11 16:45,Channel,Failed,1.203,Timeout or Error
@@ -1929,3 +1924,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-10 14:19,Channel,Failed,0.702,Timeout or Error
 2026-08-10 14:19,Comments,OK,0.939,"{""commentCount"":10557705 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-08-10 14:19,Playlist,Failed,0.877,Timeout or Error
+2026-08-10 16:18,Video,Failed,0.322,Timeout or Error
+2026-08-10 16:18,Search,OK,1.012,"[{""type"":""video"" ""title"":""EVERYTHING we've optimized | Final team test before the Ultracycling World"
+2026-08-10 16:18,Channel,Failed,0.625,Timeout or Error
+2026-08-10 16:18,Comments,OK,0.778,"{""commentCount"":10557756 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-08-10 16:18,Playlist,Failed,0.826,Timeout or Error
