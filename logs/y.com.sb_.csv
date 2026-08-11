@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-07-12 08:48,Video,OK,0.818,
-2026-07-12 08:48,Search,OK,0.915,"[{""type"":""video"" ""title"":""Ferrari: Madrid-Test dank Regellücke! – FIA prüft neuen „Macarena-Flügel“"""
-2026-07-12 08:48,Channel,Failed,0.439,Timeout or Error
-2026-07-12 08:48,Comments,OK,0.646,"{""commentCount"":10538734 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-07-12 08:48,Playlist,Failed,0.285,Timeout or Error
 2026-07-12 11:07,Video,Failed,0.407,Timeout or Error
 2026-07-12 11:07,Search,OK,0.833,"[{""type"":""video"" ""title"":""TEST"" ""videoId"":""YXZH-eBtmqQ"" ""author"":""Stray Kids"" ""authorId"":""UC9rMiEjNa"
 2026-07-12 11:07,Channel,Failed,0.386,Timeout or Error
@@ -1929,3 +1924,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-11 08:28,Channel,Failed,0.391,Timeout or Error
 2026-08-11 08:28,Comments,OK,0.604,"{""commentCount"":10558896 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-08-11 08:28,Playlist,Failed,0.768,Timeout or Error
+2026-08-11 10:13,Video,Failed,1.624,Timeout or Error
+2026-08-11 10:13,Search,Failed,1.625,Timeout or Error
+2026-08-11 10:13,Channel,Failed,1.698,Timeout or Error
+2026-08-11 10:13,Comments,Failed,1.679,Timeout or Error
+2026-08-11 10:13,Playlist,Failed,1.676,Timeout or Error
