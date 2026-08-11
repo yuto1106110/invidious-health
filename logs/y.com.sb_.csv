@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-07-13 05:05,Video,Failed,0.298,Timeout or Error
-2026-07-13 05:05,Search,OK,0.956,"[{""type"":""video"" ""title"":""TEST"" ""videoId"":""YXZH-eBtmqQ"" ""author"":""Stray Kids"" ""authorId"":""UC9rMiEjNa"
-2026-07-13 05:05,Channel,Failed,0.392,Timeout or Error
-2026-07-13 05:05,Comments,OK,0.633,"{""commentCount"":10539023 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-07-13 05:05,Playlist,Failed,1.207,Timeout or Error
 2026-07-13 06:42,Video,Failed,0.302,Timeout or Error
 2026-07-13 06:42,Search,OK,0.887,"[{""type"":""video"" ""title"":""The Chemical Brothers - The Test (Official Music Video)"" ""videoId"":""yhS9Ln"
 2026-07-13 06:42,Channel,Failed,0.339,Timeout or Error
@@ -1944,3 +1939,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-12 04:57,Channel,Failed,0.695,Timeout or Error
 2026-08-12 04:57,Comments,OK,1.221,"{""commentCount"":10559765 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-08-12 04:57,Playlist,Failed,0.854,Timeout or Error
+2026-08-12 05:42,Video,OK,0.303,
+2026-08-12 05:42,Search,OK,0.9,"[{""type"":""video"" ""title"":""Galaxy Z Fold 8 HALTBARKEITSTEST – Ist der neue „Titan-Bildschirm“ wirklic"
+2026-08-12 05:42,Channel,Failed,0.42,Timeout or Error
+2026-08-12 05:42,Comments,OK,0.693,"{""commentCount"":10559794 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-08-12 05:42,Playlist,Failed,0.585,Timeout or Error
