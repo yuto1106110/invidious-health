@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-07-13 03:57,Video,Failed,0.479,Timeout or Error
-2026-07-13 03:57,Search,OK,1.156,"[{""type"":""video"" ""title"":""TEST"" ""videoId"":""YXZH-eBtmqQ"" ""author"":""Stray Kids"" ""authorId"":""UC9rMiEjNa"
-2026-07-13 03:57,Channel,Failed,0.547,Timeout or Error
-2026-07-13 03:57,Comments,OK,0.772,"{""commentCount"":10538962 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-07-13 03:57,Playlist,Failed,0.985,Timeout or Error
 2026-07-13 05:05,Video,Failed,0.298,Timeout or Error
 2026-07-13 05:05,Search,OK,0.956,"[{""type"":""video"" ""title"":""TEST"" ""videoId"":""YXZH-eBtmqQ"" ""author"":""Stray Kids"" ""authorId"":""UC9rMiEjNa"
 2026-07-13 05:05,Channel,Failed,0.392,Timeout or Error
@@ -1944,3 +1939,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-12 03:53,Channel,Failed,0.52,Timeout or Error
 2026-08-12 03:53,Comments,OK,0.897,"{""commentCount"":10559700 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-08-12 03:53,Playlist,Failed,0.781,Timeout or Error
+2026-08-12 04:57,Video,OK,0.744,
+2026-08-12 04:57,Search,OK,1.284,"[{""type"":""video"" ""title"":""Das 49€ Wunder von PARKSIDE: Besser als 500€-Sägen?!"" ""videoId"":""y_S4GlrZq"
+2026-08-12 04:57,Channel,Failed,0.695,Timeout or Error
+2026-08-12 04:57,Comments,OK,1.221,"{""commentCount"":10559765 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-08-12 04:57,Playlist,Failed,0.854,Timeout or Error

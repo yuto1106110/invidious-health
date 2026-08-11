@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-07-13 03:57,Video,Failed,0.495,Timeout or Error
-2026-07-13 03:57,Search,OK,1.012,"[{""type"":""video"" ""title"":""TEST"" ""videoId"":""YXZH-eBtmqQ"" ""author"":""Stray Kids"" ""authorId"":""UC9rMiEjNa"
-2026-07-13 03:57,Channel,Failed,0.559,Timeout or Error
-2026-07-13 03:57,Comments,OK,0.867,"{""commentCount"":10538962 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-07-13 03:57,Playlist,Failed,0.734,Timeout or Error
 2026-07-13 05:05,Video,Failed,0.308,Timeout or Error
 2026-07-13 05:05,Search,OK,1.055,"[{""type"":""video"" ""title"":""TEST"" ""videoId"":""YXZH-eBtmqQ"" ""author"":""Stray Kids"" ""authorId"":""UC9rMiEjNa"
 2026-07-13 05:05,Channel,Failed,0.367,Timeout or Error
@@ -1944,3 +1939,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-12 03:53,Channel,Failed,1.243,Timeout or Error
 2026-08-12 03:53,Comments,Failed,1.113,Timeout or Error
 2026-08-12 03:53,Playlist,Failed,0.501,Timeout or Error
+2026-08-12 04:57,Video,Failed,1.225,Timeout or Error
+2026-08-12 04:57,Search,Failed,2.349,Timeout or Error
+2026-08-12 04:57,Channel,Failed,1.335,Timeout or Error
+2026-08-12 04:57,Comments,Failed,0.604,Timeout or Error
+2026-08-12 04:57,Playlist,Failed,1.332,Timeout or Error
