@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-07-13 19:18,Video,Failed,1.211,Timeout or Error
-2026-07-13 19:18,Search,OK,0.9,"[{""type"":""video"" ""title"":""SHOW OFF YOUR TV  8K HDR Dolby Vision 60fps Peak Brightness Test"" ""videoId"
-2026-07-13 19:18,Channel,Failed,0.341,Timeout or Error
-2026-07-13 19:18,Comments,OK,0.965,"{""commentCount"":10539420 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-07-13 19:18,Playlist,Failed,0.46,Timeout or Error
 2026-07-13 22:15,Video,Failed,0.401,Timeout or Error
 2026-07-13 22:15,Search,OK,1.395,"[{""type"":""video"" ""title"":""TEST"" ""videoId"":""YXZH-eBtmqQ"" ""author"":""Stray Kids"" ""authorId"":""UC9rMiEjNa"
 2026-07-13 22:15,Channel,Failed,0.449,Timeout or Error
@@ -1959,3 +1954,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-12 18:06,Channel,Failed,1.686,Timeout or Error
 2026-08-12 18:06,Comments,Failed,1.703,Timeout or Error
 2026-08-12 18:06,Playlist,Failed,1.712,Timeout or Error
+2026-08-12 19:55,Video,Failed,2.688,Timeout or Error
+2026-08-12 19:55,Search,Failed,1.641,Timeout or Error
+2026-08-12 19:55,Channel,Failed,1.504,Timeout or Error
+2026-08-12 19:55,Comments,Failed,1.505,Timeout or Error
+2026-08-12 19:55,Playlist,Failed,1.504,Timeout or Error
