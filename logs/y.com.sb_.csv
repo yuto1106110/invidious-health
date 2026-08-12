@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-07-13 11:09,Video,Failed,0.304,Timeout or Error
-2026-07-13 11:09,Search,OK,1.099,"[{""type"":""video"" ""title"":""TEST"" ""videoId"":""YXZH-eBtmqQ"" ""author"":""Stray Kids"" ""authorId"":""UC9rMiEjNa"
-2026-07-13 11:09,Channel,Failed,0.333,Timeout or Error
-2026-07-13 11:09,Comments,OK,0.642,"{""commentCount"":10539243 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-07-13 11:09,Playlist,Failed,0.496,Timeout or Error
 2026-07-13 15:09,Video,Failed,0.904,Timeout or Error
 2026-07-13 15:09,Search,OK,0.975,"[{""type"":""video"" ""title"":""Fastfood NEUHEITEN im Test | (SCHOCK am Ende) 😳🤮"" ""videoId"":""L43V6m3Loyg"" "
 2026-07-13 15:09,Channel,Failed,0.469,Timeout or Error
@@ -1949,3 +1944,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-12 10:21,Channel,Failed,0.9,Timeout or Error
 2026-08-12 10:21,Comments,OK,0.805,"{""commentCount"":10559815 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-08-12 10:21,Playlist,Failed,1.304,Timeout or Error
+2026-08-12 13:00,Video,Failed,1.671,Timeout or Error
+2026-08-12 13:00,Search,Failed,1.697,Timeout or Error
+2026-08-12 13:00,Channel,Failed,1.704,Timeout or Error
+2026-08-12 13:00,Comments,Failed,1.697,Timeout or Error
+2026-08-12 13:00,Playlist,Failed,1.701,Timeout or Error
