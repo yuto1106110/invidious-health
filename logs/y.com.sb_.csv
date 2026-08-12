@@ -1954,3 +1954,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-12 16:15,Channel,Failed,1.504,Timeout or Error
 2026-08-12 16:15,Comments,Failed,1.505,Timeout or Error
 2026-08-12 16:15,Playlist,Failed,1.504,Timeout or Error
+2026-08-12 18:06,Video,Failed,2.729,Timeout or Error
+2026-08-12 18:06,Search,Failed,1.71,Timeout or Error
+2026-08-12 18:06,Channel,Failed,1.686,Timeout or Error
+2026-08-12 18:06,Comments,Failed,1.703,Timeout or Error
+2026-08-12 18:06,Playlist,Failed,1.712,Timeout or Error
