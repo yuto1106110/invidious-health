@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-07-13 15:09,Video,Failed,0.904,Timeout or Error
-2026-07-13 15:09,Search,OK,0.975,"[{""type"":""video"" ""title"":""Fastfood NEUHEITEN im Test | (SCHOCK am Ende) 😳🤮"" ""videoId"":""L43V6m3Loyg"" "
-2026-07-13 15:09,Channel,Failed,0.469,Timeout or Error
-2026-07-13 15:09,Comments,OK,0.72,"{""commentCount"":10539349 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-07-13 15:09,Playlist,Failed,0.576,Timeout or Error
 2026-07-13 19:18,Video,Failed,1.211,Timeout or Error
 2026-07-13 19:18,Search,OK,0.9,"[{""type"":""video"" ""title"":""SHOW OFF YOUR TV  8K HDR Dolby Vision 60fps Peak Brightness Test"" ""videoId"
 2026-07-13 19:18,Channel,Failed,0.341,Timeout or Error
@@ -1954,3 +1949,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-12 14:41,Channel,Failed,2.673,Timeout or Error
 2026-08-12 14:41,Comments,Failed,1.694,Timeout or Error
 2026-08-12 14:41,Playlist,Failed,1.504,Timeout or Error
+2026-08-12 16:15,Video,Failed,1.505,Timeout or Error
+2026-08-12 16:15,Search,Failed,1.63,Timeout or Error
+2026-08-12 16:15,Channel,Failed,1.504,Timeout or Error
+2026-08-12 16:15,Comments,Failed,1.505,Timeout or Error
+2026-08-12 16:15,Playlist,Failed,1.504,Timeout or Error
