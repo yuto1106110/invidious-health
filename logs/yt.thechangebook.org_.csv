@@ -1949,3 +1949,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-12 13:00,Channel,Failed,0.624,Timeout or Error
 2026-08-12 13:00,Comments,Failed,0.83,Timeout or Error
 2026-08-12 13:00,Playlist,Failed,0.777,Timeout or Error
+2026-08-12 14:41,Video,Failed,0.63,Timeout or Error
+2026-08-12 14:41,Search,Failed,0.619,Timeout or Error
+2026-08-12 14:41,Channel,Failed,0.468,Timeout or Error
+2026-08-12 14:41,Comments,Failed,0.47,Timeout or Error
+2026-08-12 14:41,Playlist,Failed,0.76,Timeout or Error
