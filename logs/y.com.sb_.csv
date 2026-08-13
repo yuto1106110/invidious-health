@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-07-15 04:09,Video,Failed,0.255,Timeout or Error
-2026-07-15 04:09,Search,OK,0.84,"[{""type"":""video"" ""title"":""Dolby Atmos Sound Test"" ""videoId"":""FLH1aARTpMg"" ""author"":""JumpingCloud"" ""a"
-2026-07-15 04:09,Channel,Failed,0.367,Timeout or Error
-2026-07-15 04:09,Comments,OK,0.733,"{""commentCount"":10540990 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-07-15 04:09,Playlist,Failed,0.511,Timeout or Error
 2026-07-15 05:53,Video,Failed,0.359,Timeout or Error
 2026-07-15 05:53,Search,OK,0.821,"[{""type"":""video"" ""title"":""TEST"" ""videoId"":""YXZH-eBtmqQ"" ""author"":""Stray Kids"" ""authorId"":""UC9rMiEjNa"
 2026-07-15 05:53,Channel,Failed,0.339,Timeout or Error
@@ -2009,3 +2004,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-14 03:54,Channel,Failed,1.624,Timeout or Error
 2026-08-14 03:54,Comments,Failed,1.613,Timeout or Error
 2026-08-14 03:54,Playlist,Failed,1.612,Timeout or Error
+2026-08-14 04:53,Video,OK,0.794,
+2026-08-14 04:53,Search,OK,1.235,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-08-14 04:53,Channel,Failed,0.78,Timeout or Error
+2026-08-14 04:53,Comments,OK,1.097,"{""commentCount"":10561188 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-08-14 04:53,Playlist,Failed,0.887,Timeout or Error
