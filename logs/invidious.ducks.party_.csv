@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-07-14 18:51,Video,Failed,0.48,Timeout or Error
-2026-07-14 18:51,Search,OK,1.121,"[{""type"":""video"" ""title"":""Dolby Atmos Sound Test"" ""videoId"":""FLH1aARTpMg"" ""author"":""JumpingCloud"" ""a"
-2026-07-14 18:51,Channel,Failed,0.505,Timeout or Error
-2026-07-14 18:51,Comments,OK,0.913,"{""commentCount"":10540404 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-07-14 18:51,Playlist,Failed,0.596,Timeout or Error
 2026-07-14 20:21,Video,Failed,0.31,Timeout or Error
 2026-07-14 20:21,Search,OK,0.925,"[{""type"":""video"" ""title"":""TEST"" ""videoId"":""YXZH-eBtmqQ"" ""author"":""Stray Kids"" ""authorId"":""UC9rMiEjNa"
 2026-07-14 20:21,Channel,Failed,0.444,Timeout or Error
@@ -1989,3 +1984,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-13 17:14,Channel,Failed,1.504,Timeout or Error
 2026-08-13 17:14,Comments,Failed,1.504,Timeout or Error
 2026-08-13 17:14,Playlist,Failed,1.504,Timeout or Error
+2026-08-13 18:57,Video,Failed,1.504,Timeout or Error
+2026-08-13 18:57,Search,Failed,1.504,Timeout or Error
+2026-08-13 18:57,Channel,Failed,1.504,Timeout or Error
+2026-08-13 18:57,Comments,Failed,1.505,Timeout or Error
+2026-08-13 18:57,Playlist,Failed,1.504,Timeout or Error
