@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-07-14 13:47,Video,Failed,0.513,Timeout or Error
-2026-07-14 13:47,Search,OK,0.917,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-07-14 13:47,Channel,Failed,0.533,Timeout or Error
-2026-07-14 13:47,Comments,OK,1.178,"{""commentCount"":10540249 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-07-14 13:47,Playlist,Failed,0.587,Timeout or Error
 2026-07-14 16:07,Video,Failed,0.299,Timeout or Error
 2026-07-14 16:07,Search,OK,0.87,"[{""type"":""video"" ""title"":""Dolby Atmos Sound Test"" ""videoId"":""FLH1aARTpMg"" ""author"":""JumpingCloud"" ""a"
 2026-07-14 16:07,Channel,Failed,0.325,Timeout or Error
@@ -1989,3 +1984,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-13 13:04,Channel,Failed,1.514,Timeout or Error
 2026-08-13 13:04,Comments,Failed,1.637,Timeout or Error
 2026-08-13 13:04,Playlist,Failed,1.692,Timeout or Error
+2026-08-13 15:11,Video,Failed,1.407,Timeout or Error
+2026-08-13 15:11,Search,OK,1.23,"[{""type"":""video"" ""title"":""Galaxy Z Fold 8 HALTBARKEITSTEST – Ist der neue „Titan-Bildschirm“ wirklic"
+2026-08-13 15:11,Channel,Failed,0.607,Timeout or Error
+2026-08-13 15:11,Comments,OK,0.899,"{""commentCount"":10560821 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-08-13 15:11,Playlist,Failed,1.119,Timeout or Error
