@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-07-16 06:52,Video,Failed,0.46,Timeout or Error
-2026-07-16 06:52,Search,OK,0.958,"[{""type"":""video"" ""title"":""ACHTUNG ILLEGAL! 69€ FAKE MAKITA BOHRHAMMER TEST | WERKZEUG NEWS 372"" ""vid"
-2026-07-16 06:52,Channel,Failed,0.511,Timeout or Error
-2026-07-16 06:52,Comments,OK,0.805,"{""commentCount"":10541500 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-07-16 06:52,Playlist,Failed,0.595,Timeout or Error
 2026-07-16 07:53,Video,Failed,0.365,Timeout or Error
 2026-07-16 07:53,Search,OK,0.765,"[{""type"":""video"" ""title"":""Smartwatch-Fingerabdrucktest: Apple vs. Garmin vs. Amazfit vs. Google vs. "
 2026-07-16 07:53,Channel,Failed,0.388,Timeout or Error
@@ -2039,3 +2034,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-15 06:18,Channel,Failed,0.304,Timeout or Error
 2026-08-15 06:18,Comments,Failed,0.304,Timeout or Error
 2026-08-15 06:18,Playlist,Failed,0.303,Timeout or Error
+2026-08-15 07:15,Video,Failed,0.295,Timeout or Error
+2026-08-15 07:15,Search,Failed,0.295,Timeout or Error
+2026-08-15 07:15,Channel,Failed,0.304,Timeout or Error
+2026-08-15 07:15,Comments,Failed,0.301,Timeout or Error
+2026-08-15 07:15,Playlist,Failed,0.303,Timeout or Error
