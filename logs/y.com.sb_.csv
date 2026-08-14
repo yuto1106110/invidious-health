@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-07-16 07:53,Video,Failed,0.367,Timeout or Error
-2026-07-16 07:53,Search,OK,0.93,"[{""type"":""video"" ""title"":""ACHTUNG ILLEGAL! 69€ FAKE MAKITA BOHRHAMMER TEST | WERKZEUG NEWS 372"" ""vid"
-2026-07-16 07:53,Channel,Failed,0.382,Timeout or Error
-2026-07-16 07:53,Comments,OK,0.667,"{""commentCount"":10541559 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-07-16 07:53,Playlist,Failed,0.462,Timeout or Error
 2026-07-16 08:53,Video,Failed,0.467,Timeout or Error
 2026-07-16 08:53,Search,OK,0.925,"[{""type"":""video"" ""title"":""ACHTUNG ILLEGAL! 69€ FAKE MAKITA BOHRHAMMER TEST | WERKZEUG NEWS 372"" ""vid"
 2026-07-16 08:53,Channel,Failed,0.463,Timeout or Error
@@ -2039,3 +2034,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-15 07:15,Channel,Failed,0.374,Timeout or Error
 2026-08-15 07:15,Comments,OK,0.705,"{""commentCount"":10562129 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-08-15 07:15,Playlist,Failed,0.6,Timeout or Error
+2026-08-15 08:15,Video,Failed,1.687,Timeout or Error
+2026-08-15 08:15,Search,Failed,1.698,Timeout or Error
+2026-08-15 08:15,Channel,Failed,1.701,Timeout or Error
+2026-08-15 08:15,Comments,Failed,1.696,Timeout or Error
+2026-08-15 08:15,Playlist,Failed,1.701,Timeout or Error
