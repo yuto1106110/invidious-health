@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-07-16 19:52,Video,Failed,0.426,Timeout or Error
-2026-07-16 19:52,Search,OK,1.07,"[{""type"":""video"" ""title"":""Dolby Atmos Sound Test"" ""videoId"":""FLH1aARTpMg"" ""author"":""JumpingCloud"" ""a"
-2026-07-16 19:52,Channel,Failed,0.46,Timeout or Error
-2026-07-16 19:52,Comments,OK,0.86,"{""commentCount"":10541864 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-07-16 19:52,Playlist,Failed,0.566,Timeout or Error
 2026-07-16 21:16,Video,Failed,0.466,Timeout or Error
 2026-07-16 21:16,Search,OK,0.986,"[{""type"":""video"" ""title"":""LG OLED G6: Haben wir das Limit erreicht? (Test 2026)"" ""videoId"":""LBu-_YRe"
 2026-07-16 21:16,Channel,Failed,0.534,Timeout or Error
@@ -2069,3 +2064,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-15 19:15,Channel,Failed,0.305,Timeout or Error
 2026-08-15 19:15,Comments,Failed,0.297,Timeout or Error
 2026-08-15 19:15,Playlist,Failed,0.308,Timeout or Error
+2026-08-15 20:13,Video,Failed,0.415,Timeout or Error
+2026-08-15 20:13,Search,Failed,0.427,Timeout or Error
+2026-08-15 20:13,Channel,Failed,0.426,Timeout or Error
+2026-08-15 20:13,Comments,Failed,0.419,Timeout or Error
+2026-08-15 20:13,Playlist,Failed,0.424,Timeout or Error
