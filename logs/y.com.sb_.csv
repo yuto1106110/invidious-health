@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-07-17 01:13,Video,Failed,0.32,Timeout or Error
-2026-07-17 01:13,Search,Failed,1.258,Timeout or Error
-2026-07-17 01:13,Channel,Failed,0.331,Timeout or Error
-2026-07-17 01:13,Comments,OK,0.893,"{""commentCount"":10542086 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-07-17 01:13,Playlist,Failed,0.464,Timeout or Error
 2026-07-17 03:01,Video,Failed,0.318,Timeout or Error
 2026-07-17 03:01,Search,OK,1.025,"[{""type"":""video"" ""title"":""BUDGET Pizza Oven Review: Lidl ($99) vs. UNOLD – Surprising Result"" ""video"
 2026-07-17 03:01,Channel,Failed,0.35,Timeout or Error
@@ -2079,3 +2074,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-16 00:14,Channel,Failed,0.531,Timeout or Error
 2026-08-16 00:14,Comments,OK,0.857,"{""commentCount"":10562472 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-08-16 00:14,Playlist,Failed,0.621,Timeout or Error
+2026-08-16 01:16,Video,Failed,0.498,Timeout or Error
+2026-08-16 01:16,Search,OK,1.078,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-08-16 01:16,Channel,Failed,0.493,Timeout or Error
+2026-08-16 01:16,Comments,OK,0.724,"{""commentCount"":10562497 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-08-16 01:16,Playlist,Failed,0.404,Timeout or Error
