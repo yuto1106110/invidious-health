@@ -2049,3 +2049,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-15 13:22,Channel,Failed,1.7,Timeout or Error
 2026-08-15 13:22,Comments,Failed,1.714,Timeout or Error
 2026-08-15 13:22,Playlist,Failed,1.694,Timeout or Error
+2026-08-15 14:19,Video,Failed,0.485,Timeout or Error
+2026-08-15 14:19,Search,OK,1.204,"[{""type"":""video"" ""title"":""04 OPPO X9 Ultra"" ""videoId"":""bjcMl_tmjp4"" ""author"":""sparhandy Studio"" ""aut"
+2026-08-15 14:19,Channel,Failed,0.569,Timeout or Error
+2026-08-15 14:19,Comments,OK,0.628,"{""commentCount"":10562435 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-08-15 14:19,Playlist,Failed,1.08,Timeout or Error
