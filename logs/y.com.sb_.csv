@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-07-18 02:59,Video,Failed,0.344,Timeout or Error
-2026-07-18 02:59,Search,OK,1.357,"[{""type"":""video"" ""title"":""Blind Test: \""Hard-Edged\"" Techno 1997-2006 I Electronic Beats TV"" ""videoI"
-2026-07-18 02:59,Channel,Failed,0.417,Timeout or Error
-2026-07-18 02:59,Comments,OK,1.174,"{""commentCount"":10543725 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-07-18 02:59,Playlist,Failed,0.605,Timeout or Error
 2026-07-18 04:17,Video,Failed,0.299,Timeout or Error
 2026-07-18 04:17,Search,OK,0.914,"[{""type"":""video"" ""title"":""Blind Test: \""Hard-Edged\"" Techno 1997-2006 I Electronic Beats TV"" ""videoI"
 2026-07-18 04:17,Channel,Failed,0.344,Timeout or Error
@@ -2139,3 +2134,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-17 02:13,Channel,Failed,0.508,Timeout or Error
 2026-08-17 02:13,Comments,OK,0.71,"{""commentCount"":10563171 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-08-17 02:13,Playlist,Failed,0.419,Timeout or Error
+2026-08-17 03:18,Video,Failed,0.646,Timeout or Error
+2026-08-17 03:18,Search,OK,1.272,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-08-17 03:18,Channel,Failed,0.701,Timeout or Error
+2026-08-17 03:18,Comments,OK,0.918,"{""commentCount"":10563237 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-08-17 03:18,Playlist,Failed,0.699,Timeout or Error
