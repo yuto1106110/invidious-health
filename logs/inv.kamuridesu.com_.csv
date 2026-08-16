@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-07-18 01:09,Video,Failed,0.445,Timeout or Error
-2026-07-18 01:09,Search,Failed,1.031,Timeout or Error
-2026-07-18 01:09,Channel,Failed,0.541,Timeout or Error
-2026-07-18 01:09,Comments,OK,0.824,"{""commentCount"":10543602 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-07-18 01:09,Playlist,Failed,0.704,Timeout or Error
-2026-07-18 01:09,Video,Failed,0.426,Timeout or Error
-2026-07-18 01:09,Search,Failed,1.029,Timeout or Error
-2026-07-18 01:09,Channel,Failed,0.557,Timeout or Error
-2026-07-18 01:09,Comments,OK,0.78,"{""commentCount"":10543603 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-07-18 01:09,Playlist,Failed,0.674,Timeout or Error
 2026-07-18 02:59,Video,Failed,0.338,Timeout or Error
 2026-07-18 02:59,Search,Failed,1.032,Timeout or Error
 2026-07-18 02:59,Channel,Failed,0.451,Timeout or Error
@@ -4269,3 +4259,13 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-17 00:14,Channel,Failed,0.508,Timeout or Error
 2026-08-17 00:14,Comments,OK,0.877,"{""commentCount"":10563089 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-08-17 00:14,Playlist,Failed,0.69,Timeout or Error
+2026-08-17 01:17,Video,Failed,0.446,Timeout or Error
+2026-08-17 01:17,Search,Failed,1.038,Timeout or Error
+2026-08-17 01:17,Channel,Failed,0.547,Timeout or Error
+2026-08-17 01:17,Comments,OK,0.87,"{""commentCount"":10563122 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-08-17 01:17,Playlist,Failed,0.744,Timeout or Error
+2026-08-17 01:17,Video,Failed,0.449,Timeout or Error
+2026-08-17 01:17,Search,Failed,1.035,Timeout or Error
+2026-08-17 01:17,Channel,Failed,0.612,Timeout or Error
+2026-08-17 01:17,Comments,OK,0.835,"{""commentCount"":10563122 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-08-17 01:17,Playlist,Failed,0.693,Timeout or Error

@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-07-18 01:09,Video,Failed,1.472,Timeout or Error
-2026-07-18 01:09,Search,OK,1.187,"[{""type"":""video"" ""title"":""BLIND TEST TOUTES GÉNÉRATIONS (80 extraits)"" ""videoId"":""nkpvlMBmhLo"" ""auth"
-2026-07-18 01:09,Channel,Failed,0.691,Timeout or Error
-2026-07-18 01:09,Comments,Failed,0.955,Timeout or Error
-2026-07-18 01:09,Playlist,Failed,0.709,Timeout or Error
 2026-07-18 02:59,Video,Failed,1.37,Timeout or Error
 2026-07-18 02:59,Search,OK,1.395,"[{""type"":""video"" ""title"":""🧠 Devine le LOGO en 3 SECONDES ✅🔥🤔 | 300 Logos Célèbres | Quiz Logos 2024"""
 2026-07-18 02:59,Channel,Failed,0.469,Timeout or Error
@@ -2134,3 +2129,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-17 00:14,Channel,Failed,0.608,Timeout or Error
 2026-08-17 00:14,Comments,Failed,0.456,Timeout or Error
 2026-08-17 00:14,Playlist,Failed,0.467,Timeout or Error
+2026-08-17 01:17,Video,Failed,0.764,Timeout or Error
+2026-08-17 01:17,Search,Failed,0.756,Timeout or Error
+2026-08-17 01:17,Channel,Failed,0.757,Timeout or Error
+2026-08-17 01:17,Comments,Failed,0.603,Timeout or Error
+2026-08-17 01:17,Playlist,Failed,0.849,Timeout or Error
