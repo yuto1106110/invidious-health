@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-07-19 06:43,Video,Failed,0.297,Timeout or Error
-2026-07-19 06:43,Search,OK,1.018,"[{""type"":""video"" ""title"":""ULTRA Black OLED Display Test | Dolby Vision HDR 240fps (8K Video ULTRA HD"
-2026-07-19 06:43,Channel,Failed,0.426,Timeout or Error
-2026-07-19 06:43,Comments,OK,0.671,"{""commentCount"":10545582 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-07-19 06:43,Playlist,Failed,0.582,Timeout or Error
-2026-07-19 06:43,Video,Failed,0.296,Timeout or Error
-2026-07-19 06:43,Search,OK,0.977,"[{""type"":""video"" ""title"":""ULTRA Black OLED Display Test | Dolby Vision HDR 240fps (8K Video ULTRA HD"
-2026-07-19 06:43,Channel,Failed,0.407,Timeout or Error
-2026-07-19 06:43,Comments,OK,0.665,"{""commentCount"":10545582 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-07-19 06:43,Playlist,Failed,0.555,Timeout or Error
 2026-07-19 07:42,Video,Failed,0.352,Timeout or Error
 2026-07-19 07:42,Search,Failed,1.054,Timeout or Error
 2026-07-19 07:42,Channel,Failed,0.46,Timeout or Error
@@ -4359,3 +4349,13 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-18 06:19,Channel,Failed,0.529,Timeout or Error
 2026-08-18 06:19,Comments,OK,0.915,"{""commentCount"":10562727 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-08-18 06:19,Playlist,Failed,0.552,Timeout or Error
+2026-08-18 07:17,Video,Failed,0.411,Timeout or Error
+2026-08-18 07:17,Search,Failed,1.05,Timeout or Error
+2026-08-18 07:17,Channel,Failed,0.551,Timeout or Error
+2026-08-18 07:17,Comments,OK,0.746,"{""commentCount"":10562787 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-08-18 07:17,Playlist,Failed,0.577,Timeout or Error
+2026-08-18 07:17,Video,Failed,0.409,Timeout or Error
+2026-08-18 07:17,Search,Failed,1.048,Timeout or Error
+2026-08-18 07:17,Channel,Failed,0.537,Timeout or Error
+2026-08-18 07:17,Comments,OK,0.881,"{""commentCount"":10562787 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-08-18 07:17,Playlist,Failed,0.551,Timeout or Error
