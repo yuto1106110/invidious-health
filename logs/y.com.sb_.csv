@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-07-19 00:50,Video,Failed,0.297,Timeout or Error
-2026-07-19 00:50,Search,OK,1.077,"[{""type"":""video"" ""title"":""CUPRA RAVAL im Test: Autobahn | Reichweite | Laden | Preis | Lob + Kritik "
-2026-07-19 00:50,Channel,Failed,0.383,Timeout or Error
-2026-07-19 00:50,Comments,OK,0.764,"{""commentCount"":10545086 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-07-19 00:50,Playlist,Failed,0.452,Timeout or Error
 2026-07-19 01:50,Video,Failed,0.299,Timeout or Error
 2026-07-19 01:50,Search,OK,0.798,"[{""type"":""video"" ""title"":""Is Your 5-Year-Old iPhone Still Good Enough? Camera Test vs. Oppo Find X9 "
 2026-07-19 01:50,Channel,Failed,0.362,Timeout or Error
@@ -2174,3 +2169,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-18 00:19,Channel,Failed,0.764,Timeout or Error
 2026-08-18 00:19,Comments,OK,1.495,"{""commentCount"":10562326 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-08-18 00:19,Playlist,Failed,0.58,Timeout or Error
+2026-08-18 01:19,Video,Failed,0.468,Timeout or Error
+2026-08-18 01:19,Search,OK,0.925,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-08-18 01:19,Channel,Failed,0.495,Timeout or Error
+2026-08-18 01:19,Comments,OK,0.711,"{""commentCount"":10562409 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-08-18 01:19,Playlist,Failed,0.49,Timeout or Error
