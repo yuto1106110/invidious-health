@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-07-18 13:44,Video,Failed,0.414,Timeout or Error
-2026-07-18 13:44,Search,OK,1.026,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-07-18 13:44,Channel,Failed,0.519,Timeout or Error
-2026-07-18 13:44,Comments,OK,0.708,"{""commentCount"":10544360 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-07-18 13:44,Playlist,Failed,0.663,Timeout or Error
-2026-07-18 13:44,Video,Failed,0.394,Timeout or Error
-2026-07-18 13:44,Search,OK,1.034,"[{""type"":""video"" ""title"":""How to test compressor  refrigeration motor  refrigerator  air conditionin"
-2026-07-18 13:44,Channel,Failed,0.528,Timeout or Error
-2026-07-18 13:44,Comments,OK,0.681,"{""commentCount"":10544360 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-07-18 13:44,Playlist,Failed,0.671,Timeout or Error
 2026-07-18 15:57,Video,Failed,0.429,Timeout or Error
 2026-07-18 15:57,Search,OK,1.016,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-07-18 15:57,Channel,Failed,0.567,Timeout or Error
@@ -4309,3 +4299,13 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-17 13:34,Channel,Failed,0.457,Timeout or Error
 2026-08-17 13:34,Comments,OK,0.671,"{""commentCount"":10563398 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-08-17 13:34,Playlist,Failed,0.435,Timeout or Error
+2026-08-17 14:29,Video,Failed,0.287,Timeout or Error
+2026-08-17 14:29,Search,OK,0.933,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-08-17 14:29,Channel,Failed,0.41,Timeout or Error
+2026-08-17 14:29,Comments,OK,0.617,"{""commentCount"":10563395 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-08-17 14:29,Playlist,Failed,0.4,Timeout or Error
+2026-08-17 14:29,Video,Failed,0.276,Timeout or Error
+2026-08-17 14:29,Search,OK,0.837,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-08-17 14:29,Channel,Failed,0.411,Timeout or Error
+2026-08-17 14:29,Comments,OK,0.611,"{""commentCount"":10563395 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-08-17 14:29,Playlist,Failed,0.559,Timeout or Error

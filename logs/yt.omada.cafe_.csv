@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-07-18 13:44,Video,Failed,2.382,Timeout or Error
-2026-07-18 13:44,Search,Failed,2.294,Timeout or Error
-2026-07-18 13:44,Channel,Failed,1.705,Timeout or Error
-2026-07-18 13:44,Comments,Failed,1.876,Timeout or Error
-2026-07-18 13:44,Playlist,Failed,1.703,Timeout or Error
 2026-07-18 15:57,Video,Failed,3.358,Timeout or Error
 2026-07-18 15:57,Search,Failed,2.379,Timeout or Error
 2026-07-18 15:57,Channel,Failed,1.887,Timeout or Error
@@ -2154,3 +2149,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-17 13:34,Channel,Failed,0.668,Timeout or Error
 2026-08-17 13:34,Comments,OK,0.899,"{""commentCount"":10563397 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-08-17 13:34,Playlist,Failed,0.68,Timeout or Error
+2026-08-17 14:29,Video,OK,0.473,
+2026-08-17 14:29,Search,OK,1.112,"[{""type"":""video"" ""title"":""I Tested Illegal Scam Products"" ""videoId"":""nZjk1yOp8A8"" ""author"":""Law By M"
+2026-08-17 14:29,Channel,Failed,0.425,Timeout or Error
+2026-08-17 14:29,Comments,OK,0.739,"{""commentCount"":10563395 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-08-17 14:29,Playlist,Failed,0.515,Timeout or Error
