@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-07-18 17:47,Video,Failed,0.308,Timeout or Error
-2026-07-18 17:47,Search,OK,0.815,"[{""type"":""video"" ""title"":""Dolby Atmos Sound Test"" ""videoId"":""FLH1aARTpMg"" ""author"":""JumpingCloud"" ""a"
-2026-07-18 17:47,Channel,Failed,0.333,Timeout or Error
-2026-07-18 17:47,Comments,OK,0.63,"{""commentCount"":10544532 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-07-18 17:47,Playlist,Failed,0.45,Timeout or Error
 2026-07-18 19:13,Video,Failed,0.312,Timeout or Error
 2026-07-18 19:13,Search,OK,1.089,"[{""type"":""video"" ""title"":""CUPRA RAVAL im Test: Autobahn | Reichweite | Laden | Preis | Lob + Kritik "
 2026-07-18 19:13,Channel,Failed,0.349,Timeout or Error
@@ -2164,3 +2159,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-17 17:35,Channel,Failed,0.458,Timeout or Error
 2026-08-17 17:35,Comments,Failed,0.454,Timeout or Error
 2026-08-17 17:35,Playlist,Failed,0.451,Timeout or Error
+2026-08-17 18:34,Video,Failed,0.447,Timeout or Error
+2026-08-17 18:34,Search,Failed,0.445,Timeout or Error
+2026-08-17 18:34,Channel,Failed,0.447,Timeout or Error
+2026-08-17 18:34,Comments,Failed,0.447,Timeout or Error
+2026-08-17 18:34,Playlist,Failed,0.452,Timeout or Error
