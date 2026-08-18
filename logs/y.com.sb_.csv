@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-07-20 01:51,Video,Failed,0.302,Timeout or Error
-2026-07-20 01:51,Search,OK,0.865,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-07-20 01:51,Channel,Failed,1.504,Timeout or Error
-2026-07-20 01:51,Comments,OK,0.616,"{""commentCount"":10546212 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-07-20 01:51,Playlist,Failed,0.465,Timeout or Error
 2026-07-20 02:53,Video,Failed,0.337,Timeout or Error
 2026-07-20 02:53,Search,OK,0.93,"[{""type"":""video"" ""title"":""Aldi: PIZZ'AH Pizza Ariosa - Margherita  Salami & Verdure im Test #pizza #"
 2026-07-20 02:53,Channel,Failed,0.398,Timeout or Error
@@ -2214,3 +2209,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-19 01:23,Channel,Failed,0.725,Timeout or Error
 2026-08-19 01:23,Comments,OK,0.879,"{""commentCount"":10563448 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-08-19 01:23,Playlist,Failed,0.68,Timeout or Error
+2026-08-19 02:20,Video,Failed,0.596,Timeout or Error
+2026-08-19 02:20,Search,OK,1.212,"[{""type"":""video"" ""title"":""So GENIAL wie seit Elden Ring nicht mehr: Mortal Shell 2! Test / Review"" """
+2026-08-19 02:20,Channel,Failed,1.491,Timeout or Error
+2026-08-19 02:20,Comments,OK,1.115,"{""commentCount"":10563457 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-08-19 02:20,Playlist,Failed,0.605,Timeout or Error
