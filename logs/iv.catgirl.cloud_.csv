@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-07-20 02:53,Video,Failed,1.628,Timeout or Error
-2026-07-20 02:53,Search,Failed,1.628,Timeout or Error
-2026-07-20 02:53,Channel,Failed,1.634,Timeout or Error
-2026-07-20 02:53,Comments,Failed,1.629,Timeout or Error
-2026-07-20 02:53,Playlist,Failed,1.633,Timeout or Error
 2026-07-20 03:57,Video,OK,0.707,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-07-20 03:57,Search,OK,0.353,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-07-20 03:57,Channel,OK,0.35,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
@@ -2214,3 +2209,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-19 02:20,Channel,OK,0.489,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-08-19 02:20,Comments,OK,0.494,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-08-19 02:20,Playlist,OK,0.492,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-08-19 03:28,Video,OK,0.688,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-08-19 03:28,Search,OK,0.363,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-08-19 03:28,Channel,OK,0.367,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-08-19 03:28,Comments,OK,0.355,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-08-19 03:28,Playlist,OK,0.351,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"

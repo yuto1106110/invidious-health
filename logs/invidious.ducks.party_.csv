@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-07-20 02:53,Video,Failed,0.356,Timeout or Error
-2026-07-20 02:53,Search,OK,1.909,"[{""type"":""video"" ""title"":""Even More Problems for Big Brands from Walmart"" ""videoId"":""wEfm2h1XP6U"" ""a"
-2026-07-20 02:53,Channel,Failed,1.241,Timeout or Error
-2026-07-20 02:53,Comments,OK,1.219,"{""commentCount"":10546206 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-07-20 02:53,Playlist,Failed,1.586,Timeout or Error
 2026-07-20 03:57,Video,Failed,0.493,Timeout or Error
 2026-07-20 03:57,Search,OK,1.235,"[{""type"":""video"" ""title"":""Aldi: PIZZ'AH Pizza Ariosa - Margherita  Salami & Verdure im Test #pizza #"
 2026-07-20 03:57,Channel,Failed,0.813,Timeout or Error
@@ -2214,3 +2209,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-19 02:20,Channel,Failed,0.496,Timeout or Error
 2026-08-19 02:20,Comments,Failed,0.483,Timeout or Error
 2026-08-19 02:20,Playlist,Failed,0.482,Timeout or Error
+2026-08-19 03:28,Video,Failed,0.331,Timeout or Error
+2026-08-19 03:28,Search,Failed,0.347,Timeout or Error
+2026-08-19 03:28,Channel,Failed,0.346,Timeout or Error
+2026-08-19 03:28,Comments,Failed,0.358,Timeout or Error
+2026-08-19 03:28,Playlist,Failed,0.337,Timeout or Error
