@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-07-19 19:21,Video,Failed,0.472,Timeout or Error
-2026-07-19 19:21,Search,OK,1.217,"[{""type"":""video"" ""title"":""Royal Enfield Goan Classic 350 | Test (deutsch)"" ""videoId"":""qvizxOWZaeM"" """
-2026-07-19 19:21,Channel,Failed,0.724,Timeout or Error
-2026-07-19 19:21,Comments,OK,0.982,"{""commentCount"":10545135 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-07-19 19:21,Playlist,Failed,1.289,Timeout or Error
 2026-07-19 20:51,Video,Failed,0.388,Timeout or Error
 2026-07-19 20:51,Search,OK,1.168,"[{""type"":""video"" ""title"":""Royal Enfield Goan Classic 350 | Test (deutsch)"" ""videoId"":""qvizxOWZaeM"" """
 2026-07-19 20:51,Channel,Failed,0.466,Timeout or Error
@@ -2204,3 +2199,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-18 18:25,Channel,Failed,0.784,Timeout or Error
 2026-08-18 18:25,Comments,OK,1.014,"{""commentCount"":10563080 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-08-18 18:25,Playlist,Failed,0.679,Timeout or Error
+2026-08-18 19:21,Video,Failed,0.417,Timeout or Error
+2026-08-18 19:21,Search,OK,1.12,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-08-18 19:21,Channel,Failed,0.578,Timeout or Error
+2026-08-18 19:21,Comments,OK,1.095,"{""commentCount"":10563119 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-08-18 19:21,Playlist,Failed,0.492,Timeout or Error
