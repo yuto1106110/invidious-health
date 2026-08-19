@@ -2254,3 +2254,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-19 21:33,Channel,Failed,0.3,Timeout or Error
 2026-08-19 21:33,Comments,OK,0.307,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
 2026-08-19 21:33,Playlist,OK,0.303,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
+2026-08-19 22:38,Video,Failed,0.301,Timeout or Error
+2026-08-19 22:38,Search,Failed,0.303,Timeout or Error
+2026-08-19 22:38,Channel,Failed,0.299,Timeout or Error
+2026-08-19 22:38,Comments,OK,0.301,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
+2026-08-19 22:38,Playlist,OK,0.3,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
