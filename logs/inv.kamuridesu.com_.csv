@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-07-20 15:11,Video,Failed,0.305,Timeout or Error
-2026-07-20 15:11,Search,OK,0.958,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-07-20 15:11,Channel,Failed,0.404,Timeout or Error
-2026-07-20 15:11,Comments,OK,0.661,"{""commentCount"":10546277 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-07-20 15:11,Playlist,Failed,0.541,Timeout or Error
-2026-07-20 15:11,Video,Failed,0.285,Timeout or Error
-2026-07-20 15:11,Search,OK,0.945,"[{""type"":""video"" ""title"":""RTX 4090 vs RTX 5090 - Test in 12 Games with New Drivers | 1440p & 4K"" ""vi"
-2026-07-20 15:11,Channel,Failed,0.416,Timeout or Error
-2026-07-20 15:11,Comments,OK,0.566,"{""commentCount"":10546277 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-07-20 15:11,Playlist,Failed,0.578,Timeout or Error
 2026-07-20 18:53,Video,Failed,0.279,Timeout or Error
 2026-07-20 18:53,Search,OK,0.9,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-07-20 18:53,Channel,Failed,0.341,Timeout or Error
@@ -4469,3 +4459,13 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-19 14:23,Channel,Failed,0.535,Timeout or Error
 2026-08-19 14:23,Comments,OK,0.71,"{""commentCount"":10564075 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-08-19 14:23,Playlist,Failed,0.527,Timeout or Error
+2026-08-19 15:32,Video,Failed,0.376,Timeout or Error
+2026-08-19 15:32,Search,OK,1.057,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-08-19 15:32,Channel,Failed,0.491,Timeout or Error
+2026-08-19 15:32,Comments,OK,0.692,"{""commentCount"":10564023 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-08-19 15:32,Playlist,Failed,0.496,Timeout or Error
+2026-08-19 15:32,Video,Failed,0.358,Timeout or Error
+2026-08-19 15:32,Search,OK,0.813,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-08-19 15:32,Channel,Failed,0.499,Timeout or Error
+2026-08-19 15:32,Comments,OK,0.668,"{""commentCount"":10564021 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-08-19 15:32,Playlist,Failed,0.489,Timeout or Error
