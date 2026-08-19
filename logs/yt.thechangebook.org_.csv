@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-07-21 00:05,Video,Failed,1.419,Timeout or Error
-2026-07-21 00:05,Search,OK,1.212,"[{""type"":""video"" ""title"":""50 QUESTIONS pour TESTER TON SAVOIR 🧠🤯 | Quiz Culture Générale"" ""videoId"":"
-2026-07-21 00:05,Channel,Failed,0.5,Timeout or Error
-2026-07-21 00:05,Comments,Failed,0.851,Timeout or Error
-2026-07-21 00:05,Playlist,Failed,0.455,Timeout or Error
 2026-07-21 02:30,Video,Failed,1.573,Timeout or Error
 2026-07-21 02:30,Search,OK,1.411,"[{""type"":""video"" ""title"":""RTX 4090 vs RTX 5090 - Test in 12 Games with New Drivers | 1440p & 4K"" ""vi"
 2026-07-21 02:30,Channel,Failed,0.482,Timeout or Error
@@ -2264,3 +2259,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-19 23:25,Channel,Failed,0.716,Timeout or Error
 2026-08-19 23:25,Comments,Failed,0.478,Timeout or Error
 2026-08-19 23:25,Playlist,Failed,0.47,Timeout or Error
+2026-08-20 00:24,Video,Failed,0.75,Timeout or Error
+2026-08-20 00:24,Search,Failed,0.637,Timeout or Error
+2026-08-20 00:24,Channel,Failed,0.72,Timeout or Error
+2026-08-20 00:24,Comments,Failed,0.626,Timeout or Error
+2026-08-20 00:24,Playlist,Failed,0.72,Timeout or Error
