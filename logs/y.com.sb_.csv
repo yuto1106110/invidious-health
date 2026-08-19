@@ -2244,3 +2244,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-19 17:28,Channel,Failed,0.4,Timeout or Error
 2026-08-19 17:28,Comments,OK,0.998,"{""commentCount"":10564052 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-08-19 17:28,Playlist,Failed,0.501,Timeout or Error
+2026-08-19 18:26,Video,Failed,0.301,Timeout or Error
+2026-08-19 18:26,Search,OK,0.886,"[{""type"":""video"" ""title"":""So GENIAL wie seit Elden Ring nicht mehr: Mortal Shell 2! Test / Review"" """
+2026-08-19 18:26,Channel,Failed,0.505,Timeout or Error
+2026-08-19 18:26,Comments,OK,0.673,"{""commentCount"":10564051 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-08-19 18:26,Playlist,Failed,0.485,Timeout or Error
