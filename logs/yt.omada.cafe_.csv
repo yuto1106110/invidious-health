@@ -2219,3 +2219,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-19 09:53,Channel,Failed,0.858,Timeout or Error
 2026-08-19 09:53,Comments,OK,1.122,"{""commentCount"":10563903 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-08-19 09:53,Playlist,Failed,0.469,Timeout or Error
+2026-08-19 11:14,Video,Failed,1.602,Timeout or Error
+2026-08-19 11:14,Search,OK,1.347,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-08-19 11:14,Channel,Failed,0.312,Timeout or Error
+2026-08-19 11:14,Comments,OK,0.551,"{""commentCount"":10563961 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-08-19 11:14,Playlist,Failed,0.336,Timeout or Error
