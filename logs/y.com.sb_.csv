@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-07-21 11:05,Video,Failed,0.322,Timeout or Error
-2026-07-21 11:05,Search,Failed,0.336,Timeout or Error
-2026-07-21 11:05,Channel,Failed,0.325,Timeout or Error
-2026-07-21 11:05,Comments,Failed,0.318,Timeout or Error
-2026-07-21 11:05,Playlist,Failed,0.326,Timeout or Error
 2026-07-21 14:43,Video,Failed,0.641,Timeout or Error
 2026-07-21 14:43,Search,OK,1.149,"[{""type"":""video"" ""title"":""CUPRA RAVAL im Test: Autobahn | Reichweite | Laden | Preis | Lob + Kritik "
 2026-07-21 14:43,Channel,Failed,0.681,Timeout or Error
@@ -2284,3 +2279,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-20 09:53,Channel,Failed,0.327,Timeout or Error
 2026-08-20 09:53,Comments,OK,0.499,"{""commentCount"":10564591 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-08-20 09:53,Playlist,Failed,0.321,Timeout or Error
+2026-08-20 11:13,Video,Failed,0.32,Timeout or Error
+2026-08-20 11:13,Search,OK,1.003,"[{""type"":""video"" ""title"":""5.1 Speaker Surround Sound Test | Real Dolby Home Theater Speaker Demo"" ""v"
+2026-08-20 11:13,Channel,Failed,0.397,Timeout or Error
+2026-08-20 11:13,Comments,OK,0.59,"{""commentCount"":10564617 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-08-20 11:13,Playlist,Failed,0.381,Timeout or Error
