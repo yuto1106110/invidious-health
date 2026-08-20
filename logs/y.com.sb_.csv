@@ -2304,3 +2304,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-20 17:29,Channel,Failed,0.723,Timeout or Error
 2026-08-20 17:29,Comments,OK,0.91,"{""commentCount"":10564654 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-08-20 17:29,Playlist,Failed,1.201,Timeout or Error
+2026-08-20 18:26,Video,Failed,0.406,Timeout or Error
+2026-08-20 18:26,Search,OK,1.185,"[{""type"":""video"" ""title"":""5.1 Speaker Surround Sound Test | Real Dolby Home Theater Speaker Demo"" ""v"
+2026-08-20 18:26,Channel,Failed,0.399,Timeout or Error
+2026-08-20 18:26,Comments,OK,0.716,"{""commentCount"":10564681 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-08-20 18:26,Playlist,Failed,0.481,Timeout or Error
