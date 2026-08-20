@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-07-22 02:10,Video,Failed,0.61,Timeout or Error
-2026-07-22 02:10,Search,OK,0.959,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-07-22 02:10,Channel,Failed,0.378,Timeout or Error
-2026-07-22 02:10,Comments,OK,0.69,"{""commentCount"":10547753 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-07-22 02:10,Playlist,Failed,0.43,Timeout or Error
 2026-07-22 04:09,Video,Failed,1.262,Timeout or Error
 2026-07-22 04:09,Search,OK,0.982,"[{""type"":""video"" ""title"":""Kopfhörer-Blindtest: 24 Euro vs. 1.000 Euro | Hören wir den Unterschied?"" "
 2026-07-22 04:09,Channel,Failed,0.447,Timeout or Error
@@ -2329,3 +2324,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-21 01:26,Channel,Failed,0.347,Timeout or Error
 2026-08-21 01:26,Comments,Failed,0.353,Timeout or Error
 2026-08-21 01:26,Playlist,Failed,0.337,Timeout or Error
+2026-08-21 02:22,Video,Failed,0.294,Timeout or Error
+2026-08-21 02:22,Search,Failed,0.304,Timeout or Error
+2026-08-21 02:22,Channel,Failed,0.304,Timeout or Error
+2026-08-21 02:22,Comments,Failed,0.303,Timeout or Error
+2026-08-21 02:22,Playlist,Failed,0.3,Timeout or Error
