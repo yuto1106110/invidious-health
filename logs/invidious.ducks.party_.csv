@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-07-22 04:09,Video,Failed,1.262,Timeout or Error
-2026-07-22 04:09,Search,OK,0.982,"[{""type"":""video"" ""title"":""Kopfhörer-Blindtest: 24 Euro vs. 1.000 Euro | Hören wir den Unterschied?"" "
-2026-07-22 04:09,Channel,Failed,0.447,Timeout or Error
-2026-07-22 04:09,Comments,Failed,1.267,Timeout or Error
-2026-07-22 04:09,Playlist,Failed,0.513,Timeout or Error
 2026-07-22 06:00,Video,Failed,1.214,Timeout or Error
 2026-07-22 06:00,Search,Failed,1.214,Timeout or Error
 2026-07-22 06:00,Channel,Failed,0.629,Timeout or Error
@@ -2334,3 +2329,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-21 03:29,Channel,Failed,0.467,Timeout or Error
 2026-08-21 03:29,Comments,Failed,0.467,Timeout or Error
 2026-08-21 03:29,Playlist,Failed,0.455,Timeout or Error
+2026-08-21 04:25,Video,Failed,0.305,Timeout or Error
+2026-08-21 04:25,Search,Failed,0.299,Timeout or Error
+2026-08-21 04:25,Channel,Failed,0.297,Timeout or Error
+2026-08-21 04:25,Comments,Failed,0.297,Timeout or Error
+2026-08-21 04:25,Playlist,Failed,0.329,Timeout or Error
