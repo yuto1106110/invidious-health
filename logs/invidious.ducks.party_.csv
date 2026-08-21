@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-07-22 14:42,Video,Failed,1.21,Timeout or Error
-2026-07-22 14:42,Search,OK,0.867,"[{""type"":""video"" ""title"":""Kopfhörer-Blindtest: 24 Euro vs. 1.000 Euro | Hören wir den Unterschied?"" "
-2026-07-22 14:42,Channel,Failed,0.334,Timeout or Error
-2026-07-22 14:42,Comments,OK,0.614,"{""commentCount"":10547100 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-07-22 14:42,Playlist,Failed,0.438,Timeout or Error
 2026-07-22 17:15,Video,Failed,0.544,Timeout or Error
 2026-07-22 17:15,Search,OK,1.275,"[{""type"":""video"" ""title"":""Dolby Atmos Sound Test"" ""videoId"":""FLH1aARTpMg"" ""author"":""JumpingCloud"" ""a"
 2026-07-22 17:15,Channel,Failed,0.504,Timeout or Error
@@ -2359,3 +2354,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-21 14:26,Channel,Failed,0.425,Timeout or Error
 2026-08-21 14:26,Comments,Failed,0.415,Timeout or Error
 2026-08-21 14:26,Playlist,Failed,0.421,Timeout or Error
+2026-08-21 15:34,Video,Failed,0.366,Timeout or Error
+2026-08-21 15:34,Search,Failed,0.37,Timeout or Error
+2026-08-21 15:34,Channel,Failed,0.373,Timeout or Error
+2026-08-21 15:34,Comments,Failed,0.376,Timeout or Error
+2026-08-21 15:34,Playlist,Failed,0.363,Timeout or Error
