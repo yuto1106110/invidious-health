@@ -2349,3 +2349,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-21 12:44,Channel,Failed,0.876,Timeout or Error
 2026-08-21 12:44,Comments,OK,1.261,"{""commentCount"":10565381 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-08-21 12:44,Playlist,Failed,0.868,Timeout or Error
+2026-08-21 13:31,Video,Failed,1.908,Timeout or Error
+2026-08-21 13:31,Search,OK,1.401,"[{""type"":""video"" ""title"":""Can You Pass This Southern USA Slang Test? 🤠"" ""videoId"":""-RaLATWag2k"" ""aut"
+2026-08-21 13:31,Channel,Failed,0.835,Timeout or Error
+2026-08-21 13:31,Comments,OK,0.946,"{""commentCount"":10565390 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-08-21 13:31,Playlist,Failed,0.606,Timeout or Error
