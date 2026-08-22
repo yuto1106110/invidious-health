@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-07-24 05:55,Video,Failed,0.318,Timeout or Error
-2026-07-24 05:55,Search,Failed,0.316,Timeout or Error
-2026-07-24 05:55,Channel,Failed,0.32,Timeout or Error
-2026-07-24 05:55,Comments,Failed,0.364,Timeout or Error
-2026-07-24 05:55,Playlist,Failed,0.319,Timeout or Error
 2026-07-24 07:00,Video,Failed,0.237,Timeout or Error
 2026-07-24 07:00,Search,Failed,0.244,Timeout or Error
 2026-07-24 07:00,Channel,Failed,0.232,Timeout or Error
@@ -2459,3 +2454,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-23 05:15,Channel,Failed,0.688,Timeout or Error
 2026-08-23 05:15,Comments,OK,0.911,"{""commentCount"":10566379 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-08-23 05:15,Playlist,Failed,0.685,Timeout or Error
+2026-08-23 06:15,Video,Failed,0.588,Timeout or Error
+2026-08-23 06:15,Search,OK,1.316,"[{""type"":""video"" ""title"":""Our new car!? - What did we get? - Review  Test"" ""videoId"":""E0I37jEFzI4"" """
+2026-08-23 06:15,Channel,Failed,0.812,Timeout or Error
+2026-08-23 06:15,Comments,OK,0.913,"{""commentCount"":10566411 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-08-23 06:15,Playlist,Failed,0.584,Timeout or Error
