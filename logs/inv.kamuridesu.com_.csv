@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-07-23 20:04,Video,Failed,0.319,Timeout or Error
-2026-07-23 20:04,Search,Failed,0.316,Timeout or Error
-2026-07-23 20:04,Channel,Failed,0.32,Timeout or Error
-2026-07-23 20:04,Comments,Failed,0.346,Timeout or Error
-2026-07-23 20:04,Playlist,Failed,0.325,Timeout or Error
-2026-07-23 20:04,Video,Failed,0.315,Timeout or Error
-2026-07-23 20:04,Search,Failed,0.335,Timeout or Error
-2026-07-23 20:04,Channel,Failed,0.3,Timeout or Error
-2026-07-23 20:04,Comments,Failed,0.317,Timeout or Error
-2026-07-23 20:04,Playlist,Failed,0.296,Timeout or Error
 2026-07-23 22:42,Video,Failed,0.453,Timeout or Error
 2026-07-23 22:42,Search,Failed,0.481,Timeout or Error
 2026-07-23 22:42,Channel,Failed,0.421,Timeout or Error
@@ -4869,3 +4859,13 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-22 19:16,Channel,Failed,0.5,Timeout or Error
 2026-08-22 19:16,Comments,OK,0.669,"{""commentCount"":10565658 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-08-22 19:16,Playlist,Failed,0.493,Timeout or Error
+2026-08-22 20:14,Video,Failed,0.281,Timeout or Error
+2026-08-22 20:14,Search,OK,0.882,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-08-22 20:14,Channel,Failed,0.41,Timeout or Error
+2026-08-22 20:14,Comments,OK,0.624,"{""commentCount"":10565686 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-08-22 20:14,Playlist,Failed,0.421,Timeout or Error
+2026-08-22 20:14,Video,Failed,0.284,Timeout or Error
+2026-08-22 20:14,Search,OK,0.859,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-08-22 20:14,Channel,Failed,0.406,Timeout or Error
+2026-08-22 20:14,Comments,OK,0.638,"{""commentCount"":10565686 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-08-22 20:14,Playlist,Failed,0.442,Timeout or Error
