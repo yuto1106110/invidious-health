@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-07-24 00:50,Video,OK,2.592,
-2026-07-24 00:50,Search,OK,2.834,"[{""type"":""video"" ""title"":""I Tested iPhone Shortcut \""Viruses\"""" ""videoId"":""yGAueFvZ8XQ"" ""author"":""Tr"
-2026-07-24 00:50,Channel,Failed,1.119,Timeout or Error
-2026-07-24 00:50,Comments,OK,1.153,"{""commentCount"":10547281 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-07-24 00:50,Playlist,Failed,1.579,Timeout or Error
 2026-07-24 02:13,Video,OK,0.998,
 2026-07-24 02:13,Search,OK,1.187,"[{""type"":""video"" ""title"":""Idiot Test - 90% fail"" ""videoId"":""2a4Uxdy9TQY"" ""author"":""BrainLift"" ""autho"
 2026-07-24 02:13,Channel,Failed,0.413,Timeout or Error
@@ -2449,3 +2444,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-23 00:13,Channel,Failed,1.522,Timeout or Error
 2026-08-23 00:13,Comments,OK,0.923,"{""commentCount"":10566135 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-08-23 00:13,Playlist,Failed,1.069,Timeout or Error
+2026-08-23 01:16,Video,OK,1.128,
+2026-08-23 01:16,Search,OK,1.68,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-08-23 01:16,Channel,Failed,0.608,Timeout or Error
+2026-08-23 01:16,Comments,OK,1.064,"{""commentCount"":10566190 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-08-23 01:16,Playlist,Failed,0.609,Timeout or Error
