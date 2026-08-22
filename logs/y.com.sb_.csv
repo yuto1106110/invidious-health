@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-07-23 17:20,Video,Failed,0.308,Timeout or Error
-2026-07-23 17:20,Search,Failed,0.256,Timeout or Error
-2026-07-23 17:20,Channel,Failed,1.504,Timeout or Error
-2026-07-23 17:20,Comments,Failed,0.256,Timeout or Error
-2026-07-23 17:20,Playlist,Failed,0.261,Timeout or Error
 2026-07-23 20:04,Video,Failed,0.228,Timeout or Error
 2026-07-23 20:04,Search,Failed,0.232,Timeout or Error
 2026-07-23 20:04,Channel,Failed,0.233,Timeout or Error
@@ -2424,3 +2419,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-22 16:25,Channel,Failed,0.639,Timeout or Error
 2026-08-22 16:25,Comments,OK,1.068,"{""commentCount"":10565561 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-08-22 16:25,Playlist,Failed,0.702,Timeout or Error
+2026-08-22 17:21,Video,Failed,0.61,Timeout or Error
+2026-08-22 17:21,Search,OK,1.12,"[{""type"":""video"" ""title"":""Our new car!? - New long-term test starting - Review  Test"" ""videoId"":""E0I"
+2026-08-22 17:21,Channel,Failed,0.683,Timeout or Error
+2026-08-22 17:21,Comments,OK,0.93,"{""commentCount"":10565586 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-08-22 17:21,Playlist,Failed,0.682,Timeout or Error

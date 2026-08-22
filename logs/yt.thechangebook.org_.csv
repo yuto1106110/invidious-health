@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-07-23 17:20,Video,Failed,1.512,Timeout or Error
-2026-07-23 17:20,Search,OK,1.064,"[{""type"":""video"" ""title"":""QUI GAGNE ? LA VÉRITÉ QU'ON NE TE DIT PAS 📵 Nouveaux Samsung FOLD 8 vs FOL"
-2026-07-23 17:20,Channel,Failed,0.586,Timeout or Error
-2026-07-23 17:20,Comments,Failed,0.851,Timeout or Error
-2026-07-23 17:20,Playlist,Failed,0.404,Timeout or Error
 2026-07-23 20:04,Video,Failed,1.453,Timeout or Error
 2026-07-23 20:04,Search,OK,1.095,"[{""type"":""video"" ""title"":""50 QUESTIONS pour TESTER TON SAVOIR 🧠🤯 | Quiz Culture Générale"" ""videoId"":"
 2026-07-23 20:04,Channel,Failed,0.522,Timeout or Error
@@ -2424,3 +2419,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-22 16:25,Channel,Failed,0.465,Timeout or Error
 2026-08-22 16:25,Comments,Failed,0.753,Timeout or Error
 2026-08-22 16:25,Playlist,Failed,0.457,Timeout or Error
+2026-08-22 17:21,Video,Failed,0.622,Timeout or Error
+2026-08-22 17:21,Search,Failed,0.47,Timeout or Error
+2026-08-22 17:21,Channel,Failed,0.621,Timeout or Error
+2026-08-22 17:21,Comments,Failed,0.617,Timeout or Error
+2026-08-22 17:21,Playlist,Failed,0.618,Timeout or Error

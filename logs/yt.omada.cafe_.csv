@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-07-23 17:20,Video,OK,0.433,
-2026-07-23 17:20,Search,OK,0.846,"[{""type"":""video"" ""title"":""Idiot Test - 90% fail"" ""videoId"":""2a4Uxdy9TQY"" ""author"":""BrainLift"" ""autho"
-2026-07-23 17:20,Channel,Failed,0.499,Timeout or Error
-2026-07-23 17:20,Comments,OK,1.762,"{""commentCount"":10547186 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-07-23 17:20,Playlist,Failed,0.848,Timeout or Error
 2026-07-23 20:04,Video,OK,1.236,
 2026-07-23 20:04,Search,OK,1.462,"[{""type"":""video"" ""title"":""World's FUNNIEST Kid Test Answers!"" ""videoId"":""8eVwjJRaS3w"" ""author"":""More"
 2026-07-23 20:04,Channel,Failed,0.567,Timeout or Error
@@ -2424,3 +2419,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-22 16:25,Channel,Failed,1.115,Timeout or Error
 2026-08-22 16:25,Comments,OK,0.882,"{""commentCount"":10565562 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-08-22 16:25,Playlist,Failed,0.593,Timeout or Error
+2026-08-22 17:21,Video,Failed,2.305,Timeout or Error
+2026-08-22 17:21,Search,OK,1.192,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-08-22 17:21,Channel,Failed,1.085,Timeout or Error
+2026-08-22 17:21,Comments,OK,1.292,"{""commentCount"":10565586 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-08-22 17:21,Playlist,Failed,0.973,Timeout or Error
