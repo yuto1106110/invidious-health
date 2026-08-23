@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-07-25 08:04,Video,OK,1.675,
-2026-07-25 08:04,Search,OK,1.409,"[{""type"":""video"" ""title"":""Watch Live: SpaceX Starship launches on 13th test flight"" ""videoId"":""Ew0Xu"
-2026-07-25 08:04,Channel,Failed,0.921,Timeout or Error
-2026-07-25 08:04,Comments,OK,1.48,"{""commentCount"":10547021 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-07-25 08:04,Playlist,Failed,1.129,Timeout or Error
 2026-07-25 11:05,Video,OK,0.436,
 2026-07-25 11:05,Search,OK,0.909,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-07-25 11:05,Channel,Failed,0.43,Timeout or Error
@@ -2519,3 +2514,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-24 07:14,Channel,Failed,0.754,Timeout or Error
 2026-08-24 07:14,Comments,OK,0.935,"{""commentCount"":10567529 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-08-24 07:14,Playlist,Failed,0.514,Timeout or Error
+2026-08-24 08:14,Video,Failed,0.715,Timeout or Error
+2026-08-24 08:14,Search,OK,1.499,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-08-24 08:14,Channel,Failed,0.606,Timeout or Error
+2026-08-24 08:14,Comments,OK,1.024,"{""commentCount"":10567521 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-08-24 08:14,Playlist,Failed,0.85,Timeout or Error
