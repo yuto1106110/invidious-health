@@ -2484,3 +2484,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-23 17:21,Channel,Failed,0.54,Timeout or Error
 2026-08-23 17:21,Comments,OK,0.86,"{""commentCount"":10566708 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-08-23 17:21,Playlist,Failed,0.66,Timeout or Error
+2026-08-23 18:21,Video,Failed,0.691,Timeout or Error
+2026-08-23 18:21,Search,OK,1.295,"[{""type"":""video"" ""title"":""VW Bulli Bike von MC E-Bike im Test – so fährt der Retro-Eyecatcher! 😍🚲 #e"
+2026-08-23 18:21,Channel,Failed,0.625,Timeout or Error
+2026-08-23 18:21,Comments,OK,1.01,"{""commentCount"":10566726 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-08-23 18:21,Playlist,Failed,0.803,Timeout or Error
