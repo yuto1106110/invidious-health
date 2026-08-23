@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-07-25 06:59,Video,Failed,1.538,Timeout or Error
-2026-07-25 06:59,Search,OK,0.988,"[{""type"":""video"" ""title"":""50 QUESTIONS pour TESTER TON SAVOIR 🧠🤯 | Quiz Culture Générale"" ""videoId"":"
-2026-07-25 06:59,Channel,Failed,0.473,Timeout or Error
-2026-07-25 06:59,Comments,Failed,0.857,Timeout or Error
-2026-07-25 06:59,Playlist,Failed,0.473,Timeout or Error
 2026-07-25 08:04,Video,Failed,1.627,Timeout or Error
 2026-07-25 08:04,Search,OK,1.328,"[{""type"":""video"" ""title"":""Test Galaxy Z Fold 8 après 48h : avis honnête sur le format  photo  autono"
 2026-07-25 08:04,Channel,Failed,0.72,Timeout or Error
@@ -2519,3 +2514,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-24 06:15,Channel,Failed,0.33,Timeout or Error
 2026-08-24 06:15,Comments,Failed,0.333,Timeout or Error
 2026-08-24 06:15,Playlist,Failed,0.44,Timeout or Error
+2026-08-24 07:14,Video,Failed,0.458,Timeout or Error
+2026-08-24 07:14,Search,Failed,0.579,Timeout or Error
+2026-08-24 07:14,Channel,Failed,0.462,Timeout or Error
+2026-08-24 07:14,Comments,Failed,0.347,Timeout or Error
+2026-08-24 07:14,Playlist,Failed,0.33,Timeout or Error
