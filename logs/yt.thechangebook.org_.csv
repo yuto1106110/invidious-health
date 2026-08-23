@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-07-24 14:43,Video,Failed,1.491,Timeout or Error
-2026-07-24 14:43,Search,OK,1.131,"[{""type"":""video"" ""title"":""TEST HALO Campaign Evolved : 25 ans après  la version ULTIME ? 🔵 TEST XBOX"
-2026-07-24 14:43,Channel,Failed,0.56,Timeout or Error
-2026-07-24 14:43,Comments,Failed,0.815,Timeout or Error
-2026-07-24 14:43,Playlist,Failed,0.539,Timeout or Error
 2026-07-24 17:14,Video,Failed,1.481,Timeout or Error
 2026-07-24 17:14,Search,OK,1.19,"[{""type"":""video"" ""title"":""TEST HALO Campaign Evolved : 25 ans après  la version ULTIME ? 🔵 TEST XBOX"
 2026-07-24 17:14,Channel,Failed,0.681,Timeout or Error
@@ -2479,3 +2474,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-23 14:22,Channel,Failed,0.539,Timeout or Error
 2026-08-23 14:22,Comments,Failed,0.339,Timeout or Error
 2026-08-23 14:22,Playlist,Failed,0.327,Timeout or Error
+2026-08-23 15:29,Video,Failed,0.624,Timeout or Error
+2026-08-23 15:29,Search,Failed,0.351,Timeout or Error
+2026-08-23 15:29,Channel,Failed,0.508,Timeout or Error
+2026-08-23 15:29,Comments,Failed,0.502,Timeout or Error
+2026-08-23 15:29,Playlist,Failed,0.492,Timeout or Error
