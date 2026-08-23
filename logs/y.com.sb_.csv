@@ -2499,3 +2499,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-23 22:26,Channel,Failed,0.302,Timeout or Error
 2026-08-23 22:26,Comments,OK,0.911,"{""commentCount"":10566760 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-08-23 22:26,Playlist,Failed,0.401,Timeout or Error
+2026-08-23 23:16,Video,Failed,0.516,Timeout or Error
+2026-08-23 23:16,Search,OK,1.185,"[{""type"":""video"" ""title"":""Why do the Greeks fly with THESE small planes?! Olympic Air reviewed!"" ""vi"
+2026-08-23 23:16,Channel,Failed,0.518,Timeout or Error
+2026-08-23 23:16,Comments,OK,0.722,"{""commentCount"":10567203 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-08-23 23:16,Playlist,Failed,0.498,Timeout or Error
