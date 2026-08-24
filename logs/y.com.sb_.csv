@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-07-26 07:47,Video,Failed,0.25,Timeout or Error
-2026-07-26 07:47,Search,Failed,0.273,Timeout or Error
-2026-07-26 07:47,Channel,Failed,0.263,Timeout or Error
-2026-07-26 07:47,Comments,Failed,0.263,Timeout or Error
-2026-07-26 07:47,Playlist,Failed,0.283,Timeout or Error
 2026-07-26 08:54,Video,Failed,0.324,Timeout or Error
 2026-07-26 08:54,Search,Failed,0.323,Timeout or Error
 2026-07-26 08:54,Channel,Failed,0.328,Timeout or Error
@@ -2569,3 +2564,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-25 07:18,Channel,Failed,0.611,Timeout or Error
 2026-08-25 07:18,Comments,OK,0.974,"{""commentCount"":10567006 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-08-25 07:18,Playlist,Failed,0.652,Timeout or Error
+2026-08-25 08:16,Video,Failed,0.472,Timeout or Error
+2026-08-25 08:16,Search,OK,1.197,"[{""type"":""video"" ""title"":""Experience 16K Dolby Vision Nature Demo | Ultimate HDR Display Test for 8K"
+2026-08-25 08:16,Channel,Failed,0.498,Timeout or Error
+2026-08-25 08:16,Comments,OK,0.89,"{""commentCount"":10567034 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-08-25 08:16,Playlist,Failed,0.711,Timeout or Error
