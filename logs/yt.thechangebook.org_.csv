@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-07-26 02:53,Video,Failed,1.584,Timeout or Error
-2026-07-26 02:53,Search,OK,1.353,"[{""type"":""video"" ""title"":""50 QUESTIONS pour TESTER TON SAVOIR 🧠🤯 | Quiz Culture Générale"" ""videoId"":"
-2026-07-26 02:53,Channel,Failed,0.574,Timeout or Error
-2026-07-26 02:53,Comments,Failed,1.11,Timeout or Error
-2026-07-26 02:53,Playlist,Failed,0.536,Timeout or Error
 2026-07-26 03:58,Video,Failed,1.285,Timeout or Error
 2026-07-26 03:58,Search,OK,1.074,"[{""type"":""video"" ""title"":""50 QUESTIONS pour TESTER TON SAVOIR 🧠🤯 | Quiz Culture Générale"" ""videoId"":"
 2026-07-26 03:58,Channel,Failed,0.673,Timeout or Error
@@ -2564,3 +2559,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-25 02:24,Channel,Failed,0.627,Timeout or Error
 2026-08-25 02:24,Comments,Failed,0.446,Timeout or Error
 2026-08-25 02:24,Playlist,Failed,0.462,Timeout or Error
+2026-08-25 03:29,Video,Failed,0.47,Timeout or Error
+2026-08-25 03:29,Search,Failed,0.479,Timeout or Error
+2026-08-25 03:29,Channel,Failed,0.633,Timeout or Error
+2026-08-25 03:29,Comments,Failed,0.471,Timeout or Error
+2026-08-25 03:29,Playlist,Failed,0.343,Timeout or Error
