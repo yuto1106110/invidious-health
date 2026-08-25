@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-07-26 14:54,Video,Failed,0.476,Timeout or Error
-2026-07-26 14:54,Search,OK,1.046,"[{""type"":""video"" ""title"":""MÖBELHÄUSER Giganten im TEST (Mit kompletter Enttäuschung) 🤯"" ""videoId"":""f"
-2026-07-26 14:54,Channel,Failed,0.675,Timeout or Error
-2026-07-26 14:54,Comments,OK,0.771,"{""commentCount"":10548387 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-07-26 14:54,Playlist,Failed,0.572,Timeout or Error
 2026-07-26 17:14,Video,Failed,0.296,Timeout or Error
 2026-07-26 17:14,Search,OK,0.873,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-07-26 17:14,Channel,Failed,2.063,Timeout or Error
@@ -2584,3 +2579,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-25 14:25,Channel,Failed,0.605,Timeout or Error
 2026-08-25 14:25,Comments,OK,0.979,"{""commentCount"":10566996 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-08-25 14:25,Playlist,Failed,0.701,Timeout or Error
+2026-08-25 15:35,Video,Failed,0.305,Timeout or Error
+2026-08-25 15:35,Search,OK,0.977,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-08-25 15:35,Channel,Failed,0.404,Timeout or Error
+2026-08-25 15:35,Comments,OK,0.802,"{""commentCount"":10567017 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-08-25 15:35,Playlist,Failed,0.41,Timeout or Error
