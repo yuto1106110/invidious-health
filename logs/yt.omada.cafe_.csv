@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-07-26 19:39,Video,OK,0.607,
-2026-07-26 19:39,Search,OK,1.602,"[{""type"":""video"" ""title"":""I Tested Deadly War Myths"" ""videoId"":""GjDnoDYSRsg"" ""author"":""Tyler Blancha"
-2026-07-26 19:39,Channel,Failed,0.829,Timeout or Error
-2026-07-26 19:39,Comments,OK,0.72,"{""commentCount"":10548689 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-07-26 19:39,Playlist,Failed,0.706,Timeout or Error
 2026-07-26 20:57,Video,OK,1.38,
 2026-07-26 20:57,Search,OK,1.183,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-07-26 20:57,Channel,Failed,0.584,Timeout or Error
@@ -2599,3 +2594,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-25 19:24,Channel,Failed,0.721,Timeout or Error
 2026-08-25 19:24,Comments,OK,0.88,"{""commentCount"":10567098 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-08-25 19:24,Playlist,Failed,1.019,Timeout or Error
+2026-08-25 20:20,Video,OK,1.105,
+2026-08-25 20:20,Search,OK,2.88,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-08-25 20:20,Channel,Failed,1.976,Timeout or Error
+2026-08-25 20:20,Comments,OK,1.347,"{""commentCount"":10567112 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-08-25 20:20,Playlist,Failed,1.313,Timeout or Error
