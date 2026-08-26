@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-07-28 03:20,Video,Failed,0.365,Timeout or Error
-2026-07-28 03:20,Search,Failed,0.385,Timeout or Error
-2026-07-28 03:20,Channel,Failed,0.344,Timeout or Error
-2026-07-28 03:20,Comments,Failed,0.361,Timeout or Error
-2026-07-28 03:20,Playlist,Failed,0.341,Timeout or Error
-2026-07-28 03:20,Video,Failed,0.375,Timeout or Error
-2026-07-28 03:20,Search,Failed,0.365,Timeout or Error
-2026-07-28 03:20,Channel,Failed,0.357,Timeout or Error
-2026-07-28 03:20,Comments,Failed,0.363,Timeout or Error
-2026-07-28 03:20,Playlist,Failed,0.35,Timeout or Error
 2026-07-28 05:17,Video,Failed,0.427,Timeout or Error
 2026-07-28 05:17,Search,Failed,0.42,Timeout or Error
 2026-07-28 05:17,Channel,Failed,0.404,Timeout or Error
@@ -5319,3 +5309,13 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-27 01:12,Channel,Failed,0.596,Timeout or Error
 2026-08-27 01:12,Comments,OK,0.815,"{""commentCount"":10568197 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-08-27 01:12,Playlist,Failed,0.559,Timeout or Error
+2026-08-27 03:53,Video,Failed,0.305,Timeout or Error
+2026-08-27 03:53,Search,OK,1.001,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-08-27 03:53,Channel,Failed,0.424,Timeout or Error
+2026-08-27 03:53,Comments,OK,0.742,"{""commentCount"":10568362 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-08-27 03:53,Playlist,Failed,0.44,Timeout or Error
+2026-08-27 03:53,Video,Failed,0.296,Timeout or Error
+2026-08-27 03:53,Search,OK,0.958,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-08-27 03:53,Channel,Failed,0.432,Timeout or Error
+2026-08-27 03:53,Comments,OK,0.712,"{""commentCount"":10568362 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-08-27 03:53,Playlist,Failed,0.425,Timeout or Error
