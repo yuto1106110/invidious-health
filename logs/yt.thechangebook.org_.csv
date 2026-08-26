@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-07-27 08:55,Video,Failed,1.261,Timeout or Error
-2026-07-27 08:55,Search,OK,1.07,"[{""type"":""video"" ""title"":""OLED TEST HDR 4K 120FPS DOLBY VISION 🏞 4K / 8K Monitor Test Video #BGM"" ""v"
-2026-07-27 08:55,Channel,Failed,0.672,Timeout or Error
-2026-07-27 08:55,Comments,Failed,0.721,Timeout or Error
-2026-07-27 08:55,Playlist,Failed,0.716,Timeout or Error
 2026-07-27 11:24,Video,Failed,1.551,Timeout or Error
 2026-07-27 11:24,Search,OK,1.154,"[{""type"":""video"" ""title"":""As-tu une bonne génétique pour devenir musclé ? (Fais le test)"" ""videoId"":"
 2026-07-27 11:24,Channel,Failed,0.681,Timeout or Error
@@ -2614,3 +2609,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-26 08:19,Channel,Failed,0.457,Timeout or Error
 2026-08-26 08:19,Comments,Failed,0.602,Timeout or Error
 2026-08-26 08:19,Playlist,Failed,0.463,Timeout or Error
+2026-08-26 09:55,Video,Failed,0.598,Timeout or Error
+2026-08-26 09:55,Search,Failed,0.515,Timeout or Error
+2026-08-26 09:55,Channel,Failed,0.628,Timeout or Error
+2026-08-26 09:55,Comments,Failed,0.624,Timeout or Error
+2026-08-26 09:55,Playlist,Failed,0.489,Timeout or Error
