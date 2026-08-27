@@ -1,34 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-07-28 22:49,Video,Failed,0.324,Timeout or Error
-2026-07-28 22:49,Search,Failed,0.319,Timeout or Error
-2026-07-28 22:49,Channel,Failed,0.318,Timeout or Error
-2026-07-28 22:49,Comments,Failed,0.319,Timeout or Error
-2026-07-28 22:49,Playlist,Failed,0.336,Timeout or Error
-2026-07-29 01:01,Video,Failed,0.216,Timeout or Error
-2026-07-29 01:01,Search,Failed,0.218,Timeout or Error
-2026-07-29 01:01,Channel,Failed,0.219,Timeout or Error
-2026-07-29 01:01,Comments,Failed,0.209,Timeout or Error
-2026-07-29 01:01,Playlist,Failed,0.219,Timeout or Error
-2026-07-29 03:08,Video,Failed,0.321,Timeout or Error
-2026-07-29 03:08,Search,Failed,0.323,Timeout or Error
-2026-07-29 03:08,Channel,Failed,0.804,Timeout or Error
-2026-07-29 03:08,Comments,Failed,0.329,Timeout or Error
-2026-07-29 03:08,Playlist,Failed,0.852,Timeout or Error
-2026-07-29 05:11,Video,Failed,0.235,Timeout or Error
-2026-07-29 05:11,Search,Failed,0.235,Timeout or Error
-2026-07-29 05:11,Channel,Failed,0.233,Timeout or Error
-2026-07-29 05:11,Comments,Failed,0.235,Timeout or Error
-2026-07-29 05:11,Playlist,Failed,0.237,Timeout or Error
-2026-07-29 06:57,Video,Failed,0.217,Timeout or Error
-2026-07-29 06:57,Search,Failed,0.219,Timeout or Error
-2026-07-29 06:57,Channel,Failed,0.218,Timeout or Error
-2026-07-29 06:57,Comments,Failed,0.218,Timeout or Error
-2026-07-29 06:57,Playlist,Failed,0.234,Timeout or Error
-2026-07-29 07:58,Video,Failed,0.251,Timeout or Error
-2026-07-29 07:58,Search,Failed,0.21,Timeout or Error
-2026-07-29 07:58,Channel,Failed,0.191,Timeout or Error
-2026-07-29 07:58,Comments,Failed,0.224,Timeout or Error
-2026-07-29 07:58,Playlist,Failed,0.206,Timeout or Error
 2026-07-29 09:00,Video,Failed,0.209,Timeout or Error
 2026-07-29 09:00,Search,Failed,0.212,Timeout or Error
 2026-07-29 09:00,Channel,Failed,0.248,Timeout or Error
@@ -2639,3 +2609,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-27 22:35,Channel,Failed,2.013,Timeout or Error
 2026-08-27 22:35,Comments,Failed,1.701,Timeout or Error
 2026-08-27 22:35,Playlist,Failed,1.702,Timeout or Error
+2026-08-28 08:27,Video,Failed,0.305,Timeout or Error
+2026-08-28 08:27,Search,OK,0.783,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-08-28 08:27,Channel,Failed,0.388,Timeout or Error
+2026-08-28 08:27,Comments,OK,0.682,"{""commentCount"":10569485 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-08-28 08:27,Playlist,Failed,0.417,Timeout or Error

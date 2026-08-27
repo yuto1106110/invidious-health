@@ -1,34 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-07-28 22:49,Video,OK,1.75,
-2026-07-28 22:49,Search,OK,1.232,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-07-28 22:49,Channel,Failed,0.746,Timeout or Error
-2026-07-28 22:49,Comments,OK,1.202,"{""commentCount"":10551056 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-07-28 22:49,Playlist,Failed,1.22,Timeout or Error
-2026-07-29 01:01,Video,OK,0.612,
-2026-07-29 01:01,Search,OK,1.262,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-07-29 01:01,Channel,Failed,0.274,Timeout or Error
-2026-07-29 01:01,Comments,OK,1.01,"{""commentCount"":10551167 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-07-29 01:01,Playlist,Failed,1.103,Timeout or Error
-2026-07-29 03:08,Video,OK,0.937,
-2026-07-29 03:08,Search,OK,2.002,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-07-29 03:08,Channel,Failed,1.045,Timeout or Error
-2026-07-29 03:08,Comments,OK,0.867,"{""commentCount"":10550908 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-07-29 03:08,Playlist,Failed,1.189,Timeout or Error
-2026-07-29 05:11,Video,OK,0.397,
-2026-07-29 05:11,Search,OK,1.054,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-07-29 05:11,Channel,Failed,0.496,Timeout or Error
-2026-07-29 05:11,Comments,OK,0.578,"{""commentCount"":10550890 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-07-29 05:11,Playlist,Failed,1.001,Timeout or Error
-2026-07-29 06:57,Video,OK,1.396,
-2026-07-29 06:57,Search,OK,1.393,"[{""type"":""video"" ""title"":""WhistlinDiesel Cybertruck Durability Test #3"" ""videoId"":""ey0ZAaF2L4E"" ""aut"
-2026-07-29 06:57,Channel,Failed,0.518,Timeout or Error
-2026-07-29 06:57,Comments,OK,0.939,"{""commentCount"":10550982 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-07-29 06:57,Playlist,Failed,0.534,Timeout or Error
-2026-07-29 07:58,Video,OK,0.369,
-2026-07-29 07:58,Search,OK,1.544,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-07-29 07:58,Channel,Failed,0.443,Timeout or Error
-2026-07-29 07:58,Comments,OK,1.038,"{""commentCount"":10551014 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-07-29 07:58,Playlist,Failed,0.825,Timeout or Error
 2026-07-29 09:00,Video,OK,0.501,
 2026-07-29 09:00,Search,OK,1.038,"[{""type"":""video"" ""title"":""Ultimate Military Survival Knife Testing - Fire Craft Skills!"" ""videoId"":"""
 2026-07-29 09:00,Channel,Failed,0.508,Timeout or Error
@@ -2639,3 +2609,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-27 22:35,Channel,Failed,0.829,Timeout or Error
 2026-08-27 22:35,Comments,OK,1.029,"{""commentCount"":10568802 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-08-27 22:35,Playlist,Failed,0.856,Timeout or Error
+2026-08-28 08:27,Video,OK,0.275,
+2026-08-28 08:27,Search,OK,1.114,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-08-28 08:27,Channel,Failed,0.561,Timeout or Error
+2026-08-28 08:27,Comments,OK,0.601,"{""commentCount"":10569485 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-08-28 08:27,Playlist,Failed,0.416,Timeout or Error

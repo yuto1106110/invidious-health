@@ -1,34 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-07-28 22:49,Video,Failed,1.47,Timeout or Error
-2026-07-28 22:49,Search,OK,1.103,"[{""type"":""video"" ""title"":""50 QUESTIONS pour TESTER TON SAVOIR 🧠🤯 | Quiz Culture Générale"" ""videoId"":"
-2026-07-28 22:49,Channel,Failed,0.822,Timeout or Error
-2026-07-28 22:49,Comments,Failed,0.8,Timeout or Error
-2026-07-28 22:49,Playlist,Failed,0.775,Timeout or Error
-2026-07-29 01:01,Video,Failed,1.287,Timeout or Error
-2026-07-29 01:01,Search,OK,1.337,"[{""type"":""video"" ""title"":""50 QUESTIONS pour TESTER TON SAVOIR 🧠🤯 | Quiz Culture Générale"" ""videoId"":"
-2026-07-29 01:01,Channel,Failed,0.355,Timeout or Error
-2026-07-29 01:01,Comments,Failed,0.877,Timeout or Error
-2026-07-29 01:01,Playlist,Failed,0.381,Timeout or Error
-2026-07-29 03:08,Video,Failed,1.612,Timeout or Error
-2026-07-29 03:08,Search,OK,1.323,"[{""type"":""video"" ""title"":""OLED TEST HDR 4K 120FPS DOLBY VISION 🏞 4K / 8K Monitor Test Video #BGM"" ""v"
-2026-07-29 03:08,Channel,Failed,0.694,Timeout or Error
-2026-07-29 03:08,Comments,Failed,1.212,Timeout or Error
-2026-07-29 03:08,Playlist,Failed,0.685,Timeout or Error
-2026-07-29 05:11,Video,Failed,1.508,Timeout or Error
-2026-07-29 05:11,Search,Failed,1.212,Timeout or Error
-2026-07-29 05:11,Channel,Failed,0.391,Timeout or Error
-2026-07-29 05:11,Comments,Failed,1.003,Timeout or Error
-2026-07-29 05:11,Playlist,Failed,0.546,Timeout or Error
-2026-07-29 06:57,Video,Failed,1.376,Timeout or Error
-2026-07-29 06:57,Search,Failed,1.06,Timeout or Error
-2026-07-29 06:57,Channel,Failed,0.585,Timeout or Error
-2026-07-29 06:57,Comments,Failed,0.866,Timeout or Error
-2026-07-29 06:57,Playlist,Failed,0.438,Timeout or Error
-2026-07-29 07:58,Video,Failed,1.451,Timeout or Error
-2026-07-29 07:58,Search,Failed,1.112,Timeout or Error
-2026-07-29 07:58,Channel,Failed,0.44,Timeout or Error
-2026-07-29 07:58,Comments,Failed,0.819,Timeout or Error
-2026-07-29 07:58,Playlist,Failed,0.335,Timeout or Error
 2026-07-29 09:00,Video,Failed,1.448,Timeout or Error
 2026-07-29 09:00,Search,Failed,1.065,Timeout or Error
 2026-07-29 09:00,Channel,Failed,0.34,Timeout or Error
@@ -2639,3 +2609,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-27 22:35,Channel,Failed,0.607,Timeout or Error
 2026-08-27 22:35,Comments,Failed,0.735,Timeout or Error
 2026-08-27 22:35,Playlist,Failed,0.462,Timeout or Error
+2026-08-28 08:27,Video,Failed,0.376,Timeout or Error
+2026-08-28 08:27,Search,Failed,0.48,Timeout or Error
+2026-08-28 08:27,Channel,Failed,0.384,Timeout or Error
+2026-08-28 08:27,Comments,Failed,0.379,Timeout or Error
+2026-08-28 08:27,Playlist,Failed,0.283,Timeout or Error
