@@ -1,19 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-07-28 07:00,Video,Failed,1.569,Timeout or Error
-2026-07-28 07:00,Search,OK,1.245,"[{""type"":""video"" ""title"":""50 QUESTIONS pour TESTER TON SAVOIR 🧠🤯 | Quiz Culture Générale"" ""videoId"":"
-2026-07-28 07:00,Channel,Failed,0.767,Timeout or Error
-2026-07-28 07:00,Comments,Failed,0.71,Timeout or Error
-2026-07-28 07:00,Playlist,Failed,1.567,Timeout or Error
-2026-07-28 08:11,Video,Failed,1.456,Timeout or Error
-2026-07-28 08:11,Search,OK,1.201,"[{""type"":""video"" ""title"":""50 QUESTIONS pour TESTER TON SAVOIR 🧠🤯 | Quiz Culture Générale"" ""videoId"":"
-2026-07-28 08:11,Channel,Failed,0.59,Timeout or Error
-2026-07-28 08:11,Comments,Failed,0.828,Timeout or Error
-2026-07-28 08:11,Playlist,Failed,0.346,Timeout or Error
-2026-07-28 10:58,Video,Failed,1.456,Timeout or Error
-2026-07-28 10:58,Search,OK,1.105,"[{""type"":""video"" ""title"":""RTX 5080 vs RTX 4090 vs RTX 5090 - Test in 12 Games | 4K"" ""videoId"":""W5gMf"
-2026-07-28 10:58,Channel,Failed,0.619,Timeout or Error
-2026-07-28 10:58,Comments,Failed,0.796,Timeout or Error
-2026-07-28 10:58,Playlist,Failed,0.423,Timeout or Error
 2026-07-28 14:18,Video,Failed,1.617,Timeout or Error
 2026-07-28 14:18,Search,OK,1.087,"[{""type"":""video"" ""title"":""OLED TEST HDR 4K 120FPS DOLBY VISION 🏞 4K / 8K Monitor Test Video #BGM"" ""v"
 2026-07-28 14:18,Channel,Failed,0.765,Timeout or Error
@@ -2659,3 +2644,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-27 06:33,Channel,Failed,0.455,Timeout or Error
 2026-08-27 06:33,Comments,Failed,0.472,Timeout or Error
 2026-08-27 06:33,Playlist,Failed,0.454,Timeout or Error
+2026-08-27 11:47,Video,Failed,0.684,Timeout or Error
+2026-08-27 11:47,Search,Failed,0.787,Timeout or Error
+2026-08-27 11:47,Channel,Failed,0.55,Timeout or Error
+2026-08-27 11:47,Comments,Failed,0.736,Timeout or Error
+2026-08-27 11:47,Playlist,Failed,0.677,Timeout or Error
