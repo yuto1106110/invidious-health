@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-07-31 04:15,Video,Failed,0.356,Timeout or Error
-2026-07-31 04:15,Search,OK,1.139,"[{""type"":""video"" ""title"":""Fastfood NEUHEITEN im Test (Überraschendes FAZIT) 😳"" ""videoId"":""yahM0iZILp"
-2026-07-31 04:15,Channel,Failed,0.421,Timeout or Error
-2026-07-31 04:15,Comments,OK,0.771,"{""commentCount"":10552909 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-07-31 04:15,Playlist,Failed,0.478,Timeout or Error
-2026-07-31 06:01,Video,Failed,1.234,Timeout or Error
-2026-07-31 06:01,Search,Failed,0.232,Timeout or Error
-2026-07-31 06:01,Channel,Failed,0.222,Timeout or Error
-2026-07-31 06:01,Comments,Failed,1.237,Timeout or Error
-2026-07-31 06:01,Playlist,Failed,1.231,Timeout or Error
 2026-07-31 07:59,Video,Failed,0.376,Timeout or Error
 2026-07-31 07:59,Search,OK,0.866,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-07-31 07:59,Channel,Failed,0.408,Timeout or Error
@@ -2549,3 +2539,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-30 03:07,Channel,Failed,0.434,Timeout or Error
 2026-08-30 03:07,Comments,OK,0.794,"{""commentCount"":10573268 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-08-30 03:07,Playlist,Failed,0.407,Timeout or Error
+2026-08-30 06:28,Video,Failed,0.567,Timeout or Error
+2026-08-30 06:28,Search,OK,1.12,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-08-30 06:28,Channel,Failed,0.7,Timeout or Error
+2026-08-30 06:28,Comments,OK,1.007,"{""commentCount"":10573688 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-08-30 06:28,Playlist,Failed,0.626,Timeout or Error
