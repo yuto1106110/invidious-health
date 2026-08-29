@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-07-31 00:47,Video,Failed,1.28,Timeout or Error
-2026-07-31 00:47,Search,Failed,0.654,Timeout or Error
-2026-07-31 00:47,Channel,Failed,1.299,Timeout or Error
-2026-07-31 00:47,Comments,Failed,1.3,Timeout or Error
-2026-07-31 00:47,Playlist,Failed,1.285,Timeout or Error
-2026-07-31 02:21,Video,Failed,1.793,Timeout or Error
-2026-07-31 02:21,Search,Failed,1.318,Timeout or Error
-2026-07-31 02:21,Channel,Failed,1.296,Timeout or Error
-2026-07-31 02:21,Comments,Failed,1.292,Timeout or Error
-2026-07-31 02:21,Playlist,Failed,1.941,Timeout or Error
 2026-07-31 04:15,Video,Failed,0.356,Timeout or Error
 2026-07-31 04:15,Search,OK,1.139,"[{""type"":""video"" ""title"":""Fastfood NEUHEITEN im Test (Überraschendes FAZIT) 😳"" ""videoId"":""yahM0iZILp"
 2026-07-31 04:15,Channel,Failed,0.421,Timeout or Error
@@ -2554,3 +2544,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-29 23:54,Channel,Failed,0.398,Timeout or Error
 2026-08-29 23:54,Comments,OK,0.698,"{""commentCount"":10572745 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-08-29 23:54,Playlist,Failed,0.486,Timeout or Error
+2026-08-30 03:07,Video,Failed,1.265,Timeout or Error
+2026-08-30 03:07,Search,OK,1.232,"[{""type"":""video"" ""title"":""OLED TEST HDR 4K 120FPS DOLBY VISION 🏞 4K / 8K Monitor Test Video #BGM"" ""v"
+2026-08-30 03:07,Channel,Failed,0.434,Timeout or Error
+2026-08-30 03:07,Comments,OK,0.794,"{""commentCount"":10573268 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-08-30 03:07,Playlist,Failed,0.407,Timeout or Error
