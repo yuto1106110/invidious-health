@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-08-01 11:32,Video,Failed,0.324,Timeout or Error
-2026-08-01 11:32,Search,Failed,0.327,Timeout or Error
-2026-08-01 11:32,Channel,Failed,0.326,Timeout or Error
-2026-08-01 11:32,Comments,Failed,0.32,Timeout or Error
-2026-08-01 11:32,Playlist,Failed,0.325,Timeout or Error
-2026-08-01 14:49,Video,Failed,0.314,Timeout or Error
-2026-08-01 14:49,Search,OK,0.844,"[{""type"":""video"" ""title"":""3 Kühldecken im Test - welche helfen wirklich?"" ""videoId"":""cghy2RzU-e4"" ""a"
-2026-08-01 14:49,Channel,Failed,1.849,Timeout or Error
-2026-08-01 14:49,Comments,OK,0.508,"{""commentCount"":10554914 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-01 14:49,Playlist,Failed,0.424,Timeout or Error
 2026-08-01 17:10,Video,Failed,0.306,Timeout or Error
 2026-08-01 17:10,Search,Failed,1.039,Timeout or Error
 2026-08-01 17:10,Channel,Failed,0.391,Timeout or Error
@@ -2519,3 +2509,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-08-31 09:08,Channel,Failed,0.522,Timeout or Error
 2026-08-31 09:08,Comments,OK,0.781,"{""commentCount"":10577335 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-08-31 09:08,Playlist,Failed,0.623,Timeout or Error
+2026-08-31 15:32,Video,Failed,0.409,Timeout or Error
+2026-08-31 15:32,Search,OK,0.978,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-08-31 15:32,Channel,Failed,0.399,Timeout or Error
+2026-08-31 15:32,Comments,OK,0.607,"{""commentCount"":10578062 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-08-31 15:32,Playlist,Failed,0.416,Timeout or Error
