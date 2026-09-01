@@ -1,19 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-08-03 00:58,Video,Failed,0.425,Timeout or Error
-2026-08-03 00:58,Search,OK,1.013,"[{""type"":""video"" ""title"":""THIS TEST determines your FITNESS LEVEL! 💪 (I was shocked)"" ""videoId"":""yxW"
-2026-08-03 00:58,Channel,Failed,0.519,Timeout or Error
-2026-08-03 00:58,Comments,OK,0.762,"{""commentCount"":10556710 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-03 00:58,Playlist,Failed,0.299,Timeout or Error
-2026-08-03 02:01,Video,Failed,0.466,Timeout or Error
-2026-08-03 02:01,Search,OK,1.253,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-03 02:01,Channel,Failed,0.514,Timeout or Error
-2026-08-03 02:01,Comments,OK,0.804,"{""commentCount"":10556803 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-03 02:01,Playlist,Failed,2.437,Timeout or Error
-2026-08-03 04:00,Video,Failed,0.418,Timeout or Error
-2026-08-03 04:00,Search,OK,1.035,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-03 04:00,Channel,Failed,0.484,Timeout or Error
-2026-08-03 04:00,Comments,OK,0.712,"{""commentCount"":10556903 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-03 04:00,Playlist,Failed,0.523,Timeout or Error
 2026-08-03 05:46,Video,Failed,0.373,Timeout or Error
 2026-08-03 05:46,Search,OK,0.87,"[{""type"":""video"" ""title"":""THIS TEST determines your FITNESS LEVEL! 💪 (I was shocked)"" ""videoId"":""yxW"
 2026-08-03 05:46,Channel,Failed,0.461,Timeout or Error
@@ -2444,3 +2429,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-09-02 00:55,Channel,Failed,0.786,Timeout or Error
 2026-09-02 00:55,Comments,OK,1.204,"{""commentCount"":10581444 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-09-02 00:55,Playlist,Failed,0.688,Timeout or Error
+2026-09-02 04:09,Video,Failed,0.624,Timeout or Error
+2026-09-02 04:09,Search,OK,1.232,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-09-02 04:09,Channel,Failed,0.704,Timeout or Error
+2026-09-02 04:09,Comments,OK,1.015,"{""commentCount"":10582139 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-09-02 04:09,Playlist,Failed,0.685,Timeout or Error
