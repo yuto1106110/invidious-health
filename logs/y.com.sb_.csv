@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-08-02 11:09,Video,Failed,0.302,Timeout or Error
-2026-08-02 11:09,Search,OK,0.821,"[{""type"":""video"" ""title"":""Lidl: Döner Croissant Box (DIY-Set) - für 2 Döner im Test #lidl #döner #cr"
-2026-08-02 11:09,Channel,Failed,0.329,Timeout or Error
-2026-08-02 11:09,Comments,OK,0.57,"{""commentCount"":10555939 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-02 11:09,Playlist,Failed,0.426,Timeout or Error
-2026-08-02 14:50,Video,Failed,0.428,Timeout or Error
-2026-08-02 14:50,Search,OK,1.059,"[{""type"":""video"" ""title"":""Lidl: Döner Croissant Box (DIY-Set) - für 2 Döner im Test #lidl #döner #cr"
-2026-08-02 14:50,Channel,Failed,0.477,Timeout or Error
-2026-08-02 14:50,Comments,OK,0.698,"{""commentCount"":10556081 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-02 14:50,Playlist,Failed,0.585,Timeout or Error
 2026-08-02 17:11,Video,Failed,0.304,Timeout or Error
 2026-08-02 17:11,Search,OK,0.769,"[{""type"":""video"" ""title"":""Dolby Atmos Sound Test"" ""videoId"":""FLH1aARTpMg"" ""author"":""JumpingCloud"" ""a"
 2026-08-02 17:11,Channel,Failed,0.34,Timeout or Error
@@ -2464,3 +2454,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-09-01 09:18,Channel,Failed,0.432,Timeout or Error
 2026-09-01 09:18,Comments,Failed,2.823,Timeout or Error
 2026-09-01 09:18,Playlist,Failed,1.469,Timeout or Error
+2026-09-01 14:57,Video,Failed,1.675,Timeout or Error
+2026-09-01 14:57,Search,Failed,1.699,Timeout or Error
+2026-09-01 14:57,Channel,Failed,1.699,Timeout or Error
+2026-09-01 14:57,Comments,Failed,1.699,Timeout or Error
+2026-09-01 14:57,Playlist,Failed,1.7,Timeout or Error
