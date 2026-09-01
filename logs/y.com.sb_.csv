@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-08-03 05:46,Video,Failed,0.373,Timeout or Error
-2026-08-03 05:46,Search,OK,0.87,"[{""type"":""video"" ""title"":""THIS TEST determines your FITNESS LEVEL! 💪 (I was shocked)"" ""videoId"":""yxW"
-2026-08-03 05:46,Channel,Failed,0.461,Timeout or Error
-2026-08-03 05:46,Comments,OK,0.71,"{""commentCount"":10556941 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-03 05:46,Playlist,Failed,0.525,Timeout or Error
-2026-08-03 06:49,Video,Failed,0.467,Timeout or Error
-2026-08-03 06:49,Search,OK,0.867,"[{""type"":""video"" ""title"":""ARE WE READY FOR KREISLIGA B?! - TOUGH TEST 💥"" ""videoId"":""uwBnhsUL-d4"" ""au"
-2026-08-03 06:49,Channel,Failed,0.496,Timeout or Error
-2026-08-03 06:49,Comments,OK,0.72,"{""commentCount"":10556979 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-03 06:49,Playlist,Failed,0.623,Timeout or Error
 2026-08-03 07:49,Video,Failed,0.313,Timeout or Error
 2026-08-03 07:49,Search,OK,0.938,"[{""type"":""video"" ""title"":""THIS TEST determines your FITNESS LEVEL! 💪 (I was shocked)"" ""videoId"":""yxW"
 2026-08-03 07:49,Channel,Failed,0.316,Timeout or Error
@@ -2434,3 +2424,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-09-02 04:09,Channel,Failed,0.704,Timeout or Error
 2026-09-02 04:09,Comments,OK,1.015,"{""commentCount"":10582139 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-09-02 04:09,Playlist,Failed,0.685,Timeout or Error
+2026-09-02 07:18,Video,Failed,0.498,Timeout or Error
+2026-09-02 07:18,Search,OK,1.096,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-09-02 07:18,Channel,Failed,0.588,Timeout or Error
+2026-09-02 07:18,Comments,OK,0.706,"{""commentCount"":10582590 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-09-02 07:18,Playlist,Failed,0.428,Timeout or Error
