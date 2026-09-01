@@ -1,19 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-08-02 20:57,Video,Failed,1.396,Timeout or Error
-2026-08-02 20:57,Search,OK,0.976,"[{""type"":""video"" ""title"":""🧠 Devine le LOGO en 3 SECONDES ✅🔥🤔 | 300 Logos Célèbres | Quiz Logos 2024"""
-2026-08-02 20:57,Channel,Failed,0.473,Timeout or Error
-2026-08-02 20:57,Comments,Failed,0.824,Timeout or Error
-2026-08-02 20:57,Playlist,Failed,0.379,Timeout or Error
-2026-08-02 22:20,Video,Failed,1.616,Timeout or Error
-2026-08-02 22:20,Search,OK,1.433,"[{""type"":""video"" ""title"":""🧠 Devine le LOGO en 3 SECONDES ✅🔥🤔 | 300 Logos Célèbres | Quiz Logos 2024"""
-2026-08-02 22:20,Channel,Failed,0.632,Timeout or Error
-2026-08-02 22:20,Comments,Failed,1.178,Timeout or Error
-2026-08-02 22:20,Playlist,Failed,0.835,Timeout or Error
-2026-08-02 23:56,Video,Failed,1.381,Timeout or Error
-2026-08-02 23:56,Search,OK,1.246,"[{""type"":""video"" ""title"":""PAKISTAN vs WEST INDIES 2nd TEST MATCH DAY 1 LIVE COMMENTARY | PAK VS WI L"
-2026-08-02 23:56,Channel,Failed,0.481,Timeout or Error
-2026-08-02 23:56,Comments,Failed,0.835,Timeout or Error
-2026-08-02 23:56,Playlist,Failed,0.567,Timeout or Error
 2026-08-03 00:58,Video,Failed,1.312,Timeout or Error
 2026-08-03 00:58,Search,OK,1.304,"[{""type"":""video"" ""title"":""🧠 Devine le LOGO en 3 SECONDES ✅🔥🤔 | 300 Logos Célèbres | Quiz Logos 2024"""
 2026-08-03 00:58,Channel,Failed,0.679,Timeout or Error
@@ -2454,3 +2439,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-09-01 20:13,Channel,Failed,0.391,Timeout or Error
 2026-09-01 20:13,Comments,Failed,0.288,Timeout or Error
 2026-09-01 20:13,Playlist,Failed,0.549,Timeout or Error
+2026-09-02 00:55,Video,Failed,0.631,Timeout or Error
+2026-09-02 00:55,Search,Failed,0.904,Timeout or Error
+2026-09-02 00:55,Channel,Failed,0.622,Timeout or Error
+2026-09-02 00:55,Comments,Failed,0.456,Timeout or Error
+2026-09-02 00:55,Playlist,Failed,0.474,Timeout or Error

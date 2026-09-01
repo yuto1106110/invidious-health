@@ -1,19 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-08-02 20:57,Video,Failed,0.305,Timeout or Error
-2026-08-02 20:57,Search,OK,0.924,"[{""type"":""video"" ""title"":""BMW iX3 vs. VOLVO EX60 P10 Autobahn Test | Consumption & Charging Time Rev"
-2026-08-02 20:57,Channel,Failed,0.37,Timeout or Error
-2026-08-02 20:57,Comments,OK,0.698,"{""commentCount"":10556406 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-02 20:57,Playlist,Failed,1.21,Timeout or Error
-2026-08-02 22:20,Video,Failed,0.507,Timeout or Error
-2026-08-02 22:20,Search,OK,0.958,"[{""type"":""video"" ""title"":""Dolby Atmos Sound Test"" ""videoId"":""FLH1aARTpMg"" ""author"":""JumpingCloud"" ""a"
-2026-08-02 22:20,Channel,Failed,0.508,Timeout or Error
-2026-08-02 22:20,Comments,OK,0.849,"{""commentCount"":10556466 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-02 22:20,Playlist,Failed,0.746,Timeout or Error
-2026-08-02 23:56,Video,Failed,0.374,Timeout or Error
-2026-08-02 23:56,Search,OK,1.118,"[{""type"":""video"" ""title"":""ARE WE READY FOR KREISLIGA B?! - TOUGH TEST 💥"" ""videoId"":""uwBnhsUL-d4"" ""au"
-2026-08-02 23:56,Channel,Failed,0.462,Timeout or Error
-2026-08-02 23:56,Comments,OK,0.644,"{""commentCount"":10556577 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-02 23:56,Playlist,Failed,0.472,Timeout or Error
 2026-08-03 00:58,Video,Failed,0.425,Timeout or Error
 2026-08-03 00:58,Search,OK,1.013,"[{""type"":""video"" ""title"":""THIS TEST determines your FITNESS LEVEL! 💪 (I was shocked)"" ""videoId"":""yxW"
 2026-08-03 00:58,Channel,Failed,0.519,Timeout or Error
@@ -2454,3 +2439,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-09-01 20:13,Channel,Failed,1.611,Timeout or Error
 2026-09-01 20:13,Comments,Failed,1.619,Timeout or Error
 2026-09-01 20:13,Playlist,Failed,1.612,Timeout or Error
+2026-09-02 00:55,Video,Failed,0.671,Timeout or Error
+2026-09-02 00:55,Search,OK,1.298,"[{""type"":""video"" ""title"":""Open-World-RPG mit erstklassiger Vampir-Geschichte! | Blood of Dawnwalker "
+2026-09-02 00:55,Channel,Failed,0.786,Timeout or Error
+2026-09-02 00:55,Comments,OK,1.204,"{""commentCount"":10581444 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-09-02 00:55,Playlist,Failed,0.688,Timeout or Error
