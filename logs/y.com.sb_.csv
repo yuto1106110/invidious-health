@@ -1,24 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-08-02 05:42,Video,Failed,0.377,Timeout or Error
-2026-08-02 05:42,Search,OK,0.859,"[{""type"":""video"" ""title"":""Lidl: Döner Croissant Box (DIY-Set) - für 2 Döner im Test #lidl #döner #cr"
-2026-08-02 05:42,Channel,Failed,0.427,Timeout or Error
-2026-08-02 05:42,Comments,OK,0.836,"{""commentCount"":10555698 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-02 05:42,Playlist,Failed,0.593,Timeout or Error
-2026-08-02 06:48,Video,Failed,0.319,Timeout or Error
-2026-08-02 06:48,Search,OK,0.752,"[{""type"":""video"" ""title"":""Lidl: Döner Croissant Box (DIY-Set) - für 2 Döner im Test #lidl #döner #cr"
-2026-08-02 06:48,Channel,Failed,0.344,Timeout or Error
-2026-08-02 06:48,Comments,OK,0.736,"{""commentCount"":10555780 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-02 06:48,Playlist,Failed,0.453,Timeout or Error
-2026-08-02 07:47,Video,Failed,0.325,Timeout or Error
-2026-08-02 07:47,Search,OK,0.891,"[{""type"":""video"" ""title"":""Yamaha Tricity 300 | Test des 2026er Rollers für Inhaber des Autoführersch"
-2026-08-02 07:47,Channel,Failed,0.314,Timeout or Error
-2026-08-02 07:47,Comments,OK,1.202,"{""commentCount"":10555840 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-02 07:47,Playlist,Failed,0.484,Timeout or Error
-2026-08-02 08:51,Video,Failed,0.485,Timeout or Error
-2026-08-02 08:51,Search,OK,0.879,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-02 08:51,Channel,Failed,0.512,Timeout or Error
-2026-08-02 08:51,Comments,OK,0.766,"{""commentCount"":10555873 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-02 08:51,Playlist,Failed,0.614,Timeout or Error
 2026-08-02 11:09,Video,Failed,0.302,Timeout or Error
 2026-08-02 11:09,Search,OK,0.821,"[{""type"":""video"" ""title"":""Lidl: Döner Croissant Box (DIY-Set) - für 2 Döner im Test #lidl #döner #cr"
 2026-08-02 11:09,Channel,Failed,0.329,Timeout or Error
@@ -2479,3 +2459,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-09-01 05:34,Channel,Failed,0.731,Timeout or Error
 2026-09-01 05:34,Comments,OK,0.907,"{""commentCount"":10580120 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-09-01 05:34,Playlist,Failed,0.736,Timeout or Error
+2026-09-01 09:18,Video,Failed,1.291,Timeout or Error
+2026-09-01 09:18,Search,OK,1.899,"[{""type"":""video"" ""title"":""Open-World-RPG mit erstklassiger Vampir-Geschichte! | Blood of Dawnwalker "
+2026-09-01 09:18,Channel,Failed,0.432,Timeout or Error
+2026-09-01 09:18,Comments,Failed,2.823,Timeout or Error
+2026-09-01 09:18,Playlist,Failed,1.469,Timeout or Error
