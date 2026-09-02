@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-08-04 03:45,Video,Failed,0.45,Timeout or Error
-2026-08-04 03:45,Search,OK,1.014,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-04 03:45,Channel,Failed,0.498,Timeout or Error
-2026-08-04 03:45,Comments,OK,0.753,"{""commentCount"":10557814 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-04 03:45,Playlist,Failed,0.707,Timeout or Error
-2026-08-04 05:22,Video,Failed,0.424,Timeout or Error
-2026-08-04 05:22,Search,OK,0.967,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-04 05:22,Channel,Failed,0.391,Timeout or Error
-2026-08-04 05:22,Comments,OK,0.778,"{""commentCount"":10557927 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-04 05:22,Playlist,Failed,0.707,Timeout or Error
 2026-08-04 07:02,Video,Failed,0.357,Timeout or Error
 2026-08-04 07:02,Search,OK,0.916,"[{""type"":""video"" ""title"":""Where are you heading  Mercedes? Alex tests the new electric C-Class | aut"
 2026-08-04 07:02,Channel,Failed,0.317,Timeout or Error
@@ -2419,3 +2409,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-09-03 03:20,Channel,Failed,0.504,Timeout or Error
 2026-09-03 03:20,Comments,OK,0.815,"{""commentCount"":10584680 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-09-03 03:20,Playlist,Failed,1.379,Timeout or Error
+2026-09-03 06:30,Video,Failed,0.583,Timeout or Error
+2026-09-03 06:30,Search,OK,1.1,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-09-03 06:30,Channel,Failed,0.679,Timeout or Error
+2026-09-03 06:30,Comments,OK,1.029,"{""commentCount"":10585686 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-09-03 06:30,Playlist,Failed,0.61,Timeout or Error
