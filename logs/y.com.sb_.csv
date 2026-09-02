@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-08-04 07:02,Video,Failed,0.357,Timeout or Error
-2026-08-04 07:02,Search,OK,0.916,"[{""type"":""video"" ""title"":""Where are you heading  Mercedes? Alex tests the new electric C-Class | aut"
-2026-08-04 07:02,Channel,Failed,0.317,Timeout or Error
-2026-08-04 07:02,Comments,OK,0.638,"{""commentCount"":10558002 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-04 07:02,Playlist,Failed,0.461,Timeout or Error
 2026-08-04 09:02,Video,Failed,0.307,Timeout or Error
 2026-08-04 09:02,Search,OK,0.924,"[{""type"":""video"" ""title"":""RTX 4080 SUPER vs RTX 5080 - Test in 10 Games with New Drivers 2026 | 1440"
 2026-08-04 09:02,Channel,Failed,0.399,Timeout or Error
@@ -2414,3 +2409,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-09-03 06:30,Channel,Failed,0.679,Timeout or Error
 2026-09-03 06:30,Comments,OK,1.029,"{""commentCount"":10585686 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-09-03 06:30,Playlist,Failed,0.61,Timeout or Error
+2026-09-03 08:45,Video,Failed,0.61,Timeout or Error
+2026-09-03 08:45,Search,OK,1.609,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-09-03 08:45,Channel,Failed,1.115,Timeout or Error
+2026-09-03 08:45,Comments,OK,1.286,"{""commentCount"":10586176 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-09-03 08:45,Playlist,Failed,2.094,Timeout or Error
