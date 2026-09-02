@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-08-04 01:17,Video,Failed,0.303,Timeout or Error
-2026-08-04 01:17,Search,OK,0.957,"[{""type"":""video"" ""title"":""Where are you heading  Mercedes? Alex tests the new electric C-Class | aut"
-2026-08-04 01:17,Channel,Failed,0.347,Timeout or Error
-2026-08-04 01:17,Comments,OK,0.704,"{""commentCount"":10557722 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-04 01:17,Playlist,Failed,0.741,Timeout or Error
 2026-08-04 03:45,Video,Failed,0.45,Timeout or Error
 2026-08-04 03:45,Search,OK,1.014,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-08-04 03:45,Channel,Failed,0.498,Timeout or Error
@@ -2419,3 +2414,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-09-02 23:53,Channel,Failed,1.795,Timeout or Error
 2026-09-02 23:53,Comments,Failed,0.708,Timeout or Error
 2026-09-02 23:53,Playlist,Failed,1.119,Timeout or Error
+2026-09-03 03:20,Video,Failed,0.483,Timeout or Error
+2026-09-03 03:20,Search,OK,1.127,"[{""type"":""video"" ""title"":""500-mile test! Volvo EX60 vs BMW iX3 vs Mercedes GLC vs Tesla Model Y (Par"
+2026-09-03 03:20,Channel,Failed,0.504,Timeout or Error
+2026-09-03 03:20,Comments,OK,0.815,"{""commentCount"":10584680 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-09-03 03:20,Playlist,Failed,1.379,Timeout or Error
