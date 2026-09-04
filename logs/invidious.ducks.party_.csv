@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-08-05 20:14,Video,Failed,0.44,Timeout or Error
-2026-08-05 20:14,Search,Failed,0.451,Timeout or Error
-2026-08-05 20:14,Channel,Failed,0.61,Timeout or Error
-2026-08-05 20:14,Comments,Failed,0.494,Timeout or Error
-2026-08-05 20:14,Playlist,Failed,0.499,Timeout or Error
-2026-08-05 22:52,Video,Failed,0.544,Timeout or Error
-2026-08-05 22:52,Search,Failed,0.6,Timeout or Error
-2026-08-05 22:52,Channel,Failed,0.572,Timeout or Error
-2026-08-05 22:52,Comments,Failed,0.583,Timeout or Error
-2026-08-05 22:52,Playlist,Failed,0.576,Timeout or Error
 2026-08-06 00:57,Video,Failed,0.488,Timeout or Error
 2026-08-06 00:57,Search,Failed,0.529,Timeout or Error
 2026-08-06 00:57,Channel,Failed,0.525,Timeout or Error
@@ -2389,3 +2379,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-09-04 19:21,Channel,Failed,0.527,Timeout or Error
 2026-09-04 19:21,Comments,OK,0.973,"{""commentCount"":10592575 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-09-04 19:21,Playlist,Failed,0.511,Timeout or Error
+2026-09-04 23:41,Video,Failed,0.423,Timeout or Error
+2026-09-04 23:41,Search,OK,1.07,"[{""type"":""video"" ""title"":""Suzuki SV-7 GX | Test (deutsch) 2026"" ""videoId"":""BoF37c66Da4"" ""author"":""Mo"
+2026-09-04 23:41,Channel,Failed,0.388,Timeout or Error
+2026-09-04 23:41,Comments,OK,0.74,"{""commentCount"":10593394 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-09-04 23:41,Playlist,Failed,0.435,Timeout or Error
