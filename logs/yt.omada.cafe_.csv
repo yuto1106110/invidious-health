@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-08-05 07:56,Video,OK,1.446,
-2026-08-05 07:56,Search,OK,1.018,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-05 07:56,Channel,Failed,0.381,Timeout or Error
-2026-08-05 07:56,Comments,OK,0.719,"{""commentCount"":10558461 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-05 07:56,Playlist,Failed,1.138,Timeout or Error
-2026-08-05 08:59,Video,OK,1.702,
-2026-08-05 08:59,Search,OK,1.667,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-05 08:59,Channel,Failed,0.792,Timeout or Error
-2026-08-05 08:59,Comments,OK,1.872,"{""commentCount"":10558493 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-05 08:59,Playlist,Failed,0.976,Timeout or Error
 2026-08-05 11:57,Video,OK,1.665,
 2026-08-05 11:57,Search,OK,1.561,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-08-05 11:57,Channel,Failed,0.579,Timeout or Error
@@ -2399,3 +2389,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-09-04 07:08,Channel,Failed,0.293,Timeout or Error
 2026-09-04 07:08,Comments,OK,0.846,"{""commentCount"":10590784 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-09-04 07:08,Playlist,Failed,0.397,Timeout or Error
+2026-09-04 09:38,Video,OK,1.077,
+2026-09-04 09:38,Search,OK,1.597,"[{""type"":""video"" ""title"":""Can You Pass This Southern USA Slang Test? 🤠"" ""videoId"":""-RaLATWag2k"" ""aut"
+2026-09-04 09:38,Channel,Failed,0.878,Timeout or Error
+2026-09-04 09:38,Comments,OK,1.433,"{""commentCount"":10591178 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-09-04 09:38,Playlist,Failed,0.599,Timeout or Error
