@@ -1,19 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-08-07 19:46,Video,OK,0.512,
-2026-08-07 19:46,Search,OK,1.295,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-07 19:46,Channel,Failed,0.834,Timeout or Error
-2026-08-07 19:46,Comments,OK,0.896,"{""commentCount"":10559144 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-07 19:46,Playlist,Failed,0.436,Timeout or Error
-2026-08-07 20:40,Video,OK,1.002,
-2026-08-07 20:40,Search,OK,1.736,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-07 20:40,Channel,Failed,0.429,Timeout or Error
-2026-08-07 20:40,Comments,OK,1.085,"{""commentCount"":10559192 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-07 20:40,Playlist,Failed,0.732,Timeout or Error
-2026-08-07 21:49,Video,OK,1.581,
-2026-08-07 21:49,Search,OK,1.425,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-07 21:49,Channel,Failed,0.923,Timeout or Error
-2026-08-07 21:49,Comments,OK,1.116,"{""commentCount"":10559477 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-07 21:49,Playlist,Failed,1.023,Timeout or Error
 2026-08-07 23:07,Video,OK,0.833,
 2026-08-07 23:07,Search,OK,1.546,"[{""type"":""video"" ""title"":""200 of World’s Funniest Kid Test Answers!"" ""videoId"":""MUGc1QAnSmg"" ""author"
 2026-08-07 23:07,Channel,Failed,0.906,Timeout or Error
@@ -2369,3 +2354,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-09-06 19:05,Channel,Failed,0.789,Timeout or Error
 2026-09-06 19:05,Comments,OK,1.065,"{""commentCount"":10603963 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-09-06 19:05,Playlist,Failed,0.588,Timeout or Error
+2026-09-06 22:53,Video,OK,0.46,
+2026-09-06 22:53,Search,OK,1.0,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-09-06 22:53,Channel,Failed,0.293,Timeout or Error
+2026-09-06 22:53,Comments,OK,1.296,"{""commentCount"":10604335 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-09-06 22:53,Playlist,Failed,0.297,Timeout or Error

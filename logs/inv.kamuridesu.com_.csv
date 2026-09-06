@@ -1,34 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-08-07 19:46,Video,Failed,0.29,Timeout or Error
-2026-08-07 19:46,Search,OK,1.006,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-07 19:46,Channel,Failed,0.434,Timeout or Error
-2026-08-07 19:46,Comments,OK,0.805,"{""commentCount"":10559146 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-07 19:46,Playlist,Failed,0.54,Timeout or Error
-2026-08-07 19:46,Video,Failed,0.283,Timeout or Error
-2026-08-07 19:46,Search,OK,0.856,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-07 19:46,Channel,Failed,0.422,Timeout or Error
-2026-08-07 19:46,Comments,OK,0.634,"{""commentCount"":10559146 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-07 19:46,Playlist,Failed,0.49,Timeout or Error
-2026-08-07 20:40,Video,Failed,0.378,Timeout or Error
-2026-08-07 20:40,Search,OK,1.059,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-07 20:40,Channel,Failed,0.563,Timeout or Error
-2026-08-07 20:40,Comments,OK,0.793,"{""commentCount"":10559192 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-07 20:40,Playlist,Failed,0.64,Timeout or Error
-2026-08-07 20:40,Video,Failed,0.416,Timeout or Error
-2026-08-07 20:40,Search,Failed,1.062,Timeout or Error
-2026-08-07 20:40,Channel,Failed,0.491,Timeout or Error
-2026-08-07 20:40,Comments,OK,0.712,"{""commentCount"":10559192 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-07 20:40,Playlist,Failed,0.631,Timeout or Error
-2026-08-07 21:49,Video,Failed,0.47,Timeout or Error
-2026-08-07 21:49,Search,Failed,1.04,Timeout or Error
-2026-08-07 21:49,Channel,Failed,0.577,Timeout or Error
-2026-08-07 21:49,Comments,OK,0.81,"{""commentCount"":10559478 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-07 21:49,Playlist,Failed,0.703,Timeout or Error
-2026-08-07 21:49,Video,Failed,0.425,Timeout or Error
-2026-08-07 21:49,Search,OK,1.013,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-07 21:49,Channel,Failed,0.589,Timeout or Error
-2026-08-07 21:49,Comments,OK,0.848,"{""commentCount"":10559477 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-07 21:49,Playlist,Failed,0.734,Timeout or Error
 2026-08-07 23:07,Video,Failed,0.414,Timeout or Error
 2026-08-07 23:07,Search,Failed,1.023,Timeout or Error
 2026-08-07 23:07,Channel,Failed,0.564,Timeout or Error
@@ -4739,3 +4709,13 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-09-06 19:05,Channel,Failed,0.516,Timeout or Error
 2026-09-06 19:05,Comments,OK,0.703,"{""commentCount"":10603963 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-09-06 19:05,Playlist,Failed,0.518,Timeout or Error
+2026-09-06 22:53,Video,Failed,0.32,Timeout or Error
+2026-09-06 22:53,Search,OK,0.926,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-09-06 22:53,Channel,Failed,0.422,Timeout or Error
+2026-09-06 22:53,Comments,OK,0.637,"{""commentCount"":10604335 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-09-06 22:53,Playlist,Failed,0.405,Timeout or Error
+2026-09-06 22:53,Video,Failed,0.321,Timeout or Error
+2026-09-06 22:53,Search,OK,0.991,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-09-06 22:53,Channel,Failed,0.4,Timeout or Error
+2026-09-06 22:53,Comments,OK,0.69,"{""commentCount"":10604335 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-09-06 22:53,Playlist,Failed,0.371,Timeout or Error
