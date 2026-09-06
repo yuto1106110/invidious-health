@@ -1,19 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-08-08 01:46,Video,Failed,1.29,Timeout or Error
-2026-08-08 01:46,Search,OK,1.368,"[{""type"":""video"" ""title"":""05 Xiaomi 17T Pro"" ""videoId"":""aJxENOZdhIw"" ""author"":""sparhandy Studio"" ""au"
-2026-08-08 01:46,Channel,Failed,0.501,Timeout or Error
-2026-08-08 01:46,Comments,OK,0.897,"{""commentCount"":10559732 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-08 01:46,Playlist,Failed,0.788,Timeout or Error
-2026-08-08 02:42,Video,Failed,0.507,Timeout or Error
-2026-08-08 02:42,Search,OK,1.013,"[{""type"":""video"" ""title"":""05 Xiaomi 17T Pro"" ""videoId"":""aJxENOZdhIw"" ""author"":""sparhandy Studio"" ""au"
-2026-08-08 02:42,Channel,Failed,0.506,Timeout or Error
-2026-08-08 02:42,Comments,OK,0.618,"{""commentCount"":10559779 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-08 02:42,Playlist,Failed,0.63,Timeout or Error
-2026-08-08 03:45,Video,Failed,0.401,Timeout or Error
-2026-08-08 03:45,Search,OK,1.079,"[{""type"":""video"" ""title"":""05 Xiaomi 17T Pro"" ""videoId"":""aJxENOZdhIw"" ""author"":""sparhandy Studio"" ""au"
-2026-08-08 03:45,Channel,Failed,0.423,Timeout or Error
-2026-08-08 03:45,Comments,OK,0.702,"{""commentCount"":10559840 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-08 03:45,Playlist,Failed,1.019,Timeout or Error
 2026-08-08 04:47,Video,Failed,0.482,Timeout or Error
 2026-08-08 04:47,Search,OK,0.995,"[{""type"":""video"" ""title"":""05 Xiaomi 17T Pro"" ""videoId"":""aJxENOZdhIw"" ""author"":""sparhandy Studio"" ""au"
 2026-08-08 04:47,Channel,Failed,0.48,Timeout or Error
@@ -2354,3 +2339,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-09-07 01:38,Channel,Failed,0.115,Timeout or Error
 2026-09-07 01:38,Comments,Failed,0.094,Timeout or Error
 2026-09-07 01:38,Playlist,Failed,0.111,Timeout or Error
+2026-09-07 03:48,Video,Failed,0.107,Timeout or Error
+2026-09-07 03:48,Search,Failed,0.109,Timeout or Error
+2026-09-07 03:48,Channel,Failed,0.102,Timeout or Error
+2026-09-07 03:48,Comments,Failed,0.105,Timeout or Error
+2026-09-07 03:48,Playlist,Failed,0.105,Timeout or Error
