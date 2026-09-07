@@ -1,24 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-08-09 02:23,Video,Failed,0.545,Timeout or Error
-2026-08-09 02:23,Search,Failed,0.629,Timeout or Error
-2026-08-09 02:23,Channel,Failed,0.581,Timeout or Error
-2026-08-09 02:23,Comments,Failed,0.895,Timeout or Error
-2026-08-09 02:23,Playlist,Failed,0.576,Timeout or Error
-2026-08-09 03:27,Video,Failed,0.636,Timeout or Error
-2026-08-09 03:27,Search,Failed,0.398,Timeout or Error
-2026-08-09 03:27,Channel,Failed,0.693,Timeout or Error
-2026-08-09 03:27,Comments,Failed,1.433,Timeout or Error
-2026-08-09 03:27,Playlist,Failed,0.407,Timeout or Error
-2026-08-09 04:23,Video,Failed,0.479,Timeout or Error
-2026-08-09 04:23,Search,Failed,0.52,Timeout or Error
-2026-08-09 04:23,Channel,Failed,0.52,Timeout or Error
-2026-08-09 04:23,Comments,Failed,0.515,Timeout or Error
-2026-08-09 04:23,Playlist,Failed,0.514,Timeout or Error
-2026-08-09 05:21,Video,Failed,0.446,Timeout or Error
-2026-08-09 05:21,Search,Failed,0.488,Timeout or Error
-2026-08-09 05:21,Channel,Failed,0.452,Timeout or Error
-2026-08-09 05:21,Comments,Failed,0.702,Timeout or Error
-2026-08-09 05:21,Playlist,Failed,0.469,Timeout or Error
 2026-08-09 06:23,Video,Failed,2.034,Timeout or Error
 2026-08-09 06:23,Search,Failed,1.073,Timeout or Error
 2026-08-09 06:23,Channel,Failed,1.293,Timeout or Error
@@ -2274,3 +2254,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-09-08 02:02,Channel,Failed,0.538,Timeout or Error
 2026-09-08 02:02,Comments,OK,0.92,"{""commentCount"":10608394 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-09-08 02:02,Playlist,Failed,0.492,Timeout or Error
+2026-09-08 05:59,Video,Failed,0.433,Timeout or Error
+2026-09-08 05:59,Search,OK,0.898,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-09-08 05:59,Channel,Failed,0.406,Timeout or Error
+2026-09-08 05:59,Comments,OK,0.618,"{""commentCount"":10609055 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-09-08 05:59,Playlist,Failed,0.4,Timeout or Error
