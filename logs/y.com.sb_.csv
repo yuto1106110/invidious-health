@@ -1,24 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-08-09 12:27,Video,Failed,0.514,Timeout or Error
-2026-08-09 12:27,Search,OK,0.965,"[{""type"":""video"" ""title"":""TEST"" ""videoId"":""YXZH-eBtmqQ"" ""author"":""Stray Kids"" ""authorId"":""UC9rMiEjNa"
-2026-08-09 12:27,Channel,Failed,0.419,Timeout or Error
-2026-08-09 12:27,Comments,OK,0.677,"{""commentCount"":10560196 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-09 12:27,Playlist,Failed,0.79,Timeout or Error
-2026-08-09 13:58,Video,Failed,0.576,Timeout or Error
-2026-08-09 13:58,Search,OK,1.223,"[{""type"":""video"" ""title"":""Galaxy Z Fold 8 DURABILITY TEST - is the new 'Titanium Screen' real?"" ""vid"
-2026-08-09 13:58,Channel,Failed,0.799,Timeout or Error
-2026-08-09 13:58,Comments,OK,0.926,"{""commentCount"":10560259 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-09 13:58,Playlist,Failed,1.401,Timeout or Error
-2026-08-09 14:47,Video,Failed,0.627,Timeout or Error
-2026-08-09 14:47,Search,OK,1.113,"[{""type"":""video"" ""title"":""MÖBELHÄUSER Giganten im TEST (Mit kompletter Enttäuschung) 🤯"" ""videoId"":""f"
-2026-08-09 14:47,Channel,Failed,0.585,Timeout or Error
-2026-08-09 14:47,Comments,OK,0.9,"{""commentCount"":10560289 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-09 14:47,Playlist,Failed,1.028,Timeout or Error
-2026-08-09 15:43,Video,Failed,0.603,Timeout or Error
-2026-08-09 15:43,Search,OK,1.166,"[{""type"":""video"" ""title"":""Dolby Atmos Sound Test"" ""videoId"":""FLH1aARTpMg"" ""author"":""JumpingCloud"" ""a"
-2026-08-09 15:43,Channel,Failed,0.499,Timeout or Error
-2026-08-09 15:43,Comments,OK,0.984,"{""commentCount"":10560336 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-09 15:43,Playlist,Failed,0.847,Timeout or Error
 2026-08-09 16:48,Video,Failed,0.42,Timeout or Error
 2026-08-09 16:48,Search,OK,0.9,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-08-09 16:48,Channel,Failed,0.493,Timeout or Error
@@ -2249,3 +2229,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-09-08 11:35,Channel,Failed,0.133,Timeout or Error
 2026-09-08 11:35,Comments,Failed,0.133,Timeout or Error
 2026-09-08 11:35,Playlist,Failed,0.131,Timeout or Error
+2026-09-08 16:41,Video,Failed,0.14,Timeout or Error
+2026-09-08 16:41,Search,Failed,0.138,Timeout or Error
+2026-09-08 16:41,Channel,Failed,0.14,Timeout or Error
+2026-09-08 16:41,Comments,Failed,0.138,Timeout or Error
+2026-09-08 16:41,Playlist,Failed,0.138,Timeout or Error
