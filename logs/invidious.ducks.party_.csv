@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-08-09 10:13,Video,Failed,0.448,Timeout or Error
-2026-08-09 10:13,Search,Failed,0.926,Timeout or Error
-2026-08-09 10:13,Channel,Failed,0.834,Timeout or Error
-2026-08-09 10:13,Comments,Failed,0.444,Timeout or Error
-2026-08-09 10:13,Playlist,Failed,0.466,Timeout or Error
 2026-08-09 12:27,Video,Failed,0.354,Timeout or Error
 2026-08-09 12:27,Search,Failed,0.403,Timeout or Error
 2026-08-09 12:27,Channel,Failed,0.387,Timeout or Error
@@ -2249,3 +2244,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-09-08 08:22,Channel,Failed,1.314,Timeout or Error
 2026-09-08 08:22,Comments,Failed,1.315,Timeout or Error
 2026-09-08 08:22,Playlist,Failed,1.317,Timeout or Error
+2026-09-08 11:35,Video,Failed,0.48,Timeout or Error
+2026-09-08 11:35,Search,OK,0.863,"[{""type"":""video"" ""title"":""GPT-6 Astra vs Claude Fable 5.1 – The REAL Comparison Test!"" ""videoId"":""Xc"
+2026-09-08 11:35,Channel,Failed,0.45,Timeout or Error
+2026-09-08 11:35,Comments,OK,0.598,"{""commentCount"":10609641 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-09-08 11:35,Playlist,Failed,0.451,Timeout or Error
