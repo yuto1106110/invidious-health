@@ -1,19 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-08-10 02:25,Video,Failed,0.475,Timeout or Error
-2026-08-10 02:25,Search,Failed,0.469,Timeout or Error
-2026-08-10 02:25,Channel,Failed,0.479,Timeout or Error
-2026-08-10 02:25,Comments,OK,0.471,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
-2026-08-10 02:25,Playlist,OK,0.481,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
-2026-08-10 03:30,Video,Failed,0.475,Timeout or Error
-2026-08-10 03:30,Search,Failed,0.482,Timeout or Error
-2026-08-10 03:30,Channel,Failed,0.471,Timeout or Error
-2026-08-10 03:30,Comments,OK,0.472,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
-2026-08-10 03:30,Playlist,OK,0.483,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
-2026-08-10 04:27,Video,Failed,0.372,Timeout or Error
-2026-08-10 04:27,Search,Failed,0.36,Timeout or Error
-2026-08-10 04:27,Channel,Failed,0.349,Timeout or Error
-2026-08-10 04:27,Comments,OK,0.351,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
-2026-08-10 04:27,Playlist,OK,0.369,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
 2026-08-10 05:23,Video,Failed,0.3,Timeout or Error
 2026-08-10 05:23,Search,Failed,0.304,Timeout or Error
 2026-08-10 05:23,Channel,Failed,0.301,Timeout or Error
@@ -2194,3 +2179,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-09-09 01:59,Channel,Failed,0.481,Timeout or Error
 2026-09-09 01:59,Comments,OK,0.48,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
 2026-09-09 01:59,Playlist,OK,0.48,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
+2026-09-09 04:47,Video,Failed,0.297,Timeout or Error
+2026-09-09 04:47,Search,Failed,0.287,Timeout or Error
+2026-09-09 04:47,Channel,Failed,0.287,Timeout or Error
+2026-09-09 04:47,Comments,Failed,1.205,Timeout or Error
+2026-09-09 04:47,Playlist,Failed,1.205,Timeout or Error

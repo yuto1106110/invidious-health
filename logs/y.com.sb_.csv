@@ -1,19 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-08-10 02:25,Video,Failed,0.629,Timeout or Error
-2026-08-10 02:25,Search,OK,1.285,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-10 02:25,Channel,Failed,0.683,Timeout or Error
-2026-08-10 02:25,Comments,OK,1.133,"{""commentCount"":10556919 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-10 02:25,Playlist,Failed,1.411,Timeout or Error
-2026-08-10 03:30,Video,Failed,0.566,Timeout or Error
-2026-08-10 03:30,Search,OK,1.331,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-10 03:30,Channel,Failed,0.633,Timeout or Error
-2026-08-10 03:30,Comments,OK,0.999,"{""commentCount"":10557014 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-10 03:30,Playlist,Failed,0.829,Timeout or Error
-2026-08-10 04:27,Video,Failed,0.405,Timeout or Error
-2026-08-10 04:27,Search,OK,1.116,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-10 04:27,Channel,Failed,0.478,Timeout or Error
-2026-08-10 04:27,Comments,OK,0.809,"{""commentCount"":10557122 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-10 04:27,Playlist,Failed,0.615,Timeout or Error
 2026-08-10 05:23,Video,Failed,0.488,Timeout or Error
 2026-08-10 05:23,Search,OK,1.074,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-08-10 05:23,Channel,Failed,0.365,Timeout or Error
@@ -2194,3 +2179,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-09-09 01:59,Channel,Failed,0.151,Timeout or Error
 2026-09-09 01:59,Comments,Failed,0.157,Timeout or Error
 2026-09-09 01:59,Playlist,Failed,0.15,Timeout or Error
+2026-09-09 04:47,Video,Failed,0.099,Timeout or Error
+2026-09-09 04:47,Search,Failed,0.099,Timeout or Error
+2026-09-09 04:47,Channel,Failed,0.094,Timeout or Error
+2026-09-09 04:47,Comments,Failed,0.094,Timeout or Error
+2026-09-09 04:47,Playlist,Failed,0.091,Timeout or Error
