@@ -1,19 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-08-10 10:14,Video,Failed,0.706,Timeout or Error
-2026-08-10 10:14,Search,OK,1.258,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-10 10:14,Channel,Failed,0.683,Timeout or Error
-2026-08-10 10:14,Comments,OK,0.928,"{""commentCount"":10557468 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-10 10:14,Playlist,Failed,1.388,Timeout or Error
-2026-08-10 12:47,Video,Failed,0.57,Timeout or Error
-2026-08-10 12:47,Search,OK,1.223,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-10 12:47,Channel,Failed,0.605,Timeout or Error
-2026-08-10 12:47,Comments,OK,0.894,"{""commentCount"":10557633 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-10 12:47,Playlist,Failed,0.714,Timeout or Error
-2026-08-10 14:19,Video,Failed,0.791,Timeout or Error
-2026-08-10 14:19,Search,OK,1.234,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-10 14:19,Channel,Failed,0.702,Timeout or Error
-2026-08-10 14:19,Comments,OK,0.939,"{""commentCount"":10557705 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-10 14:19,Playlist,Failed,0.877,Timeout or Error
 2026-08-10 16:18,Video,Failed,0.322,Timeout or Error
 2026-08-10 16:18,Search,OK,1.012,"[{""type"":""video"" ""title"":""EVERYTHING we've optimized | Final team test before the Ultracycling World"
 2026-08-10 16:18,Channel,Failed,0.625,Timeout or Error
@@ -2174,3 +2159,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-09-09 09:58,Channel,Failed,0.15,Timeout or Error
 2026-09-09 09:58,Comments,Failed,0.147,Timeout or Error
 2026-09-09 09:58,Playlist,Failed,0.15,Timeout or Error
+2026-09-09 14:46,Video,Failed,0.094,Timeout or Error
+2026-09-09 14:46,Search,Failed,0.094,Timeout or Error
+2026-09-09 14:46,Channel,Failed,0.106,Timeout or Error
+2026-09-09 14:46,Comments,Failed,0.098,Timeout or Error
+2026-09-09 14:46,Playlist,Failed,0.097,Timeout or Error
