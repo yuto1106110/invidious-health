@@ -1,19 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-08-11 03:47,Video,Failed,0.504,Timeout or Error
-2026-08-11 03:47,Search,OK,1.174,"[{""type"":""video"" ""title"":""Aldi: Lyttos Zatziki vs. Gyros Chips sowie Japanese-Cheesecake-Eis im Test"
-2026-08-11 03:47,Channel,Failed,0.615,Timeout or Error
-2026-08-11 03:47,Comments,OK,0.805,"{""commentCount"":10558621 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-11 03:47,Playlist,Failed,0.861,Timeout or Error
-2026-08-11 04:50,Video,Failed,0.673,Timeout or Error
-2026-08-11 04:50,Search,OK,1.341,"[{""type"":""video"" ""title"":""Aldi: Lyttos Zatziki vs. Gyros Chips sowie Japanese-Cheesecake-Eis im Test"
-2026-08-11 04:50,Channel,Failed,0.689,Timeout or Error
-2026-08-11 04:50,Comments,OK,1.101,"{""commentCount"":10558688 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-11 04:50,Playlist,Failed,1.009,Timeout or Error
-2026-08-11 05:34,Video,Failed,0.527,Timeout or Error
-2026-08-11 05:34,Search,OK,1.184,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-11 05:34,Channel,Failed,0.606,Timeout or Error
-2026-08-11 05:34,Comments,OK,0.877,"{""commentCount"":10558712 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-11 05:34,Playlist,Failed,0.811,Timeout or Error
 2026-08-11 06:34,Video,Failed,0.465,Timeout or Error
 2026-08-11 06:34,Search,OK,1.037,"[{""type"":""video"" ""title"":""2027 VW ID3 Neo driving REVIEW with range and charging test - maybe better"
 2026-08-11 06:34,Channel,Failed,0.495,Timeout or Error
@@ -2139,3 +2124,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-09-10 03:21,Channel,Failed,0.134,Timeout or Error
 2026-09-10 03:21,Comments,Failed,0.131,Timeout or Error
 2026-09-10 03:21,Playlist,Failed,0.133,Timeout or Error
+2026-09-10 06:27,Video,Failed,0.095,Timeout or Error
+2026-09-10 06:27,Search,Failed,0.095,Timeout or Error
+2026-09-10 06:27,Channel,Failed,0.096,Timeout or Error
+2026-09-10 06:27,Comments,Failed,0.095,Timeout or Error
+2026-09-10 06:27,Playlist,Failed,0.095,Timeout or Error
