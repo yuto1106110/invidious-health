@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-08-10 16:18,Video,Failed,0.322,Timeout or Error
-2026-08-10 16:18,Search,OK,1.012,"[{""type"":""video"" ""title"":""EVERYTHING we've optimized | Final team test before the Ultracycling World"
-2026-08-10 16:18,Channel,Failed,0.625,Timeout or Error
-2026-08-10 16:18,Comments,OK,0.778,"{""commentCount"":10557756 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-10 16:18,Playlist,Failed,0.826,Timeout or Error
-2026-08-10 18:12,Video,Failed,0.641,Timeout or Error
-2026-08-10 18:12,Search,OK,1.092,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-10 18:12,Channel,Failed,0.62,Timeout or Error
-2026-08-10 18:12,Comments,OK,0.976,"{""commentCount"":10557776 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-10 18:12,Playlist,Failed,0.902,Timeout or Error
 2026-08-10 20:01,Video,Failed,0.668,Timeout or Error
 2026-08-10 20:01,Search,Failed,1.325,Timeout or Error
 2026-08-10 20:01,Channel,Failed,0.474,Timeout or Error
@@ -2164,3 +2154,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-09-09 14:46,Channel,Failed,0.106,Timeout or Error
 2026-09-09 14:46,Comments,Failed,0.098,Timeout or Error
 2026-09-09 14:46,Playlist,Failed,0.097,Timeout or Error
+2026-09-09 19:35,Video,Failed,0.136,Timeout or Error
+2026-09-09 19:35,Search,Failed,0.136,Timeout or Error
+2026-09-09 19:35,Channel,Failed,0.137,Timeout or Error
+2026-09-09 19:35,Comments,Failed,0.136,Timeout or Error
+2026-09-09 19:35,Playlist,Failed,0.136,Timeout or Error
