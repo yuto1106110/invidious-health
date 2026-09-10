@@ -1,19 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-08-12 01:52,Video,OK,0.854,
-2026-08-12 01:52,Search,OK,1.464,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-12 01:52,Channel,Failed,1.297,Timeout or Error
-2026-08-12 01:52,Comments,OK,1.25,"{""commentCount"":10559568 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-12 01:52,Playlist,Failed,0.819,Timeout or Error
-2026-08-12 02:53,Video,OK,0.978,
-2026-08-12 02:53,Search,OK,1.261,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-12 02:53,Channel,Failed,0.582,Timeout or Error
-2026-08-12 02:53,Comments,OK,0.962,"{""commentCount"":10559616 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-12 02:53,Playlist,Failed,0.788,Timeout or Error
-2026-08-12 03:53,Video,OK,1.653,
-2026-08-12 03:53,Search,OK,0.921,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-12 03:53,Channel,Failed,0.807,Timeout or Error
-2026-08-12 03:53,Comments,OK,0.666,"{""commentCount"":10559697 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-12 03:53,Playlist,Failed,0.9,Timeout or Error
 2026-08-12 04:57,Video,OK,2.818,
 2026-08-12 04:57,Search,OK,2.428,"[{""type"":""video"" ""title"":""RTX 3080 vs RTX 5060 Ti - Test in 10 Games | 1440p & 4K"" ""videoId"":""QkvSjs"
 2026-08-12 04:57,Channel,Failed,0.888,Timeout or Error
@@ -2084,3 +2069,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-09-11 01:50,Channel,Failed,0.607,Timeout or Error
 2026-09-11 01:50,Comments,OK,1.325,"{""commentCount"":10614841 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-09-11 01:50,Playlist,Failed,1.243,Timeout or Error
+2026-09-11 04:25,Video,OK,0.946,
+2026-09-11 04:25,Search,OK,1.158,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-09-11 04:25,Channel,Failed,0.645,Timeout or Error
+2026-09-11 04:25,Comments,OK,0.892,"{""commentCount"":10615212 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-09-11 04:25,Playlist,Failed,0.615,Timeout or Error

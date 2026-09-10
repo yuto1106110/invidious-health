@@ -1,19 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-08-12 01:52,Video,Failed,1.705,Timeout or Error
-2026-08-12 01:52,Search,Failed,1.705,Timeout or Error
-2026-08-12 01:52,Channel,Failed,1.704,Timeout or Error
-2026-08-12 01:52,Comments,Failed,1.694,Timeout or Error
-2026-08-12 01:52,Playlist,Failed,1.672,Timeout or Error
-2026-08-12 02:53,Video,Failed,1.7,Timeout or Error
-2026-08-12 02:53,Search,Failed,1.639,Timeout or Error
-2026-08-12 02:53,Channel,Failed,1.638,Timeout or Error
-2026-08-12 02:53,Comments,Failed,1.795,Timeout or Error
-2026-08-12 02:53,Playlist,Failed,1.301,Timeout or Error
-2026-08-12 03:53,Video,OK,0.336,
-2026-08-12 03:53,Search,OK,0.993,"[{""type"":""video"" ""title"":""Netto: \""Jaytie’s\"" Crispy Chicken Burger & Tenders Box im Test #netto #cr"
-2026-08-12 03:53,Channel,Failed,0.52,Timeout or Error
-2026-08-12 03:53,Comments,OK,0.897,"{""commentCount"":10559700 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-12 03:53,Playlist,Failed,0.781,Timeout or Error
 2026-08-12 04:57,Video,OK,0.744,
 2026-08-12 04:57,Search,OK,1.284,"[{""type"":""video"" ""title"":""Das 49€ Wunder von PARKSIDE: Besser als 500€-Sägen?!"" ""videoId"":""y_S4GlrZq"
 2026-08-12 04:57,Channel,Failed,0.695,Timeout or Error
@@ -2084,3 +2069,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-09-11 01:50,Channel,Failed,0.154,Timeout or Error
 2026-09-11 01:50,Comments,Failed,0.15,Timeout or Error
 2026-09-11 01:50,Playlist,Failed,0.157,Timeout or Error
+2026-09-11 04:25,Video,Failed,0.133,Timeout or Error
+2026-09-11 04:25,Search,Failed,0.13,Timeout or Error
+2026-09-11 04:25,Channel,Failed,0.13,Timeout or Error
+2026-09-11 04:25,Comments,Failed,0.133,Timeout or Error
+2026-09-11 04:25,Playlist,Failed,0.13,Timeout or Error
