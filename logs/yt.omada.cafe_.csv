@@ -1,19 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-08-11 21:50,Video,Failed,1.332,Timeout or Error
-2026-08-11 21:50,Search,OK,1.06,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-11 21:50,Channel,Failed,0.605,Timeout or Error
-2026-08-11 21:50,Comments,OK,0.613,"{""commentCount"":10559382 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-11 21:50,Playlist,Failed,0.48,Timeout or Error
-2026-08-11 23:15,Video,Failed,1.809,Timeout or Error
-2026-08-11 23:15,Search,OK,1.453,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-11 23:15,Channel,Failed,1.028,Timeout or Error
-2026-08-11 23:15,Comments,OK,0.886,"{""commentCount"":10559433 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-11 23:15,Playlist,Failed,0.784,Timeout or Error
-2026-08-12 00:54,Video,Failed,1.184,Timeout or Error
-2026-08-12 00:54,Search,OK,1.134,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-12 00:54,Channel,Failed,0.43,Timeout or Error
-2026-08-12 00:54,Comments,OK,0.93,"{""commentCount"":10559507 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-12 00:54,Playlist,Failed,0.515,Timeout or Error
 2026-08-12 01:52,Video,OK,0.854,
 2026-08-12 01:52,Search,OK,1.464,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-08-12 01:52,Channel,Failed,1.297,Timeout or Error
@@ -2094,3 +2079,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-09-10 21:36,Channel,Failed,0.555,Timeout or Error
 2026-09-10 21:36,Comments,OK,1.208,"{""commentCount"":10614289 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-09-10 21:36,Playlist,Failed,0.594,Timeout or Error
+2026-09-11 01:50,Video,OK,0.567,
+2026-09-11 01:50,Search,OK,1.519,"[{""type"":""video"" ""title"":""Cool Hearing test"" ""videoId"":""h5l4Rt4Ol7M"" ""author"":""ScienceForum"" ""author"
+2026-09-11 01:50,Channel,Failed,0.607,Timeout or Error
+2026-09-11 01:50,Comments,OK,1.325,"{""commentCount"":10614841 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-09-11 01:50,Playlist,Failed,1.243,Timeout or Error
