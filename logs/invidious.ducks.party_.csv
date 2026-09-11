@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-08-12 10:21,Video,Failed,1.263,Timeout or Error
-2026-08-12 10:21,Search,Failed,1.26,Timeout or Error
-2026-08-12 10:21,Channel,Failed,1.264,Timeout or Error
-2026-08-12 10:21,Comments,Failed,1.258,Timeout or Error
-2026-08-12 10:21,Playlist,Failed,1.262,Timeout or Error
-2026-08-12 13:00,Video,Failed,0.532,Timeout or Error
-2026-08-12 13:00,Search,Failed,0.573,Timeout or Error
-2026-08-12 13:00,Channel,Failed,0.591,Timeout or Error
-2026-08-12 13:00,Comments,Failed,0.576,Timeout or Error
-2026-08-12 13:00,Playlist,Failed,0.598,Timeout or Error
 2026-08-12 14:41,Video,Failed,0.521,Timeout or Error
 2026-08-12 14:41,Search,Failed,1.33,Timeout or Error
 2026-08-12 14:41,Channel,Failed,0.599,Timeout or Error
@@ -2059,3 +2049,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-09-11 09:45,Channel,Failed,0.389,Timeout or Error
 2026-09-11 09:45,Comments,OK,0.55,"{""commentCount"":10615596 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-09-11 09:45,Playlist,Failed,0.372,Timeout or Error
+2026-09-11 14:31,Video,Failed,0.348,Timeout or Error
+2026-09-11 14:31,Search,OK,0.776,"[{""type"":""video"" ""title"":""🚀🚀🚀 Typischer DENKFEHLER im IQ-TEST | Machst DU ihn auch?"" ""videoId"":""CkN3"
+2026-09-11 14:31,Channel,Failed,0.318,Timeout or Error
+2026-09-11 14:31,Comments,OK,0.544,"{""commentCount"":10615799 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-09-11 14:31,Playlist,Failed,0.321,Timeout or Error

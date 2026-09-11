@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-08-12 10:21,Video,Failed,0.498,Timeout or Error
-2026-08-12 10:21,Search,Failed,0.39,Timeout or Error
-2026-08-12 10:21,Channel,Failed,0.603,Timeout or Error
-2026-08-12 10:21,Comments,Failed,0.367,Timeout or Error
-2026-08-12 10:21,Playlist,Failed,0.652,Timeout or Error
-2026-08-12 13:00,Video,Failed,0.469,Timeout or Error
-2026-08-12 13:00,Search,Failed,0.778,Timeout or Error
-2026-08-12 13:00,Channel,Failed,0.624,Timeout or Error
-2026-08-12 13:00,Comments,Failed,0.83,Timeout or Error
-2026-08-12 13:00,Playlist,Failed,0.777,Timeout or Error
 2026-08-12 14:41,Video,Failed,0.63,Timeout or Error
 2026-08-12 14:41,Search,Failed,0.619,Timeout or Error
 2026-08-12 14:41,Channel,Failed,0.468,Timeout or Error
@@ -2059,3 +2049,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-09-11 09:45,Channel,Failed,0.387,Timeout or Error
 2026-09-11 09:45,Comments,Failed,0.819,Timeout or Error
 2026-09-11 09:45,Playlist,Failed,0.385,Timeout or Error
+2026-09-11 14:31,Video,Failed,0.376,Timeout or Error
+2026-09-11 14:31,Search,OK,0.942,"[{""type"":""video"" ""title"":""MARVEL'S WOLVERINE: The SHARP Review 🔥 A Disappointment for the PS5 Exclus"
+2026-09-11 14:31,Channel,Failed,0.569,Timeout or Error
+2026-09-11 14:31,Comments,Failed,0.725,Timeout or Error
+2026-09-11 14:31,Playlist,Failed,0.621,Timeout or Error
