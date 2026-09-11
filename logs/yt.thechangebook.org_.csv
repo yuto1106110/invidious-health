@@ -1,19 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-08-13 03:53,Video,Failed,0.786,Timeout or Error
-2026-08-13 03:53,Search,Failed,0.79,Timeout or Error
-2026-08-13 03:53,Channel,Failed,0.674,Timeout or Error
-2026-08-13 03:53,Comments,Failed,0.673,Timeout or Error
-2026-08-13 03:53,Playlist,Failed,0.401,Timeout or Error
-2026-08-13 04:57,Video,Failed,0.545,Timeout or Error
-2026-08-13 04:57,Search,Failed,0.416,Timeout or Error
-2026-08-13 04:57,Channel,Failed,0.563,Timeout or Error
-2026-08-13 04:57,Comments,Failed,0.556,Timeout or Error
-2026-08-13 04:57,Playlist,Failed,0.485,Timeout or Error
-2026-08-13 05:45,Video,Failed,0.4,Timeout or Error
-2026-08-13 05:45,Search,Failed,0.378,Timeout or Error
-2026-08-13 05:45,Channel,Failed,0.441,Timeout or Error
-2026-08-13 05:45,Comments,Failed,0.306,Timeout or Error
-2026-08-13 05:45,Playlist,Failed,0.403,Timeout or Error
 2026-08-13 06:38,Video,Failed,0.44,Timeout or Error
 2026-08-13 06:38,Search,Failed,0.373,Timeout or Error
 2026-08-13 06:38,Channel,Failed,0.378,Timeout or Error
@@ -2019,3 +2004,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-09-12 03:05,Channel,Failed,0.678,Timeout or Error
 2026-09-12 03:05,Comments,Failed,1.115,Timeout or Error
 2026-09-12 03:05,Playlist,Failed,0.535,Timeout or Error
+2026-09-12 06:30,Video,Failed,0.49,Timeout or Error
+2026-09-12 06:30,Search,OK,0.882,"[{""type"":""video"" ""title"":""QUIZ CULTURE GÉNÉRALE #3  60 QUESTIONS"" ""videoId"":""pK6XQrZDACE"" ""author"":"""
+2026-09-12 06:30,Channel,Failed,0.355,Timeout or Error
+2026-09-12 06:30,Comments,Failed,0.718,Timeout or Error
+2026-09-12 06:30,Playlist,Failed,0.339,Timeout or Error

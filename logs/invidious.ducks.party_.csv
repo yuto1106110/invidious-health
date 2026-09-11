@@ -1,19 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-08-13 03:53,Video,Failed,0.427,Timeout or Error
-2026-08-13 03:53,Search,Failed,0.435,Timeout or Error
-2026-08-13 03:53,Channel,Failed,0.43,Timeout or Error
-2026-08-13 03:53,Comments,Failed,0.422,Timeout or Error
-2026-08-13 03:53,Playlist,Failed,0.422,Timeout or Error
-2026-08-13 04:57,Video,Failed,0.304,Timeout or Error
-2026-08-13 04:57,Search,Failed,0.304,Timeout or Error
-2026-08-13 04:57,Channel,Failed,0.305,Timeout or Error
-2026-08-13 04:57,Comments,Failed,0.306,Timeout or Error
-2026-08-13 04:57,Playlist,Failed,0.303,Timeout or Error
-2026-08-13 05:45,Video,Failed,0.304,Timeout or Error
-2026-08-13 05:45,Search,Failed,0.303,Timeout or Error
-2026-08-13 05:45,Channel,Failed,0.303,Timeout or Error
-2026-08-13 05:45,Comments,Failed,0.303,Timeout or Error
-2026-08-13 05:45,Playlist,Failed,0.302,Timeout or Error
 2026-08-13 06:38,Video,Failed,0.304,Timeout or Error
 2026-08-13 06:38,Search,Failed,0.304,Timeout or Error
 2026-08-13 06:38,Channel,Failed,0.299,Timeout or Error
@@ -2019,3 +2004,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-09-12 03:05,Channel,Failed,0.543,Timeout or Error
 2026-09-12 03:05,Comments,OK,0.898,"{""commentCount"":10615926 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-09-12 03:05,Playlist,Failed,0.503,Timeout or Error
+2026-09-12 06:30,Video,Failed,0.35,Timeout or Error
+2026-09-12 06:30,Search,OK,0.701,"[{""type"":""video"" ""title"":""Heftiges Action-Fest mit EINEM PROBLEM! Marvel's Wolverine TEST / REVIEW"" "
+2026-09-12 06:30,Channel,Failed,0.316,Timeout or Error
+2026-09-12 06:30,Comments,OK,0.606,"{""commentCount"":10616407 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-09-12 06:30,Playlist,Failed,0.324,Timeout or Error
