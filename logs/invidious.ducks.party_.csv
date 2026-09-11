@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-08-12 07:34,Video,Failed,0.355,Timeout or Error
-2026-08-12 07:34,Search,Failed,1.211,Timeout or Error
-2026-08-12 07:34,Channel,Failed,1.212,Timeout or Error
-2026-08-12 07:34,Comments,Failed,1.219,Timeout or Error
-2026-08-12 07:34,Playlist,Failed,1.216,Timeout or Error
-2026-08-12 08:33,Video,Failed,1.212,Timeout or Error
-2026-08-12 08:33,Search,Failed,1.212,Timeout or Error
-2026-08-12 08:33,Channel,Failed,1.214,Timeout or Error
-2026-08-12 08:33,Comments,Failed,1.214,Timeout or Error
-2026-08-12 08:33,Playlist,Failed,1.208,Timeout or Error
 2026-08-12 10:21,Video,Failed,1.263,Timeout or Error
 2026-08-12 10:21,Search,Failed,1.26,Timeout or Error
 2026-08-12 10:21,Channel,Failed,1.264,Timeout or Error
@@ -2064,3 +2054,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-09-11 07:10,Channel,Failed,0.487,Timeout or Error
 2026-09-11 07:10,Comments,Failed,1.295,Timeout or Error
 2026-09-11 07:10,Playlist,Failed,0.462,Timeout or Error
+2026-09-11 09:45,Video,Failed,0.397,Timeout or Error
+2026-09-11 09:45,Search,OK,0.788,"[{""type"":""video"" ""title"":""Diese Hölle ist der Himmel! - Valheim 1.0 im Test"" ""videoId"":""tUXxo631iLs"""
+2026-09-11 09:45,Channel,Failed,0.389,Timeout or Error
+2026-09-11 09:45,Comments,OK,0.55,"{""commentCount"":10615596 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-09-11 09:45,Playlist,Failed,0.372,Timeout or Error

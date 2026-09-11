@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-08-12 07:34,Video,Failed,0.397,Timeout or Error
-2026-08-12 07:34,Search,Failed,0.375,Timeout or Error
-2026-08-12 07:34,Channel,Failed,0.574,Timeout or Error
-2026-08-12 07:34,Comments,Failed,0.385,Timeout or Error
-2026-08-12 07:34,Playlist,Failed,0.282,Timeout or Error
-2026-08-12 08:33,Video,Failed,0.385,Timeout or Error
-2026-08-12 08:33,Search,Failed,0.393,Timeout or Error
-2026-08-12 08:33,Channel,Failed,0.381,Timeout or Error
-2026-08-12 08:33,Comments,Failed,0.459,Timeout or Error
-2026-08-12 08:33,Playlist,Failed,0.552,Timeout or Error
 2026-08-12 10:21,Video,Failed,0.498,Timeout or Error
 2026-08-12 10:21,Search,Failed,0.39,Timeout or Error
 2026-08-12 10:21,Channel,Failed,0.603,Timeout or Error
@@ -2064,3 +2054,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-09-11 07:10,Channel,Failed,0.451,Timeout or Error
 2026-09-11 07:10,Comments,Failed,1.277,Timeout or Error
 2026-09-11 07:10,Playlist,Failed,0.465,Timeout or Error
+2026-09-11 09:45,Video,Failed,0.723,Timeout or Error
+2026-09-11 09:45,Search,OK,1.155,"[{""type"":""video"" ""title"":""TEST Marvel's Wolverine : L'exclu PS5 la plus brutale de l'année ! 🔵 TEST "
+2026-09-11 09:45,Channel,Failed,0.387,Timeout or Error
+2026-09-11 09:45,Comments,Failed,0.819,Timeout or Error
+2026-09-11 09:45,Playlist,Failed,0.385,Timeout or Error
