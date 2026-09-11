@@ -1,24 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-08-12 19:55,Video,Failed,1.254,Timeout or Error
-2026-08-12 19:55,Search,Failed,0.735,Timeout or Error
-2026-08-12 19:55,Channel,Failed,1.246,Timeout or Error
-2026-08-12 19:55,Comments,Failed,1.273,Timeout or Error
-2026-08-12 19:55,Playlist,Failed,1.264,Timeout or Error
-2026-08-12 20:41,Video,Failed,0.3,Timeout or Error
-2026-08-12 20:41,Search,Failed,0.299,Timeout or Error
-2026-08-12 20:41,Channel,Failed,0.304,Timeout or Error
-2026-08-12 20:41,Comments,Failed,0.309,Timeout or Error
-2026-08-12 20:41,Playlist,Failed,0.303,Timeout or Error
-2026-08-12 21:54,Video,Failed,0.474,Timeout or Error
-2026-08-12 21:54,Search,Failed,0.475,Timeout or Error
-2026-08-12 21:54,Channel,Failed,0.479,Timeout or Error
-2026-08-12 21:54,Comments,Failed,0.481,Timeout or Error
-2026-08-12 21:54,Playlist,Failed,0.481,Timeout or Error
-2026-08-12 23:17,Video,Failed,0.304,Timeout or Error
-2026-08-12 23:17,Search,Failed,0.301,Timeout or Error
-2026-08-12 23:17,Channel,Failed,0.304,Timeout or Error
-2026-08-12 23:17,Comments,Failed,0.303,Timeout or Error
-2026-08-12 23:17,Playlist,Failed,0.302,Timeout or Error
 2026-08-13 00:53,Video,Failed,0.304,Timeout or Error
 2026-08-13 00:53,Search,Failed,0.3,Timeout or Error
 2026-08-13 00:53,Channel,Failed,0.301,Timeout or Error
@@ -2044,3 +2024,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-09-11 19:25,Channel,Failed,0.345,Timeout or Error
 2026-09-11 19:25,Comments,OK,0.59,"{""commentCount"":10616130 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-09-11 19:25,Playlist,Failed,0.34,Timeout or Error
+2026-09-11 23:47,Video,Failed,0.855,Timeout or Error
+2026-09-11 23:47,Search,OK,1.264,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-09-11 23:47,Channel,Failed,0.567,Timeout or Error
+2026-09-11 23:47,Comments,OK,0.848,"{""commentCount"":10616483 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-09-11 23:47,Playlist,Failed,0.59,Timeout or Error
