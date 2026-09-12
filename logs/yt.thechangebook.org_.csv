@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-08-13 13:04,Video,Failed,0.38,Timeout or Error
-2026-08-13 13:04,Search,Failed,0.517,Timeout or Error
-2026-08-13 13:04,Channel,Failed,0.398,Timeout or Error
-2026-08-13 13:04,Comments,Failed,0.384,Timeout or Error
-2026-08-13 13:04,Playlist,Failed,0.359,Timeout or Error
-2026-08-13 15:11,Video,Failed,0.401,Timeout or Error
-2026-08-13 15:11,Search,Failed,0.549,Timeout or Error
-2026-08-13 15:11,Channel,Failed,0.397,Timeout or Error
-2026-08-13 15:11,Comments,Failed,0.402,Timeout or Error
-2026-08-13 15:11,Playlist,Failed,0.527,Timeout or Error
 2026-08-13 17:14,Video,Failed,0.763,Timeout or Error
 2026-08-13 17:14,Search,Failed,0.461,Timeout or Error
 2026-08-13 17:14,Channel,Failed,0.911,Timeout or Error
@@ -1999,3 +1989,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-09-12 11:40,Channel,Failed,0.54,Timeout or Error
 2026-09-12 11:40,Comments,Failed,0.542,Timeout or Error
 2026-09-12 11:40,Playlist,Failed,0.419,Timeout or Error
+2026-09-12 16:35,Video,Failed,0.595,Timeout or Error
+2026-09-12 16:35,Search,OK,1.158,"[{""type"":""video"" ""title"":""🧠 Devine le LOGO en 3 SECONDES ✅🔥🤔 | 300 Logos Célèbres | Quiz Logos 2024"""
+2026-09-12 16:35,Channel,Failed,0.34,Timeout or Error
+2026-09-12 16:35,Comments,Failed,0.805,Timeout or Error
+2026-09-12 16:35,Playlist,Failed,0.391,Timeout or Error
