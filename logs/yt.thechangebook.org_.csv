@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-08-13 10:23,Video,Failed,0.623,Timeout or Error
-2026-08-13 10:23,Search,Failed,0.466,Timeout or Error
-2026-08-13 10:23,Channel,Failed,0.771,Timeout or Error
-2026-08-13 10:23,Comments,Failed,0.476,Timeout or Error
-2026-08-13 10:23,Playlist,Failed,0.467,Timeout or Error
 2026-08-13 13:04,Video,Failed,0.38,Timeout or Error
 2026-08-13 13:04,Search,Failed,0.517,Timeout or Error
 2026-08-13 13:04,Channel,Failed,0.398,Timeout or Error
@@ -1999,3 +1994,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-09-12 08:47,Channel,Failed,0.487,Timeout or Error
 2026-09-12 08:47,Comments,Failed,0.891,Timeout or Error
 2026-09-12 08:47,Playlist,Failed,0.39,Timeout or Error
+2026-09-12 11:40,Video,Failed,0.572,Timeout or Error
+2026-09-12 11:40,Search,OK,0.907,"[{""type"":""video"" ""title"":""QUIZ CULTURE GÉNÉRALE #3  60 QUESTIONS"" ""videoId"":""pK6XQrZDACE"" ""author"":"""
+2026-09-12 11:40,Channel,Failed,0.54,Timeout or Error
+2026-09-12 11:40,Comments,Failed,0.542,Timeout or Error
+2026-09-12 11:40,Playlist,Failed,0.419,Timeout or Error
