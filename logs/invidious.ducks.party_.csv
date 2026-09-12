@@ -1,19 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-08-14 02:52,Video,Failed,1.504,Timeout or Error
-2026-08-14 02:52,Search,Failed,1.504,Timeout or Error
-2026-08-14 02:52,Channel,Failed,1.504,Timeout or Error
-2026-08-14 02:52,Comments,Failed,1.504,Timeout or Error
-2026-08-14 02:52,Playlist,Failed,1.504,Timeout or Error
-2026-08-14 03:54,Video,Failed,1.504,Timeout or Error
-2026-08-14 03:54,Search,Failed,1.504,Timeout or Error
-2026-08-14 03:54,Channel,Failed,1.504,Timeout or Error
-2026-08-14 03:54,Comments,Failed,1.504,Timeout or Error
-2026-08-14 03:54,Playlist,Failed,1.504,Timeout or Error
-2026-08-14 04:53,Video,Failed,1.504,Timeout or Error
-2026-08-14 04:53,Search,Failed,1.504,Timeout or Error
-2026-08-14 04:53,Channel,Failed,1.504,Timeout or Error
-2026-08-14 04:53,Comments,Failed,1.504,Timeout or Error
-2026-08-14 04:53,Playlist,Failed,1.504,Timeout or Error
 2026-08-14 05:35,Video,Failed,1.504,Timeout or Error
 2026-08-14 05:35,Search,Failed,1.504,Timeout or Error
 2026-08-14 05:35,Channel,Failed,1.504,Timeout or Error
@@ -1969,3 +1954,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-09-13 02:37,Channel,Failed,0.452,Timeout or Error
 2026-09-13 02:37,Comments,OK,0.782,"{""commentCount"":10617119 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-09-13 02:37,Playlist,Failed,0.468,Timeout or Error
+2026-09-13 05:00,Video,Failed,0.362,Timeout or Error
+2026-09-13 05:00,Search,OK,0.889,"[{""type"":""video"" ""title"":""5.1 Speaker Surround Sound Test | Real Dolby Home Theater Speaker Demo"" ""v"
+2026-09-13 05:00,Channel,Failed,0.336,Timeout or Error
+2026-09-13 05:00,Comments,OK,0.613,"{""commentCount"":10617464 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-09-13 05:00,Playlist,Failed,0.37,Timeout or Error
