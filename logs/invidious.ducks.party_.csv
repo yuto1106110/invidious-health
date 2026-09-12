@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-08-13 21:55,Video,Failed,1.505,Timeout or Error
-2026-08-13 21:55,Search,Failed,1.504,Timeout or Error
-2026-08-13 21:55,Channel,Failed,1.504,Timeout or Error
-2026-08-13 21:55,Comments,Failed,1.504,Timeout or Error
-2026-08-13 21:55,Playlist,Failed,1.504,Timeout or Error
-2026-08-13 23:19,Video,Failed,1.504,Timeout or Error
-2026-08-13 23:19,Search,Failed,1.504,Timeout or Error
-2026-08-13 23:19,Channel,Failed,1.504,Timeout or Error
-2026-08-13 23:19,Comments,Failed,1.504,Timeout or Error
-2026-08-13 23:19,Playlist,Failed,1.504,Timeout or Error
 2026-08-14 00:53,Video,Failed,1.504,Timeout or Error
 2026-08-14 00:53,Search,Failed,1.504,Timeout or Error
 2026-08-14 00:53,Channel,Failed,1.504,Timeout or Error
@@ -1979,3 +1969,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-09-12 20:53,Channel,Failed,0.382,Timeout or Error
 2026-09-12 20:53,Comments,OK,0.684,"{""commentCount"":10616052 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-09-12 20:53,Playlist,Failed,0.42,Timeout or Error
+2026-09-12 23:49,Video,Failed,0.524,Timeout or Error
+2026-09-12 23:49,Search,OK,1.2,"[{""type"":""video"" ""title"":""Indian 101 Scout | Test (deutsch) 2026"" ""videoId"":""143IQ-p-ogk"" ""author"":"""
+2026-09-12 23:49,Channel,Failed,0.507,Timeout or Error
+2026-09-12 23:49,Comments,OK,1.183,"{""commentCount"":10616570 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-09-12 23:49,Playlist,Failed,0.515,Timeout or Error
