@@ -1,24 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-08-13 17:14,Video,Failed,0.996,Timeout or Error
-2026-08-13 17:14,Search,Failed,1.37,Timeout or Error
-2026-08-13 17:14,Channel,Failed,0.805,Timeout or Error
-2026-08-13 17:14,Comments,OK,0.921,"{""commentCount"":10560858 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-13 17:14,Playlist,Failed,0.995,Timeout or Error
-2026-08-13 18:57,Video,Failed,1.681,Timeout or Error
-2026-08-13 18:57,Search,Failed,1.716,Timeout or Error
-2026-08-13 18:57,Channel,Failed,1.105,Timeout or Error
-2026-08-13 18:57,Comments,OK,1.166,"{""commentCount"":10560884 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-13 18:57,Playlist,Failed,1.303,Timeout or Error
-2026-08-13 19:59,Video,Failed,1.301,Timeout or Error
-2026-08-13 19:59,Search,Failed,1.23,Timeout or Error
-2026-08-13 19:59,Channel,Failed,2.906,Timeout or Error
-2026-08-13 19:59,Comments,Failed,1.617,Timeout or Error
-2026-08-13 19:59,Playlist,Failed,1.61,Timeout or Error
-2026-08-13 20:51,Video,OK,0.785,
-2026-08-13 20:51,Search,OK,1.209,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-13 20:51,Channel,Failed,0.596,Timeout or Error
-2026-08-13 20:51,Comments,OK,1.076,"{""commentCount"":10560928 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-13 20:51,Playlist,Failed,0.921,Timeout or Error
 2026-08-13 21:55,Video,Failed,1.615,Timeout or Error
 2026-08-13 21:55,Search,Failed,1.617,Timeout or Error
 2026-08-13 21:55,Channel,Failed,1.664,Timeout or Error
@@ -1994,3 +1974,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-09-12 16:35,Channel,Failed,0.098,Timeout or Error
 2026-09-12 16:35,Comments,Failed,0.094,Timeout or Error
 2026-09-12 16:35,Playlist,Failed,0.099,Timeout or Error
+2026-09-12 20:53,Video,Failed,0.103,Timeout or Error
+2026-09-12 20:53,Search,Failed,0.11,Timeout or Error
+2026-09-12 20:53,Channel,Failed,0.102,Timeout or Error
+2026-09-12 20:53,Comments,Failed,0.105,Timeout or Error
+2026-09-12 20:53,Playlist,Failed,0.104,Timeout or Error

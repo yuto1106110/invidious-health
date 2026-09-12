@@ -1,24 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-08-13 17:14,Video,Failed,0.763,Timeout or Error
-2026-08-13 17:14,Search,Failed,0.461,Timeout or Error
-2026-08-13 17:14,Channel,Failed,0.911,Timeout or Error
-2026-08-13 17:14,Comments,Failed,0.616,Timeout or Error
-2026-08-13 17:14,Playlist,Failed,0.462,Timeout or Error
-2026-08-13 18:57,Video,Failed,0.463,Timeout or Error
-2026-08-13 18:57,Search,Failed,0.765,Timeout or Error
-2026-08-13 18:57,Channel,Failed,0.463,Timeout or Error
-2026-08-13 18:57,Comments,Failed,0.753,Timeout or Error
-2026-08-13 18:57,Playlist,Failed,0.629,Timeout or Error
-2026-08-13 19:59,Video,Failed,0.379,Timeout or Error
-2026-08-13 19:59,Search,Failed,0.377,Timeout or Error
-2026-08-13 19:59,Channel,Failed,0.495,Timeout or Error
-2026-08-13 19:59,Comments,Failed,0.377,Timeout or Error
-2026-08-13 19:59,Playlist,Failed,0.278,Timeout or Error
-2026-08-13 20:51,Video,Failed,0.736,Timeout or Error
-2026-08-13 20:51,Search,Failed,0.608,Timeout or Error
-2026-08-13 20:51,Channel,Failed,0.623,Timeout or Error
-2026-08-13 20:51,Comments,Failed,0.603,Timeout or Error
-2026-08-13 20:51,Playlist,Failed,0.83,Timeout or Error
 2026-08-13 21:55,Video,Failed,0.383,Timeout or Error
 2026-08-13 21:55,Search,Failed,0.567,Timeout or Error
 2026-08-13 21:55,Channel,Failed,0.285,Timeout or Error
@@ -1994,3 +1974,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-09-12 16:35,Channel,Failed,0.34,Timeout or Error
 2026-09-12 16:35,Comments,Failed,0.805,Timeout or Error
 2026-09-12 16:35,Playlist,Failed,0.391,Timeout or Error
+2026-09-12 20:53,Video,Failed,0.422,Timeout or Error
+2026-09-12 20:53,Search,OK,1.212,"[{""type"":""video"" ""title"":""TEST WOLVERINE : On a adoré  mais il manque un truc... 🔵 TEST PS5"" ""videoI"
+2026-09-12 20:53,Channel,Failed,0.622,Timeout or Error
+2026-09-12 20:53,Comments,Failed,0.98,Timeout or Error
+2026-09-12 20:53,Playlist,Failed,0.445,Timeout or Error
