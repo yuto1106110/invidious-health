@@ -1,19 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-08-14 05:35,Video,Failed,0.433,Timeout or Error
-2026-08-14 05:35,Search,Failed,0.452,Timeout or Error
-2026-08-14 05:35,Channel,Failed,0.456,Timeout or Error
-2026-08-14 05:35,Comments,OK,0.466,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
-2026-08-14 05:35,Playlist,OK,0.442,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
-2026-08-14 06:38,Video,Failed,0.482,Timeout or Error
-2026-08-14 06:38,Search,Failed,0.481,Timeout or Error
-2026-08-14 06:38,Channel,Failed,0.469,Timeout or Error
-2026-08-14 06:38,Comments,OK,0.488,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
-2026-08-14 06:38,Playlist,OK,0.486,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
-2026-08-14 07:34,Video,Failed,0.481,Timeout or Error
-2026-08-14 07:34,Search,Failed,0.476,Timeout or Error
-2026-08-14 07:34,Channel,Failed,0.488,Timeout or Error
-2026-08-14 07:34,Comments,OK,0.486,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
-2026-08-14 07:34,Playlist,OK,0.47,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
 2026-08-14 08:34,Video,Failed,0.382,Timeout or Error
 2026-08-14 08:34,Search,Failed,0.368,Timeout or Error
 2026-08-14 08:34,Channel,Failed,0.385,Timeout or Error
@@ -1959,3 +1944,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-09-13 05:00,Channel,Failed,0.3,Timeout or Error
 2026-09-13 05:00,Comments,Failed,1.208,Timeout or Error
 2026-09-13 05:00,Playlist,Failed,1.208,Timeout or Error
+2026-09-13 07:45,Video,Failed,0.302,Timeout or Error
+2026-09-13 07:45,Search,Failed,0.302,Timeout or Error
+2026-09-13 07:45,Channel,Failed,0.294,Timeout or Error
+2026-09-13 07:45,Comments,OK,0.293,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
+2026-09-13 07:45,Playlist,OK,0.294,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"

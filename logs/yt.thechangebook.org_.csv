@@ -1,19 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-08-14 05:35,Video,Failed,0.441,Timeout or Error
-2026-08-14 05:35,Search,Failed,0.459,Timeout or Error
-2026-08-14 05:35,Channel,Failed,0.444,Timeout or Error
-2026-08-14 05:35,Comments,Failed,0.818,Timeout or Error
-2026-08-14 05:35,Playlist,Failed,0.462,Timeout or Error
-2026-08-14 06:38,Video,Failed,0.845,Timeout or Error
-2026-08-14 06:38,Search,Failed,0.614,Timeout or Error
-2026-08-14 06:38,Channel,Failed,0.459,Timeout or Error
-2026-08-14 06:38,Comments,Failed,0.459,Timeout or Error
-2026-08-14 06:38,Playlist,Failed,0.46,Timeout or Error
-2026-08-14 07:34,Video,Failed,0.462,Timeout or Error
-2026-08-14 07:34,Search,Failed,0.615,Timeout or Error
-2026-08-14 07:34,Channel,Failed,0.846,Timeout or Error
-2026-08-14 07:34,Comments,Failed,0.462,Timeout or Error
-2026-08-14 07:34,Playlist,Failed,0.46,Timeout or Error
 2026-08-14 08:34,Video,Failed,0.526,Timeout or Error
 2026-08-14 08:34,Search,Failed,0.384,Timeout or Error
 2026-08-14 08:34,Channel,Failed,0.687,Timeout or Error
@@ -1959,3 +1944,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-09-13 05:00,Channel,Failed,0.481,Timeout or Error
 2026-09-13 05:00,Comments,Failed,1.167,Timeout or Error
 2026-09-13 05:00,Playlist,Failed,0.364,Timeout or Error
+2026-09-13 07:45,Video,Failed,0.569,Timeout or Error
+2026-09-13 07:45,Search,OK,0.871,"[{""type"":""video"" ""title"":""50 QUESTIONS pour TESTER TON SAVOIR 🧠🤯 | Quiz Culture Générale"" ""videoId"":"
+2026-09-13 07:45,Channel,Failed,0.425,Timeout or Error
+2026-09-13 07:45,Comments,Failed,0.678,Timeout or Error
+2026-09-13 07:45,Playlist,Failed,0.431,Timeout or Error

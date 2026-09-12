@@ -1,19 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-08-14 05:35,Video,OK,0.674,
-2026-08-14 05:35,Search,Failed,1.392,Timeout or Error
-2026-08-14 05:35,Channel,Failed,0.628,Timeout or Error
-2026-08-14 05:35,Comments,OK,1.106,"{""commentCount"":10561171 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-14 05:35,Playlist,Failed,1.179,Timeout or Error
-2026-08-14 06:38,Video,OK,0.673,
-2026-08-14 06:38,Search,OK,1.134,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-14 06:38,Channel,Failed,0.81,Timeout or Error
-2026-08-14 06:38,Comments,OK,0.997,"{""commentCount"":10561201 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-14 06:38,Playlist,Failed,1.244,Timeout or Error
-2026-08-14 07:34,Video,OK,0.788,
-2026-08-14 07:34,Search,OK,1.284,"[{""type"":""video"" ""title"":""Test 2026: WARNUNG – Diese 7 Buttermarken sollten Sie meiden (hier ist der"
-2026-08-14 07:34,Channel,Failed,0.929,Timeout or Error
-2026-08-14 07:34,Comments,OK,1.067,"{""commentCount"":10561236 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-14 07:34,Playlist,Failed,0.967,Timeout or Error
 2026-08-14 08:34,Video,Failed,1.695,Timeout or Error
 2026-08-14 08:34,Search,Failed,0.753,Timeout or Error
 2026-08-14 08:34,Channel,Failed,0.613,Timeout or Error
@@ -1959,3 +1944,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-09-13 05:00,Channel,Failed,0.094,Timeout or Error
 2026-09-13 05:00,Comments,Failed,0.094,Timeout or Error
 2026-09-13 05:00,Playlist,Failed,0.094,Timeout or Error
+2026-09-13 07:45,Video,Failed,0.1,Timeout or Error
+2026-09-13 07:45,Search,Failed,0.099,Timeout or Error
+2026-09-13 07:45,Channel,Failed,0.099,Timeout or Error
+2026-09-13 07:45,Comments,Failed,0.095,Timeout or Error
+2026-09-13 07:45,Playlist,Failed,0.099,Timeout or Error
