@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-08-14 08:34,Video,OK,0.69,
-2026-08-14 08:34,Search,OK,1.43,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-14 08:34,Channel,Failed,0.896,Timeout or Error
-2026-08-14 08:34,Comments,OK,1.021,"{""commentCount"":10561294 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-14 08:34,Playlist,Failed,0.629,Timeout or Error
 2026-08-14 10:22,Video,OK,1.446,
 2026-08-14 10:22,Search,OK,2.055,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-08-14 10:22,Channel,Failed,0.774,Timeout or Error
@@ -1949,3 +1944,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-09-13 07:45,Channel,Failed,0.345,Timeout or Error
 2026-09-13 07:45,Comments,OK,0.793,"{""commentCount"":10617860 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-09-13 07:45,Playlist,Failed,0.268,Timeout or Error
+2026-09-13 09:32,Video,Failed,1.412,Timeout or Error
+2026-09-13 09:32,Search,OK,0.997,"[{""type"":""video"" ""title"":""25 Odd One Out Questions to Test Your IQ | Find the Odd One Out | Logical "
+2026-09-13 09:32,Channel,Failed,0.315,Timeout or Error
+2026-09-13 09:32,Comments,OK,0.613,"{""commentCount"":10618058 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-09-13 09:32,Playlist,Failed,0.29,Timeout or Error
