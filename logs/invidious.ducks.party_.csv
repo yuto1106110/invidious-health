@@ -1,34 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-08-15 15:26,Video,Failed,0.3,Timeout or Error
-2026-08-15 15:26,Search,Failed,0.308,Timeout or Error
-2026-08-15 15:26,Channel,Failed,0.298,Timeout or Error
-2026-08-15 15:26,Comments,Failed,0.302,Timeout or Error
-2026-08-15 15:26,Playlist,Failed,0.3,Timeout or Error
-2026-08-15 16:24,Video,Failed,0.347,Timeout or Error
-2026-08-15 16:24,Search,Failed,0.344,Timeout or Error
-2026-08-15 16:24,Channel,Failed,0.333,Timeout or Error
-2026-08-15 16:24,Comments,Failed,0.354,Timeout or Error
-2026-08-15 16:24,Playlist,Failed,0.33,Timeout or Error
-2026-08-15 17:19,Video,Failed,0.373,Timeout or Error
-2026-08-15 17:19,Search,Failed,0.388,Timeout or Error
-2026-08-15 17:19,Channel,Failed,0.352,Timeout or Error
-2026-08-15 17:19,Comments,Failed,0.359,Timeout or Error
-2026-08-15 17:19,Playlist,Failed,0.388,Timeout or Error
-2026-08-15 18:19,Video,Failed,0.484,Timeout or Error
-2026-08-15 18:19,Search,Failed,0.48,Timeout or Error
-2026-08-15 18:19,Channel,Failed,0.477,Timeout or Error
-2026-08-15 18:19,Comments,Failed,0.479,Timeout or Error
-2026-08-15 18:19,Playlist,Failed,0.479,Timeout or Error
-2026-08-15 19:15,Video,Failed,0.305,Timeout or Error
-2026-08-15 19:15,Search,Failed,0.303,Timeout or Error
-2026-08-15 19:15,Channel,Failed,0.305,Timeout or Error
-2026-08-15 19:15,Comments,Failed,0.297,Timeout or Error
-2026-08-15 19:15,Playlist,Failed,0.308,Timeout or Error
-2026-08-15 20:13,Video,Failed,0.415,Timeout or Error
-2026-08-15 20:13,Search,Failed,0.427,Timeout or Error
-2026-08-15 20:13,Channel,Failed,0.426,Timeout or Error
-2026-08-15 20:13,Comments,Failed,0.419,Timeout or Error
-2026-08-15 20:13,Playlist,Failed,0.424,Timeout or Error
 2026-08-15 21:24,Video,Failed,0.419,Timeout or Error
 2026-08-15 21:24,Search,Failed,0.414,Timeout or Error
 2026-08-15 21:24,Channel,Failed,0.417,Timeout or Error
@@ -1874,3 +1844,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-09-14 14:38,Channel,Failed,0.319,Timeout or Error
 2026-09-14 14:38,Comments,OK,0.555,"{""commentCount"":10618898 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-09-14 14:38,Playlist,Failed,0.329,Timeout or Error
+2026-09-14 20:29,Video,Failed,0.37,Timeout or Error
+2026-09-14 20:29,Search,OK,0.876,"[{""type"":""video"" ""title"":""5.1 Speaker Surround Sound Test | Real Dolby Home Theater Speaker Demo"" ""v"
+2026-09-14 20:29,Channel,Failed,0.326,Timeout or Error
+2026-09-14 20:29,Comments,OK,0.905,"{""commentCount"":10619261 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-09-14 20:29,Playlist,Failed,0.37,Timeout or Error
