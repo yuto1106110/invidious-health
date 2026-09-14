@@ -1,24 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-08-16 03:18,Video,Failed,0.856,Timeout or Error
-2026-08-16 03:18,Search,Failed,0.766,Timeout or Error
-2026-08-16 03:18,Channel,Failed,0.457,Timeout or Error
-2026-08-16 03:18,Comments,Failed,0.599,Timeout or Error
-2026-08-16 03:18,Playlist,Failed,0.611,Timeout or Error
-2026-08-16 04:16,Video,Failed,0.609,Timeout or Error
-2026-08-16 04:16,Search,Failed,0.7,Timeout or Error
-2026-08-16 04:16,Channel,Failed,0.709,Timeout or Error
-2026-08-16 04:16,Comments,Failed,0.456,Timeout or Error
-2026-08-16 04:16,Playlist,Failed,0.443,Timeout or Error
-2026-08-16 05:14,Video,Failed,0.439,Timeout or Error
-2026-08-16 05:14,Search,Failed,0.421,Timeout or Error
-2026-08-16 05:14,Channel,Failed,0.454,Timeout or Error
-2026-08-16 05:14,Comments,Failed,0.45,Timeout or Error
-2026-08-16 05:14,Playlist,Failed,0.326,Timeout or Error
-2026-08-16 06:14,Video,Failed,0.715,Timeout or Error
-2026-08-16 06:14,Search,Failed,0.71,Timeout or Error
-2026-08-16 06:14,Channel,Failed,0.719,Timeout or Error
-2026-08-16 06:14,Comments,Failed,0.605,Timeout or Error
-2026-08-16 06:14,Playlist,Failed,0.719,Timeout or Error
 2026-08-16 07:14,Video,Failed,0.554,Timeout or Error
 2026-08-16 07:14,Search,Failed,0.389,Timeout or Error
 2026-08-16 07:14,Channel,Failed,0.54,Timeout or Error
@@ -1824,3 +1804,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-09-15 02:25,Channel,Failed,0.465,Timeout or Error
 2026-09-15 02:25,Comments,Failed,0.943,Timeout or Error
 2026-09-15 02:25,Playlist,Failed,0.751,Timeout or Error
+2026-09-15 06:17,Video,Failed,0.6,Timeout or Error
+2026-09-15 06:17,Search,OK,1.025,"[{""type"":""video"" ""title"":""Le Quiz Français le Plus Difficile - 300 Questions pour Évaluer Tes Connai"
+2026-09-15 06:17,Channel,Failed,0.44,Timeout or Error
+2026-09-15 06:17,Comments,Failed,0.655,Timeout or Error
+2026-09-15 06:17,Playlist,Failed,0.425,Timeout or Error
