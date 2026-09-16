@@ -1,24 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-08-17 11:16,Video,OK,0.546,
-2026-08-17 11:16,Search,OK,1.738,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-17 11:16,Channel,Failed,0.759,Timeout or Error
-2026-08-17 11:16,Comments,OK,0.853,"{""commentCount"":10563553 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-17 11:16,Playlist,Failed,0.589,Timeout or Error
-2026-08-17 12:43,Video,OK,1.035,
-2026-08-17 12:43,Search,OK,1.028,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-17 12:43,Channel,Failed,0.477,Timeout or Error
-2026-08-17 12:43,Comments,OK,0.598,"{""commentCount"":10563376 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-17 12:43,Playlist,Failed,1.191,Timeout or Error
-2026-08-17 13:34,Video,OK,1.064,
-2026-08-17 13:34,Search,OK,1.135,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-17 13:34,Channel,Failed,0.668,Timeout or Error
-2026-08-17 13:34,Comments,OK,0.899,"{""commentCount"":10563397 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-17 13:34,Playlist,Failed,0.68,Timeout or Error
-2026-08-17 14:29,Video,OK,0.473,
-2026-08-17 14:29,Search,OK,1.112,"[{""type"":""video"" ""title"":""I Tested Illegal Scam Products"" ""videoId"":""nZjk1yOp8A8"" ""author"":""Law By M"
-2026-08-17 14:29,Channel,Failed,0.425,Timeout or Error
-2026-08-17 14:29,Comments,OK,0.739,"{""commentCount"":10563395 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-17 14:29,Playlist,Failed,0.515,Timeout or Error
 2026-08-17 15:40,Video,OK,1.207,
 2026-08-17 15:40,Search,OK,1.455,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-08-17 15:40,Channel,Failed,1.084,Timeout or Error
@@ -1714,3 +1694,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-09-16 09:57,Channel,Failed,0.445,Timeout or Error
 2026-09-16 09:57,Comments,OK,0.681,"{""commentCount"":10621540 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-09-16 09:57,Playlist,OK,0.56,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-09-16 14:41,Video,OK,0.173,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-09-16 14:41,Search,OK,0.164,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-09-16 14:41,Channel,OK,0.165,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-09-16 14:41,Comments,OK,0.173,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-09-16 14:41,Playlist,OK,0.184,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
