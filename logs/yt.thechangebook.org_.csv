@@ -1,24 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-08-18 04:22,Video,Failed,0.555,Timeout or Error
-2026-08-18 04:22,Search,Failed,0.322,Timeout or Error
-2026-08-18 04:22,Channel,Failed,0.444,Timeout or Error
-2026-08-18 04:22,Comments,Failed,0.325,Timeout or Error
-2026-08-18 04:22,Playlist,Failed,0.449,Timeout or Error
-2026-08-18 05:18,Video,Failed,0.545,Timeout or Error
-2026-08-18 05:18,Search,Failed,0.279,Timeout or Error
-2026-08-18 05:18,Channel,Failed,0.402,Timeout or Error
-2026-08-18 05:18,Comments,Failed,0.544,Timeout or Error
-2026-08-18 05:18,Playlist,Failed,0.536,Timeout or Error
-2026-08-18 06:19,Video,Failed,0.589,Timeout or Error
-2026-08-18 06:19,Search,Failed,0.628,Timeout or Error
-2026-08-18 06:19,Channel,Failed,0.463,Timeout or Error
-2026-08-18 06:19,Comments,Failed,0.443,Timeout or Error
-2026-08-18 06:19,Playlist,Failed,0.454,Timeout or Error
-2026-08-18 07:17,Video,Failed,0.743,Timeout or Error
-2026-08-18 07:17,Search,Failed,0.617,Timeout or Error
-2026-08-18 07:17,Channel,Failed,0.732,Timeout or Error
-2026-08-18 07:17,Comments,Failed,0.446,Timeout or Error
-2026-08-18 07:17,Playlist,Failed,0.74,Timeout or Error
 2026-08-18 08:16,Video,Failed,0.616,Timeout or Error
 2026-08-18 08:16,Search,Failed,0.639,Timeout or Error
 2026-08-18 08:16,Channel,Failed,0.47,Timeout or Error
@@ -1649,3 +1629,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-09-17 04:17,Channel,Failed,0.642,Timeout or Error
 2026-09-17 04:17,Comments,Failed,0.757,Timeout or Error
 2026-09-17 04:17,Playlist,Failed,0.439,Timeout or Error
+2026-09-17 07:33,Video,Failed,0.606,Timeout or Error
+2026-09-17 07:33,Search,OK,0.902,"[{""type"":""video"" ""title"":""J'ai les iPhone 18 Pro et l'iPhone Pliable ! (1er Test)"" ""videoId"":""kfaXcL"
+2026-09-17 07:33,Channel,Failed,0.539,Timeout or Error
+2026-09-17 07:33,Comments,Failed,0.91,Timeout or Error
+2026-09-17 07:33,Playlist,Failed,0.334,Timeout or Error
