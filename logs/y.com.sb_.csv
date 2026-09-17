@@ -1,19 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-08-19 03:28,Video,Failed,0.47,Timeout or Error
-2026-08-19 03:28,Search,OK,1.006,"[{""type"":""video"" ""title"":""So GENIAL wie seit Elden Ring nicht mehr: Mortal Shell 2! Test / Review"" """
-2026-08-19 03:28,Channel,Failed,0.603,Timeout or Error
-2026-08-19 03:28,Comments,OK,0.812,"{""commentCount"":10563494 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-19 03:28,Playlist,Failed,0.49,Timeout or Error
-2026-08-19 04:22,Video,Failed,0.453,Timeout or Error
-2026-08-19 04:22,Search,OK,1.219,"[{""type"":""video"" ""title"":""So GENIAL wie seit Elden Ring nicht mehr: Mortal Shell 2! Test / Review"" """
-2026-08-19 04:22,Channel,Failed,0.424,Timeout or Error
-2026-08-19 04:22,Comments,OK,0.705,"{""commentCount"":10563522 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-19 04:22,Playlist,Failed,0.503,Timeout or Error
-2026-08-19 05:15,Video,Failed,0.712,Timeout or Error
-2026-08-19 05:15,Search,OK,1.129,"[{""type"":""video"" ""title"":""So GENIAL wie seit Elden Ring nicht mehr: Mortal Shell 2! Test / Review"" """
-2026-08-19 05:15,Channel,Failed,0.706,Timeout or Error
-2026-08-19 05:15,Comments,OK,0.894,"{""commentCount"":10563594 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-19 05:15,Playlist,Failed,0.719,Timeout or Error
 2026-08-19 06:17,Video,Failed,0.703,Timeout or Error
 2026-08-19 06:17,Search,OK,1.493,"[{""type"":""video"" ""title"":""So GENIAL wie seit Elden Ring nicht mehr: Mortal Shell 2! Test / Review"" """
 2026-08-19 06:17,Channel,Failed,0.603,Timeout or Error
@@ -1564,3 +1549,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-09-18 02:28,Channel,Failed,0.13,Timeout or Error
 2026-09-18 02:28,Comments,Failed,0.126,Timeout or Error
 2026-09-18 02:28,Playlist,Failed,0.134,Timeout or Error
+2026-09-18 05:50,Video,Failed,0.12,Timeout or Error
+2026-09-18 05:50,Search,Failed,0.117,Timeout or Error
+2026-09-18 05:50,Channel,Failed,0.128,Timeout or Error
+2026-09-18 05:50,Comments,Failed,0.121,Timeout or Error
+2026-09-18 05:50,Playlist,Failed,0.112,Timeout or Error
