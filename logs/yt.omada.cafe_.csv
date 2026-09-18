@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-08-20 05:19,Video,Failed,1.568,Timeout or Error
-2026-08-20 05:19,Search,OK,0.897,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-20 05:19,Channel,Failed,0.544,Timeout or Error
-2026-08-20 05:19,Comments,OK,1.313,"{""commentCount"":10564433 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-20 05:19,Playlist,Failed,0.759,Timeout or Error
-2026-08-20 06:19,Video,Failed,0.373,Timeout or Error
-2026-08-20 06:19,Search,OK,1.378,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-20 06:19,Channel,Failed,0.4,Timeout or Error
-2026-08-20 06:19,Comments,OK,1.008,"{""commentCount"":10564475 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-20 06:19,Playlist,Failed,0.406,Timeout or Error
 2026-08-20 07:17,Video,OK,0.85,
 2026-08-20 07:17,Search,OK,1.484,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-08-20 07:17,Channel,Failed,0.614,Timeout or Error
@@ -1474,3 +1464,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-09-19 04:22,Channel,OK,1.053,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-09-19 04:22,Comments,OK,0.462,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-09-19 04:22,Playlist,Failed,0.828,Timeout or Error
+2026-09-19 07:09,Video,OK,0.643,
+2026-09-19 07:09,Search,OK,1.051,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-09-19 07:09,Channel,OK,0.555,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-09-19 07:09,Comments,OK,0.665,"{""commentCount"":10625045 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-09-19 07:09,Playlist,OK,0.227,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
