@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-08-19 09:53,Video,Failed,0.304,Timeout or Error
-2026-08-19 09:53,Search,Failed,0.301,Timeout or Error
-2026-08-19 09:53,Channel,Failed,0.304,Timeout or Error
-2026-08-19 09:53,Comments,Failed,0.303,Timeout or Error
-2026-08-19 09:53,Playlist,Failed,0.301,Timeout or Error
-2026-08-19 11:14,Video,Failed,0.303,Timeout or Error
-2026-08-19 11:14,Search,Failed,0.304,Timeout or Error
-2026-08-19 11:14,Channel,Failed,0.303,Timeout or Error
-2026-08-19 11:14,Comments,Failed,0.301,Timeout or Error
-2026-08-19 11:14,Playlist,Failed,0.303,Timeout or Error
 2026-08-19 12:40,Video,Failed,0.477,Timeout or Error
 2026-08-19 12:40,Search,Failed,0.48,Timeout or Error
 2026-08-19 12:40,Channel,Failed,0.48,Timeout or Error
@@ -1544,3 +1534,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-09-18 08:19,Channel,Failed,0.406,Timeout or Error
 2026-09-18 08:19,Comments,OK,0.608,"{""commentCount"":10624407 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-09-18 08:19,Playlist,Failed,0.398,Timeout or Error
+2026-09-18 11:42,Video,Failed,0.338,Timeout or Error
+2026-09-18 11:42,Search,OK,0.702,"[{""type"":""video"" ""title"":""DOLBY 5.1 SURROUND | SUBWOOFER BASS TEST | EXTREME HIGH BASS TEST | SOUND "
+2026-09-18 11:42,Channel,Failed,0.326,Timeout or Error
+2026-09-18 11:42,Comments,OK,0.524,"{""commentCount"":10624533 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-09-18 11:42,Playlist,Failed,0.322,Timeout or Error

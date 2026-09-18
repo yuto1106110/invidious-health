@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-08-19 09:53,Video,OK,0.448,
-2026-08-19 09:53,Search,OK,1.204,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-19 09:53,Channel,Failed,0.858,Timeout or Error
-2026-08-19 09:53,Comments,OK,1.122,"{""commentCount"":10563903 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-19 09:53,Playlist,Failed,0.469,Timeout or Error
-2026-08-19 11:14,Video,Failed,1.602,Timeout or Error
-2026-08-19 11:14,Search,OK,1.347,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-19 11:14,Channel,Failed,0.312,Timeout or Error
-2026-08-19 11:14,Comments,OK,0.551,"{""commentCount"":10563961 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-19 11:14,Playlist,Failed,0.336,Timeout or Error
 2026-08-19 12:40,Video,OK,1.703,
 2026-08-19 12:40,Search,OK,1.49,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-08-19 12:40,Channel,Failed,0.895,Timeout or Error
@@ -1544,3 +1534,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-09-18 08:19,Channel,OK,0.622,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-09-18 08:19,Comments,OK,0.945,"{""commentCount"":10624404 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-09-18 08:19,Playlist,OK,0.848,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-09-18 11:42,Video,OK,0.41,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-09-18 11:42,Search,Failed,1.521,Timeout or Error
+2026-09-18 11:42,Channel,OK,0.487,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-09-18 11:42,Comments,Failed,1.505,Timeout or Error
+2026-09-18 11:42,Playlist,Failed,1.248,Timeout or Error
