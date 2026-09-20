@@ -1,19 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-08-22 05:18,Video,Failed,0.66,Timeout or Error
-2026-08-22 05:18,Search,Failed,0.57,Timeout or Error
-2026-08-22 05:18,Channel,Failed,0.4,Timeout or Error
-2026-08-22 05:18,Comments,Failed,0.402,Timeout or Error
-2026-08-22 05:18,Playlist,Failed,0.397,Timeout or Error
-2026-08-22 06:17,Video,Failed,0.75,Timeout or Error
-2026-08-22 06:17,Search,Failed,0.47,Timeout or Error
-2026-08-22 06:17,Channel,Failed,0.849,Timeout or Error
-2026-08-22 06:17,Comments,Failed,0.836,Timeout or Error
-2026-08-22 06:17,Playlist,Failed,0.464,Timeout or Error
-2026-08-22 07:16,Video,Failed,0.539,Timeout or Error
-2026-08-22 07:16,Search,Failed,1.141,Timeout or Error
-2026-08-22 07:16,Channel,Failed,0.393,Timeout or Error
-2026-08-22 07:16,Comments,Failed,0.528,Timeout or Error
-2026-08-22 07:16,Playlist,Failed,0.391,Timeout or Error
 2026-08-22 08:17,Video,Failed,0.607,Timeout or Error
 2026-08-22 08:17,Search,Failed,0.339,Timeout or Error
 2026-08-22 08:17,Channel,Failed,0.34,Timeout or Error
@@ -1314,3 +1299,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-09-21 05:08,Channel,Failed,0.78,Timeout or Error
 2026-09-21 05:08,Comments,Failed,0.766,Timeout or Error
 2026-09-21 05:08,Playlist,Failed,0.667,Timeout or Error
+2026-09-21 07:52,Video,Failed,0.69,Timeout or Error
+2026-09-21 07:52,Search,OK,0.916,"[{""type"":""video"" ""title"":""5 TESTS that reveal your REAL biological age (the last one will surprise y"
+2026-09-21 07:52,Channel,Failed,0.658,Timeout or Error
+2026-09-21 07:52,Comments,Failed,0.954,Timeout or Error
+2026-09-21 07:52,Playlist,Failed,0.423,Timeout or Error

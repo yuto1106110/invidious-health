@@ -1,19 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-08-22 05:18,Video,Failed,0.521,Timeout or Error
-2026-08-22 05:18,Search,OK,1.285,"[{""type"":""video"" ""title"":""Dolby Atmos Sound Test"" ""videoId"":""FLH1aARTpMg"" ""author"":""JumpingCloud"" ""a"
-2026-08-22 05:18,Channel,Failed,0.606,Timeout or Error
-2026-08-22 05:18,Comments,OK,1.271,"{""commentCount"":10565299 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-22 05:18,Playlist,Failed,0.585,Timeout or Error
-2026-08-22 06:17,Video,Failed,0.57,Timeout or Error
-2026-08-22 06:17,Search,OK,1.201,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-22 06:17,Channel,Failed,0.696,Timeout or Error
-2026-08-22 06:17,Comments,OK,0.911,"{""commentCount"":10565324 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-22 06:17,Playlist,Failed,0.692,Timeout or Error
-2026-08-22 07:16,Video,Failed,0.693,Timeout or Error
-2026-08-22 07:16,Search,OK,0.968,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-22 07:16,Channel,Failed,0.883,Timeout or Error
-2026-08-22 07:16,Comments,OK,0.801,"{""commentCount"":10565359 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-22 07:16,Playlist,Failed,0.708,Timeout or Error
 2026-08-22 08:17,Video,Failed,0.513,Timeout or Error
 2026-08-22 08:17,Search,OK,1.004,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-08-22 08:17,Channel,Failed,0.307,Timeout or Error
@@ -1314,3 +1299,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-09-21 05:08,Channel,Failed,0.113,Timeout or Error
 2026-09-21 05:08,Comments,Failed,0.11,Timeout or Error
 2026-09-21 05:08,Playlist,Failed,0.113,Timeout or Error
+2026-09-21 07:52,Video,Failed,0.122,Timeout or Error
+2026-09-21 07:52,Search,Failed,0.12,Timeout or Error
+2026-09-21 07:52,Channel,Failed,0.111,Timeout or Error
+2026-09-21 07:52,Comments,Failed,0.112,Timeout or Error
+2026-09-21 07:52,Playlist,Failed,0.114,Timeout or Error
