@@ -1,29 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-08-21 15:34,Video,Failed,0.782,Timeout or Error
-2026-08-21 15:34,Search,OK,1.019,"[{""type"":""video"" ""title"":""Brook erzielt 91 Runs & Usman holt 5 Wickets | Highlights - England gegen "
-2026-08-21 15:34,Channel,Failed,0.55,Timeout or Error
-2026-08-21 15:34,Comments,OK,0.786,"{""commentCount"":10565425 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-21 15:34,Playlist,Failed,0.587,Timeout or Error
-2026-08-21 16:37,Video,Failed,0.506,Timeout or Error
-2026-08-21 16:37,Search,OK,1.193,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-21 16:37,Channel,Failed,0.808,Timeout or Error
-2026-08-21 16:37,Comments,OK,1.003,"{""commentCount"":10565429 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-21 16:37,Playlist,Failed,0.589,Timeout or Error
-2026-08-21 17:32,Video,Failed,0.59,Timeout or Error
-2026-08-21 17:32,Search,OK,1.12,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-21 17:32,Channel,Failed,0.67,Timeout or Error
-2026-08-21 17:32,Comments,OK,1.433,"{""commentCount"":10565435 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-21 17:32,Playlist,Failed,0.531,Timeout or Error
-2026-08-21 18:29,Video,Failed,0.363,Timeout or Error
-2026-08-21 18:29,Search,OK,0.917,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-21 18:29,Channel,Failed,0.378,Timeout or Error
-2026-08-21 18:29,Comments,OK,0.737,"{""commentCount"":10565442 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-21 18:29,Playlist,Failed,0.331,Timeout or Error
-2026-08-21 19:22,Video,Failed,0.683,Timeout or Error
-2026-08-21 19:22,Search,OK,0.92,"[{""type"":""video"" ""title"":""Dolby Atmos Sound Test"" ""videoId"":""FLH1aARTpMg"" ""author"":""JumpingCloud"" ""a"
-2026-08-21 19:22,Channel,Failed,0.372,Timeout or Error
-2026-08-21 19:22,Comments,OK,0.742,"{""commentCount"":10565455 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-21 19:22,Playlist,Failed,0.403,Timeout or Error
 2026-08-21 20:19,Video,Failed,0.742,Timeout or Error
 2026-08-21 20:19,Search,OK,1.329,"[{""type"":""video"" ""title"":""Dolby Atmos Sound Test"" ""videoId"":""FLH1aARTpMg"" ""author"":""JumpingCloud"" ""a"
 2026-08-21 20:19,Channel,Failed,0.687,Timeout or Error
@@ -1364,3 +1339,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-09-20 14:37,Channel,Failed,0.091,Timeout or Error
 2026-09-20 14:37,Comments,Failed,0.092,Timeout or Error
 2026-09-20 14:37,Playlist,Failed,0.091,Timeout or Error
+2026-09-20 19:26,Video,Failed,0.094,Timeout or Error
+2026-09-20 19:26,Search,Failed,0.127,Timeout or Error
+2026-09-20 19:26,Channel,Failed,0.094,Timeout or Error
+2026-09-20 19:26,Comments,Failed,0.094,Timeout or Error
+2026-09-20 19:26,Playlist,Failed,0.092,Timeout or Error
