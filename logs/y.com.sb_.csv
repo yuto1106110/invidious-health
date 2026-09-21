@@ -1,24 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-08-23 03:19,Video,Failed,0.403,Timeout or Error
-2026-08-23 03:19,Search,OK,1.195,"[{""type"":""video"" ""title"":""Our new car!? - What did we get? - Review  Test"" ""videoId"":""E0I37jEFzI4"" """
-2026-08-23 03:19,Channel,Failed,0.391,Timeout or Error
-2026-08-23 03:19,Comments,OK,0.892,"{""commentCount"":10566290 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-23 03:19,Playlist,Failed,0.58,Timeout or Error
-2026-08-23 04:17,Video,Failed,0.332,Timeout or Error
-2026-08-23 04:17,Search,OK,0.788,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-23 04:17,Channel,Failed,0.4,Timeout or Error
-2026-08-23 04:17,Comments,OK,0.713,"{""commentCount"":10566328 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-23 04:17,Playlist,Failed,0.404,Timeout or Error
-2026-08-23 05:15,Video,Failed,0.561,Timeout or Error
-2026-08-23 05:15,Search,OK,1.235,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-23 05:15,Channel,Failed,0.688,Timeout or Error
-2026-08-23 05:15,Comments,OK,0.911,"{""commentCount"":10566379 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-23 05:15,Playlist,Failed,0.685,Timeout or Error
-2026-08-23 06:15,Video,Failed,0.588,Timeout or Error
-2026-08-23 06:15,Search,OK,1.316,"[{""type"":""video"" ""title"":""Our new car!? - What did we get? - Review  Test"" ""videoId"":""E0I37jEFzI4"" """
-2026-08-23 06:15,Channel,Failed,0.812,Timeout or Error
-2026-08-23 06:15,Comments,OK,0.913,"{""commentCount"":10566411 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-23 06:15,Playlist,Failed,0.584,Timeout or Error
 2026-08-23 07:14,Video,Failed,0.608,Timeout or Error
 2026-08-23 07:14,Search,OK,0.883,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-08-23 07:14,Channel,Failed,0.485,Timeout or Error
@@ -1234,3 +1214,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-09-22 02:39,Channel,Failed,0.094,Timeout or Error
 2026-09-22 02:39,Comments,Failed,0.091,Timeout or Error
 2026-09-22 02:39,Playlist,Failed,0.1,Timeout or Error
+2026-09-22 06:33,Video,Failed,0.147,Timeout or Error
+2026-09-22 06:33,Search,Failed,0.149,Timeout or Error
+2026-09-22 06:33,Channel,Failed,0.146,Timeout or Error
+2026-09-22 06:33,Comments,Failed,0.147,Timeout or Error
+2026-09-22 06:33,Playlist,Failed,0.148,Timeout or Error
