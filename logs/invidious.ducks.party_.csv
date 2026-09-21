@@ -1,34 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-08-22 15:28,Video,Failed,0.302,Timeout or Error
-2026-08-22 15:28,Search,Failed,0.307,Timeout or Error
-2026-08-22 15:28,Channel,Failed,0.311,Timeout or Error
-2026-08-22 15:28,Comments,Failed,0.303,Timeout or Error
-2026-08-22 15:28,Playlist,Failed,0.313,Timeout or Error
-2026-08-22 16:25,Video,Failed,0.492,Timeout or Error
-2026-08-22 16:25,Search,Failed,0.485,Timeout or Error
-2026-08-22 16:25,Channel,Failed,0.498,Timeout or Error
-2026-08-22 16:25,Comments,Failed,0.485,Timeout or Error
-2026-08-22 16:25,Playlist,Failed,0.482,Timeout or Error
-2026-08-22 17:21,Video,Failed,0.492,Timeout or Error
-2026-08-22 17:21,Search,Failed,0.498,Timeout or Error
-2026-08-22 17:21,Channel,Failed,0.488,Timeout or Error
-2026-08-22 17:21,Comments,Failed,0.493,Timeout or Error
-2026-08-22 17:21,Playlist,Failed,0.495,Timeout or Error
-2026-08-22 18:20,Video,Failed,0.442,Timeout or Error
-2026-08-22 18:20,Search,Failed,0.424,Timeout or Error
-2026-08-22 18:20,Channel,Failed,0.425,Timeout or Error
-2026-08-22 18:20,Comments,Failed,0.429,Timeout or Error
-2026-08-22 18:20,Playlist,Failed,0.443,Timeout or Error
-2026-08-22 19:16,Video,Failed,0.436,Timeout or Error
-2026-08-22 19:16,Search,Failed,0.436,Timeout or Error
-2026-08-22 19:16,Channel,Failed,0.436,Timeout or Error
-2026-08-22 19:16,Comments,Failed,0.441,Timeout or Error
-2026-08-22 19:16,Playlist,Failed,0.442,Timeout or Error
-2026-08-22 20:14,Video,Failed,0.296,Timeout or Error
-2026-08-22 20:14,Search,Failed,0.296,Timeout or Error
-2026-08-22 20:14,Channel,Failed,0.29,Timeout or Error
-2026-08-22 20:14,Comments,Failed,0.292,Timeout or Error
-2026-08-22 20:14,Playlist,Failed,0.297,Timeout or Error
 2026-08-22 21:25,Video,Failed,0.427,Timeout or Error
 2026-08-22 21:25,Search,Failed,0.427,Timeout or Error
 2026-08-22 21:25,Channel,Failed,0.408,Timeout or Error
@@ -1284,3 +1254,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-09-21 14:47,Channel,Failed,0.513,Timeout or Error
 2026-09-21 14:47,Comments,OK,0.741,"{""commentCount"":10628039 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-09-21 14:47,Playlist,Failed,0.511,Timeout or Error
+2026-09-21 20:43,Video,Failed,0.423,Timeout or Error
+2026-09-21 20:43,Search,OK,0.898,"[{""type"":""video"" ""title"":""New VW ID. Polo Review: What it’s REALLY capable of! 😱 | auto mobil"" ""vide"
+2026-09-21 20:43,Channel,Failed,0.386,Timeout or Error
+2026-09-21 20:43,Comments,OK,0.648,"{""commentCount"":10628130 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-09-21 20:43,Playlist,Failed,0.384,Timeout or Error

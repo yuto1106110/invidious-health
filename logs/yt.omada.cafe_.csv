@@ -1,34 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-08-22 15:28,Video,Failed,0.765,Timeout or Error
-2026-08-22 15:28,Search,OK,0.901,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-22 15:28,Channel,Failed,0.488,Timeout or Error
-2026-08-22 15:28,Comments,OK,2.592,"{""commentCount"":10565543 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-22 15:28,Playlist,Failed,0.309,Timeout or Error
-2026-08-22 16:25,Video,OK,0.565,
-2026-08-22 16:25,Search,OK,1.421,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-22 16:25,Channel,Failed,1.115,Timeout or Error
-2026-08-22 16:25,Comments,OK,0.882,"{""commentCount"":10565562 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-22 16:25,Playlist,Failed,0.593,Timeout or Error
-2026-08-22 17:21,Video,Failed,2.305,Timeout or Error
-2026-08-22 17:21,Search,OK,1.192,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-22 17:21,Channel,Failed,1.085,Timeout or Error
-2026-08-22 17:21,Comments,OK,1.292,"{""commentCount"":10565586 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-22 17:21,Playlist,Failed,0.973,Timeout or Error
-2026-08-22 18:20,Video,OK,1.401,
-2026-08-22 18:20,Search,OK,1.678,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-22 18:20,Channel,Failed,0.699,Timeout or Error
-2026-08-22 18:20,Comments,OK,1.07,"{""commentCount"":10565625 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-22 18:20,Playlist,Failed,0.508,Timeout or Error
-2026-08-22 19:16,Video,OK,0.89,
-2026-08-22 19:16,Search,OK,1.251,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-22 19:16,Channel,Failed,1.442,Timeout or Error
-2026-08-22 19:16,Comments,OK,0.809,"{""commentCount"":10565658 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-22 19:16,Playlist,Failed,0.674,Timeout or Error
-2026-08-22 20:14,Video,OK,0.484,
-2026-08-22 20:14,Search,OK,0.812,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-22 20:14,Channel,Failed,0.278,Timeout or Error
-2026-08-22 20:14,Comments,OK,0.792,"{""commentCount"":10565688 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-22 20:14,Playlist,Failed,0.272,Timeout or Error
 2026-08-22 21:25,Video,Failed,1.792,Timeout or Error
 2026-08-22 21:25,Search,OK,1.482,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-08-22 21:25,Channel,Failed,1.289,Timeout or Error
@@ -1284,3 +1254,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-09-21 14:47,Channel,OK,2.041,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-09-21 14:47,Comments,OK,0.732,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-09-21 14:47,Playlist,Failed,0.806,Timeout or Error
+2026-09-21 20:43,Video,OK,0.716,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-09-21 20:43,Search,OK,1.406,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-09-21 20:43,Channel,Failed,0.625,Timeout or Error
+2026-09-21 20:43,Comments,OK,0.87,"{""commentCount"":10628129 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-09-21 20:43,Playlist,OK,0.412,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"

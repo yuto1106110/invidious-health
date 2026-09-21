@@ -1,34 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-08-22 15:28,Video,Failed,0.308,Timeout or Error
-2026-08-22 15:28,Search,OK,0.791,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-22 15:28,Channel,Failed,0.669,Timeout or Error
-2026-08-22 15:28,Comments,OK,0.802,"{""commentCount"":10565544 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-22 15:28,Playlist,Failed,0.394,Timeout or Error
-2026-08-22 16:25,Video,Failed,0.594,Timeout or Error
-2026-08-22 16:25,Search,OK,1.274,"[{""type"":""video"" ""title"":""Dolby Atmos Sound Test"" ""videoId"":""FLH1aARTpMg"" ""author"":""JumpingCloud"" ""a"
-2026-08-22 16:25,Channel,Failed,0.639,Timeout or Error
-2026-08-22 16:25,Comments,OK,1.068,"{""commentCount"":10565561 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-22 16:25,Playlist,Failed,0.702,Timeout or Error
-2026-08-22 17:21,Video,Failed,0.61,Timeout or Error
-2026-08-22 17:21,Search,OK,1.12,"[{""type"":""video"" ""title"":""Our new car!? - New long-term test starting - Review  Test"" ""videoId"":""E0I"
-2026-08-22 17:21,Channel,Failed,0.683,Timeout or Error
-2026-08-22 17:21,Comments,OK,0.93,"{""commentCount"":10565586 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-22 17:21,Playlist,Failed,0.682,Timeout or Error
-2026-08-22 18:20,Video,Failed,1.504,Timeout or Error
-2026-08-22 18:20,Search,OK,1.222,"[{""type"":""video"" ""title"":""Dolby Atmos Sound Test"" ""videoId"":""FLH1aARTpMg"" ""author"":""JumpingCloud"" ""a"
-2026-08-22 18:20,Channel,Failed,0.704,Timeout or Error
-2026-08-22 18:20,Comments,OK,0.995,"{""commentCount"":10565626 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-22 18:20,Playlist,Failed,1.315,Timeout or Error
-2026-08-22 19:16,Video,Failed,0.887,Timeout or Error
-2026-08-22 19:16,Search,OK,1.3,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-22 19:16,Channel,Failed,0.703,Timeout or Error
-2026-08-22 19:16,Comments,OK,1.072,"{""commentCount"":10565658 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-22 19:16,Playlist,Failed,0.61,Timeout or Error
-2026-08-22 20:14,Video,Failed,0.306,Timeout or Error
-2026-08-22 20:14,Search,OK,1.036,"[{""type"":""video"" ""title"":""Wirklich JEDER CHINESE ist BESSER | VW ID.3 NEO Langstrecken Test"" ""videoI"
-2026-08-22 20:14,Channel,Failed,0.688,Timeout or Error
-2026-08-22 20:14,Comments,OK,0.827,"{""commentCount"":10565686 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-22 20:14,Playlist,Failed,0.386,Timeout or Error
 2026-08-22 21:25,Video,Failed,0.42,Timeout or Error
 2026-08-22 21:25,Search,OK,1.093,"[{""type"":""video"" ""title"":""Dolby Atmos Sound Test"" ""videoId"":""FLH1aARTpMg"" ""author"":""JumpingCloud"" ""a"
 2026-08-22 21:25,Channel,Failed,0.683,Timeout or Error
@@ -1284,3 +1254,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-09-21 14:47,Channel,Failed,0.175,Timeout or Error
 2026-09-21 14:47,Comments,Failed,0.157,Timeout or Error
 2026-09-21 14:47,Playlist,Failed,0.15,Timeout or Error
+2026-09-21 20:43,Video,Failed,0.114,Timeout or Error
+2026-09-21 20:43,Search,Failed,0.107,Timeout or Error
+2026-09-21 20:43,Channel,Failed,0.105,Timeout or Error
+2026-09-21 20:43,Comments,Failed,0.111,Timeout or Error
+2026-09-21 20:43,Playlist,Failed,0.105,Timeout or Error
