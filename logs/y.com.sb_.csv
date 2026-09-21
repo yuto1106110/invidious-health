@@ -1,29 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-08-22 09:53,Video,Failed,0.606,Timeout or Error
-2026-08-22 09:53,Search,OK,1.126,"[{""type"":""video"" ""title"":""Dolby Atmos Sound Test"" ""videoId"":""FLH1aARTpMg"" ""author"":""JumpingCloud"" ""a"
-2026-08-22 09:53,Channel,Failed,0.783,Timeout or Error
-2026-08-22 09:53,Comments,OK,0.909,"{""commentCount"":10565389 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-22 09:53,Playlist,Failed,0.676,Timeout or Error
-2026-08-22 11:12,Video,Failed,0.46,Timeout or Error
-2026-08-22 11:12,Search,OK,0.999,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-22 11:12,Channel,Failed,0.487,Timeout or Error
-2026-08-22 11:12,Comments,OK,0.67,"{""commentCount"":10565398 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-22 11:12,Playlist,Failed,0.507,Timeout or Error
-2026-08-22 12:35,Video,Failed,0.481,Timeout or Error
-2026-08-22 12:35,Search,OK,0.819,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-22 12:35,Channel,Failed,0.589,Timeout or Error
-2026-08-22 12:35,Comments,OK,1.72,"{""commentCount"":10565466 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-22 12:35,Playlist,Failed,0.428,Timeout or Error
-2026-08-22 13:26,Video,Failed,0.585,Timeout or Error
-2026-08-22 13:26,Search,OK,1.118,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-22 13:26,Channel,Failed,0.585,Timeout or Error
-2026-08-22 13:26,Comments,OK,1.303,"{""commentCount"":10565506 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-22 13:26,Playlist,Failed,0.534,Timeout or Error
-2026-08-22 14:20,Video,Failed,0.522,Timeout or Error
-2026-08-22 14:20,Search,OK,1.166,"[{""type"":""video"" ""title"":""Dolby Atmos Sound Test"" ""videoId"":""FLH1aARTpMg"" ""author"":""JumpingCloud"" ""a"
-2026-08-22 14:20,Channel,Failed,0.786,Timeout or Error
-2026-08-22 14:20,Comments,OK,0.821,"{""commentCount"":10565523 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-22 14:20,Playlist,Failed,1.702,Timeout or Error
 2026-08-22 15:28,Video,Failed,0.308,Timeout or Error
 2026-08-22 15:28,Search,OK,0.791,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-08-22 15:28,Channel,Failed,0.669,Timeout or Error
@@ -1304,3 +1279,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-09-21 09:45,Channel,Failed,0.131,Timeout or Error
 2026-09-21 09:45,Comments,Failed,0.114,Timeout or Error
 2026-09-21 09:45,Playlist,Failed,0.117,Timeout or Error
+2026-09-21 14:47,Video,Failed,0.157,Timeout or Error
+2026-09-21 14:47,Search,Failed,0.15,Timeout or Error
+2026-09-21 14:47,Channel,Failed,0.175,Timeout or Error
+2026-09-21 14:47,Comments,Failed,0.157,Timeout or Error
+2026-09-21 14:47,Playlist,Failed,0.15,Timeout or Error
