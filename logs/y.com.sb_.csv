@@ -1,34 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-08-22 21:25,Video,Failed,0.42,Timeout or Error
-2026-08-22 21:25,Search,OK,1.093,"[{""type"":""video"" ""title"":""Dolby Atmos Sound Test"" ""videoId"":""FLH1aARTpMg"" ""author"":""JumpingCloud"" ""a"
-2026-08-22 21:25,Channel,Failed,0.683,Timeout or Error
-2026-08-22 21:25,Comments,OK,0.89,"{""commentCount"":10565800 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-22 21:25,Playlist,Failed,0.604,Timeout or Error
-2026-08-22 22:26,Video,Failed,0.518,Timeout or Error
-2026-08-22 22:26,Search,OK,1.111,"[{""type"":""video"" ""title"":""Dolby Atmos Sound Test"" ""videoId"":""FLH1aARTpMg"" ""author"":""JumpingCloud"" ""a"
-2026-08-22 22:26,Channel,Failed,0.688,Timeout or Error
-2026-08-22 22:26,Comments,OK,0.899,"{""commentCount"":10565847 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-22 22:26,Playlist,Failed,0.502,Timeout or Error
-2026-08-22 23:14,Video,Failed,1.3,Timeout or Error
-2026-08-22 23:14,Search,Failed,1.652,Timeout or Error
-2026-08-22 23:14,Channel,Failed,1.603,Timeout or Error
-2026-08-22 23:14,Comments,Failed,1.697,Timeout or Error
-2026-08-22 23:14,Playlist,Failed,1.699,Timeout or Error
-2026-08-23 00:13,Video,Failed,0.634,Timeout or Error
-2026-08-23 00:13,Search,OK,1.085,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-23 00:13,Channel,Failed,0.772,Timeout or Error
-2026-08-23 00:13,Comments,OK,1.127,"{""commentCount"":10566136 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-23 00:13,Playlist,Failed,0.858,Timeout or Error
-2026-08-23 01:16,Video,Failed,0.694,Timeout or Error
-2026-08-23 01:16,Search,OK,1.125,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-23 01:16,Channel,Failed,0.691,Timeout or Error
-2026-08-23 01:16,Comments,OK,1.126,"{""commentCount"":10566190 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-23 01:16,Playlist,Failed,0.774,Timeout or Error
-2026-08-23 02:15,Video,Failed,0.49,Timeout or Error
-2026-08-23 02:15,Search,OK,1.191,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-23 02:15,Channel,Failed,0.493,Timeout or Error
-2026-08-23 02:15,Comments,OK,0.824,"{""commentCount"":10566252 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-23 02:15,Playlist,Failed,0.496,Timeout or Error
 2026-08-23 03:19,Video,Failed,0.403,Timeout or Error
 2026-08-23 03:19,Search,OK,1.195,"[{""type"":""video"" ""title"":""Our new car!? - What did we get? - Review  Test"" ""videoId"":""E0I37jEFzI4"" """
 2026-08-23 03:19,Channel,Failed,0.391,Timeout or Error
@@ -1259,3 +1229,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-09-21 20:43,Channel,Failed,0.105,Timeout or Error
 2026-09-21 20:43,Comments,Failed,0.111,Timeout or Error
 2026-09-21 20:43,Playlist,Failed,0.105,Timeout or Error
+2026-09-22 02:39,Video,Failed,0.094,Timeout or Error
+2026-09-22 02:39,Search,Failed,0.094,Timeout or Error
+2026-09-22 02:39,Channel,Failed,0.094,Timeout or Error
+2026-09-22 02:39,Comments,Failed,0.091,Timeout or Error
+2026-09-22 02:39,Playlist,Failed,0.1,Timeout or Error
