@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-08-22 08:17,Video,Failed,0.607,Timeout or Error
-2026-08-22 08:17,Search,Failed,0.339,Timeout or Error
-2026-08-22 08:17,Channel,Failed,0.34,Timeout or Error
-2026-08-22 08:17,Comments,Failed,0.718,Timeout or Error
-2026-08-22 08:17,Playlist,Failed,0.441,Timeout or Error
 2026-08-22 09:53,Video,Failed,0.633,Timeout or Error
 2026-08-22 09:53,Search,Failed,0.452,Timeout or Error
 2026-08-22 09:53,Channel,Failed,0.611,Timeout or Error
@@ -1304,3 +1299,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-09-21 07:52,Channel,Failed,0.658,Timeout or Error
 2026-09-21 07:52,Comments,Failed,0.954,Timeout or Error
 2026-09-21 07:52,Playlist,Failed,0.423,Timeout or Error
+2026-09-21 09:45,Video,Failed,0.559,Timeout or Error
+2026-09-21 09:45,Search,OK,1.079,"[{""type"":""video"" ""title"":""5 TESTS that reveal your REAL biological age (the last one will surprise y"
+2026-09-21 09:45,Channel,Failed,0.538,Timeout or Error
+2026-09-21 09:45,Comments,Failed,0.674,Timeout or Error
+2026-09-21 09:45,Playlist,Failed,0.654,Timeout or Error
