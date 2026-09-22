@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-08-23 07:14,Video,Failed,0.58,Timeout or Error
-2026-08-23 07:14,Search,OK,1.505,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-23 07:14,Channel,Failed,0.479,Timeout or Error
-2026-08-23 07:14,Comments,OK,1.448,"{""commentCount"":10566432 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-23 07:14,Playlist,Failed,0.712,Timeout or Error
-2026-08-23 08:14,Video,Failed,0.766,Timeout or Error
-2026-08-23 08:14,Search,OK,2.587,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-23 08:14,Channel,Failed,0.864,Timeout or Error
-2026-08-23 08:14,Comments,OK,1.028,"{""commentCount"":10566488 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-23 08:14,Playlist,Failed,1.113,Timeout or Error
 2026-08-23 09:57,Video,OK,1.407,
 2026-08-23 09:57,Search,OK,1.423,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-08-23 09:57,Channel,Failed,0.984,Timeout or Error
@@ -1219,3 +1209,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-09-22 06:33,Channel,Failed,0.576,Timeout or Error
 2026-09-22 06:33,Comments,OK,1.094,"{""commentCount"":10628598 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-09-22 06:33,Playlist,Failed,0.587,Timeout or Error
+2026-09-22 09:29,Video,OK,0.848,
+2026-09-22 09:29,Search,OK,1.651,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-09-22 09:29,Channel,Failed,1.115,Timeout or Error
+2026-09-22 09:29,Comments,OK,0.987,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-09-22 09:29,Playlist,OK,0.705,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
