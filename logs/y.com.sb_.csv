@@ -1,29 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-08-23 20:15,Video,Failed,1.701,Timeout or Error
-2026-08-23 20:15,Search,Failed,1.699,Timeout or Error
-2026-08-23 20:15,Channel,Failed,1.694,Timeout or Error
-2026-08-23 20:15,Comments,Failed,1.692,Timeout or Error
-2026-08-23 20:15,Playlist,Failed,0.72,Timeout or Error
-2026-08-23 21:27,Video,Failed,0.505,Timeout or Error
-2026-08-23 21:27,Search,OK,1.264,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-23 21:27,Channel,Failed,0.495,Timeout or Error
-2026-08-23 21:27,Comments,OK,0.835,"{""commentCount"":10566770 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-23 21:27,Playlist,Failed,0.582,Timeout or Error
-2026-08-23 22:26,Video,Failed,0.992,Timeout or Error
-2026-08-23 22:26,Search,OK,1.23,"[{""type"":""video"" ""title"":""Why do the Greeks fly with THESE small planes?! Olympic Air reviewed!"" ""vi"
-2026-08-23 22:26,Channel,Failed,0.302,Timeout or Error
-2026-08-23 22:26,Comments,OK,0.911,"{""commentCount"":10566760 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-23 22:26,Playlist,Failed,0.401,Timeout or Error
-2026-08-23 23:16,Video,Failed,0.516,Timeout or Error
-2026-08-23 23:16,Search,OK,1.185,"[{""type"":""video"" ""title"":""Why do the Greeks fly with THESE small planes?! Olympic Air reviewed!"" ""vi"
-2026-08-23 23:16,Channel,Failed,0.518,Timeout or Error
-2026-08-23 23:16,Comments,OK,0.722,"{""commentCount"":10567203 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-23 23:16,Playlist,Failed,0.498,Timeout or Error
-2026-08-24 00:15,Video,Failed,0.44,Timeout or Error
-2026-08-24 00:15,Search,OK,1.154,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-24 00:15,Channel,Failed,0.606,Timeout or Error
-2026-08-24 00:15,Comments,OK,0.816,"{""commentCount"":10567262 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-24 00:15,Playlist,Failed,0.472,Timeout or Error
 2026-08-24 01:17,Video,Failed,0.735,Timeout or Error
 2026-08-24 01:17,Search,OK,1.381,"[{""type"":""video"" ""title"":""Extreme Color Depth: 16K HDR 120FPS Nature Demo | OLED Display Test (4K Vi"
 2026-08-24 01:17,Channel,Failed,0.685,Timeout or Error
@@ -1174,3 +1149,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-09-22 19:46,Channel,Failed,0.13,Timeout or Error
 2026-09-22 19:46,Comments,Failed,0.126,Timeout or Error
 2026-09-22 19:46,Playlist,Failed,0.127,Timeout or Error
+2026-09-23 00:20,Video,Failed,0.099,Timeout or Error
+2026-09-23 00:20,Search,Failed,0.097,Timeout or Error
+2026-09-23 00:20,Channel,Failed,0.098,Timeout or Error
+2026-09-23 00:20,Comments,Failed,0.097,Timeout or Error
+2026-09-23 00:20,Playlist,Failed,0.098,Timeout or Error
