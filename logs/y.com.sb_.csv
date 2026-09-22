@@ -1,24 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-08-24 01:17,Video,Failed,0.735,Timeout or Error
-2026-08-24 01:17,Search,OK,1.381,"[{""type"":""video"" ""title"":""Extreme Color Depth: 16K HDR 120FPS Nature Demo | OLED Display Test (4K Vi"
-2026-08-24 01:17,Channel,Failed,0.685,Timeout or Error
-2026-08-24 01:17,Comments,OK,0.919,"{""commentCount"":10567317 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-24 01:17,Playlist,Failed,0.728,Timeout or Error
-2026-08-24 02:14,Video,Failed,0.32,Timeout or Error
-2026-08-24 02:14,Search,OK,0.979,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-24 02:14,Channel,Failed,0.405,Timeout or Error
-2026-08-24 02:14,Comments,OK,0.714,"{""commentCount"":10567366 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-24 02:14,Playlist,Failed,0.507,Timeout or Error
-2026-08-24 03:19,Video,Failed,0.627,Timeout or Error
-2026-08-24 03:19,Search,OK,1.361,"[{""type"":""video"" ""title"":""Dolby Atmos Sound Test"" ""videoId"":""FLH1aARTpMg"" ""author"":""JumpingCloud"" ""a"
-2026-08-24 03:19,Channel,Failed,0.684,Timeout or Error
-2026-08-24 03:19,Comments,OK,1.016,"{""commentCount"":10567405 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-24 03:19,Playlist,Failed,0.598,Timeout or Error
-2026-08-24 04:18,Video,Failed,0.587,Timeout or Error
-2026-08-24 04:18,Search,OK,1.008,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-24 04:18,Channel,Failed,0.584,Timeout or Error
-2026-08-24 04:18,Comments,OK,1.131,"{""commentCount"":10567446 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-24 04:18,Playlist,Failed,0.573,Timeout or Error
 2026-08-24 05:14,Video,Failed,1.279,Timeout or Error
 2026-08-24 05:14,Search,OK,0.988,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-08-24 05:14,Channel,Failed,0.49,Timeout or Error
@@ -1154,3 +1134,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-09-23 00:20,Channel,Failed,0.098,Timeout or Error
 2026-09-23 00:20,Comments,Failed,0.097,Timeout or Error
 2026-09-23 00:20,Playlist,Failed,0.098,Timeout or Error
+2026-09-23 04:28,Video,Failed,0.138,Timeout or Error
+2026-09-23 04:28,Search,Failed,0.14,Timeout or Error
+2026-09-23 04:28,Channel,Failed,0.139,Timeout or Error
+2026-09-23 04:28,Comments,Failed,0.138,Timeout or Error
+2026-09-23 04:28,Playlist,Failed,0.139,Timeout or Error

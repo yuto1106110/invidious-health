@@ -1,24 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-08-24 01:17,Video,Failed,0.477,Timeout or Error
-2026-08-24 01:17,Search,Failed,0.478,Timeout or Error
-2026-08-24 01:17,Channel,Failed,0.477,Timeout or Error
-2026-08-24 01:17,Comments,Failed,0.475,Timeout or Error
-2026-08-24 01:17,Playlist,Failed,0.478,Timeout or Error
-2026-08-24 02:14,Video,Failed,0.699,Timeout or Error
-2026-08-24 02:14,Search,Failed,0.304,Timeout or Error
-2026-08-24 02:14,Channel,Failed,0.305,Timeout or Error
-2026-08-24 02:14,Comments,Failed,0.307,Timeout or Error
-2026-08-24 02:14,Playlist,Failed,0.304,Timeout or Error
-2026-08-24 03:19,Video,Failed,0.481,Timeout or Error
-2026-08-24 03:19,Search,Failed,0.478,Timeout or Error
-2026-08-24 03:19,Channel,Failed,0.479,Timeout or Error
-2026-08-24 03:19,Comments,Failed,0.477,Timeout or Error
-2026-08-24 03:19,Playlist,Failed,1.531,Timeout or Error
-2026-08-24 04:18,Video,Failed,0.369,Timeout or Error
-2026-08-24 04:18,Search,Failed,0.377,Timeout or Error
-2026-08-24 04:18,Channel,Failed,0.391,Timeout or Error
-2026-08-24 04:18,Comments,Failed,0.361,Timeout or Error
-2026-08-24 04:18,Playlist,Failed,0.377,Timeout or Error
 2026-08-24 05:14,Video,Failed,0.307,Timeout or Error
 2026-08-24 05:14,Search,Failed,0.304,Timeout or Error
 2026-08-24 05:14,Channel,Failed,0.304,Timeout or Error
@@ -1154,3 +1134,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-09-23 00:20,Channel,Failed,0.348,Timeout or Error
 2026-09-23 00:20,Comments,OK,0.63,"{""commentCount"":10629192 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-09-23 00:20,Playlist,Failed,0.353,Timeout or Error
+2026-09-23 04:28,Video,Failed,0.518,Timeout or Error
+2026-09-23 04:28,Search,OK,1.072,"[{""type"":""video"" ""title"":""MAGGI: 5 Minuten Terrine Smoky Mac Cheese & Spicy Carbonara im Test #macan"
+2026-09-23 04:28,Channel,Failed,0.483,Timeout or Error
+2026-09-23 04:28,Comments,OK,0.726,"{""commentCount"":10629364 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-09-23 04:28,Playlist,Failed,0.53,Timeout or Error
