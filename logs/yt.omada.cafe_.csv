@@ -1,24 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-08-25 03:29,Video,OK,0.807,
-2026-08-25 03:29,Search,Failed,1.233,Timeout or Error
-2026-08-25 03:29,Channel,Failed,0.327,Timeout or Error
-2026-08-25 03:29,Comments,OK,1.026,"{""commentCount"":10567992 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-25 03:29,Playlist,Failed,0.416,Timeout or Error
-2026-08-25 04:23,Video,Failed,0.68,Timeout or Error
-2026-08-25 04:23,Search,OK,1.094,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-25 04:23,Channel,Failed,0.629,Timeout or Error
-2026-08-25 04:23,Comments,OK,0.809,"{""commentCount"":10567934 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-25 04:23,Playlist,Failed,0.812,Timeout or Error
-2026-08-25 05:21,Video,Failed,1.515,Timeout or Error
-2026-08-25 05:21,Search,OK,1.078,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-25 05:21,Channel,Failed,3.528,Timeout or Error
-2026-08-25 05:21,Comments,OK,1.588,"{""commentCount"":10567574 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-25 05:21,Playlist,Failed,0.402,Timeout or Error
-2026-08-25 06:22,Video,OK,0.539,
-2026-08-25 06:22,Search,OK,1.021,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-25 06:22,Channel,Failed,1.062,Timeout or Error
-2026-08-25 06:22,Comments,OK,0.772,"{""commentCount"":10566975 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-25 06:22,Playlist,Failed,0.663,Timeout or Error
 2026-08-25 07:18,Video,OK,0.698,
 2026-08-25 07:18,Search,OK,1.108,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-08-25 07:18,Channel,Failed,1.232,Timeout or Error
@@ -1059,3 +1039,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-09-24 03:09,Channel,OK,0.793,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-09-24 03:09,Comments,OK,0.253,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-09-24 03:09,Playlist,OK,0.569,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-09-24 06:57,Video,Failed,0.197,Timeout or Error
+2026-09-24 06:57,Search,OK,0.524,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-09-24 06:57,Channel,OK,0.194,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-09-24 06:57,Comments,OK,0.19,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-09-24 06:57,Playlist,OK,0.489,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"

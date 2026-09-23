@@ -1,24 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-08-25 03:29,Video,Failed,0.783,Timeout or Error
-2026-08-25 03:29,Search,Failed,0.801,Timeout or Error
-2026-08-25 03:29,Channel,Failed,0.793,Timeout or Error
-2026-08-25 03:29,Comments,Failed,0.349,Timeout or Error
-2026-08-25 03:29,Playlist,Failed,0.343,Timeout or Error
-2026-08-25 04:23,Video,Failed,0.37,Timeout or Error
-2026-08-25 04:23,Search,Failed,0.377,Timeout or Error
-2026-08-25 04:23,Channel,Failed,0.378,Timeout or Error
-2026-08-25 04:23,Comments,Failed,0.365,Timeout or Error
-2026-08-25 04:23,Playlist,Failed,0.388,Timeout or Error
-2026-08-25 05:21,Video,Failed,0.297,Timeout or Error
-2026-08-25 05:21,Search,Failed,0.298,Timeout or Error
-2026-08-25 05:21,Channel,Failed,0.695,Timeout or Error
-2026-08-25 05:21,Comments,Failed,0.698,Timeout or Error
-2026-08-25 05:21,Playlist,Failed,0.302,Timeout or Error
-2026-08-25 06:22,Video,Failed,0.346,Timeout or Error
-2026-08-25 06:22,Search,Failed,0.352,Timeout or Error
-2026-08-25 06:22,Channel,Failed,0.353,Timeout or Error
-2026-08-25 06:22,Comments,Failed,0.345,Timeout or Error
-2026-08-25 06:22,Playlist,Failed,0.36,Timeout or Error
 2026-08-25 07:18,Video,Failed,0.509,Timeout or Error
 2026-08-25 07:18,Search,Failed,0.498,Timeout or Error
 2026-08-25 07:18,Channel,Failed,0.506,Timeout or Error
@@ -1059,3 +1039,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-09-24 03:09,Channel,Failed,0.465,Timeout or Error
 2026-09-24 03:09,Comments,OK,0.721,"{""commentCount"":10626873 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-09-24 03:09,Playlist,Failed,0.438,Timeout or Error
+2026-09-24 06:57,Video,Failed,0.35,Timeout or Error
+2026-09-24 06:57,Search,OK,0.796,"[{""type"":""video"" ""title"":""Triumph Trident 800 | Test des Nakedbikes der gehobenen Mittelklasse aus 2"
+2026-09-24 06:57,Channel,Failed,0.331,Timeout or Error
+2026-09-24 06:57,Comments,OK,0.599,"{""commentCount"":10626937 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-09-24 06:57,Playlist,Failed,0.321,Timeout or Error
