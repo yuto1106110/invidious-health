@@ -1,34 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-08-24 16:52,Video,Failed,1.304,Timeout or Error
-2026-08-24 16:52,Search,Failed,1.087,Timeout or Error
-2026-08-24 16:52,Channel,Failed,1.296,Timeout or Error
-2026-08-24 16:52,Comments,OK,0.985,"{""commentCount"":10567630 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-24 16:52,Playlist,Failed,0.579,Timeout or Error
-2026-08-24 17:39,Video,Failed,0.374,Timeout or Error
-2026-08-24 17:39,Search,OK,1.0,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-24 17:39,Channel,Failed,0.424,Timeout or Error
-2026-08-24 17:39,Comments,OK,0.698,"{""commentCount"":10567640 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-24 17:39,Playlist,Failed,0.404,Timeout or Error
-2026-08-24 18:39,Video,Failed,1.267,Timeout or Error
-2026-08-24 18:39,Search,OK,0.925,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-24 18:39,Channel,Failed,0.483,Timeout or Error
-2026-08-24 18:39,Comments,OK,0.707,"{""commentCount"":10567653 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-24 18:39,Playlist,Failed,0.411,Timeout or Error
-2026-08-24 19:31,Video,Failed,0.622,Timeout or Error
-2026-08-24 19:31,Search,OK,1.309,"[{""type"":""video"" ""title"":""Extreme Color Depth: 16K HDR 120FPS Nature Demo | OLED Display Test (4K Vi"
-2026-08-24 19:31,Channel,Failed,0.792,Timeout or Error
-2026-08-24 19:31,Comments,OK,0.895,"{""commentCount"":10567654 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-24 19:31,Playlist,Failed,0.628,Timeout or Error
-2026-08-24 20:20,Video,Failed,0.495,Timeout or Error
-2026-08-24 20:20,Search,OK,1.501,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-24 20:20,Channel,Failed,1.199,Timeout or Error
-2026-08-24 20:20,Comments,OK,1.065,"{""commentCount"":10567677 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-24 20:20,Playlist,Failed,1.034,Timeout or Error
-2026-08-24 21:36,Video,Failed,1.634,Timeout or Error
-2026-08-24 21:36,Search,OK,1.223,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-24 21:36,Channel,Failed,0.513,Timeout or Error
-2026-08-24 21:36,Comments,OK,0.887,"{""commentCount"":10567733 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-24 21:36,Playlist,Failed,0.696,Timeout or Error
 2026-08-24 22:58,Video,Failed,0.622,Timeout or Error
 2026-08-24 22:58,Search,OK,1.073,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-08-24 22:58,Channel,Failed,0.505,Timeout or Error
@@ -1104,3 +1074,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-09-23 16:09,Channel,Failed,0.099,Timeout or Error
 2026-09-23 16:09,Comments,Failed,0.092,Timeout or Error
 2026-09-23 16:09,Playlist,Failed,0.092,Timeout or Error
+2026-09-23 22:14,Video,Failed,0.107,Timeout or Error
+2026-09-23 22:14,Search,Failed,0.105,Timeout or Error
+2026-09-23 22:14,Channel,Failed,0.105,Timeout or Error
+2026-09-23 22:14,Comments,Failed,0.108,Timeout or Error
+2026-09-23 22:14,Playlist,Failed,0.108,Timeout or Error
