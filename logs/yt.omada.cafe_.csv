@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-08-26 08:19,Video,OK,0.692,
-2026-08-26 08:19,Search,Failed,2.43,Timeout or Error
-2026-08-26 08:19,Channel,Failed,0.612,Timeout or Error
-2026-08-26 08:19,Comments,OK,1.428,"{""commentCount"":10567525 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-26 08:19,Playlist,Failed,0.917,Timeout or Error
-2026-08-26 09:55,Video,OK,0.49,
-2026-08-26 09:55,Search,OK,2.629,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-26 09:55,Channel,Failed,0.478,Timeout or Error
-2026-08-26 09:55,Comments,OK,1.236,"{""commentCount"":10567587 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-26 09:55,Playlist,Failed,0.374,Timeout or Error
 2026-08-26 11:22,Video,OK,1.139,
 2026-08-26 11:22,Search,OK,1.262,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-08-26 11:22,Channel,Failed,1.196,Timeout or Error
@@ -954,3 +944,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-09-25 07:55,Channel,Failed,0.452,Timeout or Error
 2026-09-25 07:55,Comments,OK,0.953,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-09-25 07:55,Playlist,Failed,0.727,Timeout or Error
+2026-09-25 10:06,Video,OK,0.708,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-09-25 10:06,Search,OK,1.153,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-09-25 10:06,Channel,OK,0.824,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-09-25 10:06,Comments,OK,0.371,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-09-25 10:06,Playlist,OK,0.373,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
