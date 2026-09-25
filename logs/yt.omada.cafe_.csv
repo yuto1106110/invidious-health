@@ -1,19 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-08-26 22:49,Video,OK,0.717,
-2026-08-26 22:49,Search,OK,1.228,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-26 22:49,Channel,Failed,0.537,Timeout or Error
-2026-08-26 22:49,Comments,OK,0.973,"{""commentCount"":10568080 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-26 22:49,Playlist,Failed,0.28,Timeout or Error
-2026-08-26 23:37,Video,Failed,2.457,Timeout or Error
-2026-08-26 23:37,Search,OK,0.905,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-26 23:37,Channel,Failed,0.73,Timeout or Error
-2026-08-26 23:37,Comments,OK,0.765,"{""commentCount"":10568108 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-26 23:37,Playlist,Failed,0.278,Timeout or Error
-2026-08-27 01:12,Video,OK,1.376,
-2026-08-27 01:12,Search,OK,1.982,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-27 01:12,Channel,Failed,1.051,Timeout or Error
-2026-08-27 01:12,Comments,OK,0.972,"{""commentCount"":10568196 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-27 01:12,Playlist,Failed,0.62,Timeout or Error
 2026-08-27 03:53,Video,OK,0.262,
 2026-08-27 03:53,Search,OK,0.94,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-08-27 03:53,Channel,Failed,0.308,Timeout or Error
@@ -904,3 +889,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-09-25 21:39,Channel,Failed,0.446,Timeout or Error
 2026-09-25 21:39,Comments,OK,0.526,"{""commentCount"":10627693 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-09-25 21:39,Playlist,Failed,0.309,Timeout or Error
+2026-09-26 02:43,Video,OK,1.249,
+2026-09-26 02:43,Search,OK,0.58,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-09-26 02:43,Channel,OK,0.463,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-09-26 02:43,Comments,OK,1.044,"{""commentCount"":10627868 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-09-26 02:43,Playlist,OK,0.305,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
