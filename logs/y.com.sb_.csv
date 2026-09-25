@@ -1,29 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-08-26 11:22,Video,Failed,0.705,Timeout or Error
-2026-08-26 11:22,Search,OK,1.322,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-26 11:22,Channel,Failed,0.893,Timeout or Error
-2026-08-26 11:22,Comments,OK,0.99,"{""commentCount"":10567615 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-26 11:22,Playlist,Failed,0.994,Timeout or Error
-2026-08-26 12:48,Video,Failed,0.409,Timeout or Error
-2026-08-26 12:48,Search,OK,0.982,"[{""type"":""video"" ""title"":""Butter Test 2026: These 7 Brands Fail Miserably in the Laboratory! 🧪"" ""vid"
-2026-08-26 12:48,Channel,Failed,0.399,Timeout or Error
-2026-08-26 12:48,Comments,OK,0.606,"{""commentCount"":10567669 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-26 12:48,Playlist,Failed,0.396,Timeout or Error
-2026-08-26 13:33,Video,Failed,0.534,Timeout or Error
-2026-08-26 13:33,Search,OK,1.271,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-26 13:33,Channel,Failed,0.711,Timeout or Error
-2026-08-26 13:33,Comments,OK,0.799,"{""commentCount"":10567696 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-26 13:33,Playlist,Failed,0.596,Timeout or Error
-2026-08-26 14:28,Video,Failed,0.743,Timeout or Error
-2026-08-26 14:28,Search,OK,1.155,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-26 14:28,Channel,Failed,0.676,Timeout or Error
-2026-08-26 14:28,Comments,OK,0.891,"{""commentCount"":10567735 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-26 14:28,Playlist,Failed,1.1,Timeout or Error
-2026-08-26 15:36,Video,Failed,1.012,Timeout or Error
-2026-08-26 15:36,Search,OK,1.168,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-26 15:36,Channel,Failed,0.638,Timeout or Error
-2026-08-26 15:36,Comments,OK,0.903,"{""commentCount"":10567770 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-26 15:36,Playlist,Failed,0.703,Timeout or Error
 2026-08-26 16:40,Video,Failed,1.523,Timeout or Error
 2026-08-26 16:40,Search,Failed,1.093,Timeout or Error
 2026-08-26 16:40,Channel,Failed,0.49,Timeout or Error
@@ -949,3 +924,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-09-25 10:06,Channel,Failed,0.117,Timeout or Error
 2026-09-25 10:06,Comments,Failed,0.105,Timeout or Error
 2026-09-25 10:06,Playlist,Failed,0.105,Timeout or Error
+2026-09-25 15:59,Video,Failed,0.152,Timeout or Error
+2026-09-25 15:59,Search,Failed,0.157,Timeout or Error
+2026-09-25 15:59,Channel,Failed,0.147,Timeout or Error
+2026-09-25 15:59,Comments,Failed,0.156,Timeout or Error
+2026-09-25 15:59,Playlist,Failed,0.156,Timeout or Error
