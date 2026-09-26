@@ -909,3 +909,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-09-27 05:31,Channel,Failed,0.57,Timeout or Error
 2026-09-27 05:31,Comments,OK,0.857,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-09-27 05:31,Playlist,OK,0.14,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-09-27 08:19,Video,OK,0.756,
+2026-09-27 08:19,Search,OK,1.295,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-09-27 08:19,Channel,OK,1.196,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-09-27 08:19,Comments,OK,0.838,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-09-27 08:19,Playlist,OK,0.537,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
