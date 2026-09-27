@@ -914,3 +914,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-09-27 18:43,Channel,Failed,0.539,Timeout or Error
 2026-09-27 18:43,Comments,OK,0.774,"{""commentCount"":10628738 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-09-27 18:43,Playlist,Failed,0.513,Timeout or Error
+2026-09-27 23:56,Video,Failed,0.377,Timeout or Error
+2026-09-27 23:56,Search,OK,1.202,"[{""type"":""video"" ""title"":""Ich TESTE die BESTEN AIRFRYER Rezepte (die Timo Braunisch braucht)"" ""video"
+2026-09-27 23:56,Channel,Failed,0.335,Timeout or Error
+2026-09-27 23:56,Comments,OK,0.575,"{""commentCount"":10629068 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-09-27 23:56,Playlist,Failed,0.518,Timeout or Error
