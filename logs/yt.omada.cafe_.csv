@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-08-29 05:35,Video,OK,0.496,
-2026-08-29 05:35,Search,OK,0.983,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-29 05:35,Channel,Failed,0.493,Timeout or Error
-2026-08-29 05:35,Comments,OK,0.917,"{""commentCount"":10571009 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-29 05:35,Playlist,Failed,0.966,Timeout or Error
 2026-08-29 12:00,Video,OK,2.08,
 2026-08-29 12:00,Search,OK,1.484,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-08-29 12:00,Channel,Failed,0.587,Timeout or Error
@@ -924,3 +919,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-09-28 03:52,Channel,OK,0.21,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-09-28 03:52,Comments,OK,0.509,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-09-28 03:52,Playlist,Failed,0.211,Timeout or Error
+2026-09-28 06:48,Video,Failed,0.833,Timeout or Error
+2026-09-28 06:48,Search,OK,1.426,"[{""type"":""video"" ""title"":""C8 Corvette Durability Test #1"" ""videoId"":""VXHi1ijMAHs"" ""author"":""Whistlin"
+2026-09-28 06:48,Channel,Failed,0.878,Timeout or Error
+2026-09-28 06:48,Comments,OK,1.17,"{""commentCount"":10629538 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-09-28 06:48,Playlist,OK,0.683,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"

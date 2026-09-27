@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-08-29 05:35,Video,Failed,0.295,Timeout or Error
-2026-08-29 05:35,Search,Failed,0.305,Timeout or Error
-2026-08-29 05:35,Channel,Failed,0.295,Timeout or Error
-2026-08-29 05:35,Comments,Failed,0.302,Timeout or Error
-2026-08-29 05:35,Playlist,Failed,0.304,Timeout or Error
 2026-08-29 12:00,Video,Failed,0.473,Timeout or Error
 2026-08-29 12:00,Search,Failed,0.491,Timeout or Error
 2026-08-29 12:00,Channel,Failed,0.482,Timeout or Error
@@ -924,3 +919,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-09-28 03:52,Channel,Failed,0.416,Timeout or Error
 2026-09-28 03:52,Comments,OK,0.634,"{""commentCount"":10629357 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-09-28 03:52,Playlist,Failed,0.414,Timeout or Error
+2026-09-28 06:48,Video,Failed,0.534,Timeout or Error
+2026-09-28 06:48,Search,OK,1.028,"[{""type"":""video"" ""title"":""Apple iPhone 18 Pro im Test: Das habe ich nicht erwartet!"" ""videoId"":""bIPE"
+2026-09-28 06:48,Channel,Failed,0.522,Timeout or Error
+2026-09-28 06:48,Comments,OK,0.74,"{""commentCount"":10629539 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-09-28 06:48,Playlist,Failed,0.502,Timeout or Error
