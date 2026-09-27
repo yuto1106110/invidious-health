@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-08-28 17:32,Video,Failed,0.624,Timeout or Error
-2026-08-28 17:32,Search,Failed,0.606,Timeout or Error
-2026-08-28 17:32,Channel,Failed,0.503,Timeout or Error
-2026-08-28 17:32,Comments,Failed,0.375,Timeout or Error
-2026-08-28 17:32,Playlist,Failed,0.527,Timeout or Error
 2026-08-29 05:35,Video,Failed,0.282,Timeout or Error
 2026-08-29 05:35,Search,Failed,0.463,Timeout or Error
 2026-08-29 05:35,Channel,Failed,0.392,Timeout or Error
@@ -914,3 +909,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-09-27 12:07,Channel,Failed,0.426,Timeout or Error
 2026-09-27 12:07,Comments,Failed,0.728,Timeout or Error
 2026-09-27 12:07,Playlist,Failed,0.469,Timeout or Error
+2026-09-27 18:43,Video,Failed,0.868,Timeout or Error
+2026-09-27 18:43,Search,OK,1.304,"[{""type"":""video"" ""title"":""BLIND TEST - TOUT GENRE (80 extraits)"" ""videoId"":""xqqpbOp-e5c"" ""author"":""L"
+2026-09-27 18:43,Channel,Failed,0.805,Timeout or Error
+2026-09-27 18:43,Comments,Failed,1.061,Timeout or Error
+2026-09-27 18:43,Playlist,Failed,0.825,Timeout or Error
