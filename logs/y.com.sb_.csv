@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-08-29 23:54,Video,Failed,0.996,Timeout or Error
-2026-08-29 23:54,Search,OK,1.14,"[{""type"":""video"" ""title"":""Russia Test-launches Intercontinental Ballistic Missile as Tensions With U"
-2026-08-29 23:54,Channel,Failed,0.398,Timeout or Error
-2026-08-29 23:54,Comments,OK,0.698,"{""commentCount"":10572745 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-29 23:54,Playlist,Failed,0.486,Timeout or Error
-2026-08-30 03:07,Video,Failed,1.265,Timeout or Error
-2026-08-30 03:07,Search,OK,1.232,"[{""type"":""video"" ""title"":""OLED TEST HDR 4K 120FPS DOLBY VISION 🏞 4K / 8K Monitor Test Video #BGM"" ""v"
-2026-08-30 03:07,Channel,Failed,0.434,Timeout or Error
-2026-08-30 03:07,Comments,OK,0.794,"{""commentCount"":10573268 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-30 03:07,Playlist,Failed,0.407,Timeout or Error
 2026-08-30 06:28,Video,Failed,0.567,Timeout or Error
 2026-08-30 06:28,Search,OK,1.12,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-08-30 06:28,Channel,Failed,0.7,Timeout or Error
@@ -929,3 +919,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-09-28 23:51,Channel,Failed,0.16,Timeout or Error
 2026-09-28 23:51,Comments,Failed,0.148,Timeout or Error
 2026-09-28 23:51,Playlist,Failed,0.153,Timeout or Error
+2026-09-29 06:00,Video,Failed,0.105,Timeout or Error
+2026-09-29 06:00,Search,Failed,0.108,Timeout or Error
+2026-09-29 06:00,Channel,Failed,0.105,Timeout or Error
+2026-09-29 06:00,Comments,Failed,0.105,Timeout or Error
+2026-09-29 06:00,Playlist,Failed,0.107,Timeout or Error

@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-08-29 23:54,Video,OK,0.875,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
-2026-08-29 23:54,Search,OK,0.209,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
-2026-08-29 23:54,Channel,OK,0.219,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
-2026-08-29 23:54,Comments,OK,0.6,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
-2026-08-29 23:54,Playlist,OK,0.214,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
-2026-08-30 03:07,Video,OK,0.651,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
-2026-08-30 03:07,Search,OK,0.585,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
-2026-08-30 03:07,Channel,OK,0.558,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
-2026-08-30 03:07,Comments,OK,0.212,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
-2026-08-30 03:07,Playlist,OK,0.212,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
 2026-08-30 06:28,Video,OK,0.25,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
 2026-08-30 06:28,Search,OK,0.168,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
 2026-08-30 06:28,Channel,OK,0.185,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
@@ -929,3 +919,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-09-28 23:51,Channel,Failed,0.426,Timeout or Error
 2026-09-28 23:51,Comments,OK,0.723,"{""commentCount"":10630058 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-09-28 23:51,Playlist,Failed,0.399,Timeout or Error
+2026-09-29 06:00,Video,Failed,0.345,Timeout or Error
+2026-09-29 06:00,Search,OK,0.896,"[{""type"":""video"" ""title"":""CHANMINA - TEST ME (Official Music Video)"" ""videoId"":""hQ4-H-nNNz4"" ""author"
+2026-09-29 06:00,Channel,Failed,0.377,Timeout or Error
+2026-09-29 06:00,Comments,OK,0.566,"{""commentCount"":10630305 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-09-29 06:00,Playlist,Failed,0.376,Timeout or Error
