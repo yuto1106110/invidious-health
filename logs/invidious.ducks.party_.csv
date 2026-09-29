@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-08-30 23:37,Video,Failed,1.504,Timeout or Error
-2026-08-30 23:37,Search,Failed,1.502,Timeout or Error
-2026-08-30 23:37,Channel,Failed,1.504,Timeout or Error
-2026-08-30 23:37,Comments,Failed,1.503,Timeout or Error
-2026-08-30 23:37,Playlist,Failed,1.504,Timeout or Error
-2026-08-31 03:21,Video,Failed,1.503,Timeout or Error
-2026-08-31 03:21,Search,Failed,1.503,Timeout or Error
-2026-08-31 03:21,Channel,Failed,1.503,Timeout or Error
-2026-08-31 03:21,Comments,Failed,1.503,Timeout or Error
-2026-08-31 03:21,Playlist,Failed,1.503,Timeout or Error
 2026-08-31 06:48,Video,Failed,1.504,Timeout or Error
 2026-08-31 06:48,Search,Failed,1.504,Timeout or Error
 2026-08-31 06:48,Channel,Failed,1.504,Timeout or Error
@@ -919,3 +909,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-09-29 22:40,Channel,Failed,0.42,Timeout or Error
 2026-09-29 22:40,Comments,OK,0.669,"{""commentCount"":10630718 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-09-29 22:40,Playlist,Failed,0.477,Timeout or Error
+2026-09-30 04:04,Video,Failed,0.508,Timeout or Error
+2026-09-30 04:04,Search,OK,1.007,"[{""type"":""video"" ""title"":""4 AI Models Built the Same F1 Car (Opus 5.5 vs GPT 6 Sol)"" ""videoId"":""Zc72"
+2026-09-30 04:04,Channel,Failed,0.549,Timeout or Error
+2026-09-30 04:04,Comments,OK,0.913,"{""commentCount"":10630914 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-09-30 04:04,Playlist,Failed,0.536,Timeout or Error

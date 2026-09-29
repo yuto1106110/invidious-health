@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-08-30 23:37,Video,OK,0.529,
-2026-08-30 23:37,Search,OK,0.963,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-30 23:37,Channel,Failed,0.435,Timeout or Error
-2026-08-30 23:37,Comments,OK,1.348,"{""commentCount"":10575955 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-30 23:37,Playlist,Failed,0.66,Timeout or Error
-2026-08-31 03:21,Video,OK,0.502,
-2026-08-31 03:21,Search,OK,1.586,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-08-31 03:21,Channel,Failed,0.847,Timeout or Error
-2026-08-31 03:21,Comments,OK,0.945,"{""commentCount"":10576594 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-08-31 03:21,Playlist,Failed,0.697,Timeout or Error
 2026-08-31 06:48,Video,OK,0.347,
 2026-08-31 06:48,Search,OK,1.161,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-08-31 06:48,Channel,Failed,0.747,Timeout or Error
@@ -919,3 +909,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-09-29 22:40,Channel,Failed,0.355,Timeout or Error
 2026-09-29 22:40,Comments,OK,1.306,"{""commentCount"":10630717 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-09-29 22:40,Playlist,OK,0.4,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-09-30 04:04,Video,OK,0.952,
+2026-09-30 04:04,Search,OK,1.519,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-09-30 04:04,Channel,Failed,0.997,Timeout or Error
+2026-09-30 04:04,Comments,OK,1.308,"{""commentCount"":10630912 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-09-30 04:04,Playlist,Failed,0.577,Timeout or Error
