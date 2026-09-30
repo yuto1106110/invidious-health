@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-09-01 05:34,Video,Failed,1.503,Timeout or Error
-2026-09-01 05:34,Search,Failed,1.504,Timeout or Error
-2026-09-01 05:34,Channel,Failed,1.503,Timeout or Error
-2026-09-01 05:34,Comments,Failed,1.504,Timeout or Error
-2026-09-01 05:34,Playlist,Failed,1.504,Timeout or Error
 2026-09-01 09:18,Video,Failed,1.504,Timeout or Error
 2026-09-01 09:18,Search,Failed,1.504,Timeout or Error
 2026-09-01 09:18,Channel,Failed,1.504,Timeout or Error
@@ -914,3 +909,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-10-01 01:37,Channel,Failed,0.605,Timeout or Error
 2026-10-01 01:37,Comments,OK,0.729,"{""commentCount"":10631480 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-10-01 01:37,Playlist,Failed,0.496,Timeout or Error
+2026-10-01 06:09,Video,Failed,0.487,Timeout or Error
+2026-10-01 06:09,Search,OK,0.951,"[{""type"":""video"" ""title"":""Ducati Hypermotard V2 | Test (deutsch)"" ""videoId"":""o3cPsDTCfg0"" ""author"":"""
+2026-10-01 06:09,Channel,Failed,0.463,Timeout or Error
+2026-10-01 06:09,Comments,OK,0.71,"{""commentCount"":10631528 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-10-01 06:09,Playlist,Failed,0.47,Timeout or Error
