@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-08-31 15:32,Video,Failed,0.497,Timeout or Error
-2026-08-31 15:32,Search,Failed,0.373,Timeout or Error
-2026-08-31 15:32,Channel,Failed,0.511,Timeout or Error
-2026-08-31 15:32,Comments,Failed,0.28,Timeout or Error
-2026-08-31 15:32,Playlist,Failed,0.539,Timeout or Error
 2026-08-31 23:44,Video,Failed,0.613,Timeout or Error
 2026-08-31 23:44,Search,Failed,0.625,Timeout or Error
 2026-08-31 23:44,Channel,Failed,0.469,Timeout or Error
@@ -914,3 +909,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-09-30 12:32,Channel,Failed,0.42,Timeout or Error
 2026-09-30 12:32,Comments,Failed,0.821,Timeout or Error
 2026-09-30 12:32,Playlist,Failed,0.566,Timeout or Error
+2026-09-30 19:12,Video,Failed,0.669,Timeout or Error
+2026-09-30 19:12,Search,OK,1.041,"[{""type"":""video"" ""title"":""Control Resonant REVIEW: The WEIRDEST game of the year is a TOTAL SUCCESS "
+2026-09-30 19:12,Channel,Failed,0.73,Timeout or Error
+2026-09-30 19:12,Comments,Failed,0.82,Timeout or Error
+2026-09-30 19:12,Playlist,Failed,0.459,Timeout or Error
