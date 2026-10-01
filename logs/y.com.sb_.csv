@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-09-01 09:18,Video,Failed,1.291,Timeout or Error
-2026-09-01 09:18,Search,OK,1.899,"[{""type"":""video"" ""title"":""Open-World-RPG mit erstklassiger Vampir-Geschichte! | Blood of Dawnwalker "
-2026-09-01 09:18,Channel,Failed,0.432,Timeout or Error
-2026-09-01 09:18,Comments,Failed,2.823,Timeout or Error
-2026-09-01 09:18,Playlist,Failed,1.469,Timeout or Error
 2026-09-01 14:57,Video,Failed,1.675,Timeout or Error
 2026-09-01 14:57,Search,Failed,1.699,Timeout or Error
 2026-09-01 14:57,Channel,Failed,1.699,Timeout or Error
@@ -914,3 +909,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-10-01 06:09,Channel,Failed,0.128,Timeout or Error
 2026-10-01 06:09,Comments,Failed,0.127,Timeout or Error
 2026-10-01 06:09,Playlist,Failed,0.125,Timeout or Error
+2026-10-01 10:00,Video,Failed,0.12,Timeout or Error
+2026-10-01 10:00,Search,Failed,0.123,Timeout or Error
+2026-10-01 10:00,Channel,Failed,0.112,Timeout or Error
+2026-10-01 10:00,Comments,Failed,0.11,Timeout or Error
+2026-10-01 10:00,Playlist,Failed,0.116,Timeout or Error
