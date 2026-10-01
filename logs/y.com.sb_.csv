@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-09-02 00:55,Video,Failed,0.671,Timeout or Error
-2026-09-02 00:55,Search,OK,1.298,"[{""type"":""video"" ""title"":""Open-World-RPG mit erstklassiger Vampir-Geschichte! | Blood of Dawnwalker "
-2026-09-02 00:55,Channel,Failed,0.786,Timeout or Error
-2026-09-02 00:55,Comments,OK,1.204,"{""commentCount"":10581444 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-09-02 00:55,Playlist,Failed,0.688,Timeout or Error
-2026-09-02 04:09,Video,Failed,0.624,Timeout or Error
-2026-09-02 04:09,Search,OK,1.232,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-09-02 04:09,Channel,Failed,0.704,Timeout or Error
-2026-09-02 04:09,Comments,OK,1.015,"{""commentCount"":10582139 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-09-02 04:09,Playlist,Failed,0.685,Timeout or Error
 2026-09-02 07:18,Video,Failed,0.498,Timeout or Error
 2026-09-02 07:18,Search,OK,1.096,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-09-02 07:18,Channel,Failed,0.588,Timeout or Error
@@ -914,3 +904,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-10-02 00:00,Channel,Failed,0.095,Timeout or Error
 2026-10-02 00:00,Comments,Failed,0.095,Timeout or Error
 2026-10-02 00:00,Playlist,Failed,0.099,Timeout or Error
+2026-10-02 05:16,Video,Failed,0.1,Timeout or Error
+2026-10-02 05:16,Search,Failed,0.099,Timeout or Error
+2026-10-02 05:16,Channel,Failed,0.096,Timeout or Error
+2026-10-02 05:16,Comments,Failed,0.099,Timeout or Error
+2026-10-02 05:16,Playlist,Failed,0.098,Timeout or Error

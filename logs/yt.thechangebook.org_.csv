@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-09-02 00:55,Video,Failed,0.631,Timeout or Error
-2026-09-02 00:55,Search,Failed,0.904,Timeout or Error
-2026-09-02 00:55,Channel,Failed,0.622,Timeout or Error
-2026-09-02 00:55,Comments,Failed,0.456,Timeout or Error
-2026-09-02 00:55,Playlist,Failed,0.474,Timeout or Error
-2026-09-02 04:09,Video,Failed,0.826,Timeout or Error
-2026-09-02 04:09,Search,Failed,0.932,Timeout or Error
-2026-09-02 04:09,Channel,Failed,0.756,Timeout or Error
-2026-09-02 04:09,Comments,Failed,0.785,Timeout or Error
-2026-09-02 04:09,Playlist,Failed,0.925,Timeout or Error
 2026-09-02 07:18,Video,Failed,0.519,Timeout or Error
 2026-09-02 07:18,Search,Failed,0.512,Timeout or Error
 2026-09-02 07:18,Channel,Failed,0.519,Timeout or Error
@@ -914,3 +904,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-10-02 00:00,Channel,Failed,0.623,Timeout or Error
 2026-10-02 00:00,Comments,Failed,0.736,Timeout or Error
 2026-10-02 00:00,Playlist,Failed,0.622,Timeout or Error
+2026-10-02 05:16,Video,Failed,0.516,Timeout or Error
+2026-10-02 05:16,Search,OK,1.069,"[{""type"":""video"" ""title"":""TEST Ace Combat 8 : Spectaculaire  généreux et totalement addictif !! 🔵 TE"
+2026-10-02 05:16,Channel,Failed,1.287,Timeout or Error
+2026-10-02 05:16,Comments,Failed,0.813,Timeout or Error
+2026-10-02 05:16,Playlist,Failed,0.445,Timeout or Error

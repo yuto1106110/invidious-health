@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-09-02 00:55,Video,OK,0.553,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
-2026-09-02 00:55,Search,OK,0.428,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
-2026-09-02 00:55,Channel,OK,0.404,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
-2026-09-02 00:55,Comments,OK,0.182,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
-2026-09-02 00:55,Playlist,OK,0.178,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
-2026-09-02 04:09,Video,OK,0.421,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
-2026-09-02 04:09,Search,OK,0.367,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
-2026-09-02 04:09,Channel,OK,0.357,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
-2026-09-02 04:09,Comments,OK,0.379,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
-2026-09-02 04:09,Playlist,OK,0.39,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
 2026-09-02 07:18,Video,OK,0.452,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
 2026-09-02 07:18,Search,OK,0.255,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
 2026-09-02 07:18,Channel,OK,0.623,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
@@ -914,3 +904,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-10-02 00:00,Channel,Failed,0.689,Timeout or Error
 2026-10-02 00:00,Comments,Failed,1.054,Timeout or Error
 2026-10-02 00:00,Playlist,Failed,1.052,Timeout or Error
+2026-10-02 05:16,Video,OK,0.622,
+2026-10-02 05:16,Search,Failed,1.089,Timeout or Error
+2026-10-02 05:16,Channel,Failed,0.757,Timeout or Error
+2026-10-02 05:16,Comments,OK,0.48,"{""commentCount"":10631835 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-10-02 05:16,Playlist,Failed,0.632,Timeout or Error

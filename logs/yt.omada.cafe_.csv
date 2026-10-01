@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-09-02 00:55,Video,OK,1.838,
-2026-09-02 00:55,Search,OK,1.528,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-09-02 00:55,Channel,Failed,0.783,Timeout or Error
-2026-09-02 00:55,Comments,OK,1.051,"{""commentCount"":10581441 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-09-02 00:55,Playlist,Failed,0.613,Timeout or Error
-2026-09-02 04:09,Video,OK,0.763,
-2026-09-02 04:09,Search,OK,1.437,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-09-02 04:09,Channel,Failed,0.596,Timeout or Error
-2026-09-02 04:09,Comments,OK,0.966,"{""commentCount"":10582126 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-09-02 04:09,Playlist,Failed,1.098,Timeout or Error
 2026-09-02 07:18,Video,OK,0.85,
 2026-09-02 07:18,Search,OK,1.318,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-09-02 07:18,Channel,Failed,0.798,Timeout or Error
@@ -914,3 +904,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-10-02 00:00,Channel,Failed,0.464,Timeout or Error
 2026-10-02 00:00,Comments,OK,1.074,"{""commentCount"":10631670 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-10-02 00:00,Playlist,Failed,0.332,Timeout or Error
+2026-10-02 05:16,Video,Failed,0.495,Timeout or Error
+2026-10-02 05:16,Search,OK,1.137,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-10-02 05:16,Channel,OK,0.519,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-10-02 05:16,Comments,OK,0.922,"{""commentCount"":10631835 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-10-02 05:16,Playlist,Failed,0.524,Timeout or Error
