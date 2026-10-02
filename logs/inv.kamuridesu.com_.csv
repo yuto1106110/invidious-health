@@ -1,24 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-09-02 23:53,Video,Failed,0.412,Timeout or Error
-2026-09-02 23:53,Search,Failed,1.092,Timeout or Error
-2026-09-02 23:53,Channel,Failed,0.576,Timeout or Error
-2026-09-02 23:53,Comments,OK,0.887,"{""commentCount"":10584127 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-09-02 23:53,Playlist,Failed,0.52,Timeout or Error
-2026-09-02 23:53,Video,Failed,0.42,Timeout or Error
-2026-09-02 23:53,Search,Failed,1.075,Timeout or Error
-2026-09-02 23:53,Channel,Failed,0.519,Timeout or Error
-2026-09-02 23:53,Comments,OK,0.786,"{""commentCount"":10584127 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-09-02 23:53,Playlist,Failed,0.541,Timeout or Error
-2026-09-03 03:20,Video,Failed,0.389,Timeout or Error
-2026-09-03 03:20,Search,Failed,1.064,Timeout or Error
-2026-09-03 03:20,Channel,Failed,0.494,Timeout or Error
-2026-09-03 03:20,Comments,OK,0.807,"{""commentCount"":10584680 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-09-03 03:20,Playlist,Failed,0.493,Timeout or Error
-2026-09-03 03:20,Video,Failed,0.373,Timeout or Error
-2026-09-03 03:20,Search,Failed,1.082,Timeout or Error
-2026-09-03 03:20,Channel,Failed,0.503,Timeout or Error
-2026-09-03 03:20,Comments,OK,0.809,"{""commentCount"":10584679 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-09-03 03:20,Playlist,Failed,0.474,Timeout or Error
 2026-09-03 06:30,Video,Failed,0.464,Timeout or Error
 2026-09-03 06:30,Search,Failed,1.037,Timeout or Error
 2026-09-03 06:30,Channel,Failed,0.596,Timeout or Error
@@ -1809,3 +1789,13 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-10-02 22:27,Channel,Failed,0.458,Timeout or Error
 2026-10-02 22:27,Comments,OK,0.625,"{""commentCount"":10632426 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-10-02 22:27,Playlist,Failed,0.465,Timeout or Error
+2026-10-03 03:52,Video,Failed,0.408,Timeout or Error
+2026-10-03 03:52,Search,Failed,1.119,Timeout or Error
+2026-10-03 03:52,Channel,Failed,0.521,Timeout or Error
+2026-10-03 03:52,Comments,OK,0.852,"{""commentCount"":10632539 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-10-03 03:52,Playlist,Failed,0.541,Timeout or Error
+2026-10-03 03:52,Video,Failed,0.447,Timeout or Error
+2026-10-03 03:52,Search,OK,1.053,"[{""type"":""video"" ""title"":""DOLBY Atmos 5.1 SUBWOOFER TEST PART 2 | EXTREME HIGH BASS TEST | SOUND CHE"
+2026-10-03 03:52,Channel,Failed,0.588,Timeout or Error
+2026-10-03 03:52,Comments,OK,0.762,"{""commentCount"":10632539 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-10-03 03:52,Playlist,Failed,0.547,Timeout or Error

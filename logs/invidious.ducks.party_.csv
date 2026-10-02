@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-09-02 23:53,Video,Failed,1.504,Timeout or Error
-2026-09-02 23:53,Search,Failed,1.504,Timeout or Error
-2026-09-02 23:53,Channel,Failed,1.504,Timeout or Error
-2026-09-02 23:53,Comments,Failed,1.504,Timeout or Error
-2026-09-02 23:53,Playlist,Failed,1.504,Timeout or Error
-2026-09-03 03:20,Video,Failed,1.504,Timeout or Error
-2026-09-03 03:20,Search,Failed,1.505,Timeout or Error
-2026-09-03 03:20,Channel,Failed,1.504,Timeout or Error
-2026-09-03 03:20,Comments,Failed,1.504,Timeout or Error
-2026-09-03 03:20,Playlist,Failed,1.504,Timeout or Error
 2026-09-03 06:30,Video,Failed,1.504,Timeout or Error
 2026-09-03 06:30,Search,Failed,1.504,Timeout or Error
 2026-09-03 06:30,Channel,Failed,1.504,Timeout or Error
@@ -904,3 +894,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-10-02 22:27,Channel,Failed,0.486,Timeout or Error
 2026-10-02 22:27,Comments,OK,0.782,"{""commentCount"":10632426 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-10-02 22:27,Playlist,Failed,0.483,Timeout or Error
+2026-10-03 03:52,Video,Failed,0.428,Timeout or Error
+2026-10-03 03:52,Search,OK,1.042,"[{""type"":""video"" ""title"":""DOLBY Atmos 5.1 SUBWOOFER TEST PART 2 | EXTREME HIGH BASS TEST | SOUND CHE"
+2026-10-03 03:52,Channel,Failed,0.419,Timeout or Error
+2026-10-03 03:52,Comments,OK,0.645,"{""commentCount"":10632540 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-10-03 03:52,Playlist,Failed,0.394,Timeout or Error
