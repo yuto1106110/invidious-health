@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-09-02 09:45,Video,Failed,0.495,Timeout or Error
-2026-09-02 09:45,Search,OK,1.208,"[{""type"":""video"" ""title"":""Geniale Action in einer strukturschwachen Region! - Onimusha: Way of the S"
-2026-09-02 09:45,Channel,Failed,0.679,Timeout or Error
-2026-09-02 09:45,Comments,OK,0.742,"{""commentCount"":10582874 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-09-02 09:45,Playlist,Failed,0.572,Timeout or Error
-2026-09-02 14:20,Video,Failed,0.648,Timeout or Error
-2026-09-02 14:20,Search,OK,1.283,"[{""type"":""video"" ""title"":""Open-World-RPG mit erstklassiger Vampir-Geschichte! | Blood of Dawnwalker "
-2026-09-02 14:20,Channel,Failed,0.795,Timeout or Error
-2026-09-02 14:20,Comments,OK,0.811,"{""commentCount"":10583221 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-09-02 14:20,Playlist,Failed,0.611,Timeout or Error
 2026-09-02 19:23,Video,Failed,2.71,Timeout or Error
 2026-09-02 19:23,Search,Failed,2.693,Timeout or Error
 2026-09-02 19:23,Channel,Failed,2.7,Timeout or Error
@@ -909,3 +899,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-10-02 09:25,Channel,Failed,0.118,Timeout or Error
 2026-10-02 09:25,Comments,Failed,0.116,Timeout or Error
 2026-10-02 09:25,Playlist,Failed,0.116,Timeout or Error
+2026-10-02 15:33,Video,Failed,0.106,Timeout or Error
+2026-10-02 15:33,Search,Failed,0.108,Timeout or Error
+2026-10-02 15:33,Channel,Failed,0.106,Timeout or Error
+2026-10-02 15:33,Comments,Failed,0.103,Timeout or Error
+2026-10-02 15:33,Playlist,Failed,0.105,Timeout or Error
