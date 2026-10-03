@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-09-03 08:45,Video,Failed,0.61,Timeout or Error
-2026-09-03 08:45,Search,OK,1.609,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-09-03 08:45,Channel,Failed,1.115,Timeout or Error
-2026-09-03 08:45,Comments,OK,1.286,"{""commentCount"":10586176 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-09-03 08:45,Playlist,Failed,2.094,Timeout or Error
 2026-09-03 11:31,Video,Failed,0.499,Timeout or Error
 2026-09-03 11:31,Search,OK,0.828,"[{""type"":""video"" ""title"":""New York City in 16K HDR | Cinematic NYC & Ultimate Display Test (4K Video"
 2026-09-03 11:31,Channel,Failed,0.453,Timeout or Error
@@ -899,3 +894,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-10-03 07:45,Channel,Failed,0.692,Timeout or Error
 2026-10-03 07:45,Comments,Failed,0.111,Timeout or Error
 2026-10-03 07:45,Playlist,Failed,0.11,Timeout or Error
+2026-10-03 10:38,Video,Failed,0.147,Timeout or Error
+2026-10-03 10:38,Search,Failed,0.148,Timeout or Error
+2026-10-03 10:38,Channel,Failed,0.146,Timeout or Error
+2026-10-03 10:38,Comments,Failed,0.147,Timeout or Error
+2026-10-03 10:38,Playlist,Failed,0.151,Timeout or Error
