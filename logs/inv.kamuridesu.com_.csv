@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-09-05 05:31,Video,Failed,0.44,Timeout or Error
-2026-09-05 05:31,Search,Failed,1.038,Timeout or Error
-2026-09-05 05:31,Channel,Failed,0.588,Timeout or Error
-2026-09-05 05:31,Comments,OK,0.836,"{""commentCount"":10595085 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-09-05 05:31,Playlist,Failed,0.57,Timeout or Error
-2026-09-05 05:31,Video,Failed,0.407,Timeout or Error
-2026-09-05 05:31,Search,Failed,1.036,Timeout or Error
-2026-09-05 05:31,Channel,Failed,0.594,Timeout or Error
-2026-09-05 05:31,Comments,OK,0.852,"{""commentCount"":10595086 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-09-05 05:31,Playlist,Failed,0.554,Timeout or Error
 2026-09-05 07:43,Video,Failed,0.379,Timeout or Error
 2026-09-05 07:43,Search,Failed,1.063,Timeout or Error
 2026-09-05 07:43,Channel,Failed,0.504,Timeout or Error
@@ -1779,3 +1769,13 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-10-05 03:56,Channel,Failed,0.464,Timeout or Error
 2026-10-05 03:56,Comments,OK,0.775,"{""commentCount"":10633509 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-10-05 03:56,Playlist,Failed,0.548,Timeout or Error
+2026-10-05 07:11,Video,Failed,0.323,Timeout or Error
+2026-10-05 07:11,Search,Failed,1.03,Timeout or Error
+2026-10-05 07:11,Channel,Failed,0.409,Timeout or Error
+2026-10-05 07:11,Comments,OK,0.855,"{""commentCount"":10633659 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-10-05 07:11,Playlist,Failed,0.355,Timeout or Error
+2026-10-05 07:11,Video,Failed,0.289,Timeout or Error
+2026-10-05 07:11,Search,Failed,1.03,Timeout or Error
+2026-10-05 07:11,Channel,Failed,0.348,Timeout or Error
+2026-10-05 07:11,Comments,OK,0.688,"{""commentCount"":10633659 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-10-05 07:11,Playlist,Failed,0.37,Timeout or Error
