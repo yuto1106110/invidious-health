@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-09-04 09:38,Video,OK,1.077,
-2026-09-04 09:38,Search,OK,1.597,"[{""type"":""video"" ""title"":""Can You Pass This Southern USA Slang Test? 🤠"" ""videoId"":""-RaLATWag2k"" ""aut"
-2026-09-04 09:38,Channel,Failed,0.878,Timeout or Error
-2026-09-04 09:38,Comments,OK,1.433,"{""commentCount"":10591178 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-09-04 09:38,Playlist,Failed,0.599,Timeout or Error
 2026-09-04 14:20,Video,OK,0.629,
 2026-09-04 14:20,Search,OK,1.379,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-09-04 14:20,Channel,Failed,0.288,Timeout or Error
@@ -894,3 +889,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-10-04 07:36,Channel,OK,1.132,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-10-04 07:36,Comments,OK,0.498,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-10-04 07:36,Playlist,OK,0.716,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-10-04 11:19,Video,Failed,0.435,Timeout or Error
+2026-10-04 11:19,Search,Failed,0.379,Timeout or Error
+2026-10-04 11:19,Channel,OK,0.383,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-10-04 11:19,Comments,Failed,0.155,Timeout or Error
+2026-10-04 11:19,Playlist,Failed,0.153,Timeout or Error
