@@ -1,19 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-09-05 18:49,Video,Failed,0.533,Timeout or Error
-2026-09-05 18:49,Search,OK,1.076,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-09-05 18:49,Channel,Failed,0.537,Timeout or Error
-2026-09-05 18:49,Comments,OK,0.844,"{""commentCount"":10598452 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-09-05 18:49,Playlist,Failed,0.49,Timeout or Error
-2026-09-05 22:11,Video,Failed,0.404,Timeout or Error
-2026-09-05 22:11,Search,OK,1.006,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-09-05 22:11,Channel,Failed,0.385,Timeout or Error
-2026-09-05 22:11,Comments,OK,0.653,"{""commentCount"":10599204 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-09-05 22:11,Playlist,Failed,0.385,Timeout or Error
-2026-09-06 01:27,Video,Failed,0.352,Timeout or Error
-2026-09-06 01:27,Search,OK,0.949,"[{""type"":""video"" ""title"":""Dolby Atmos Sound Test"" ""videoId"":""FLH1aARTpMg"" ""author"":""JumpingCloud"" ""a"
-2026-09-06 01:27,Channel,Failed,0.366,Timeout or Error
-2026-09-06 01:27,Comments,OK,0.624,"{""commentCount"":10600099 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-09-06 01:27,Playlist,Failed,0.349,Timeout or Error
 2026-09-06 03:46,Video,Failed,0.345,Timeout or Error
 2026-09-06 03:46,Search,OK,0.969,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-09-06 03:46,Channel,Failed,0.377,Timeout or Error
@@ -884,3 +869,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-10-05 17:06,Channel,Failed,0.347,Timeout or Error
 2026-10-05 17:06,Comments,OK,0.577,"{""commentCount"":10633910 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-10-05 17:06,Playlist,Failed,0.341,Timeout or Error
+2026-10-06 02:42,Video,Failed,0.443,Timeout or Error
+2026-10-06 02:42,Search,OK,1.123,"[{""type"":""video"" ""title"":""LiveWire S2 Alpinista | Test (deutsch) des Elektro-Bikes von Harley Davids"
+2026-10-06 02:42,Channel,Failed,0.386,Timeout or Error
+2026-10-06 02:42,Comments,OK,0.667,"{""commentCount"":10634161 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-10-06 02:42,Playlist,Failed,0.407,Timeout or Error
