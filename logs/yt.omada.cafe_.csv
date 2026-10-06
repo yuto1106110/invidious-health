@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-09-06 22:53,Video,OK,0.46,
-2026-09-06 22:53,Search,OK,1.0,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-09-06 22:53,Channel,Failed,0.293,Timeout or Error
-2026-09-06 22:53,Comments,OK,1.296,"{""commentCount"":10604335 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-09-06 22:53,Playlist,Failed,0.297,Timeout or Error
-2026-09-07 01:38,Video,OK,1.447,
-2026-09-07 01:38,Search,OK,1.365,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-09-07 01:38,Channel,Failed,0.757,Timeout or Error
-2026-09-07 01:38,Comments,OK,0.593,"{""commentCount"":10604762 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-09-07 01:38,Playlist,Failed,0.443,Timeout or Error
 2026-09-07 03:48,Video,OK,0.532,
 2026-09-07 03:48,Search,OK,0.847,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-09-07 03:48,Channel,Failed,0.313,Timeout or Error
@@ -859,3 +849,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-10-06 20:40,Channel,OK,0.166,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-10-06 20:40,Comments,OK,0.634,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-10-06 20:40,Playlist,OK,0.316,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-10-07 02:45,Video,OK,0.177,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-10-07 02:45,Search,Failed,0.196,Timeout or Error
+2026-10-07 02:45,Channel,OK,0.672,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-10-07 02:45,Comments,Failed,0.464,Timeout or Error
+2026-10-07 02:45,Playlist,OK,0.277,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
