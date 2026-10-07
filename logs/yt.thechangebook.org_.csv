@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-09-07 20:19,Video,Failed,0.821,Timeout or Error
-2026-09-07 20:19,Search,Failed,1.035,Timeout or Error
-2026-09-07 20:19,Channel,Failed,0.924,Timeout or Error
-2026-09-07 20:19,Comments,Failed,0.936,Timeout or Error
-2026-09-07 20:19,Playlist,Failed,0.48,Timeout or Error
 2026-09-08 02:02,Video,Failed,0.813,Timeout or Error
 2026-09-08 02:02,Search,Failed,1.512,Timeout or Error
 2026-09-08 02:02,Channel,Failed,0.881,Timeout or Error
@@ -844,3 +839,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-10-07 17:15,Channel,Failed,0.552,Timeout or Error
 2026-10-07 17:15,Comments,Failed,1.002,Timeout or Error
 2026-10-07 17:15,Playlist,Failed,0.667,Timeout or Error
+2026-10-08 00:59,Video,Failed,0.564,Timeout or Error
+2026-10-08 00:59,Search,OK,1.249,"[{""type"":""video"" ""title"":""STAR WARS GALACTIC RACER Review 🔥 The SUCCESSOR to BURNOUT!!!"" ""videoId"":"""
+2026-10-08 00:59,Channel,Failed,0.574,Timeout or Error
+2026-10-08 00:59,Comments,Failed,1.168,Timeout or Error
+2026-10-08 00:59,Playlist,Failed,0.585,Timeout or Error

@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-09-07 20:19,Video,Failed,0.308,Timeout or Error
-2026-09-07 20:19,Search,Failed,0.322,Timeout or Error
-2026-09-07 20:19,Channel,Failed,1.323,Timeout or Error
-2026-09-07 20:19,Comments,Failed,1.322,Timeout or Error
-2026-09-07 20:19,Playlist,Failed,1.329,Timeout or Error
 2026-09-08 02:02,Video,Failed,0.507,Timeout or Error
 2026-09-08 02:02,Search,OK,1.062,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-09-08 02:02,Channel,Failed,0.538,Timeout or Error
@@ -844,3 +839,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-10-07 17:15,Channel,Failed,0.501,Timeout or Error
 2026-10-07 17:15,Comments,OK,0.659,"{""commentCount"":10634925 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-10-07 17:15,Playlist,Failed,0.524,Timeout or Error
+2026-10-08 00:59,Video,Failed,0.498,Timeout or Error
+2026-10-08 00:59,Search,OK,1.129,"[{""type"":""video"" ""title"":""Ich TESTE die BESTEN TEMU Kochgadgets damit ihr mehr WISST"" ""videoId"":""EE5"
+2026-10-08 00:59,Channel,Failed,0.402,Timeout or Error
+2026-10-08 00:59,Comments,OK,0.665,"{""commentCount"":10635096 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-10-08 00:59,Playlist,Failed,0.447,Timeout or Error

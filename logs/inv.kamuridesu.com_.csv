@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-09-07 20:19,Video,Failed,0.444,Timeout or Error
-2026-09-07 20:19,Search,OK,1.012,"[{""type"":""video"" ""title"":""Experience 16K Dolby Vision Nature Demo | Ultimate HDR Display Test for 8K"
-2026-09-07 20:19,Channel,Failed,0.564,Timeout or Error
-2026-09-07 20:19,Comments,OK,0.748,"{""commentCount"":10607674 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-09-07 20:19,Playlist,Failed,0.521,Timeout or Error
-2026-09-07 20:19,Video,Failed,0.395,Timeout or Error
-2026-09-07 20:19,Search,Failed,1.033,Timeout or Error
-2026-09-07 20:19,Channel,Failed,0.542,Timeout or Error
-2026-09-07 20:19,Comments,OK,0.786,"{""commentCount"":10607674 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-09-07 20:19,Playlist,Failed,0.549,Timeout or Error
 2026-09-08 02:02,Video,Failed,0.457,Timeout or Error
 2026-09-08 02:02,Search,Failed,1.06,Timeout or Error
 2026-09-08 02:02,Channel,Failed,0.615,Timeout or Error
@@ -1689,3 +1679,13 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-10-07 17:15,Channel,Failed,0.533,Timeout or Error
 2026-10-07 17:15,Comments,OK,0.655,"{""commentCount"":10634925 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-10-07 17:15,Playlist,Failed,0.542,Timeout or Error
+2026-10-08 00:59,Video,Failed,0.382,Timeout or Error
+2026-10-08 00:59,Search,Failed,1.092,Timeout or Error
+2026-10-08 00:59,Channel,Failed,0.505,Timeout or Error
+2026-10-08 00:59,Comments,OK,0.788,"{""commentCount"":10635096 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-10-08 00:59,Playlist,Failed,0.503,Timeout or Error
+2026-10-08 00:59,Video,Failed,0.456,Timeout or Error
+2026-10-08 00:59,Search,OK,1.076,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-10-08 00:59,Channel,Failed,0.508,Timeout or Error
+2026-10-08 00:59,Comments,OK,0.755,"{""commentCount"":10635096 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-10-08 00:59,Playlist,Failed,0.558,Timeout or Error
