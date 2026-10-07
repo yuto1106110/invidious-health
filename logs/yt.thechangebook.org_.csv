@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-09-08 02:02,Video,Failed,0.813,Timeout or Error
-2026-09-08 02:02,Search,Failed,1.512,Timeout or Error
-2026-09-08 02:02,Channel,Failed,0.881,Timeout or Error
-2026-09-08 02:02,Comments,Failed,1.058,Timeout or Error
-2026-09-08 02:02,Playlist,Failed,0.726,Timeout or Error
-2026-09-08 05:59,Video,Failed,0.701,Timeout or Error
-2026-09-08 05:59,Search,Failed,0.917,Timeout or Error
-2026-09-08 05:59,Channel,Failed,0.441,Timeout or Error
-2026-09-08 05:59,Comments,Failed,0.975,Timeout or Error
-2026-09-08 05:59,Playlist,Failed,0.433,Timeout or Error
 2026-09-08 08:22,Video,Failed,0.826,Timeout or Error
 2026-09-08 08:22,Search,OK,1.281,"[{""type"":""video"" ""title"":""🧠 Devine le LOGO en 3 SECONDES ✅🔥🤔 | 300 Logos Célèbres | Quiz Logos 2024"""
 2026-09-08 08:22,Channel,Failed,0.502,Timeout or Error
@@ -844,3 +834,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-10-08 00:59,Channel,Failed,0.574,Timeout or Error
 2026-10-08 00:59,Comments,Failed,1.168,Timeout or Error
 2026-10-08 00:59,Playlist,Failed,0.585,Timeout or Error
+2026-10-08 06:08,Video,Failed,0.838,Timeout or Error
+2026-10-08 06:08,Search,OK,1.557,"[{""type"":""video"" ""title"":""Blind test tout genre 100 extraits !! (Films  Séries  Dessins Animés  Jeux"
+2026-10-08 06:08,Channel,Failed,0.532,Timeout or Error
+2026-10-08 06:08,Comments,Failed,0.745,Timeout or Error
+2026-10-08 06:08,Playlist,Failed,0.73,Timeout or Error
