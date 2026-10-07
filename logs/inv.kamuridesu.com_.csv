@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-09-07 14:34,Video,Failed,0.284,Timeout or Error
-2026-09-07 14:34,Search,OK,0.907,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-09-07 14:34,Channel,Failed,0.346,Timeout or Error
-2026-09-07 14:34,Comments,OK,0.561,"{""commentCount"":10607102 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-09-07 14:34,Playlist,Failed,0.367,Timeout or Error
-2026-09-07 14:34,Video,Failed,0.288,Timeout or Error
-2026-09-07 14:34,Search,OK,0.852,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-09-07 14:34,Channel,Failed,0.336,Timeout or Error
-2026-09-07 14:34,Comments,OK,0.542,"{""commentCount"":10607103 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-09-07 14:34,Playlist,Failed,0.432,Timeout or Error
 2026-09-07 20:19,Video,Failed,0.444,Timeout or Error
 2026-09-07 20:19,Search,OK,1.012,"[{""type"":""video"" ""title"":""Experience 16K Dolby Vision Nature Demo | Ultimate HDR Display Test for 8K"
 2026-09-07 20:19,Channel,Failed,0.564,Timeout or Error
@@ -1689,3 +1679,13 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-10-07 10:58,Channel,Failed,0.362,Timeout or Error
 2026-10-07 10:58,Comments,OK,0.543,"{""commentCount"":10634755 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-10-07 10:58,Playlist,Failed,0.359,Timeout or Error
+2026-10-07 17:15,Video,Failed,0.422,Timeout or Error
+2026-10-07 17:15,Search,OK,0.999,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-10-07 17:15,Channel,Failed,0.545,Timeout or Error
+2026-10-07 17:15,Comments,OK,0.686,"{""commentCount"":10634925 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-10-07 17:15,Playlist,Failed,0.546,Timeout or Error
+2026-10-07 17:15,Video,Failed,0.398,Timeout or Error
+2026-10-07 17:15,Search,OK,1.04,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
+2026-10-07 17:15,Channel,Failed,0.533,Timeout or Error
+2026-10-07 17:15,Comments,OK,0.655,"{""commentCount"":10634925 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-10-07 17:15,Playlist,Failed,0.542,Timeout or Error

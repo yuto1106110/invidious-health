@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-09-07 14:34,Video,Failed,1.207,Timeout or Error
-2026-09-07 14:34,Search,Failed,1.211,Timeout or Error
-2026-09-07 14:34,Channel,Failed,1.207,Timeout or Error
-2026-09-07 14:34,Comments,Failed,1.204,Timeout or Error
-2026-09-07 14:34,Playlist,Failed,1.214,Timeout or Error
 2026-09-07 20:19,Video,Failed,0.308,Timeout or Error
 2026-09-07 20:19,Search,Failed,0.322,Timeout or Error
 2026-09-07 20:19,Channel,Failed,1.323,Timeout or Error
@@ -844,3 +839,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-10-07 10:58,Channel,Failed,0.317,Timeout or Error
 2026-10-07 10:58,Comments,OK,0.534,"{""commentCount"":10634756 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-10-07 10:58,Playlist,Failed,0.325,Timeout or Error
+2026-10-07 17:15,Video,Failed,0.576,Timeout or Error
+2026-10-07 17:15,Search,OK,0.914,"[{""type"":""video"" ""title"":""iPhone 18 Pro (Max) im Test-Fazit: Das beste iPhone  aber …"" ""videoId"":""jD"
+2026-10-07 17:15,Channel,Failed,0.501,Timeout or Error
+2026-10-07 17:15,Comments,OK,0.659,"{""commentCount"":10634925 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-10-07 17:15,Playlist,Failed,0.524,Timeout or Error
