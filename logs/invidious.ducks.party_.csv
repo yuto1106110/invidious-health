@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-09-07 07:50,Video,Failed,0.47,Timeout or Error
-2026-09-07 07:50,Search,OK,0.962,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-09-07 07:50,Channel,Failed,0.489,Timeout or Error
-2026-09-07 07:50,Comments,OK,0.7,"{""commentCount"":10606140 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-09-07 07:50,Playlist,Failed,0.481,Timeout or Error
-2026-09-07 09:36,Video,Failed,0.346,Timeout or Error
-2026-09-07 09:36,Search,OK,0.796,"[{""type"":""video"" ""title"":""Zeekr 7GT bei Nacht: Autobahn-Test mit böser Überraschung"" ""videoId"":""T0iy"
-2026-09-07 09:36,Channel,Failed,0.383,Timeout or Error
-2026-09-07 09:36,Comments,OK,0.524,"{""commentCount"":10606413 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-09-07 09:36,Playlist,Failed,0.381,Timeout or Error
 2026-09-07 14:34,Video,Failed,1.207,Timeout or Error
 2026-09-07 14:34,Search,Failed,1.211,Timeout or Error
 2026-09-07 14:34,Channel,Failed,1.207,Timeout or Error
@@ -849,3 +839,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-10-07 07:09,Channel,Failed,0.408,Timeout or Error
 2026-10-07 07:09,Comments,OK,0.585,"{""commentCount"":10634763 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-10-07 07:09,Playlist,Failed,0.411,Timeout or Error
+2026-10-07 10:58,Video,Failed,0.341,Timeout or Error
+2026-10-07 10:58,Search,OK,0.724,"[{""type"":""video"" ""title"":""3 Tests  3 Testsieger: So erkennst du Vergleiche  bei denen der Sieger vor"
+2026-10-07 10:58,Channel,Failed,0.317,Timeout or Error
+2026-10-07 10:58,Comments,OK,0.534,"{""commentCount"":10634756 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-10-07 10:58,Playlist,Failed,0.325,Timeout or Error
