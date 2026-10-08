@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-09-09 01:59,Video,Failed,0.979,Timeout or Error
-2026-09-09 01:59,Search,Failed,0.541,Timeout or Error
-2026-09-09 01:59,Channel,Failed,1.377,Timeout or Error
-2026-09-09 01:59,Comments,Failed,1.678,Timeout or Error
-2026-09-09 01:59,Playlist,Failed,0.538,Timeout or Error
-2026-09-09 04:47,Video,Failed,1.279,Timeout or Error
-2026-09-09 04:47,Search,Failed,1.137,Timeout or Error
-2026-09-09 04:47,Channel,Failed,1.4,Timeout or Error
-2026-09-09 04:47,Comments,Failed,1.74,Timeout or Error
-2026-09-09 04:47,Playlist,Failed,1.401,Timeout or Error
 2026-09-09 07:16,Video,Failed,1.791,Timeout or Error
 2026-09-09 07:16,Search,Failed,1.252,Timeout or Error
 2026-09-09 07:16,Channel,Failed,1.26,Timeout or Error
@@ -834,3 +824,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-10-09 01:02,Channel,OK,0.589,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-10-09 01:02,Comments,OK,0.333,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-10-09 01:02,Playlist,OK,0.336,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-10-09 06:43,Video,OK,1.146,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-10-09 06:43,Search,OK,0.264,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-10-09 06:43,Channel,Failed,0.196,Timeout or Error
+2026-10-09 06:43,Comments,OK,0.243,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-10-09 06:43,Playlist,Failed,0.499,Timeout or Error
