@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-09-08 21:30,Video,Failed,1.311,Timeout or Error
-2026-09-08 21:30,Search,Failed,1.381,Timeout or Error
-2026-09-08 21:30,Channel,Failed,1.618,Timeout or Error
-2026-09-08 21:30,Comments,Failed,1.36,Timeout or Error
-2026-09-08 21:30,Playlist,Failed,1.309,Timeout or Error
 2026-09-09 01:59,Video,Failed,0.979,Timeout or Error
 2026-09-09 01:59,Search,Failed,0.541,Timeout or Error
 2026-09-09 01:59,Channel,Failed,1.377,Timeout or Error
@@ -834,3 +829,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-10-08 17:17,Channel,Failed,1.972,Timeout or Error
 2026-10-08 17:17,Comments,Failed,1.741,Timeout or Error
 2026-10-08 17:17,Playlist,Failed,1.714,Timeout or Error
+2026-10-09 01:02,Video,Failed,0.942,Timeout or Error
+2026-10-09 01:02,Search,OK,0.086,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-10-09 01:02,Channel,OK,0.589,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-10-09 01:02,Comments,OK,0.333,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-10-09 01:02,Playlist,OK,0.336,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
