@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-09-08 11:35,Video,Failed,0.48,Timeout or Error
-2026-09-08 11:35,Search,OK,0.863,"[{""type"":""video"" ""title"":""GPT-6 Astra vs Claude Fable 5.1 – The REAL Comparison Test!"" ""videoId"":""Xc"
-2026-09-08 11:35,Channel,Failed,0.45,Timeout or Error
-2026-09-08 11:35,Comments,OK,0.598,"{""commentCount"":10609641 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-09-08 11:35,Playlist,Failed,0.451,Timeout or Error
-2026-09-08 16:41,Video,Failed,0.506,Timeout or Error
-2026-09-08 16:41,Search,OK,0.941,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-09-08 16:41,Channel,Failed,0.479,Timeout or Error
-2026-09-08 16:41,Comments,OK,0.658,"{""commentCount"":10610170 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-09-08 16:41,Playlist,Failed,0.478,Timeout or Error
 2026-09-08 21:30,Video,Failed,0.474,Timeout or Error
 2026-09-08 21:30,Search,OK,0.981,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-09-08 21:30,Channel,Failed,0.409,Timeout or Error
@@ -839,3 +829,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-10-08 10:29,Channel,Failed,0.41,Timeout or Error
 2026-10-08 10:29,Comments,OK,0.558,"{""commentCount"":10635361 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-10-08 10:29,Playlist,Failed,0.412,Timeout or Error
+2026-10-08 17:17,Video,Failed,0.433,Timeout or Error
+2026-10-08 17:17,Search,OK,0.881,"[{""type"":""video"" ""title"":""iPhone 18 Pro (Max) im Test-Fazit: Das beste iPhone  aber …"" ""videoId"":""jD"
+2026-10-08 17:17,Channel,Failed,0.414,Timeout or Error
+2026-10-08 17:17,Comments,OK,0.594,"{""commentCount"":10635440 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-10-08 17:17,Playlist,Failed,0.419,Timeout or Error
