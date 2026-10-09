@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-09-09 14:46,Video,Failed,0.333,Timeout or Error
-2026-09-09 14:46,Search,OK,0.81,"[{""type"":""video"" ""title"":""SUBARU E-OUTBACK im Test: Alltag  Autobahn  Reichweite  Laden | Elektro-Ko"
-2026-09-09 14:46,Channel,Failed,0.328,Timeout or Error
-2026-09-09 14:46,Comments,OK,0.488,"{""commentCount"":10612012 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-09-09 14:46,Playlist,Failed,0.319,Timeout or Error
 2026-09-09 19:35,Video,Failed,0.518,Timeout or Error
 2026-09-09 19:35,Search,OK,1.049,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-09-09 19:35,Channel,Failed,0.524,Timeout or Error
@@ -824,3 +819,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-10-09 10:38,Channel,Failed,0.394,Timeout or Error
 2026-10-09 10:38,Comments,OK,0.567,"{""commentCount"":10636008 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-10-09 10:38,Playlist,Failed,0.422,Timeout or Error
+2026-10-09 17:18,Video,Failed,0.351,Timeout or Error
+2026-10-09 17:18,Search,OK,0.768,"[{""type"":""video"" ""title"":""iPhone 18 Pro (Max) im Test-Fazit: Das beste iPhone  aber …"" ""videoId"":""jD"
+2026-10-09 17:18,Channel,Failed,0.334,Timeout or Error
+2026-10-09 17:18,Comments,OK,0.51,"{""commentCount"":10635915 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-10-09 17:18,Playlist,Failed,0.327,Timeout or Error
