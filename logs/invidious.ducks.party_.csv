@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-09-10 03:21,Video,Failed,0.485,Timeout or Error
-2026-09-10 03:21,Search,OK,1.236,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-09-10 03:21,Channel,Failed,0.454,Timeout or Error
-2026-09-10 03:21,Comments,OK,0.775,"{""commentCount"":10612993 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-09-10 03:21,Playlist,Failed,0.47,Timeout or Error
 2026-09-10 06:27,Video,Failed,0.34,Timeout or Error
 2026-09-10 06:27,Search,OK,0.808,"[{""type"":""video"" ""title"":""Open-World-RPG mit erstklassiger Vampir-Geschichte! | Blood of Dawnwalker "
 2026-09-10 06:27,Channel,Failed,0.338,Timeout or Error
@@ -819,3 +814,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-10-10 00:44,Channel,Failed,0.547,Timeout or Error
 2026-10-10 00:44,Comments,OK,0.919,"{""commentCount"":10636267 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-10-10 00:44,Playlist,Failed,0.568,Timeout or Error
+2026-10-10 05:27,Video,Failed,0.444,Timeout or Error
+2026-10-10 05:27,Search,OK,0.896,"[{""type"":""video"" ""title"":""iPhone 18 Pro (Max) im Test-Fazit: Das beste iPhone  aber …"" ""videoId"":""jD"
+2026-10-10 05:27,Channel,Failed,0.424,Timeout or Error
+2026-10-10 05:27,Comments,OK,0.668,"{""commentCount"":10636404 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-10-10 05:27,Playlist,Failed,0.527,Timeout or Error

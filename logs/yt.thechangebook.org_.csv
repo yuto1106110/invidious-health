@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-09-10 03:21,Video,Failed,0.771,Timeout or Error
-2026-09-10 03:21,Search,OK,1.262,"[{""type"":""video"" ""title"":""50 QUESTIONS pour TESTER TON SAVOIR 🧠🤯 | Quiz Culture Générale"" ""videoId"":"
-2026-09-10 03:21,Channel,Failed,0.775,Timeout or Error
-2026-09-10 03:21,Comments,Failed,1.574,Timeout or Error
-2026-09-10 03:21,Playlist,Failed,0.681,Timeout or Error
 2026-09-10 06:27,Video,Failed,0.639,Timeout or Error
 2026-09-10 06:27,Search,OK,1.207,"[{""type"":""video"" ""title"":""50 QUESTIONS pour TESTER TON SAVOIR 🧠🤯 | Quiz Culture Générale"" ""videoId"":"
 2026-09-10 06:27,Channel,Failed,0.548,Timeout or Error
@@ -819,3 +814,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-10-10 00:44,Channel,Failed,1.088,Timeout or Error
 2026-10-10 00:44,Comments,Failed,0.929,Timeout or Error
 2026-10-10 00:44,Playlist,Failed,1.04,Timeout or Error
+2026-10-10 05:27,Video,Failed,0.492,Timeout or Error
+2026-10-10 05:27,Search,OK,1.219,"[{""type"":""video"" ""title"":""TEST Star Wars Galactic Racer : Le jeu de course Star Wars ultime est enfi"
+2026-10-10 05:27,Channel,Failed,0.46,Timeout or Error
+2026-10-10 05:27,Comments,Failed,0.883,Timeout or Error
+2026-10-10 05:27,Playlist,Failed,0.59,Timeout or Error
