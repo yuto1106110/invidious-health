@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-09-10 06:27,Video,Failed,0.34,Timeout or Error
-2026-09-10 06:27,Search,OK,0.808,"[{""type"":""video"" ""title"":""Open-World-RPG mit erstklassiger Vampir-Geschichte! | Blood of Dawnwalker "
-2026-09-10 06:27,Channel,Failed,0.338,Timeout or Error
-2026-09-10 06:27,Comments,OK,0.585,"{""commentCount"":10613268 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-09-10 06:27,Playlist,Failed,0.327,Timeout or Error
-2026-09-10 08:45,Video,Failed,0.351,Timeout or Error
-2026-09-10 08:45,Search,OK,0.855,"[{""type"":""video"" ""title"":""Open-World-RPG mit erstklassiger Vampir-Geschichte! | Blood of Dawnwalker "
-2026-09-10 08:45,Channel,Failed,0.327,Timeout or Error
-2026-09-10 08:45,Comments,OK,0.572,"{""commentCount"":10613428 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-09-10 08:45,Playlist,Failed,0.32,Timeout or Error
 2026-09-10 11:37,Video,Failed,0.508,Timeout or Error
 2026-09-10 11:37,Search,OK,0.982,"[{""type"":""video"" ""title"":""Ultimate OLED Display Test | 16K HDR 120 fps Dolby Vision | 4K Video • 8K "
 2026-09-10 11:37,Channel,Failed,0.488,Timeout or Error
@@ -819,3 +809,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-10-10 05:27,Channel,Failed,0.424,Timeout or Error
 2026-10-10 05:27,Comments,OK,0.668,"{""commentCount"":10636404 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-10-10 05:27,Playlist,Failed,0.527,Timeout or Error
+2026-10-10 09:25,Video,Failed,0.533,Timeout or Error
+2026-10-10 09:25,Search,OK,0.897,"[{""type"":""video"" ""title"":""iPhone 18 Pro (Max) im Test-Fazit: Das beste iPhone  aber …"" ""videoId"":""jD"
+2026-10-10 09:25,Channel,Failed,0.51,Timeout or Error
+2026-10-10 09:25,Comments,OK,0.673,"{""commentCount"":10636567 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-10-10 09:25,Playlist,Failed,0.513,Timeout or Error
