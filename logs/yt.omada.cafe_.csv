@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-09-11 01:50,Video,OK,0.567,
-2026-09-11 01:50,Search,OK,1.519,"[{""type"":""video"" ""title"":""Cool Hearing test"" ""videoId"":""h5l4Rt4Ol7M"" ""author"":""ScienceForum"" ""author"
-2026-09-11 01:50,Channel,Failed,0.607,Timeout or Error
-2026-09-11 01:50,Comments,OK,1.325,"{""commentCount"":10614841 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-09-11 01:50,Playlist,Failed,1.243,Timeout or Error
 2026-09-11 04:25,Video,OK,0.946,
 2026-09-11 04:25,Search,OK,1.158,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-09-11 04:25,Channel,Failed,0.645,Timeout or Error
@@ -809,3 +804,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-10-10 22:12,Channel,OK,0.245,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-10-10 22:12,Comments,OK,0.474,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-10-10 22:12,Playlist,OK,0.246,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-10-11 03:10,Video,OK,1.599,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-10-11 03:10,Search,Failed,0.174,Timeout or Error
+2026-10-11 03:10,Channel,Failed,0.582,Timeout or Error
+2026-10-11 03:10,Comments,Failed,0.383,Timeout or Error
+2026-10-11 03:10,Playlist,OK,0.405,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"

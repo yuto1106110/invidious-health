@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-09-11 01:50,Video,OK,0.531,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
-2026-09-11 01:50,Search,OK,0.397,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
-2026-09-11 01:50,Channel,OK,0.41,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
-2026-09-11 01:50,Comments,OK,0.408,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
-2026-09-11 01:50,Playlist,OK,0.762,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
 2026-09-11 04:25,Video,OK,0.805,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
 2026-09-11 04:25,Search,OK,0.53,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
 2026-09-11 04:25,Channel,OK,0.628,"<!doctype html><html lang=""en""><head><title>Making sure you&#39;re not a bot!</title><link rel=""styl"
@@ -809,3 +804,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-10-10 22:12,Channel,Failed,0.377,Timeout or Error
 2026-10-10 22:12,Comments,OK,0.694,"{""commentCount"":10637076 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-10-10 22:12,Playlist,Failed,0.331,Timeout or Error
+2026-10-11 03:10,Video,OK,0.685,
+2026-10-11 03:10,Search,OK,1.029,"[{""type"":""video"" ""title"":""Unbelievable OLED Test HDR Video 16K 120fps | Dolby Vision HDR for 4K • 8K"
+2026-10-11 03:10,Channel,Failed,0.729,Timeout or Error
+2026-10-11 03:10,Comments,OK,0.87,"{""commentCount"":10637429 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-10-11 03:10,Playlist,Failed,0.304,Timeout or Error
