@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-09-11 04:25,Video,Failed,0.655,Timeout or Error
-2026-09-11 04:25,Search,OK,1.335,"[{""type"":""video"" ""title"":""TEST Marvel's Wolverine : Pas parfait  mais diablement efficace ! 🔵 TEST P"
-2026-09-11 04:25,Channel,Failed,0.718,Timeout or Error
-2026-09-11 04:25,Comments,Failed,0.782,Timeout or Error
-2026-09-11 04:25,Playlist,Failed,0.626,Timeout or Error
 2026-09-11 07:10,Video,Failed,0.622,Timeout or Error
 2026-09-11 07:10,Search,OK,1.229,"[{""type"":""video"" ""title"":""TEST WOLVERINE : On a adoré  mais il manque un truc... 🔵 TEST PS5"" ""videoI"
 2026-09-11 07:10,Channel,Failed,0.451,Timeout or Error
@@ -809,3 +804,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-10-11 03:10,Channel,Failed,0.447,Timeout or Error
 2026-10-11 03:10,Comments,Failed,0.927,Timeout or Error
 2026-10-11 03:10,Playlist,Failed,0.614,Timeout or Error
+2026-10-11 07:09,Video,Failed,0.457,Timeout or Error
+2026-10-11 07:09,Search,OK,1.266,"[{""type"":""video"" ""title"":""50 QUESTIONS pour TESTER TON SAVOIR 🧠🤯 | Quiz Culture Générale"" ""videoId"":"
+2026-10-11 07:09,Channel,Failed,0.533,Timeout or Error
+2026-10-11 07:09,Comments,Failed,0.817,Timeout or Error
+2026-10-11 07:09,Playlist,Failed,0.617,Timeout or Error
