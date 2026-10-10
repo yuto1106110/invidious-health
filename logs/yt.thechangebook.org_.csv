@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-09-10 16:46,Video,Failed,0.452,Timeout or Error
-2026-09-10 16:46,Search,Failed,1.409,Timeout or Error
-2026-09-10 16:46,Channel,Failed,0.623,Timeout or Error
-2026-09-10 16:46,Comments,Failed,0.925,Timeout or Error
-2026-09-10 16:46,Playlist,Failed,0.332,Timeout or Error
-2026-09-10 21:36,Video,Failed,0.865,Timeout or Error
-2026-09-10 21:36,Search,Failed,1.27,Timeout or Error
-2026-09-10 21:36,Channel,Failed,0.84,Timeout or Error
-2026-09-10 21:36,Comments,Failed,0.97,Timeout or Error
-2026-09-10 21:36,Playlist,Failed,0.539,Timeout or Error
 2026-09-11 01:50,Video,Failed,0.731,Timeout or Error
 2026-09-11 01:50,Search,OK,1.28,"[{""type"":""video"" ""title"":""TEST WOLVERINE : On a adoré  mais il manque un truc... 🔵 TEST PS5"" ""videoI"
 2026-09-11 01:50,Channel,Failed,0.532,Timeout or Error
@@ -814,3 +804,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-10-10 15:36,Channel,Failed,0.704,Timeout or Error
 2026-10-10 15:36,Comments,Failed,0.944,Timeout or Error
 2026-10-10 15:36,Playlist,Failed,0.693,Timeout or Error
+2026-10-10 22:12,Video,Failed,0.833,Timeout or Error
+2026-10-10 22:12,Search,OK,1.438,"[{""type"":""video"" ""title"":""50 QUESTIONS pour TESTER TON SAVOIR 🧠🤯 | Quiz Culture Générale"" ""videoId"":"
+2026-10-10 22:12,Channel,Failed,0.515,Timeout or Error
+2026-10-10 22:12,Comments,Failed,0.724,Timeout or Error
+2026-10-10 22:12,Playlist,Failed,0.501,Timeout or Error

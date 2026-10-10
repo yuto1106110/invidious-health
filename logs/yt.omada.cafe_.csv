@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-09-10 16:46,Video,OK,0.431,
-2026-09-10 16:46,Search,OK,0.952,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-09-10 16:46,Channel,Failed,0.448,Timeout or Error
-2026-09-10 16:46,Comments,OK,0.531,"{""commentCount"":10613966 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-09-10 16:46,Playlist,Failed,0.737,Timeout or Error
-2026-09-10 21:36,Video,OK,0.509,
-2026-09-10 21:36,Search,OK,1.236,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-09-10 21:36,Channel,Failed,0.555,Timeout or Error
-2026-09-10 21:36,Comments,OK,1.208,"{""commentCount"":10614289 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-09-10 21:36,Playlist,Failed,0.594,Timeout or Error
 2026-09-11 01:50,Video,OK,0.567,
 2026-09-11 01:50,Search,OK,1.519,"[{""type"":""video"" ""title"":""Cool Hearing test"" ""videoId"":""h5l4Rt4Ol7M"" ""author"":""ScienceForum"" ""author"
 2026-09-11 01:50,Channel,Failed,0.607,Timeout or Error
@@ -814,3 +804,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-10-10 15:36,Channel,Failed,2.099,Timeout or Error
 2026-10-10 15:36,Comments,Failed,1.505,Timeout or Error
 2026-10-10 15:36,Playlist,Failed,2.28,Timeout or Error
+2026-10-10 22:12,Video,Failed,0.465,Timeout or Error
+2026-10-10 22:12,Search,Failed,0.63,Timeout or Error
+2026-10-10 22:12,Channel,OK,0.245,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-10-10 22:12,Comments,OK,0.474,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-10-10 22:12,Playlist,OK,0.246,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"

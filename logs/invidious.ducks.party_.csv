@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-09-10 16:46,Video,Failed,0.356,Timeout or Error
-2026-09-10 16:46,Search,OK,0.762,"[{""type"":""video"" ""title"":""Ultimate OLED Display Test | 16K HDR 120 fps Dolby Vision | 4K Video • 8K "
-2026-09-10 16:46,Channel,Failed,0.324,Timeout or Error
-2026-09-10 16:46,Comments,OK,0.499,"{""commentCount"":10613967 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-09-10 16:46,Playlist,Failed,0.36,Timeout or Error
-2026-09-10 21:36,Video,Failed,0.525,Timeout or Error
-2026-09-10 21:36,Search,OK,0.973,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-09-10 21:36,Channel,Failed,0.525,Timeout or Error
-2026-09-10 21:36,Comments,OK,1.015,"{""commentCount"":10614291 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-09-10 21:36,Playlist,Failed,0.524,Timeout or Error
 2026-09-11 01:50,Video,Failed,0.553,Timeout or Error
 2026-09-11 01:50,Search,OK,1.171,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-09-11 01:50,Channel,Failed,0.513,Timeout or Error
@@ -814,3 +804,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-10-10 15:36,Channel,Failed,0.446,Timeout or Error
 2026-10-10 15:36,Comments,OK,0.666,"{""commentCount"":10636840 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-10-10 15:36,Playlist,Failed,0.457,Timeout or Error
+2026-10-10 22:12,Video,Failed,0.514,Timeout or Error
+2026-10-10 22:12,Search,OK,1.063,"[{""type"":""video"" ""title"":""Kawasaki Ninja 500 SE | Test (deutsch) Modell 2026"" ""videoId"":""xlIezWSSAFw"
+2026-10-10 22:12,Channel,Failed,0.525,Timeout or Error
+2026-10-10 22:12,Comments,OK,0.66,"{""commentCount"":10637077 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-10-10 22:12,Playlist,Failed,0.481,Timeout or Error
