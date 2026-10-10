@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-09-10 11:37,Video,Failed,0.508,Timeout or Error
-2026-09-10 11:37,Search,OK,0.982,"[{""type"":""video"" ""title"":""Ultimate OLED Display Test | 16K HDR 120 fps Dolby Vision | 4K Video • 8K "
-2026-09-10 11:37,Channel,Failed,0.488,Timeout or Error
-2026-09-10 11:37,Comments,OK,0.653,"{""commentCount"":10613614 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-09-10 11:37,Playlist,Failed,0.486,Timeout or Error
 2026-09-10 16:46,Video,Failed,0.356,Timeout or Error
 2026-09-10 16:46,Search,OK,0.762,"[{""type"":""video"" ""title"":""Ultimate OLED Display Test | 16K HDR 120 fps Dolby Vision | 4K Video • 8K "
 2026-09-10 16:46,Channel,Failed,0.324,Timeout or Error
@@ -814,3 +809,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-10-10 09:25,Channel,Failed,0.51,Timeout or Error
 2026-10-10 09:25,Comments,OK,0.673,"{""commentCount"":10636567 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-10-10 09:25,Playlist,Failed,0.513,Timeout or Error
+2026-10-10 15:36,Video,Failed,0.491,Timeout or Error
+2026-10-10 15:36,Search,OK,0.894,"[{""type"":""video"" ""title"":""Kawasaki Ninja 500 SE | Test (deutsch) Modell 2026"" ""videoId"":""xlIezWSSAFw"
+2026-10-10 15:36,Channel,Failed,0.446,Timeout or Error
+2026-10-10 15:36,Comments,OK,0.666,"{""commentCount"":10636840 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-10-10 15:36,Playlist,Failed,0.457,Timeout or Error
