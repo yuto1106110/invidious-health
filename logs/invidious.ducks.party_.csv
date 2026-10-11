@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-09-11 07:10,Video,Failed,0.472,Timeout or Error
-2026-09-11 07:10,Search,OK,0.967,"[{""type"":""video"" ""title"":""Diese Hölle ist der Himmel! - Valheim 1.0 im Test"" ""videoId"":""tUXxo631iLs"""
-2026-09-11 07:10,Channel,Failed,0.487,Timeout or Error
-2026-09-11 07:10,Comments,Failed,1.295,Timeout or Error
-2026-09-11 07:10,Playlist,Failed,0.462,Timeout or Error
-2026-09-11 09:45,Video,Failed,0.397,Timeout or Error
-2026-09-11 09:45,Search,OK,0.788,"[{""type"":""video"" ""title"":""Diese Hölle ist der Himmel! - Valheim 1.0 im Test"" ""videoId"":""tUXxo631iLs"""
-2026-09-11 09:45,Channel,Failed,0.389,Timeout or Error
-2026-09-11 09:45,Comments,OK,0.55,"{""commentCount"":10615596 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-09-11 09:45,Playlist,Failed,0.372,Timeout or Error
 2026-09-11 14:31,Video,Failed,0.348,Timeout or Error
 2026-09-11 14:31,Search,OK,0.776,"[{""type"":""video"" ""title"":""🚀🚀🚀 Typischer DENKFEHLER im IQ-TEST | Machst DU ihn auch?"" ""videoId"":""CkN3"
 2026-09-11 14:31,Channel,Failed,0.318,Timeout or Error
@@ -809,3 +799,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-10-11 07:09,Channel,Failed,0.325,Timeout or Error
 2026-10-11 07:09,Comments,OK,0.547,"{""commentCount"":10637693 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-10-11 07:09,Playlist,Failed,0.32,Timeout or Error
+2026-10-11 10:28,Video,Failed,0.481,Timeout or Error
+2026-10-11 10:28,Search,OK,0.871,"[{""type"":""video"" ""title"":""Das SCHLIMMSTE Erlebnis bei Fastfood Neuheiten im TEST! 🤮💀"" ""videoId"":""YIE"
+2026-10-11 10:28,Channel,Failed,0.415,Timeout or Error
+2026-10-11 10:28,Comments,OK,0.541,"{""commentCount"":10637680 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-10-11 10:28,Playlist,Failed,0.414,Timeout or Error
