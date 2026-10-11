@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-09-12 06:30,Video,Failed,0.35,Timeout or Error
-2026-09-12 06:30,Search,OK,0.701,"[{""type"":""video"" ""title"":""Heftiges Action-Fest mit EINEM PROBLEM! Marvel's Wolverine TEST / REVIEW"" "
-2026-09-12 06:30,Channel,Failed,0.316,Timeout or Error
-2026-09-12 06:30,Comments,OK,0.606,"{""commentCount"":10616407 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-09-12 06:30,Playlist,Failed,0.324,Timeout or Error
 2026-09-12 08:47,Video,Failed,0.393,Timeout or Error
 2026-09-12 08:47,Search,OK,0.776,"[{""type"":""video"" ""title"":""Open-World-RPG mit erstklassiger Vampir-Geschichte! | Blood of Dawnwalker "
 2026-09-12 08:47,Channel,Failed,0.368,Timeout or Error
@@ -799,3 +794,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-10-12 04:51,Channel,Failed,0.409,Timeout or Error
 2026-10-12 04:51,Comments,OK,0.716,"{""commentCount"":10638540 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-10-12 04:51,Playlist,Failed,0.411,Timeout or Error
+2026-10-12 08:22,Video,Failed,0.477,Timeout or Error
+2026-10-12 08:22,Search,OK,0.894,"[{""type"":""video"" ""title"":""New VW ID. Polo Review: What it’s REALLY capable of! 😱 | auto mobil"" ""vide"
+2026-10-12 08:22,Channel,Failed,0.453,Timeout or Error
+2026-10-12 08:22,Comments,OK,0.645,"{""commentCount"":10638854 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-10-12 08:22,Playlist,Failed,0.448,Timeout or Error
