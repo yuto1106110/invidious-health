@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-09-12 03:05,Video,Failed,0.546,Timeout or Error
-2026-09-12 03:05,Search,OK,1.166,"[{""type"":""video"" ""title"":""HEAD Extreme im Test - Wie spielt sich der neue Tennisschläger? | Playtest"
-2026-09-12 03:05,Channel,Failed,0.543,Timeout or Error
-2026-09-12 03:05,Comments,OK,0.898,"{""commentCount"":10615926 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-09-12 03:05,Playlist,Failed,0.503,Timeout or Error
 2026-09-12 06:30,Video,Failed,0.35,Timeout or Error
 2026-09-12 06:30,Search,OK,0.701,"[{""type"":""video"" ""title"":""Heftiges Action-Fest mit EINEM PROBLEM! Marvel's Wolverine TEST / REVIEW"" "
 2026-09-12 06:30,Channel,Failed,0.316,Timeout or Error
@@ -799,3 +794,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-10-12 00:15,Channel,Failed,0.4,Timeout or Error
 2026-10-12 00:15,Comments,OK,0.705,"{""commentCount"":10638255 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-10-12 00:15,Playlist,Failed,0.394,Timeout or Error
+2026-10-12 04:51,Video,Failed,0.475,Timeout or Error
+2026-10-12 04:51,Search,OK,0.963,"[{""type"":""video"" ""title"":""New VW ID. Polo Review: What it’s REALLY capable of! 😱 | auto mobil"" ""vide"
+2026-10-12 04:51,Channel,Failed,0.409,Timeout or Error
+2026-10-12 04:51,Comments,OK,0.716,"{""commentCount"":10638540 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-10-12 04:51,Playlist,Failed,0.411,Timeout or Error
