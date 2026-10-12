@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-09-12 16:35,Video,Failed,0.595,Timeout or Error
-2026-09-12 16:35,Search,OK,1.158,"[{""type"":""video"" ""title"":""🧠 Devine le LOGO en 3 SECONDES ✅🔥🤔 | 300 Logos Célèbres | Quiz Logos 2024"""
-2026-09-12 16:35,Channel,Failed,0.34,Timeout or Error
-2026-09-12 16:35,Comments,Failed,0.805,Timeout or Error
-2026-09-12 16:35,Playlist,Failed,0.391,Timeout or Error
 2026-09-12 20:53,Video,Failed,0.422,Timeout or Error
 2026-09-12 20:53,Search,OK,1.212,"[{""type"":""video"" ""title"":""TEST WOLVERINE : On a adoré  mais il manque un truc... 🔵 TEST PS5"" ""videoI"
 2026-09-12 20:53,Channel,Failed,0.622,Timeout or Error
@@ -794,3 +789,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-10-12 12:49,Channel,Failed,0.639,Timeout or Error
 2026-10-12 12:49,Comments,Failed,0.621,Timeout or Error
 2026-10-12 12:49,Playlist,Failed,0.358,Timeout or Error
+2026-10-12 20:33,Video,Failed,0.651,Timeout or Error
+2026-10-12 20:33,Search,Failed,0.549,Timeout or Error
+2026-10-12 20:33,Channel,Failed,0.374,Timeout or Error
+2026-10-12 20:33,Comments,Failed,0.552,Timeout or Error
+2026-10-12 20:33,Playlist,Failed,0.306,Timeout or Error
