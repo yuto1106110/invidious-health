@@ -1,24 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-09-12 20:53,Video,OK,0.628,
-2026-09-12 20:53,Search,OK,1.033,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-09-12 20:53,Channel,Failed,0.581,Timeout or Error
-2026-09-12 20:53,Comments,OK,0.66,"{""commentCount"":10616050 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-09-12 20:53,Playlist,Failed,0.481,Timeout or Error
-2026-09-12 23:49,Video,OK,1.029,
-2026-09-12 23:49,Search,OK,1.8,"[{""type"":""video"" ""title"":""Root and Cox Shine | Highlights - England v Pakistan Day 4 | Rothesay Test"
-2026-09-12 23:49,Channel,Failed,0.88,Timeout or Error
-2026-09-12 23:49,Comments,OK,0.919,"{""commentCount"":10616563 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-09-12 23:49,Playlist,Failed,0.58,Timeout or Error
-2026-09-13 02:37,Video,OK,0.608,
-2026-09-13 02:37,Search,OK,1.534,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-09-13 02:37,Channel,Failed,0.688,Timeout or Error
-2026-09-13 02:37,Comments,OK,1.57,"{""commentCount"":10617117 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-09-13 02:37,Playlist,Failed,1.225,Timeout or Error
-2026-09-13 05:00,Video,OK,0.451,
-2026-09-13 05:00,Search,OK,0.88,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-09-13 05:00,Channel,Failed,2.492,Timeout or Error
-2026-09-13 05:00,Comments,OK,0.926,"{""commentCount"":10617459 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-09-13 05:00,Playlist,Failed,0.796,Timeout or Error
 2026-09-13 07:45,Video,Failed,0.487,Timeout or Error
 2026-09-13 07:45,Search,OK,1.189,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-09-13 07:45,Channel,Failed,0.345,Timeout or Error
@@ -794,3 +774,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-10-12 20:33,Channel,Failed,0.177,Timeout or Error
 2026-10-12 20:33,Comments,OK,0.162,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-10-12 20:33,Playlist,Failed,0.168,Timeout or Error
+2026-10-13 05:44,Video,OK,0.832,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-10-13 05:44,Search,OK,0.253,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-10-13 05:44,Channel,OK,0.457,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-10-13 05:44,Comments,OK,0.708,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-10-13 05:44,Playlist,OK,3.729,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"

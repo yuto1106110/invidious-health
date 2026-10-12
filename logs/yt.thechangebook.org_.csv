@@ -1,24 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-09-12 20:53,Video,Failed,0.422,Timeout or Error
-2026-09-12 20:53,Search,OK,1.212,"[{""type"":""video"" ""title"":""TEST WOLVERINE : On a adoré  mais il manque un truc... 🔵 TEST PS5"" ""videoI"
-2026-09-12 20:53,Channel,Failed,0.622,Timeout or Error
-2026-09-12 20:53,Comments,Failed,0.98,Timeout or Error
-2026-09-12 20:53,Playlist,Failed,0.445,Timeout or Error
-2026-09-12 23:49,Video,Failed,0.501,Timeout or Error
-2026-09-12 23:49,Search,OK,1.405,"[{""type"":""video"" ""title"":""QUIZ Culture Générale 🧠 : 100 Questions pour tester votre niveau"" ""videoId"
-2026-09-12 23:49,Channel,Failed,0.777,Timeout or Error
-2026-09-12 23:49,Comments,Failed,0.99,Timeout or Error
-2026-09-12 23:49,Playlist,Failed,0.638,Timeout or Error
-2026-09-13 02:37,Video,Failed,0.745,Timeout or Error
-2026-09-13 02:37,Search,OK,1.398,"[{""type"":""video"" ""title"":""OLED TEST HDR 4K 120FPS DOLBY VISION 🏞 4K / 8K Monitor Test Video #BGM"" ""v"
-2026-09-13 02:37,Channel,Failed,0.796,Timeout or Error
-2026-09-13 02:37,Comments,Failed,0.754,Timeout or Error
-2026-09-13 02:37,Playlist,Failed,0.607,Timeout or Error
-2026-09-13 05:00,Video,Failed,0.378,Timeout or Error
-2026-09-13 05:00,Search,OK,1.337,"[{""type"":""video"" ""title"":""Ultimate Wildlife Display Test | 4K HDR 120 fps Dolby Vision | 4K Video • "
-2026-09-13 05:00,Channel,Failed,0.481,Timeout or Error
-2026-09-13 05:00,Comments,Failed,1.167,Timeout or Error
-2026-09-13 05:00,Playlist,Failed,0.364,Timeout or Error
 2026-09-13 07:45,Video,Failed,0.569,Timeout or Error
 2026-09-13 07:45,Search,OK,0.871,"[{""type"":""video"" ""title"":""50 QUESTIONS pour TESTER TON SAVOIR 🧠🤯 | Quiz Culture Générale"" ""videoId"":"
 2026-09-13 07:45,Channel,Failed,0.425,Timeout or Error
@@ -794,3 +774,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-10-12 20:33,Channel,Failed,0.374,Timeout or Error
 2026-10-12 20:33,Comments,Failed,0.552,Timeout or Error
 2026-10-12 20:33,Playlist,Failed,0.306,Timeout or Error
+2026-10-13 05:44,Video,Failed,0.611,Timeout or Error
+2026-10-13 05:44,Search,Failed,0.619,Timeout or Error
+2026-10-13 05:44,Channel,Failed,0.46,Timeout or Error
+2026-10-13 05:44,Comments,Failed,0.617,Timeout or Error
+2026-10-13 05:44,Playlist,Failed,0.864,Timeout or Error
