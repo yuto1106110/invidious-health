@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-09-12 08:47,Video,OK,1.461,
-2026-09-12 08:47,Search,OK,1.129,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-09-12 08:47,Channel,Failed,1.215,Timeout or Error
-2026-09-12 08:47,Comments,OK,1.232,"{""commentCount"":10616022 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-09-12 08:47,Playlist,Failed,1.238,Timeout or Error
-2026-09-12 11:40,Video,OK,0.414,
-2026-09-12 11:40,Search,OK,1.094,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-09-12 11:40,Channel,Failed,0.578,Timeout or Error
-2026-09-12 11:40,Comments,OK,0.825,"{""commentCount"":10616135 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-09-12 11:40,Playlist,Failed,0.314,Timeout or Error
 2026-09-12 16:35,Video,OK,0.431,
 2026-09-12 16:35,Search,OK,0.817,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-09-12 16:35,Channel,Failed,0.468,Timeout or Error
@@ -799,3 +789,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-10-12 08:22,Channel,OK,0.17,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-10-12 08:22,Comments,OK,1.119,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-10-12 08:22,Playlist,OK,0.588,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-10-12 12:49,Video,Failed,0.355,Timeout or Error
+2026-10-12 12:49,Search,Failed,0.152,Timeout or Error
+2026-10-12 12:49,Channel,OK,0.364,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-10-12 12:49,Comments,Failed,0.485,Timeout or Error
+2026-10-12 12:49,Playlist,OK,0.353,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"

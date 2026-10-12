@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-09-12 08:47,Video,Failed,0.654,Timeout or Error
-2026-09-12 08:47,Search,OK,1.131,"[{""type"":""video"" ""title"":""50 QUESTIONS pour TESTER TON SAVOIR 🧠🤯 | Quiz Culture Générale"" ""videoId"":"
-2026-09-12 08:47,Channel,Failed,0.487,Timeout or Error
-2026-09-12 08:47,Comments,Failed,0.891,Timeout or Error
-2026-09-12 08:47,Playlist,Failed,0.39,Timeout or Error
-2026-09-12 11:40,Video,Failed,0.572,Timeout or Error
-2026-09-12 11:40,Search,OK,0.907,"[{""type"":""video"" ""title"":""QUIZ CULTURE GÉNÉRALE #3  60 QUESTIONS"" ""videoId"":""pK6XQrZDACE"" ""author"":"""
-2026-09-12 11:40,Channel,Failed,0.54,Timeout or Error
-2026-09-12 11:40,Comments,Failed,0.542,Timeout or Error
-2026-09-12 11:40,Playlist,Failed,0.419,Timeout or Error
 2026-09-12 16:35,Video,Failed,0.595,Timeout or Error
 2026-09-12 16:35,Search,OK,1.158,"[{""type"":""video"" ""title"":""🧠 Devine le LOGO en 3 SECONDES ✅🔥🤔 | 300 Logos Célèbres | Quiz Logos 2024"""
 2026-09-12 16:35,Channel,Failed,0.34,Timeout or Error
@@ -799,3 +789,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-10-12 08:22,Channel,Failed,0.458,Timeout or Error
 2026-10-12 08:22,Comments,Failed,0.618,Timeout or Error
 2026-10-12 08:22,Playlist,Failed,0.591,Timeout or Error
+2026-10-12 12:49,Video,Failed,8.617,Timeout or Error
+2026-10-12 12:49,Search,OK,0.825,"[{""type"":""video"" ""title"":""OLED TEST HDR 4K 120FPS DOLBY VISION 🏞 4K / 8K Monitor Test Video #BGM"" ""v"
+2026-10-12 12:49,Channel,Failed,0.639,Timeout or Error
+2026-10-12 12:49,Comments,Failed,0.621,Timeout or Error
+2026-10-12 12:49,Playlist,Failed,0.358,Timeout or Error
