@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-09-13 14:34,Video,Failed,0.35,Timeout or Error
-2026-09-13 14:34,Search,OK,0.902,"[{""type"":""video"" ""title"":""Open-World-RPG mit erstklassiger Vampir-Geschichte! | Blood of Dawnwalker "
-2026-09-13 14:34,Channel,Failed,0.368,Timeout or Error
-2026-09-13 14:34,Comments,OK,0.567,"{""commentCount"":10618463 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-09-13 14:34,Playlist,Failed,0.378,Timeout or Error
 2026-09-13 19:55,Video,Failed,0.45,Timeout or Error
 2026-09-13 19:55,Search,OK,0.928,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-09-13 19:55,Channel,Failed,0.381,Timeout or Error
@@ -774,3 +769,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-10-13 11:21,Channel,Failed,0.326,Timeout or Error
 2026-10-13 11:21,Comments,OK,0.467,"{""commentCount"":10639036 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-10-13 11:21,Playlist,Failed,0.325,Timeout or Error
+2026-10-13 18:58,Video,Failed,0.376,Timeout or Error
+2026-10-13 18:58,Search,OK,0.956,"[{""type"":""video"" ""title"":""Air fryers put to the test: Can cheap appliances compete with brand-name p"
+2026-10-13 18:58,Channel,Failed,0.35,Timeout or Error
+2026-10-13 18:58,Comments,OK,0.651,"{""commentCount"":10639156 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-10-13 18:58,Playlist,Failed,0.34,Timeout or Error
