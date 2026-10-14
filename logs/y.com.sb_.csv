@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-09-15 02:25,Video,Failed,0.119,Timeout or Error
-2026-09-15 02:25,Search,Failed,0.134,Timeout or Error
-2026-09-15 02:25,Channel,Failed,0.12,Timeout or Error
-2026-09-15 02:25,Comments,Failed,0.12,Timeout or Error
-2026-09-15 02:25,Playlist,Failed,0.117,Timeout or Error
 2026-09-15 06:17,Video,Failed,0.096,Timeout or Error
 2026-09-15 06:17,Search,Failed,0.094,Timeout or Error
 2026-09-15 06:17,Channel,Failed,0.095,Timeout or Error
@@ -759,3 +754,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-10-14 21:45,Channel,Failed,0.398,Timeout or Error
 2026-10-14 21:45,Comments,OK,0.855,"{""commentCount"":10639774 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-10-14 21:45,Playlist,Failed,1.261,Timeout or Error
+2026-10-15 02:43,Video,Failed,1.201,Timeout or Error
+2026-10-15 02:43,Search,OK,1.049,"[{""type"":""video"" ""title"":""€25 000 SUV Sensation: First Test of the Omoda 4 Hybrid & EV!"" ""videoId"":"""
+2026-10-15 02:43,Channel,Failed,0.323,Timeout or Error
+2026-10-15 02:43,Comments,OK,0.647,"{""commentCount"":10639972 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-10-15 02:43,Playlist,Failed,0.344,Timeout or Error
