@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-09-14 14:38,Video,Failed,0.094,Timeout or Error
-2026-09-14 14:38,Search,Failed,0.094,Timeout or Error
-2026-09-14 14:38,Channel,Failed,0.095,Timeout or Error
-2026-09-14 14:38,Comments,Failed,0.095,Timeout or Error
-2026-09-14 14:38,Playlist,Failed,0.093,Timeout or Error
 2026-09-14 20:29,Video,Failed,0.094,Timeout or Error
 2026-09-14 20:29,Search,Failed,0.137,Timeout or Error
 2026-09-14 20:29,Channel,Failed,0.093,Timeout or Error
@@ -759,3 +754,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-10-14 10:31,Channel,Failed,0.501,Timeout or Error
 2026-10-14 10:31,Comments,Failed,0.257,Timeout or Error
 2026-10-14 10:31,Playlist,Failed,0.264,Timeout or Error
+2026-10-14 15:59,Video,Failed,1.119,Timeout or Error
+2026-10-14 15:59,Search,OK,0.991,"[{""type"":""video"" ""title"":""You Won't Believe This 16K HDR Nature Video | Dolby Vision OLED Test (4K V"
+2026-10-14 15:59,Channel,Failed,0.521,Timeout or Error
+2026-10-14 15:59,Comments,OK,0.71,"{""commentCount"":10639610 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-10-14 15:59,Playlist,Failed,0.464,Timeout or Error
