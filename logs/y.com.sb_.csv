@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-09-14 20:29,Video,Failed,0.094,Timeout or Error
-2026-09-14 20:29,Search,Failed,0.137,Timeout or Error
-2026-09-14 20:29,Channel,Failed,0.093,Timeout or Error
-2026-09-14 20:29,Comments,Failed,0.094,Timeout or Error
-2026-09-14 20:29,Playlist,Failed,0.094,Timeout or Error
 2026-09-15 02:25,Video,Failed,0.119,Timeout or Error
 2026-09-15 02:25,Search,Failed,0.134,Timeout or Error
 2026-09-15 02:25,Channel,Failed,0.12,Timeout or Error
@@ -759,3 +754,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-10-14 15:59,Channel,Failed,0.521,Timeout or Error
 2026-10-14 15:59,Comments,OK,0.71,"{""commentCount"":10639610 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-10-14 15:59,Playlist,Failed,0.464,Timeout or Error
+2026-10-14 21:45,Video,OK,1.566,
+2026-10-14 21:45,Search,OK,0.938,"[{""type"":""video"" ""title"":""New VW ID. Polo Review: What it’s REALLY capable of! 😱 | auto mobil"" ""vide"
+2026-10-14 21:45,Channel,Failed,0.398,Timeout or Error
+2026-10-14 21:45,Comments,OK,0.855,"{""commentCount"":10639774 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-10-14 21:45,Playlist,Failed,1.261,Timeout or Error
