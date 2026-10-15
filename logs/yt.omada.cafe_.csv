@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-09-15 19:50,Video,OK,0.992,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-09-15 19:50,Search,OK,0.712,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-09-15 19:50,Channel,Failed,1.358,Timeout or Error
-2026-09-15 19:50,Comments,Failed,1.373,Timeout or Error
-2026-09-15 19:50,Playlist,Failed,1.654,Timeout or Error
-2026-09-16 00:23,Video,OK,0.352,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-09-16 00:23,Search,Failed,1.236,Timeout or Error
-2026-09-16 00:23,Channel,Failed,1.269,Timeout or Error
-2026-09-16 00:23,Comments,Failed,1.737,Timeout or Error
-2026-09-16 00:23,Playlist,Failed,1.245,Timeout or Error
 2026-09-16 04:25,Video,OK,0.584,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-09-16 04:25,Search,OK,1.253,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-09-16 04:25,Channel,OK,0.656,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
@@ -764,3 +754,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-10-15 19:42,Channel,OK,0.47,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-10-15 19:42,Comments,Failed,0.23,Timeout or Error
 2026-10-15 19:42,Playlist,Failed,0.116,Timeout or Error
+2026-10-16 00:26,Video,OK,1.474,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-10-16 00:26,Search,OK,0.827,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-10-16 00:26,Channel,Failed,0.413,Timeout or Error
+2026-10-16 00:26,Comments,Failed,0.415,Timeout or Error
+2026-10-16 00:26,Playlist,OK,0.602,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
