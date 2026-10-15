@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-09-15 14:40,Video,Failed,0.542,Timeout or Error
-2026-09-15 14:40,Search,OK,0.957,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-09-15 14:40,Channel,Failed,0.513,Timeout or Error
-2026-09-15 14:40,Comments,OK,0.725,"{""commentCount"":10620682 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-09-15 14:40,Playlist,Failed,0.516,Timeout or Error
 2026-09-15 19:50,Video,Failed,0.538,Timeout or Error
 2026-09-15 19:50,Search,OK,1.03,"[{""type"":""video"" ""title"":""Is Bavaria its own country?"" ""videoId"":""m3_ylNXYnR4"" ""author"":""Testkanal"" "
 2026-09-15 19:50,Channel,Failed,0.536,Timeout or Error
@@ -764,3 +759,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-10-15 14:28,Channel,Failed,0.355,Timeout or Error
 2026-10-15 14:28,Comments,OK,0.547,"{""commentCount"":10640366 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-10-15 14:28,Playlist,Failed,0.336,Timeout or Error
+2026-10-15 19:42,Video,Failed,0.424,Timeout or Error
+2026-10-15 19:42,Search,OK,1.0,"[{""type"":""playlist"" ""title"":""OLED TEST DEMO"" ""playlistId"":""PL0Kkfpim5i3klF2u1ov6wIjRm-7bAo8NO"" ""play"
+2026-10-15 19:42,Channel,Failed,0.444,Timeout or Error
+2026-10-15 19:42,Comments,OK,0.597,"{""commentCount"":10640436 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-10-15 19:42,Playlist,Failed,0.432,Timeout or Error
