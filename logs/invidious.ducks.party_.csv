@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-09-16 04:25,Video,Failed,0.517,Timeout or Error
-2026-09-16 04:25,Search,OK,1.114,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-09-16 04:25,Channel,Failed,0.486,Timeout or Error
-2026-09-16 04:25,Comments,OK,0.72,"{""commentCount"":10621172 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-09-16 04:25,Playlist,Failed,0.493,Timeout or Error
 2026-09-16 07:37,Video,Failed,0.531,Timeout or Error
 2026-09-16 07:37,Search,OK,1.054,"[{""type"":""video"" ""title"":""5.1 Speaker Surround Sound Test | Real Dolby Home Theater Speaker Demo"" ""v"
 2026-09-16 07:37,Channel,Failed,0.495,Timeout or Error
@@ -759,3 +754,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-10-16 00:26,Channel,Failed,0.552,Timeout or Error
 2026-10-16 00:26,Comments,OK,0.76,"{""commentCount"":10640600 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-10-16 00:26,Playlist,Failed,0.5,Timeout or Error
+2026-10-16 04:37,Video,Failed,0.348,Timeout or Error
+2026-10-16 04:37,Search,OK,0.873,"[{""type"":""video"" ""title"":""Der Test von Enshrouded 1.0 war uns eine WONNE!"" ""videoId"":""pq9cKRNRYGI"" """
+2026-10-16 04:37,Channel,Failed,0.338,Timeout or Error
+2026-10-16 04:37,Comments,OK,0.565,"{""commentCount"":10640740 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-10-16 04:37,Playlist,Failed,0.334,Timeout or Error
