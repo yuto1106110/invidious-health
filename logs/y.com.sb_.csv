@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-09-16 07:37,Video,Failed,0.139,Timeout or Error
-2026-09-16 07:37,Search,Failed,0.139,Timeout or Error
-2026-09-16 07:37,Channel,Failed,0.141,Timeout or Error
-2026-09-16 07:37,Comments,Failed,0.141,Timeout or Error
-2026-09-16 07:37,Playlist,Failed,0.142,Timeout or Error
 2026-09-16 09:57,Video,Failed,0.093,Timeout or Error
 2026-09-16 09:57,Search,Failed,0.094,Timeout or Error
 2026-09-16 09:57,Channel,Failed,0.093,Timeout or Error
@@ -759,3 +754,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-10-16 04:37,Channel,Failed,0.333,Timeout or Error
 2026-10-16 04:37,Comments,OK,0.523,"{""commentCount"":10640740 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-10-16 04:37,Playlist,Failed,0.337,Timeout or Error
+2026-10-16 07:50,Video,OK,0.353,
+2026-10-16 07:50,Search,OK,1.088,"[{""type"":""video"" ""title"":""Selection Post Phase XIV में पूछे गए Cloze Test | English With Rani Ma'am"""
+2026-10-16 07:50,Channel,Failed,0.437,Timeout or Error
+2026-10-16 07:50,Comments,OK,0.577,"{""commentCount"":10640658 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-10-16 07:50,Playlist,Failed,0.389,Timeout or Error
