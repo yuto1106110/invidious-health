@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-09-16 19:40,Video,Failed,0.372,Timeout or Error
-2026-09-16 19:40,Search,OK,0.929,"[{""type"":""video"" ""title"":""Ich teste Baby Produkte als Erwachsener"" ""videoId"":""yM3yJK5lNoQ"" ""author"":"
-2026-09-16 19:40,Channel,Failed,0.323,Timeout or Error
-2026-09-16 19:40,Comments,OK,0.638,"{""commentCount"":10622129 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-09-16 19:40,Playlist,Failed,0.324,Timeout or Error
 2026-09-17 00:16,Video,Failed,0.566,Timeout or Error
 2026-09-17 00:16,Search,OK,1.325,"[{""type"":""video"" ""title"":""iPhone 18 Pro & iPhone 18 Pro Max - Unboxing  First Test & Initial Impress"
 2026-09-17 00:16,Channel,Failed,0.536,Timeout or Error
@@ -764,3 +759,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-10-16 19:29,Channel,Failed,0.421,Timeout or Error
 2026-10-16 19:29,Comments,OK,0.728,"{""commentCount"":10640942 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-10-16 19:29,Playlist,Failed,0.428,Timeout or Error
+2026-10-17 00:06,Video,Failed,0.43,Timeout or Error
+2026-10-17 00:06,Search,OK,1.021,"[{""type"":""video"" ""title"":""AMANO S900 Classic Review: Comfortable  but No Gear Shifter! #amanobikes #"
+2026-10-17 00:06,Channel,Failed,0.45,Timeout or Error
+2026-10-17 00:06,Comments,OK,0.597,"{""commentCount"":10641112 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-10-17 00:06,Playlist,Failed,0.463,Timeout or Error
