@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-09-16 14:41,Video,Failed,0.353,Timeout or Error
-2026-09-16 14:41,Search,OK,0.728,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
-2026-09-16 14:41,Channel,Failed,0.329,Timeout or Error
-2026-09-16 14:41,Comments,OK,0.59,"{""commentCount"":10621832 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-09-16 14:41,Playlist,Failed,0.325,Timeout or Error
 2026-09-16 19:40,Video,Failed,0.372,Timeout or Error
 2026-09-16 19:40,Search,OK,0.929,"[{""type"":""video"" ""title"":""Ich teste Baby Produkte als Erwachsener"" ""videoId"":""yM3yJK5lNoQ"" ""author"":"
 2026-09-16 19:40,Channel,Failed,0.323,Timeout or Error
@@ -764,3 +759,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-10-16 14:27,Channel,Failed,0.329,Timeout or Error
 2026-10-16 14:27,Comments,OK,0.511,"{""commentCount"":10640846 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-10-16 14:27,Playlist,Failed,0.325,Timeout or Error
+2026-10-16 19:29,Video,Failed,0.441,Timeout or Error
+2026-10-16 19:29,Search,OK,0.855,"[{""type"":""video"" ""title"":""Der Test von Enshrouded 1.0 war uns eine WONNE!"" ""videoId"":""pq9cKRNRYGI"" """
+2026-10-16 19:29,Channel,Failed,0.421,Timeout or Error
+2026-10-16 19:29,Comments,OK,0.728,"{""commentCount"":10640942 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-10-16 19:29,Playlist,Failed,0.428,Timeout or Error
