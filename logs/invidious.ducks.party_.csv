@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-09-16 09:57,Video,Failed,0.337,Timeout or Error
-2026-09-16 09:57,Search,OK,0.809,"[{""type"":""video"" ""title"":""Honda CB1000F im ersten Vergleich gegen die Z900RS SE"" ""videoId"":""EkHezFkT"
-2026-09-16 09:57,Channel,Failed,0.325,Timeout or Error
-2026-09-16 09:57,Comments,OK,0.464,"{""commentCount"":10621541 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-09-16 09:57,Playlist,Failed,0.318,Timeout or Error
 2026-09-16 14:41,Video,Failed,0.353,Timeout or Error
 2026-09-16 14:41,Search,OK,0.728,"[{""type"":""channel"" ""author"":""test"" ""authorId"":""UCZRcA_nO3Kt-SOml2mY8D9g"" ""authorUrl"":""/channel/UCZRc"
 2026-09-16 14:41,Channel,Failed,0.329,Timeout or Error
@@ -764,3 +759,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-10-16 09:56,Channel,Failed,0.438,Timeout or Error
 2026-10-16 09:56,Comments,OK,0.612,"{""commentCount"":10640724 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-10-16 09:56,Playlist,Failed,0.41,Timeout or Error
+2026-10-16 14:27,Video,Failed,0.346,Timeout or Error
+2026-10-16 14:27,Search,OK,0.777,"[{""type"":""video"" ""title"":""Is the ZT3 Max a TOTAL waste of money!? - The real-life test!"" ""videoId"":"""
+2026-10-16 14:27,Channel,Failed,0.329,Timeout or Error
+2026-10-16 14:27,Comments,OK,0.511,"{""commentCount"":10640846 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-10-16 14:27,Playlist,Failed,0.325,Timeout or Error
