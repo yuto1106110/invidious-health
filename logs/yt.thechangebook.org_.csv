@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-09-17 16:01,Video,Failed,0.486,Timeout or Error
-2026-09-17 16:01,Search,OK,0.982,"[{""type"":""video"" ""title"":""J'ai les iPhone 18 Pro et l'iPhone Pliable ! (1er Test)"" ""videoId"":""kfaXcL"
-2026-09-17 16:01,Channel,Failed,0.435,Timeout or Error
-2026-09-17 16:01,Comments,Failed,0.679,Timeout or Error
-2026-09-17 16:01,Playlist,Failed,0.455,Timeout or Error
 2026-09-17 21:56,Video,Failed,0.608,Timeout or Error
 2026-09-17 21:56,Search,OK,1.137,"[{""type"":""video"" ""title"":""J'ai les iPhone 18 Pro et l'iPhone Pliable ! (1er Test)"" ""videoId"":""kfaXcL"
 2026-09-17 21:56,Channel,Failed,0.448,Timeout or Error
@@ -764,3 +759,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-10-17 14:20,Channel,Failed,0.454,Timeout or Error
 2026-10-17 14:20,Comments,Failed,0.373,Timeout or Error
 2026-10-17 14:20,Playlist,Failed,0.283,Timeout or Error
+2026-10-17 19:00,Video,Failed,0.555,Timeout or Error
+2026-10-17 19:00,Search,Failed,0.322,Timeout or Error
+2026-10-17 19:00,Channel,Failed,0.549,Timeout or Error
+2026-10-17 19:00,Comments,Failed,0.338,Timeout or Error
+2026-10-17 19:00,Playlist,Failed,0.333,Timeout or Error
