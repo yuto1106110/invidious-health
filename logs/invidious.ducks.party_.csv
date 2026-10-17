@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-09-17 07:33,Video,Failed,0.345,Timeout or Error
-2026-09-17 07:33,Search,OK,0.85,"[{""type"":""video"" ""title"":""Ich TESTE NEUE Supermarkt PRODUKTE damit ihr es LIEBT"" ""videoId"":""k4Z2UXCQ"
-2026-09-17 07:33,Channel,Failed,0.325,Timeout or Error
-2026-09-17 07:33,Comments,OK,0.502,"{""commentCount"":10623171 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-09-17 07:33,Playlist,Failed,0.33,Timeout or Error
 2026-09-17 10:01,Video,Failed,0.342,Timeout or Error
 2026-09-17 10:01,Search,OK,0.758,"[{""type"":""video"" ""title"":""Ich TESTE NEUE Supermarkt PRODUKTE damit ihr es LIEBT"" ""videoId"":""k4Z2UXCQ"
 2026-09-17 10:01,Channel,Failed,0.321,Timeout or Error
@@ -764,3 +759,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-10-17 07:24,Channel,Failed,0.436,Timeout or Error
 2026-10-17 07:24,Comments,OK,0.596,"{""commentCount"":10641380 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-10-17 07:24,Playlist,Failed,0.419,Timeout or Error
+2026-10-17 09:57,Video,Failed,0.439,Timeout or Error
+2026-10-17 09:57,Search,OK,0.809,"[{""type"":""video"" ""title"":""New VW ID. Polo Review: What it’s REALLY capable of! 😱 | auto mobil"" ""vide"
+2026-10-17 09:57,Channel,Failed,0.419,Timeout or Error
+2026-10-17 09:57,Comments,OK,0.589,"{""commentCount"":10641447 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-10-17 09:57,Playlist,Failed,0.419,Timeout or Error
