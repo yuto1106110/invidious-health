@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-09-18 02:28,Video,Failed,0.496,Timeout or Error
-2026-09-18 02:28,Search,OK,1.189,"[{""type"":""video"" ""title"":""iPhone 18 Pro Max vs Samsung Galaxy S26 Ultra Camera Test Comparison"" ""vid"
-2026-09-18 02:28,Channel,Failed,0.46,Timeout or Error
-2026-09-18 02:28,Comments,OK,0.857,"{""commentCount"":10624076 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-09-18 02:28,Playlist,Failed,0.456,Timeout or Error
 2026-09-18 05:50,Video,Failed,0.445,Timeout or Error
 2026-09-18 05:50,Search,OK,0.979,"[{""type"":""video"" ""title"":""DER GROßE LUFTGEWEHR TEST STARTET! Fritz und Mattin auf dem Schießstand! 💥"
 2026-09-18 05:50,Channel,Failed,0.404,Timeout or Error
@@ -769,3 +764,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-10-18 01:47,Channel,Failed,0.418,Timeout or Error
 2026-10-18 01:47,Comments,OK,0.722,"{""commentCount"":10641737 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-10-18 01:47,Playlist,Failed,0.468,Timeout or Error
+2026-10-18 03:58,Video,Failed,0.464,Timeout or Error
+2026-10-18 03:58,Search,OK,1.089,"[{""type"":""video"" ""title"":""TOP 5 Saugroboter 2026 | TEST | Von 150€ bis 1.500€"" ""videoId"":""9slCiATqG8"
+2026-10-18 03:58,Channel,Failed,0.427,Timeout or Error
+2026-10-18 03:58,Comments,OK,0.682,"{""commentCount"":10641849 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-10-18 03:58,Playlist,Failed,0.409,Timeout or Error
