@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-09-18 08:19,Video,Failed,0.779,Timeout or Error
-2026-09-18 08:19,Search,Failed,1.541,Timeout or Error
-2026-09-18 08:19,Channel,OK,0.622,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
-2026-09-18 08:19,Comments,OK,0.945,"{""commentCount"":10624404 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-09-18 08:19,Playlist,OK,0.848,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-09-18 11:42,Video,OK,0.41,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-09-18 11:42,Search,Failed,1.521,Timeout or Error
 2026-09-18 11:42,Channel,OK,0.487,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
@@ -769,3 +764,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-10-18 06:20,Channel,OK,1.013,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
 2026-10-18 06:20,Comments,OK,0.618,"{""commentCount"":10641248 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-10-18 06:20,Playlist,Failed,0.384,Timeout or Error
+2026-10-18 08:42,Video,Failed,0.452,Timeout or Error
+2026-10-18 08:42,Search,OK,0.292,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-10-18 08:42,Channel,Failed,0.49,Timeout or Error
+2026-10-18 08:42,Comments,OK,0.433,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-10-18 08:42,Playlist,OK,0.153,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
