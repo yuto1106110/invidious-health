@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-09-18 21:35,Video,Failed,0.546,Timeout or Error
-2026-09-18 21:35,Search,OK,1.144,"[{""type"":""video"" ""title"":""Momox  Bookbot & Thalia im Test: Gebrauchte Bücher verkaufen | SUPER.MARKT"
-2026-09-18 21:35,Channel,Failed,0.554,Timeout or Error
-2026-09-18 21:35,Comments,OK,0.887,"{""commentCount"":10624832 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-09-18 21:35,Playlist,Failed,0.514,Timeout or Error
 2026-09-19 01:52,Video,Failed,0.392,Timeout or Error
 2026-09-19 01:52,Search,OK,0.95,"[{""type"":""video"" ""title"":""Husqvarna Svartpilen 401 | Test (deutsch)"" ""videoId"":""ZiqGaqVdzX8"" ""author"
 2026-09-19 01:52,Channel,Failed,0.332,Timeout or Error
@@ -774,3 +769,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-10-18 21:22,Channel,Failed,0.472,Timeout or Error
 2026-10-18 21:22,Comments,OK,0.765,"{""commentCount"":10641632 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-10-18 21:22,Playlist,Failed,0.472,Timeout or Error
+2026-10-19 01:18,Video,Failed,0.382,Timeout or Error
+2026-10-19 01:18,Search,OK,1.09,"[{""type"":""video"" ""title"":""Leapmotor B03X on a long-distance trip: 800 km highway test"" ""videoId"":""Hf"
+2026-10-19 01:18,Channel,Failed,0.331,Timeout or Error
+2026-10-19 01:18,Comments,OK,0.479,"{""commentCount"":10641698 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-10-19 01:18,Playlist,Failed,0.337,Timeout or Error
