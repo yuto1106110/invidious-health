@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-09-19 09:52,Video,Failed,0.457,Timeout or Error
-2026-09-19 09:52,Search,OK,0.881,"[{""type"":""video"" ""title"":""Husqvarna Svartpilen 401 | Test (deutsch)"" ""videoId"":""ZiqGaqVdzX8"" ""author"
-2026-09-19 09:52,Channel,Failed,0.484,Timeout or Error
-2026-09-19 09:52,Comments,OK,0.638,"{""commentCount"":10625157 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-09-19 09:52,Playlist,Failed,0.486,Timeout or Error
-2026-09-19 14:24,Video,Failed,0.297,Timeout or Error
-2026-09-19 14:24,Search,OK,0.81,"[{""type"":""video"" ""title"":""Husqvarna Svartpilen 401 | Test (deutsch)"" ""videoId"":""ZiqGaqVdzX8"" ""author"
-2026-09-19 14:24,Channel,Failed,0.337,Timeout or Error
-2026-09-19 14:24,Comments,OK,0.542,"{""commentCount"":10625273 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-09-19 14:24,Playlist,Failed,0.327,Timeout or Error
 2026-09-19 19:07,Video,Failed,0.461,Timeout or Error
 2026-09-19 19:07,Search,OK,1.022,"[{""type"":""video"" ""title"":""Husqvarna Svartpilen 401 | Test (deutsch)"" ""videoId"":""ZiqGaqVdzX8"" ""author"
 2026-09-19 19:07,Channel,Failed,0.45,Timeout or Error
@@ -774,3 +764,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-10-19 09:41,Channel,Failed,0.451,Timeout or Error
 2026-10-19 09:41,Comments,OK,0.621,"{""commentCount"":10642020 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-10-19 09:41,Playlist,Failed,0.447,Timeout or Error
+2026-10-19 14:35,Video,Failed,0.46,Timeout or Error
+2026-10-19 14:35,Search,OK,0.871,"[{""type"":""video"" ""title"":""Leapmotor B03X on a long-distance trip: 800 km highway test"" ""videoId"":""Hf"
+2026-10-19 14:35,Channel,Failed,0.498,Timeout or Error
+2026-10-19 14:35,Comments,OK,0.661,"{""commentCount"":10642106 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-10-19 14:35,Playlist,Failed,0.484,Timeout or Error

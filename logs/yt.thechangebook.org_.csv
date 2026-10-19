@@ -1,14 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-09-19 09:52,Video,Failed,0.814,Timeout or Error
-2026-09-19 09:52,Search,OK,1.101,"[{""type"":""video"" ""title"":""50 QUESTIONS pour TESTER TON SAVOIR 🧠🤯 | Quiz Culture Générale"" ""videoId"":"
-2026-09-19 09:52,Channel,Failed,0.497,Timeout or Error
-2026-09-19 09:52,Comments,Failed,0.828,Timeout or Error
-2026-09-19 09:52,Playlist,Failed,0.512,Timeout or Error
-2026-09-19 14:24,Video,Failed,0.551,Timeout or Error
-2026-09-19 14:24,Search,OK,0.92,"[{""type"":""video"" ""title"":""Xiaomi vient de sortir un iPhone 18 Pro  mais en mieux (Test Poco F9 Ultra"
-2026-09-19 14:24,Channel,Failed,0.643,Timeout or Error
-2026-09-19 14:24,Comments,Failed,0.738,Timeout or Error
-2026-09-19 14:24,Playlist,Failed,0.658,Timeout or Error
 2026-09-19 19:07,Video,Failed,0.476,Timeout or Error
 2026-09-19 19:07,Search,OK,1.286,"[{""type"":""video"" ""title"":""50 QUESTIONS pour TESTER TON SAVOIR 🧠🤯 | Quiz Culture Générale"" ""videoId"":"
 2026-09-19 19:07,Channel,Failed,0.462,Timeout or Error
@@ -774,3 +764,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-10-19 09:41,Channel,Failed,0.389,Timeout or Error
 2026-10-19 09:41,Comments,Failed,0.404,Timeout or Error
 2026-10-19 09:41,Playlist,Failed,0.385,Timeout or Error
+2026-10-19 14:35,Video,Failed,0.452,Timeout or Error
+2026-10-19 14:35,Search,Failed,0.599,Timeout or Error
+2026-10-19 14:35,Channel,Failed,0.793,Timeout or Error
+2026-10-19 14:35,Comments,Failed,0.753,Timeout or Error
+2026-10-19 14:35,Playlist,Failed,0.452,Timeout or Error
