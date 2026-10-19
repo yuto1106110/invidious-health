@@ -769,3 +769,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-10-19 07:09,Channel,Failed,1.36,Timeout or Error
 2026-10-19 07:09,Comments,Failed,0.603,Timeout or Error
 2026-10-19 07:09,Playlist,Failed,0.249,Timeout or Error
+2026-10-19 09:41,Video,OK,1.024,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-10-19 09:41,Search,OK,1.366,"[{""type"":""video"" ""title"":""Mock Test In Her Car... No Brake on My Side 😬"" ""videoId"":""BQy7lKBdfhw"" ""au"
+2026-10-19 09:41,Channel,Failed,0.812,Timeout or Error
+2026-10-19 09:41,Comments,OK,0.463,"<!doctype html><meta charset=utf-8><meta content=""width=device-width initial-scale=1.0"" name=viewpor"
+2026-10-19 09:41,Playlist,Failed,1.572,Timeout or Error
