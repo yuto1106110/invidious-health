@@ -1,9 +1,4 @@
 Timestamp,Category,Status,ResponseTime,RawData
-2026-09-19 19:07,Video,Failed,0.461,Timeout or Error
-2026-09-19 19:07,Search,OK,1.022,"[{""type"":""video"" ""title"":""Husqvarna Svartpilen 401 | Test (deutsch)"" ""videoId"":""ZiqGaqVdzX8"" ""author"
-2026-09-19 19:07,Channel,Failed,0.45,Timeout or Error
-2026-09-19 19:07,Comments,OK,0.729,"{""commentCount"":10625609 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
-2026-09-19 19:07,Playlist,Failed,0.454,Timeout or Error
 2026-09-19 23:06,Video,Failed,0.506,Timeout or Error
 2026-09-19 23:06,Search,OK,1.239,"[{""type"":""video"" ""title"":""Husqvarna Svartpilen 401 | Test (deutsch)"" ""videoId"":""ZiqGaqVdzX8"" ""author"
 2026-09-19 23:06,Channel,Failed,0.514,Timeout or Error
@@ -769,3 +764,8 @@ Timestamp,Category,Status,ResponseTime,RawData
 2026-10-19 14:35,Channel,Failed,0.498,Timeout or Error
 2026-10-19 14:35,Comments,OK,0.661,"{""commentCount"":10642106 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
 2026-10-19 14:35,Playlist,Failed,0.484,Timeout or Error
+2026-10-19 20:49,Video,Failed,0.411,Timeout or Error
+2026-10-19 20:49,Search,OK,1.1,"[{""type"":""video"" ""title"":""New VW ID. Polo Review: What it’s REALLY capable of! 😱 | auto mobil"" ""vide"
+2026-10-19 20:49,Channel,Failed,0.396,Timeout or Error
+2026-10-19 20:49,Comments,OK,0.625,"{""commentCount"":10642148 ""videoId"":""jNQXAC9IVRw"" ""comments"":[{""authorId"":""UCC5NfQ6Mf0dq_eEwv4P_hWA"" "
+2026-10-19 20:49,Playlist,Failed,0.384,Timeout or Error
